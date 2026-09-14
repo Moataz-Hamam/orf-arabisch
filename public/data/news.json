@@ -4,8 +4,41 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-14T20:45:52.928Z",
+  "updatedAt": "2026-09-14T23:53:38.754Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442141/",
+      "title": "Warnung, Werbung und Wettrüsten",
+      "titleAr": "تحذير، إعلانات وتنافس تسليحي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442141/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-14T23:47:09+02:00",
+      "description": "Die Aufrufe von KI-Tech-Bossen in den USA vom Wochenende, die Entwicklung von künstlicher Intelligenz (KI) zu verlangsamen, sorgen weiter für Debatten. Expertinnen und Experten sind gespalten: Für die einen sind die Warnungen extrem ernst zu nehmen, die anderen sehen vor allem kommerzielle Interessen. Der Diskurs erinnert nicht nur an das Wettrüsten aus der Zeit des Kalten Krieges."
+    },
+    {
+      "id": "https://orf.at/stories/3442192/",
+      "title": "Brand auf Öltanker: US-Militär widerspricht Iran",
+      "titleAr": "حريق على ناقلة نفط: الجيش الأمريكي يرفض إيران",
+      "translated": true,
+      "link": "https://orf.at/stories/3442192/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-14T23:27:25+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442191/",
+      "title": "Frist für Verlängerung von Russland-Sanktionen verschoben",
+      "titleAr": "تم تأجيل تمديد عقوبات روسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442191/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-14T23:04:04+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442190/",
       "title": "Druck auf Teheran: USA sanktionieren russische Bank",
