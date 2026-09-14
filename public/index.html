@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>نافذة فيينا — أخبار النمسا بالعربية</title>
+    <meta
+      name="description"
+      content="عناوين أخبار النمسا من ORF، بصياغة عربية صحفية. نافذة يومية على فيينا والعالم."
+    />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="flag" aria-hidden="true"></div>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="masthead">
+      <div class="masthead__meta">
+        <span class="mark">WIEN</span>
+        <time id="masthead-date"></time>
+        <span class="mark">ORF</span>
+      </div>
+      <h1 class="masthead__title">نافذة فيينا</h1>
+      <p class="masthead__lede">
+        أخبار النمسا كما تُكتب في صحيفة عربية — لا ترجمة آلية حرفية، بل صياغة
+        صحفية انطلاقاً من تغطية
+        <a href="https://orf.at/" rel="noopener noreferrer">ORF</a>.
+      </p>
+    </header>
+
+    <nav class="filters" aria-label="تصفية حسب الفئة">
+      <div id="filters" class="filters__row"></div>
+      <p class="filters__stamp">
+        آخر تحديث:
+        <time id="updated-at">—</time>
+      </p>
+    </nav>
+
+    <main>
+      <p id="status" class="status" hidden></p>
+      <section id="lead" class="lead" hidden></section>
+      <section id="grid" class="grid" aria-live="polite"></section>
+    </main>
+
+    <footer class="colophon">
+      <p>
+        المصدر الأصلي للنصوص الألمانية:
+        <a href="https://rss.orf.at/news.xml">rss.orf.at/news.xml</a>
+        · العناوين العربية صياغة تحريرية مستقلة · ليست موقعاً رسمياً للـ ORF
+      </p>
+    </footer>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

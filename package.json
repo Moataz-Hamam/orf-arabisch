@@ -1,0 +1,14 @@
+{
+  "name": "orf-arabisch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Österreichische ORF-Nachrichten, journalistisch ins Arabische übersetzt",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-and-translate.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
