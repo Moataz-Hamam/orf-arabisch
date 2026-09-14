@@ -4,8 +4,19 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-14T20:10:24.698Z",
+  "updatedAt": "2026-09-14T20:45:52.928Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442190/",
+      "title": "Druck auf Teheran: USA sanktionieren russische Bank",
+      "titleAr": "ضغط على طهران: الولايات المتحدة تحظر بنكًا روسيًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442190/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-14T22:39:11+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442189/",
       "title": "Ungarns Regierung will umstrittenes LGBTQ-Gesetz ändern",
@@ -236,17 +247,6 @@
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-14T14:07:33+02:00",
       "description": "Die Debatte über die Nutzung von E-Mopeds im Straßenverkehr reißt nicht ab: Ab Anfang Oktober gelten neue Regeln, darunter etwa ein Fahrverbot auf Radwegen und eine Helmpflicht für Lenkerinnen und Lenker. Verkehrsminister Peter Hanke (SPÖ) sprach am Montag in einer Aussendung von einem „gewaltigen Schritt für die Verkehrssicherheit“. Der ÖAMTC dagegen warnte, die neuen Regeln kämen „für Tausende bisher legale Fahrzeuge faktisch einem Verbot gleich“."
-    },
-    {
-      "id": "https://orf.at/stories/3442136/",
-      "title": "Studie bekräftigt Nutzen von Frauenquote in Aufsichtsräten",
-      "titleAr": "دراسة تؤكد جدوى حصص النساء في مجالس الإدارة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442136/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-14T13:32:31+02:00",
-      "description": ""
     }
   ]
 }
