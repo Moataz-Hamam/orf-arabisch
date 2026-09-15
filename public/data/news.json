@@ -4,8 +4,96 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-15T17:07:12.475Z",
+  "updatedAt": "2026-09-15T21:28:52.141Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442291/",
+      "title": "Kennedy Center wird geschlossen",
+      "titleAr": "مركز كينيدي يُغلق",
+      "translated": true,
+      "link": "https://orf.at/stories/3442291/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T22:32:23+02:00",
+      "description": "Das renommierte Kennedy Center in Washington steht vor dem Aus. Laut US-Präsident Donald Trump wird Washingtons größte öffentliche Kultureinrichtung umgehend geschlossen. Grund dafür seien Sicherheitsbedenken und die Notwendigkeit „sehr umfangreicher und komplexer“ Renovierungsarbeiten. Trump war zuvor daran gescheitert, seinen Namen an der Fassade des Hauses anzubringen."
+    },
+    {
+      "id": "https://orf.at/stories/3442292/",
+      "title": "Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
+      "titleAr": "بيستوريوس وهغسيت يوقعان اتفاقية عسكرية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442292/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T22:26:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442290/",
+      "title": "Trump kündigt sofortige Schließung des Kennedy Centers an",
+      "titleAr": "ترامب يعلن إغلاق فوري لمركز كينيدي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442290/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T21:34:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442222/",
+      "title": "U-Ausschuss geht mit hoher Politik weiter",
+      "titleAr": "اللجنة العليا للسياسة تستمر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442222/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-15T20:58:17+02:00",
+      "description": "Nach der Sommerpause nimmt der Untersuchungsausschuss zur Causa Christian Pilnacek am Mittwoch und Donnerstag seine Arbeit wieder auf. Nach Polizeibeamten und Rechtsmedizinern fokussiert sich die ladende FPÖ nun auf die Politik: Zunächst werden Ex-Justizministerin Alma Zadic (Grüne) und ihre Nachfolgerin Anna Sporrer (SPÖ) befragt, danach folgen weitere Politiker. Einer aber fehlt weiter auf der Ladungsliste."
+    },
+    {
+      "id": "https://orf.at/stories/3442288/",
+      "title": "Merz sagt Reise zu UNO-Generaldebatte nach New York ab",
+      "titleAr": "ميرز يرفض سفره إلى مناقشة الأمم المتحدة في نيويورك",
+      "translated": true,
+      "link": "https://orf.at/stories/3442288/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T20:54:12+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442285/",
+      "title": "Bildungssprecher von ÖVP und SPÖ zu Gast",
+      "titleAr": "متحدثي التعليم من ÖVP وSPÖ في الحضور",
+      "translated": true,
+      "link": "https://orf.at/stories/3442285/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-15T19:40:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442284/",
+      "title": "USA: Saudi-arabische Ölpipeline bald wieder in Betrieb",
+      "titleAr": "الولايات المتحدة: أنبوب النفط السعودي-العربي قريب من التشغيل مجددًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442284/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T19:23:01+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442283/",
+      "title": "Ehrenpreis des Österreichischen Buchhandels für Dacia Maraini",
+      "titleAr": "جائزة شرف مكتبة النمسا لداشيا ماراي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442283/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-15T19:17:53+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442282/",
       "title": "IStGH-Anhörung: Duterte laut Anwälten nicht verhandlungsfähig",
@@ -158,61 +246,6 @@
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-15T12:54:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442227/",
-      "title": "USA kippen zentrale Klimaschutzregeln",
-      "titleAr": "الولايات المتحدة تُقلب القواعد المركزية لحماية المناخ",
-      "translated": true,
-      "link": "https://orf.at/stories/3442227/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-15T12:09:29+02:00",
-      "description": "Die US-Umweltbehörde EPA hat am Montag zentrale Vorschriften zur Begrenzung klimaschädlicher Treibhausgasemissionen von Kohle- und Gaskraftwerken aufgehoben. Man wolle die „US-amerikanische Energie schützen“, so das Argument. Die Umweltbehörde folgt damit einmal mehr dem Anti-Klimaschutz-Kurs von US-Präsident Donald Trump. Scharfe Kritik kam von Umweltorganisationen."
-    },
-    {
-      "id": "https://orf.at/stories/3442235/",
-      "title": "WTO warnt vor Milliardenverlusten durch Handelsblockbildung",
-      "titleAr": "منظمة التجارة العالمية تحذر من خسائر مليارات بسبب تشكيل كتل تجارية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442235/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-15T12:02:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442232/",
-      "title": "Weltgrößte private Sammlung zeigt 88 Werke von Van Gogh",
-      "titleAr": "أكبر مجموعة خاصة في العالم تُعرض 88 عملًا لفان جوخ",
-      "translated": true,
-      "link": "https://orf.at/stories/3442232/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-15T11:45:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442225/",
-      "title": "Japan zählt erstmals mehr als 100.000 Hundertjährige",
-      "titleAr": "اليابان تُحسب لأول مرة أكثر من 100 ألف شخص مئة عام",
-      "translated": true,
-      "link": "https://orf.at/stories/3442225/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-15T10:49:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442224/",
-      "title": "Iran erstellt Webportal zur Meldung von Kritikern im Ausland",
-      "titleAr": "إيران يُنشئ بوابة إلكترونية للإبلاغ عن النقاد في الخارج",
-      "translated": true,
-      "link": "https://orf.at/stories/3442224/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-15T10:45:31+02:00",
       "description": ""
     }
   ]
