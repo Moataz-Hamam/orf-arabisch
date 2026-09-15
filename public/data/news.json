@@ -4,8 +4,74 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-14T23:53:38.754Z",
+  "updatedAt": "2026-09-15T05:01:51.118Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442199/",
+      "title": "Verletzte nach Huthi-Angriff in Saudi-Arabien",
+      "titleAr": "جرحى بعد هجوم الحوثيين في السعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442199/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T06:45:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442198/",
+      "title": "Kampfflugzeuge schießen Drohne über Litauen ab",
+      "titleAr": "طائرات قتالية تطلق طائرة بدون طيار فوق ليتوانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442198/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T06:29:56+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442197/",
+      "title": "„Free Palestine“: Macklemore von Ed-Sheeran-Tour ausgeschlossen",
+      "titleAr": "„Free Palestine“: Macklemore von Ed-Sheeran-Tour ausgeschlossen",
+      "translated": false,
+      "link": "https://orf.at/stories/3442197/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-15T06:24:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442196/",
+      "title": "„Widow’s Bay“ und „The Pitt“ räumen bei Emmys ab",
+      "titleAr": "«ويدز باي» و«ذا بيت» يحققان فوزاً في جوائز إيمي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442196/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-15T06:17:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442118/",
+      "title": "In Russland geht die Angst um",
+      "titleAr": "في روسيا يختفي الخوف",
+      "translated": true,
+      "link": "https://orf.at/stories/3442118/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T06:12:59+02:00",
+      "description": "In Russland halten sich hartnäckig Gerüchte, wonach es heuer eine Mobilmachung für den Angriffskrieg in der Ukraine geben könnte. Zugleich zeigen Umfragen eine angespannte Stimmung im Land. Welchen Anteil die Gerüchte daran haben, ist nicht zu beziffern. Jedenfalls tragen ukrainische Drohnenangriffe den Krieg in den russischen Alltag – am Montag wurde etwa die Schwarzmeer-Stadt Sotschi angegriffen. Parallel zu all diesen Entwicklungen gibt es Hinweise darauf, dass Russen das Land verlassen bzw. eine Ausreise erwägen."
+    },
+    {
+      "id": "https://orf.at/stories/3442194/",
+      "title": "Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
+      "titleAr": "نزاع حول التصويت بالبريد: هزيمة ترامب أمام المحكمة العليا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442194/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T04:38:59+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442141/",
       "title": "Warnung, Werbung und Wettrüsten",
@@ -162,8 +228,8 @@
     },
     {
       "id": "https://orf.at/stories/3442170/",
-      "title": "Berichte: US-Regierung will Klimaschutz weiter zurückfahren",
-      "titleAr": "تقارير: واشنطن تعتزم مزيداً من التراجع عن حماية المناخ",
+      "title": "US-Regierung kippt Klimaregeln für Kohle- und Gaskraftwerke",
+      "titleAr": "الحكومة الأمريكية تُحذف قواعد المناخ لمحطات الفحم والغاز",
       "translated": true,
       "link": "https://orf.at/stories/3442170/",
       "category": "Ausland",
@@ -247,39 +313,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-09-14T15:35:32+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442147/",
-      "title": "Ätna: Flughafen Catania wegen Aschewolke gesperrt",
-      "titleAr": "إتنا: إغلاق مطار كاتانيا بسبب سحابة الرماد",
-      "translated": true,
-      "link": "https://orf.at/stories/3442147/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-14T14:50:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442143/",
-      "title": "Großproteste in Syrien wegen hoher Treibstoffpreise",
-      "titleAr": "احتجاجات واسعة في سوريا رفضاً لارتفاع أسعار الوقود",
-      "translated": true,
-      "link": "https://orf.at/stories/3442143/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-14T14:07:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442119/",
-      "title": "ÖAMTC warnt vor „faktischem Verbot“",
-      "titleAr": "نادي السيارات النمساوي يحذّر من «حظر فعلي» للدراجات الكهربائية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442119/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-14T14:07:33+02:00",
-      "description": "Die Debatte über die Nutzung von E-Mopeds im Straßenverkehr reißt nicht ab: Ab Anfang Oktober gelten neue Regeln, darunter etwa ein Fahrverbot auf Radwegen und eine Helmpflicht für Lenkerinnen und Lenker. Verkehrsminister Peter Hanke (SPÖ) sprach am Montag in einer Aussendung von einem „gewaltigen Schritt für die Verkehrssicherheit“. Der ÖAMTC dagegen warnte, die neuen Regeln kämen „für Tausende bisher legale Fahrzeuge faktisch einem Verbot gleich“."
     }
   ]
 }
