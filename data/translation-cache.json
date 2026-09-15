@@ -148,8 +148,8 @@
     "titleAr": "تم تأجيل تمديد عقوبات روسيا"
   },
   "https://orf.at/stories/3442199/": {
-    "sourceTitle": "Verletzte nach Huthi-Angriff in Saudi-Arabien",
-    "titleAr": "جرحى بعد هجوم الحوثيين في السعودية"
+    "sourceTitle": "Verletzte nach Huthi-Angriff auf Saudi-Arabien",
+    "titleAr": "جرحى بعد هجوم الحوثيين على السعودية"
   },
   "https://orf.at/stories/3442198/": {
     "sourceTitle": "Kampfflugzeuge schießen Drohne über Litauen ab",
@@ -164,7 +164,83 @@
     "titleAr": "في روسيا يختفي الخوف"
   },
   "https://orf.at/stories/3442194/": {
-    "sourceTitle": "Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
-    "titleAr": "نزاع حول التصويت بالبريد: هزيمة ترامب أمام المحكمة العليا"
+    "sourceTitle": "Briefwahl: Niederlage für Trump vor Supreme Court",
+    "titleAr": "الانتخابات البريدية: هزيمة ترامب أمام المحكمة العليا"
+  },
+  "https://orf.at/stories/3442245/": {
+    "sourceTitle": "Stocker erneuert Kritik an EU-Mehrjahresbudget",
+    "titleAr": "ستوكير يكرر انتقاداته للميزانية الأوروبية المتعددة السنوات"
+  },
+  "https://orf.at/stories/3442242/": {
+    "sourceTitle": "Totschnig erwartet starken Rückgang bei Einkommen der Bauern",
+    "titleAr": "توتشنيغ يتوقع انخفاضًا حادًا في دخل المزارعين"
+  },
+  "https://orf.at/stories/3442227/": {
+    "sourceTitle": "USA kippen zentrale Klimaschutzregeln",
+    "titleAr": "الولايات المتحدة تُقلب القواعد المركزية لحماية المناخ"
+  },
+  "https://orf.at/stories/3442235/": {
+    "sourceTitle": "WTO warnt vor Milliardenverlusten durch Handelsblockbildung",
+    "titleAr": "منظمة التجارة العالمية تحذر من خسائر مليارات بسبب تشكيل كتل تجارية"
+  },
+  "https://orf.at/stories/3442232/": {
+    "sourceTitle": "Weltgrößte private Sammlung zeigt 88 Werke von Van Gogh",
+    "titleAr": "أكبر مجموعة خاصة في العالم تُعرض 88 عملًا لفان جوخ"
+  },
+  "https://orf.at/stories/3442225/": {
+    "sourceTitle": "Japan zählt erstmals mehr als 100.000 Hundertjährige",
+    "titleAr": "اليابان تُحسب لأول مرة أكثر من 100 ألف شخص مئة عام"
+  },
+  "https://orf.at/stories/3442224/": {
+    "sourceTitle": "Iran erstellt Webportal zur Meldung von Kritikern im Ausland",
+    "titleAr": "إيران يُنشئ بوابة إلكترونية للإبلاغ عن النقاد في الخارج"
+  },
+  "https://orf.at/stories/3442223/": {
+    "sourceTitle": "Österreich bei EU-Lohntransparenzrichtlinie säumig",
+    "titleAr": "النمسا متخلفة عن توجيه شفافية الأجور في الاتحاد الأوروبي"
+  },
+  "https://orf.at/stories/3442221/": {
+    "sourceTitle": "China verschärft Kontrolle über Auslandsreisen",
+    "titleAr": "الصين تُشدد الرقابة على السفر إلى الخارج"
+  },
+  "https://orf.at/stories/3442220/": {
+    "sourceTitle": "Sabotageverdacht nach Zugsausfällen in Niederlanden",
+    "titleAr": "شبهة التخريب بعد انقطاعات القطارات في هولندا"
+  },
+  "https://orf.at/stories/3442219/": {
+    "sourceTitle": "Hass im Netz nimmt laut Statistik zu",
+    "titleAr": "الكراهية على الإنترنت تتصاعد حسب الإحصاءات"
+  },
+  "https://orf.at/stories/3442216/": {
+    "sourceTitle": "Mitch McConnell zurück im US-Senat",
+    "titleAr": "مِتش ماككونيل يعود إلى مجلس الشيوخ"
+  },
+  "https://orf.at/stories/3442211/": {
+    "sourceTitle": "US-Militär räumt Munitionsknappheit wegen Iran-Krieges ein",
+    "titleAr": "الجيش الأمريكي يقر بنقص الأسلحة بسبب حرب إيران"
+  },
+  "https://orf.at/stories/3442209/": {
+    "sourceTitle": "Adoptivsohn Brad Pitts legt Namen des Vaters ab",
+    "titleAr": "براد بيتس يُعلن اسم والده"
+  },
+  "https://orf.at/stories/3442208/": {
+    "sourceTitle": "Ätna legt erneut sizilianischen Flughafen lahm",
+    "titleAr": "أتنا يوقف مطار صقلية مجددًا"
+  },
+  "https://orf.at/stories/3442204/": {
+    "sourceTitle": "„Widow’s Bay“ räumt bei Emmys ab",
+    "titleAr": "«ويدز باي» تُحصد جوائز إيمي"
+  },
+  "https://orf.at/stories/3442205/": {
+    "sourceTitle": "Trumps Sohn bestätigt Hochzeitsgeschenk aus Russland",
+    "titleAr": "ابن ترامب يؤكد هدية زفاف من روسيا"
+  },
+  "https://orf.at/stories/3442201/": {
+    "sourceTitle": "USA bestätigen Stationierung von Waffen im All",
+    "titleAr": "الولايات المتحدة تؤكد وضع أسلحة في الفضاء"
+  },
+  "https://orf.at/stories/3442197/": {
+    "sourceTitle": "„Free Palestine“: Macklemore von Sheeran-Tour ausgeschlossen",
+    "titleAr": "«فري فلسطين»: ماكلوم يُستبعد من جولة شيران"
   }
 }
