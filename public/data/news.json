@@ -4,8 +4,107 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-16T17:07:08.411Z",
+  "updatedAt": "2026-09-16T21:24:51.354Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442394/",
+      "title": "Huthis: 40 saudische Luftangriffe binnen 24 Stunden im Jemen",
+      "titleAr": "الهاوثي: 40 هجوم جوّي سعودي في اليمن خلال 24 ساعة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442394/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T22:40:40+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442391/",
+      "title": "SVT: Schwedens Mitte-links-Opposition gewinnt Wahl",
+      "titleAr": "السويد: المعارضة اليسارية المتوسطة تفوز بالانتخابات",
+      "translated": true,
+      "link": "https://orf.at/stories/3442391/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T20:51:55+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442390/",
+      "title": "Erstes Kind für US-Schauspielerin Lena Dunham",
+      "titleAr": "لينا دنهم: أول طفل للممثلة الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442390/",
+      "category": "Leute",
+      "categoryAr": "Leute",
+      "publishedAt": "2026-09-16T20:49:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442389/",
+      "title": "Guterres ruft zu internationaler Koordination bei KI auf",
+      "titleAr": "غوتيرس يدعو إلى تنسيق دولي في مجال الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442389/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-16T20:41:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442370/",
+      "title": "Fed hebt Zinssatz erstmals seit 2023 an",
+      "titleAr": "الـFed يرفع سعر الفائدة لأول مرة منذ 2023",
+      "translated": true,
+      "link": "https://orf.at/stories/3442370/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-16T20:28:17+02:00",
+      "description": "Die US-Notenbank Federal Reserve (Fed) hebt wegen der hartnäckig hohen Inflation erstmals seit Sommer 2023 den Leitzins an. Dieser steigt um 0,25 Prozentpunkte auf 3,75 bis 4,00 Prozent, wie der Fed-Zentralbankrat am Mittwoch mitteilte. Notenbankchef Kevin Warsh gerät damit auf Konfrontationskurs mit Präsident Donald Trump."
+    },
+    {
+      "id": "https://orf.at/stories/3442388/",
+      "title": "Vor Hegseth-Beratung: US-Repräsentantenhaus zieht Ferien vor",
+      "titleAr": "قبل استشارة هيجسيت: مجلس النواب الأمريكي يفضّل الإجازة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442388/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T20:23:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442386/",
+      "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "titleAr": "البنك المركزي الأمريكي يرفع سعر الفائدة الأساسي لأول مرة منذ 2023",
+      "translated": true,
+      "link": "https://orf.at/stories/3442386/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T20:04:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442384/",
+      "title": "Reaktor in Temelin außerplanmäßig abgeschaltet",
+      "titleAr": "محطة تميلين النووية تُوقف غير مخطط لها",
+      "translated": true,
+      "link": "https://orf.at/stories/3442384/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-16T19:48:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442383/",
+      "title": "Volksanwältin Gaby Schwarz im Studio",
+      "titleAr": "المدعية العامة غابي شوارز في الاستوديو",
+      "translated": true,
+      "link": "https://orf.at/stories/3442383/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-16T19:45:11+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442381/",
       "title": "Lager von Selenskyjs Medienfirma bei Dohnenangriff zerstört",
@@ -30,8 +129,8 @@
     },
     {
       "id": "https://orf.at/stories/3442379/",
-      "title": "Die Gewinnzahlen bei Lotto „6 aus 45“",
-      "titleAr": "أرقام الفوز في لوتو 6 من 45",
+      "title": "Ein Sechser bei Lotto „6 aus 45“",
+      "titleAr": "سحب فائز برقم ستة في لوتو 6 من 45",
       "translated": true,
       "link": "https://orf.at/stories/3442379/",
       "category": "cLotto",
@@ -64,8 +163,8 @@
     {
       "id": "https://orf.at/stories/3442376/",
       "title": "Italien schafft Kfz-Steuer für Kleinwagen und Motorräder ab",
-      "titleAr": "Italien schafft Kfz-Steuer für Kleinwagen und Motorräder ab",
-      "translated": false,
+      "titleAr": "إيطاليا تفرض ضريبة على السيارات الصغيرة والدراجات النارية",
+      "translated": true,
       "link": "https://orf.at/stories/3442376/",
       "category": "Ausland",
       "categoryAr": "العالم",
@@ -75,8 +174,8 @@
     {
       "id": "https://orf.at/stories/3442332/",
       "title": "Das Geschäft mit der Nebensaison läuft",
-      "titleAr": "Das Geschäft mit der Nebensaison läuft",
-      "translated": false,
+      "titleAr": "العمل في الموسم الثاني يسير",
+      "translated": true,
       "link": "https://orf.at/stories/3442332/",
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
@@ -86,8 +185,8 @@
     {
       "id": "https://orf.at/stories/3442369/",
       "title": "Nolans „Odyssee“ erfolgreichster IMAX-Titel in Österreich",
-      "titleAr": "Nolans „Odyssee“ erfolgreichster IMAX-Titel in Österreich",
-      "translated": false,
+      "titleAr": "أوديسة نولان تُصبح أكثر فيلم IMAX نجاحاً في النمسا",
+      "translated": true,
       "link": "https://orf.at/stories/3442369/",
       "category": "Kultur",
       "categoryAr": "ثقافة",
@@ -97,8 +196,8 @@
     {
       "id": "https://orf.at/stories/3442365/",
       "title": "WKStA-Vertreter wird in Pilnacek-U-Ausschuss befragt",
-      "titleAr": "WKStA-Vertreter wird in Pilnacek-U-Ausschuss befragt",
-      "translated": false,
+      "titleAr": "ممثل WKStA يُستجوب في لجنة بيليانسك-يو",
+      "translated": true,
       "link": "https://orf.at/stories/3442365/",
       "category": "Inland",
       "categoryAr": "النمسا",
@@ -108,8 +207,8 @@
     {
       "id": "https://orf.at/stories/3442367/",
       "title": "Russland fliegt Mitarbeiter von Generalkonsulat aus",
-      "titleAr": "Russland fliegt Mitarbeiter von Generalkonsulat aus",
-      "translated": false,
+      "titleAr": "روسيا تطرد موظفين من القنصلية العامة",
+      "translated": true,
       "link": "https://orf.at/stories/3442367/",
       "category": "Ausland",
       "categoryAr": "العالم",
@@ -180,94 +279,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-16T13:20:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442214/",
-      "title": "25 Jahre Haft für Ex-Präsident Thaci",
-      "titleAr": "25 سنة سجينة للمدير السابق ثاتشي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442214/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-16T12:28:42+02:00",
-      "description": "In erster Instanz ist Hashim Thaci, früherer Premier und Präsident des Kosovo, am Mittwoch wegen Kriegsverbrechen vom Kosovo-Sondergericht in Den Haag zu 25 Jahren Haft verurteilt worden. Das Urteil gegen den einstigen engen Partner des Westens war mit Spannung erwartet worden. Nach dem Urteil gab es vereinzelte Zusammenstöße zwischen der niederländischen Polizei und Anhängern und Anhängerinnen Thacis. In der kosovarischen Hauptstadt Prishtina gingen die Menschen aus Solidarität mit Thaci und den anderen drei Angeklagten auf die Straße."
-    },
-    {
-      "id": "https://orf.at/stories/3442340/",
-      "title": "WEF: 120 Jahre bis zur Geschlechtergleichheit",
-      "titleAr": "WEF: 120 سنة حتى المساواة بين الجنسين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442340/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-16T12:24:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442336/",
-      "title": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
-      "titleAr": "60 قتيل على الأقل في انهيار منجم ذهب بالسودان",
-      "translated": true,
-      "link": "https://orf.at/stories/3442336/",
-      "category": "News",
-      "categoryAr": "أخبار",
-      "publishedAt": "2026-09-16T11:38:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442321/",
-      "title": "„Assoziierte“ EU-Mitgliedschaft für Kanada",
-      "titleAr": "عضوية أوروبية 'مُتَعَاوِنة' لكندا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442321/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-16T11:35:20+02:00",
-      "description": "Die Präsidentin der Europäischen Kommission, Ursula von der Leyen, hat am Mittwoch im EU-Parlament ihre jährliche Rede zur Lage der EU gehalten. Darin skizzierte sie die wichtigsten Herausforderungen, vor denen die EU steht: vom Handelsdefizit mit China über den Kampf gegen den Klimawandel bis zum Umgang mit künstlicher Intelligenz. Der Ukraine sicherte die Kommissionspräsidentin weitreichende Unterstützung im Abwehrkampf gegen Russland zu. Zudem schlug sie vor, Kanada zum ersten assoziierten Mitglied der EU zu machen."
-    },
-    {
-      "id": "https://orf.at/stories/3442334/",
-      "title": "Coronavirus-Hilfen: 158,8 Mio. Euro zu Unrecht bezogen",
-      "titleAr": "مساعدات كورونا: 158.8 مليون يورو مستلمة غير شرعية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442334/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-16T11:28:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442333/",
-      "title": "CDU-Ministerpräsidenten stellen sich hinter Merz",
-      "titleAr": "رؤساء وزراء CDU يدعمون ميرز",
-      "translated": true,
-      "link": "https://orf.at/stories/3442333/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-16T11:11:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442331/",
-      "title": "Europas ältester Mann mit 112 Jahren gestorben",
-      "titleAr": "أقدم رجل في أوروبا توفي عن عمر يناهز 112 عامًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442331/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-16T11:00:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442318/",
-      "title": "Zadic wird in Pilnacek-U-Ausschuss befragt",
-      "titleAr": "زاديك يُسأل في لجنة بيلنايتش-أو",
-      "translated": true,
-      "link": "https://orf.at/stories/3442318/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-16T10:36:02+02:00",
       "description": ""
     }
   ]
