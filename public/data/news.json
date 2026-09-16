@@ -4,8 +4,118 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-15T21:28:52.141Z",
+  "updatedAt": "2026-09-16T04:57:07.868Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442302/",
+      "title": "TV-Hubschrauber in Los Angeles abgestürzt: Mehrere Tote",
+      "titleAr": "هليكوبتر تلفزيوني ينهار في لوس أنجلوس: عدة قتلى",
+      "translated": true,
+      "link": "https://orf.at/stories/3442302/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-16T06:50:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442301/",
+      "title": "Korruptionsprozess gegen Frankreichs Ex-Ministerin Dati",
+      "titleAr": "قضية فساد ضد سيدة فرنسا السابقة داتي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442301/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T06:39:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442300/",
+      "title": "US-Repräsentantenhaus stimmt erneut gegen Iran-Krieg",
+      "titleAr": "مجلس النواب الأمريكي يرفض الحرب مع إيران مرة أخرى",
+      "translated": true,
+      "link": "https://orf.at/stories/3442300/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T06:30:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442299/",
+      "title": "Selenkskyj meldet erfolgreichen Test von neuer Drohnenabwehr",
+      "titleAr": "سيلينسكي يعلن نجاح اختبار دفاع جديد ضد الطائرات بدون طيار",
+      "translated": true,
+      "link": "https://orf.at/stories/3442299/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T06:22:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442298/",
+      "title": "Greenpeace-Klimaticket-Ranking: Österreich auf Platz vier",
+      "titleAr": "تذاكر غرينبيس للبيئة: النمسا في المرتبة الرابعة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442298/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-16T06:15:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442297/",
+      "title": "Ozonloch über der Antarktis so klein wie selten seit 1990",
+      "titleAr": "ثقب الأوزون فوق القطب الجنوبي أصغر ما رُصد منذ 1990",
+      "translated": true,
+      "link": "https://orf.at/stories/3442297/",
+      "category": "Science",
+      "categoryAr": "Science",
+      "publishedAt": "2026-09-16T06:09:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442231/",
+      "title": "Spannung vor Fed-Zinsentscheid",
+      "titleAr": "توتر قبل قرار الفيدرالي الفائدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442231/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-16T06:05:37+02:00",
+      "description": "Für die US-Notenbank (Federal Reserve, Fed) steht am Mittwoch die Entscheidung über die weitere Vorgangsweise in ihrer Zinspolitik an. Beobachter verweisen auf die jüngsten Inflationszahlen und orten klare Vorzeichen für die erste Erhöhung des Leitzinses seit 2023. Ganz im Gegensatz dazu pocht US-Präsident Donald Trump weiter auf ein niedriges Zinsniveau. Fed-Chef Kevin Warsh befindet sich auf Kollisionskurs mit Trump."
+    },
+    {
+      "id": "https://orf.at/stories/3442296/",
+      "title": "Berichte über umfangreiche US-Waffenlieferung an Israel",
+      "titleAr": "تقارير عن توريد أسلحة أمريكية واسع النطاق لإسرائيل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442296/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-16T06:05:26+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442294/",
+      "title": "Erneut israelische Luftangriffe im Gazastreifen mit Toten",
+      "titleAr": "هجمات جوية إسرائيلية مرة أخرى في غزة تُسفر عن قتلى",
+      "translated": true,
+      "link": "https://orf.at/stories/3442294/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-15T23:55:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442286/",
+      "title": "Jemen-Krise belastet weiter Ölpreis",
+      "titleAr": "أزمة اليمن تواصل ضغط أسعار النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3442286/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-15T23:44:43+02:00",
+      "description": "Der Ölpreis legt weiter zu. Für ein Barrel (159 Liter) Rohöl der Nordseesorte Brent wurden am Dienstag über 107 US-Dollar verrechnet. Verschärft haben die Lage zuletzt die Entwicklungen im Jemen, wo die Huthi-Miliz die Meerenge Bab al-Mandab kontrolliert und die Durchfahrt von saudischen Schiffen blockiert. Haupttreiber des Ölpreises bleibt aber der US-Iran-Krieg. Eine Öffnung der Straße von Hormus ist nicht in Sicht."
+    },
     {
       "id": "https://orf.at/stories/3442291/",
       "title": "Kennedy Center wird geschlossen",
@@ -224,28 +334,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-15T14:20:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442245/",
-      "title": "Stocker erneuert Kritik an EU-Mehrjahresbudget",
-      "titleAr": "ستوكير يكرر انتقاداته للميزانية الأوروبية المتعددة السنوات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442245/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-15T13:28:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442242/",
-      "title": "Totschnig erwartet starken Rückgang bei Einkommen der Bauern",
-      "titleAr": "توتشنيغ يتوقع انخفاضًا حادًا في دخل المزارعين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442242/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-15T12:54:07+02:00",
       "description": ""
     }
   ]
