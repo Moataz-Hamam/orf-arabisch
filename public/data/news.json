@@ -4,8 +4,19 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-16T21:24:51.354Z",
+  "updatedAt": "2026-09-16T23:40:59.898Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442329/",
+      "title": "Umweltbelastung trifft Ärmere härter",
+      "titleAr": "التلوث البيئي يضرب الأضعف أكثر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442329/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-16T23:52:28+02:00",
+      "description": "Je niedriger das Einkommen ist, desto stärker sind Personen von Umweltproblemen wie Lärm und Hitze betroffen. Umgekehrt verhalten sich Personen mit hohem Haushaltseinkommen häufiger umweltbelastend als Personen mit mittlerem oder niedrigem Einkommen. Das zeigt eine Analyse der Statistik Austria von Mittwoch."
+    },
     {
       "id": "https://orf.at/stories/3442394/",
       "title": "Huthis: 40 saudische Luftangriffe binnen 24 Stunden im Jemen",
@@ -268,17 +279,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-16T13:27:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442343/",
-      "title": "Polen: Russische Drohne trug Sprengsatz",
-      "titleAr": "بولندا: طائرة روسية تحمل قنبلة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442343/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-16T13:20:12+02:00",
       "description": ""
     }
   ]
