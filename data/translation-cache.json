@@ -336,8 +336,8 @@
     "titleAr": "مجلس النواب الأمريكي يرفض الحرب مع إيران مرة أخرى"
   },
   "https://orf.at/stories/3442299/": {
-    "sourceTitle": "Selenkskyj meldet erfolgreichen Test von neuer Drohnenabwehr",
-    "titleAr": "سيلينسكي يعلن نجاح اختبار دفاع جديد ضد الطائرات بدون طيار"
+    "sourceTitle": "Selenskyj meldet erfolgreichen Test neuer Drohnenabwehr",
+    "titleAr": "سلينكيو يعلن نجاح اختبار دفاع الجوي الجديد"
   },
   "https://orf.at/stories/3442298/": {
     "sourceTitle": "Greenpeace-Klimaticket-Ranking: Österreich auf Platz vier",
@@ -362,5 +362,65 @@
   "https://orf.at/stories/3442286/": {
     "sourceTitle": "Jemen-Krise belastet weiter Ölpreis",
     "titleAr": "أزمة اليمن تواصل ضغط أسعار النفط"
+  },
+  "https://orf.at/stories/3442317/": {
+    "sourceTitle": "„Kurz wollte, dass Pilnacek bleibt“",
+    "titleAr": "كُرْز يطالب بقاء بيلناتس"
+  },
+  "https://orf.at/stories/3442345/": {
+    "sourceTitle": "Regierung bringt Strompreisdeckel auf den Weg",
+    "titleAr": "الحكومة تضع سقفًا لأسعار الكهرباء"
+  },
+  "https://orf.at/stories/3442343/": {
+    "sourceTitle": "Polen: Russische Drohne trug Sprengsatz",
+    "titleAr": "بولندا: طائرة روسية تحمل قنبلة"
+  },
+  "https://orf.at/stories/3442214/": {
+    "sourceTitle": "25 Jahre Haft für Ex-Präsident Thaci",
+    "titleAr": "25 سنة سجينة للمدير السابق ثاتشي"
+  },
+  "https://orf.at/stories/3442340/": {
+    "sourceTitle": "WEF: 120 Jahre bis zur Geschlechtergleichheit",
+    "titleAr": "WEF: 120 سنة حتى المساواة بين الجنسين"
+  },
+  "https://orf.at/stories/3442336/": {
+    "sourceTitle": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
+    "titleAr": "60 قتيل على الأقل في انهيار منجم ذهب بالسودان"
+  },
+  "https://orf.at/stories/3442321/": {
+    "sourceTitle": "„Assoziierte“ EU-Mitgliedschaft für Kanada",
+    "titleAr": "عضوية أوروبية 'مُتَعَاوِنة' لكندا"
+  },
+  "https://orf.at/stories/3442334/": {
+    "sourceTitle": "Coronavirus-Hilfen: 158,8 Mio. Euro zu Unrecht bezogen",
+    "titleAr": "مساعدات كورونا: 158.8 مليون يورو مستلمة غير شرعية"
+  },
+  "https://orf.at/stories/3442333/": {
+    "sourceTitle": "CDU-Ministerpräsidenten stellen sich hinter Merz",
+    "titleAr": "رؤساء وزراء CDU يدعمون ميرز"
+  },
+  "https://orf.at/stories/3442331/": {
+    "sourceTitle": "Europas ältester Mann mit 112 Jahren gestorben",
+    "titleAr": "أقدم رجل في أوروبا توفي عن عمر يناهز 112 عامًا"
+  },
+  "https://orf.at/stories/3442318/": {
+    "sourceTitle": "Zadic wird in Pilnacek-U-Ausschuss befragt",
+    "titleAr": "زاديك يُسأل في لجنة بيلنايتش-أو"
+  },
+  "https://orf.at/stories/3442327/": {
+    "sourceTitle": "Von der Leyen für Social-Media-Verbot bis 13",
+    "titleAr": "فان دير لاين تطالب بحظر وسائل التواصل الاجتماعي حتى 13"
+  },
+  "https://orf.at/stories/3442304/": {
+    "sourceTitle": "Ed Sheerans Tour in Schwierigkeiten",
+    "titleAr": "جولة إد شيران في مأزق"
+  },
+  "https://orf.at/stories/3442316/": {
+    "sourceTitle": "Gouverneur: Fünf Tote bei russischem Angriff auf Bus",
+    "titleAr": "الحاكم: خمسة قتلى في هجوم روسي على حافلة"
+  },
+  "https://orf.at/stories/3442303/": {
+    "sourceTitle": "Saudi-Arabien wirft Huthis Angriff auf Mekka vor",
+    "titleAr": "السعودية تُعزو هجوم الحوثيين على مكة"
   }
 }
