@@ -4,8 +4,85 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-17T17:07:42.526Z",
+  "updatedAt": "2026-09-17T21:29:20.994Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442451/",
+      "title": "Mordserie an Frauen schockiert Südafrika",
+      "titleAr": "مجزرة النساء في جنوب أفريقيا تُصدم",
+      "translated": true,
+      "link": "https://orf.at/stories/3442451/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-17T23:27:00+02:00",
+      "description": "Die südafrikanische Polizei hat am Donnerstag erneut eine weibliche Leiche in der Region um Johannesburg entdeckt. Es ist die neunte Frauenleiche innerhalb von nur zwei Monaten. Die Mordserie müsse beendet werden, sagte Vizepolizeichefin Tebello Mosikili. Über einen oder mehrere Täter oder Täterinnen und die Hintergründe der Taten ist noch nichts bekannt."
+    },
+    {
+      "id": "https://orf.at/stories/3442493/",
+      "title": "UNO meldet Anstieg von Todesfällen bei Bootsflüchtlingen",
+      "titleAr": "الأمم المتحدة تُبلغ بارتفاع وفيات لاجئي القوارب",
+      "translated": true,
+      "link": "https://orf.at/stories/3442493/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T23:23:25+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3441902/",
+      "title": "Keine Lügen mehr in „Gentle Monster“",
+      "titleAr": "لا أكاذيب في 'Gentle Monster'",
+      "translated": true,
+      "link": "https://orf.at/stories/3441902/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-17T22:00:05+02:00",
+      "description": "Marie Kreutzers Drama „Gentle Monster\" hätte kaum zu einem aufgeladeneren Zeitpunkt ins Kino kommen können: Während der Film untersucht, wie das Umfeld eines Mannes mit dem Vorwurf pädokrimineller Übergriffe umgeht, holen die aktuellen Ereignisse um den Kabarettisten Gunkl den Film ein. Kreutzer erzählt von einem Ehemann, gespielt von Laurence Rupp, der Ungeheuerliches getan haben soll – und seine Frau (Lea Seydoux) muss damit umgehen."
+    },
+    {
+      "id": "https://orf.at/stories/3442453/",
+      "title": "Täterarbeit als präventiver Opferschutz",
+      "titleAr": "العمل مع الجناة كوقاية لحماية الضحايا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442453/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-17T20:29:16+02:00",
+      "description": "Der Kindesmissbrauchsfall des Kabarettisten Günther „Gunkl“ Paal wirft einmal mehr die Frage auf, wie Opfer besser geschützt und Verbrechen verhindert werden können. Eine Antwort liegt laut Fachleuten in der Täterarbeit."
+    },
+    {
+      "id": "https://orf.at/stories/3442488/",
+      "title": "Putin stellt Nestle-Russland unter Staatsverwaltung",
+      "titleAr": "بوتين يضع نستل روسيا تحت الإدارة الحكومية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442488/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T20:10:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442487/",
+      "title": "Missbrauch: Kinderpsychiaterin Sevecke im Studio",
+      "titleAr": "الاستغلال: طبيبة نفسية أطفال سيفيك في الاستوديو",
+      "translated": true,
+      "link": "https://orf.at/stories/3442487/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-17T20:03:08+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442428/",
+      "title": "Wasserreserven der Welt geraten an Grenzen",
+      "titleAr": "احتياطات المياه العالمية تواجه حدودًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442428/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-17T19:08:07+02:00",
+      "description": "Die Vereinten Nationen warnen vor einem weiteren Rückgang der weltweiten Wasserreserven. Die Gesamtmenge des in Grundwasser, Seen, Flüssen, Böden, Eis und Schnee gespeicherten Süßwassers schrumpfe seit Jahren, heißt es in einem am Donnerstag veröffentlichten Bericht der Weltorganisation für Meteorologie (WMO). Die Wassertiefstände vielerorts im heißen Sommer 2026 sind darin noch gar nicht berücksichtigt. Und: Das Klimaphänomen „El Nino“ könnte für weiteres Ungemach sorgen."
+    },
     {
       "id": "https://orf.at/stories/3442485/",
       "title": "Durchfahrt von Bab al-Mandab: Italien mit Alleingang",
@@ -214,61 +291,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-09-17T13:07:16+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442439/",
-      "title": "Buch von Dianas Bruder: Vorwürfe gegen König Charles",
-      "titleAr": "كتاب من أخو ديانا: اتهامات ضد الملك تشارلز",
-      "translated": true,
-      "link": "https://orf.at/stories/3442439/",
-      "category": "Leute",
-      "categoryAr": "Leute",
-      "publishedAt": "2026-09-17T12:44:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442437/",
-      "title": "Carney: Kanada will „assoziiertes“ EU-Mitglied werden",
-      "titleAr": "كارني: كندا تريد أن تصبح عضوًا «متعلقًا» في الاتحاد الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442437/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T12:28:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442436/",
-      "title": "Inflation im Euro-Raum bei 3,2 Prozent",
-      "titleAr": "معدل التضخم في منطقة اليورو 3.2٪",
-      "translated": true,
-      "link": "https://orf.at/stories/3442436/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T12:24:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442426/",
-      "title": "Appelle zu stärkerem Fokus auf Opferschutz",
-      "titleAr": "نداءات لزيادة التركيز على حماية الضحايا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442426/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-17T12:18:09+02:00",
-      "description": "Im Kindesmissbrauchsfall des Kabarettisten Günther „Gunkl“ Paal werden mehr und mehr Details bekannt. Fachleute von Gewaltschutzzentren appellieren allerdings, den Blick weniger auf den Täter und vielmehr auf Opfer zu richten und den Fokus stärker auf ihren Schutz zu legen."
-    },
-    {
-      "id": "https://orf.at/stories/3442413/",
-      "title": "Spritpreis treibt Inflation wieder in die Höhe",
-      "titleAr": "ارتفاع أسعار الوقود يرفع التضخم",
-      "translated": true,
-      "link": "https://orf.at/stories/3442413/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T11:34:21+02:00",
-      "description": "Die Teuerungsrate ist im August wieder gestiegen. Laut Mitteilung der Statistik Austria von Donnerstag lag sie bei 3,2 Prozent. Längerfristiger Preistreiber Nummer eins waren nach wie vor teure Dienstleistungen. Vor allem aber stiegen die Treibstoffpreise zuletzt wieder deutlich und werden die Inflation sehr wahrscheinlich weiter in die Höhe treiben. Diesel kostete am Donnerstag so viel wie seit März nicht mehr. Allein Lebensmittel waren zuletzt etwas günstiger als vor einem Jahr."
     }
   ]
 }
