@@ -4,8 +4,151 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-17T11:51:20.285Z",
+  "updatedAt": "2026-09-17T17:07:42.526Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442485/",
+      "title": "Durchfahrt von Bab al-Mandab: Italien mit Alleingang",
+      "titleAr": "إيطاليا تتخطى باب المندب بمفردها",
+      "translated": true,
+      "link": "https://orf.at/stories/3442485/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T19:05:58+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442484/",
+      "title": "RBI weist Kritik von Leerverkäufer zurück",
+      "titleAr": "البنك الاحتياطي الهندي يرفض انتقادات متداول البيع على المكشوف",
+      "translated": true,
+      "link": "https://orf.at/stories/3442484/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-17T19:04:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442482/",
+      "title": "Regen drang in Florentiner Uffizien ein",
+      "titleAr": "المطر يغمر أفيزي في فلورنسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442482/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-17T18:47:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442480/",
+      "title": "Feuer bei Nebeneingang von deutscher Synagoge gelegt",
+      "titleAr": "حريق يُطفأ عند المدخل الجانبي للمسجد اليهودي الألماني",
+      "translated": true,
+      "link": "https://orf.at/stories/3442480/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T18:26:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442476/",
+      "title": "Mehrere Tote bei Angriffen im Jemen und in Saudi-Arabien",
+      "titleAr": "عدد من القتلى في هجمات باليمن والسعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442476/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T17:35:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442475/",
+      "title": "Zwölf Tunnel an Litauens Grenze zu Belarus entdeckt",
+      "titleAr": "اثني عشر نفقًا عند حدود ليتوانيا وبيلاروس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442475/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T17:23:06+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442450/",
+      "title": "Schweden vor Regierungswechsel",
+      "titleAr": "سوييد على أعتاب تغيير حكومي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442450/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T17:18:16+02:00",
+      "description": "Drei Tage hat die Auszählung gedauert, am Donnerstag ist schließlich das Endergebnis bei der schwedischen Parlamentswahl festgestanden. Das bisher oppositionelle linke Lager errang einen knappen Sieg. Die konservative Koalition muss abtreten, der bisherige Premier Ulf Kristersson erklärte bereits seinen Rücktritt. Das linke Lager aber ist gespalten, die Regierungsbildung dürfte nicht einfach werden."
+    },
+    {
+      "id": "https://orf.at/stories/3442471/",
+      "title": "Ceuta: EU-Parlament kritisiert Spaniens Regierung",
+      "titleAr": "سيوتا: البرلمان الأوروبي يشتكي من حكومة إسبانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442471/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T16:53:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442469/",
+      "title": "Malaria: Todesfall nahe Flughafen Frankfurt",
+      "titleAr": "موت مسبب بالملاريا قرب مطار فرانكفورت",
+      "translated": true,
+      "link": "https://orf.at/stories/3442469/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-17T15:47:43+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442458/",
+      "title": "Todesfall durch Malaria nahe Frankfurter Flughafen",
+      "titleAr": "وفاة مسبب بالملاريا قرب مطار فرانكفورت",
+      "translated": true,
+      "link": "https://orf.at/stories/3442458/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-17T15:18:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442423/",
+      "title": "EU-Kommission konkretisiert Verbotspläne",
+      "titleAr": "الهيئة الأوروبية تُحدد خطط الحظر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442423/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T14:56:36+02:00",
+      "description": "EU-Kommissionspräsidentin Ursula von der Leyen und EU-Kommissarin Henna Virkkunen haben am Donnerstag die Pläne zum geplanten Social-Media-Verbot für unter 13-Jährige konkretisiert. Zusätzlich will die EU die Onlineplattformen zu mehreren Einschränkungen verpflichten: Endloses Scrollen, Nachrichten von Fremden und nächtliche Benachrichtigungen soll es künftig auch für Jugendliche unter 18 nicht mehr geben."
+    },
+    {
+      "id": "https://orf.at/stories/3442456/",
+      "title": "Irland bleibt auch Song Contest in Bulgarien fern",
+      "titleAr": "أيرلندا تظل بعيدة عن مسابقة الأغاني في بلغاريا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442456/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-17T14:40:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442454/",
+      "title": "Schwedens Regierungschef tritt nach Wahlschlappe zurück",
+      "titleAr": "رئيس الحكومة السويدية يستقيل بعد فشل الانتخابات",
+      "translated": true,
+      "link": "https://orf.at/stories/3442454/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T13:57:09+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442452/",
       "title": "Thurnher: „Deutungshoheit über ORF zurückgewinnen“",
@@ -63,8 +206,8 @@
     },
     {
       "id": "https://orf.at/stories/3442444/",
-      "title": "Stocker zu Besuch in Polen",
-      "titleAr": "ستوكر في زيارة إلى بولندا",
+      "title": "Stocker in Polen: Tusk lobt Solidarität Österreichs",
+      "titleAr": "ستوكير في بولندا: توسك يثني على تضامن النمسا",
       "translated": true,
       "link": "https://orf.at/stories/3442444/",
       "category": "Ausland",
@@ -126,171 +269,6 @@
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-17T11:34:21+02:00",
       "description": "Die Teuerungsrate ist im August wieder gestiegen. Laut Mitteilung der Statistik Austria von Donnerstag lag sie bei 3,2 Prozent. Längerfristiger Preistreiber Nummer eins waren nach wie vor teure Dienstleistungen. Vor allem aber stiegen die Treibstoffpreise zuletzt wieder deutlich und werden die Inflation sehr wahrscheinlich weiter in die Höhe treiben. Diesel kostete am Donnerstag so viel wie seit März nicht mehr. Allein Lebensmittel waren zuletzt etwas günstiger als vor einem Jahr."
-    },
-    {
-      "id": "https://orf.at/stories/3442429/",
-      "title": "Social-Media-Verbot: Von der Leyen stellte „Kids Act“ vor",
-      "titleAr": "فوندير لاين يقدّم قانون الأطفال",
-      "translated": true,
-      "link": "https://orf.at/stories/3442429/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T11:27:18+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442427/",
-      "title": "Wizz Air kürzt Flugplan wegen Energiepreisen",
-      "titleAr": "وايز إير يقلل جدول الرحلات بسبب أسعار الطاقة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442427/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T11:06:18+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442424/",
-      "title": "Heftige Gefechte im Jemen nahe Meerenge Bab al-Mandab",
-      "titleAr": "اشتباكات شديدة في اليمن قرب باب المندب",
-      "translated": true,
-      "link": "https://orf.at/stories/3442424/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T10:55:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442422/",
-      "title": "D: Baumarktkette Obi verliert Farbenstreit um Orange",
-      "titleAr": "أوبى تخسر نزاع الألوان حول البرتقالي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442422/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T10:45:47+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442420/",
-      "title": "UNO sieht mögliche US-Kriegsverbrechen im Iran",
-      "titleAr": "الأمم المتحدة ترى جرائم حرب أمريكية محتملة في إيران",
-      "translated": true,
-      "link": "https://orf.at/stories/3442420/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T10:21:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442419/",
-      "title": "U-Ausschuss: Sporrer plädierte für Bundesstaatsanwaltschaft",
-      "titleAr": "سبورر يدعو إلى محكمة الدولة الاتحادية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442419/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-17T10:14:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442416/",
-      "title": "Inflation stieg im August auf 3,2 Prozent",
-      "titleAr": "التضخم ارتفع إلى 3.2٪ في أغسطس",
-      "translated": true,
-      "link": "https://orf.at/stories/3442416/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T09:34:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442401/",
-      "title": "Trump droht Europäern mit Handelsstopp",
-      "titleAr": "ترامب يهدد الأوروبيين بوقف التجارة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442401/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T08:32:36+02:00",
-      "description": "US-Präsident Donald Trump hat der EU im Falle einer engeren Partnerschaft mit Kanada mit einem Handelsstopp gedroht. „Ich halte das für lächerlich“, sagte Trump am Mittwoch zu Journalistinnen und Journalisten über den Plan von EU-Kommissionspräsidentin Ursula von der Leyen einer „assoziierten Mitgliedschaft“ Kanadas in der EU. Donnerstagmittag hält der kanadische Premier Mark Carney eine Rede im EU-Parlament."
-    },
-    {
-      "id": "https://orf.at/stories/3442409/",
-      "title": "Obamas trauern um früheren „First Dog“ Sunny",
-      "titleAr": "أوباما يتعاطفون مع وفاة سوني، الكلب الأول السابق",
-      "translated": true,
-      "link": "https://orf.at/stories/3442409/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-17T08:29:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442405/",
-      "title": "Bericht: EU will von China Exportlimit bei Hybridautos",
-      "titleAr": "الاتحاد الأوروبي يفرض حدًا على صادرات الصين للسيارات الهجينة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442405/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-17T08:26:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442403/",
-      "title": "WMO: Weltweite Wasserspeicher schrumpfen",
-      "titleAr": "منظمة الأرصاد الجوية العالمية: مخازن المياه العالمية تتقلص",
-      "translated": true,
-      "link": "https://orf.at/stories/3442403/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-09-17T08:07:53+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442400/",
-      "title": "Wieder schwere russische Raketenangriffe auf Kiew",
-      "titleAr": "هجمات روسية قوية على كييف مجددًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442400/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T06:38:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442399/",
-      "title": "Berichte: USA verweigern Abbas Visum für UNO-Treffen",
-      "titleAr": "الولايات المتحدة ترفض تأشيرة عباس لحضور اجتماع الأمم المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442399/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T06:34:17+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442398/",
-      "title": "OpenAI machte weitere KI-Probleme öffentlich",
-      "titleAr": "OpenAI تكشف مشاكل جديدة في الذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442398/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-17T06:28:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3436860/",
-      "title": "Engpässe belasten Patienten und Ärzte",
-      "titleAr": "نقص الموارد يثقل كاهل المرضى والأطباء",
-      "translated": true,
-      "link": "https://orf.at/stories/3436860/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-17T06:07:28+02:00",
-      "description": "Vor dem Welttag der Patientinnen- und Patientensicherheit am Donnerstag warnt der Verband der pharmazeutischen Industrie Österreichs (Pharmig): Globale Krisen und Abhängigkeiten erschweren eine problemlose Versorgung mit Medikamenten mehr und mehr. Zunehmend stärker davon betroffen sind, wie Fachleute gegenüber ORF.at berichten, Psychopharmaka – aktuell etwa jene zur Behandlung des Nervensystems. Mediziner warnen gegenüber ORF.at vor einer zusätzlichen psychischen Belastung für die Betroffenen."
     }
   ]
 }
