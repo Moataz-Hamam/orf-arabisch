@@ -4,8 +4,74 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-16T23:40:59.898Z",
+  "updatedAt": "2026-09-17T04:59:43.928Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442400/",
+      "title": "Wieder schwere russische Raketenangriffe auf Kiew",
+      "titleAr": "هجمات روسية قوية على كييف مجددًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442400/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T06:38:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442399/",
+      "title": "Berichte: USA verweigern Abbas Visum für UNO-Treffen",
+      "titleAr": "الولايات المتحدة ترفض تأشيرة عباس لحضور اجتماع الأمم المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442399/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T06:34:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442398/",
+      "title": "OpenAI machte weitere KI-Probleme öffentlich",
+      "titleAr": "OpenAI تكشف مشاكل جديدة في الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442398/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-17T06:28:43+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3436860/",
+      "title": "Engpässe belasten Patienten und Ärzte",
+      "titleAr": "نقص الموارد يثقل كاهل المرضى والأطباء",
+      "translated": true,
+      "link": "https://orf.at/stories/3436860/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-17T06:07:28+02:00",
+      "description": "Vor dem Welttag der Patientinnen- und Patientensicherheit am Donnerstag warnt der Verband der pharmazeutischen Industrie Österreichs (Pharmig): Globale Krisen und Abhängigkeiten erschweren eine problemlose Versorgung mit Medikamenten mehr und mehr. Zunehmend stärker davon betroffen sind, wie Fachleute gegenüber ORF.at berichten, Psychopharmaka – aktuell etwa jene zur Behandlung des Nervensystems. Mediziner warnen gegenüber ORF.at vor einer zusätzlichen psychischen Belastung für die Betroffenen."
+    },
+    {
+      "id": "https://orf.at/stories/3442397/",
+      "title": "US-Kongress verschärft Russland-Sanktionen",
+      "titleAr": "الكونغرس الأمريكي يُشدد العقوبات ضد روسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442397/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T02:36:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442396/",
+      "title": "Trump droht EU wegen Kanada mit Handelsstopp",
+      "titleAr": "ترامب يهدد الاتحاد الأوروبي بوقف تجاري بسبب كندا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442396/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-17T02:28:41+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442329/",
       "title": "Umweltbelastung trifft Ärmere härter",
@@ -257,28 +323,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-16T14:52:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442317/",
-      "title": "„Kurz wollte, dass Pilnacek bleibt“",
-      "titleAr": "كُرْز يطالب بقاء بيلناتس",
-      "translated": true,
-      "link": "https://orf.at/stories/3442317/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-16T13:39:38+02:00",
-      "description": "Am Mittwoch hat der Untersuchungsausschuss zur Causa Christian Pilnacek seine Arbeit wiederaufgenommen. Die erste Auskunftsperson nach der Sommerpause war Ex-Justizministerin Alma Zadic (Grüne). Sie sagte, sie habe um Pilnaceks Nähe zur Politik gewusst, schließlich seien seine Chats bereits bekannt gewesen. Vor ihrem Amtsantritt 2020 habe der damalige ÖVP-Chef Sebastian Kurz Pilnaceks Verbleib im Amt gewollt. Jegliche Einflussnahme ihres damaligen Ressorts auf Ermittlungen rund um Pilnacek verneinte Zadic."
-    },
-    {
-      "id": "https://orf.at/stories/3442345/",
-      "title": "Regierung bringt Strompreisdeckel auf den Weg",
-      "titleAr": "الحكومة تضع سقفًا لأسعار الكهرباء",
-      "translated": true,
-      "link": "https://orf.at/stories/3442345/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-16T13:27:03+02:00",
       "description": ""
     }
   ]
