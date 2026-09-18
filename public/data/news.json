@@ -4,8 +4,107 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-17T21:29:20.994Z",
+  "updatedAt": "2026-09-18T04:52:45.713Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442503/",
+      "title": "Japans Notenbank erhöht Leitzinssatz",
+      "titleAr": "البنك المركزي الياباني يرفع سعر الفائدة الأساسي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442503/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-18T06:46:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442502/",
+      "title": "Gewerkschaft vida will „anständige“ Lohnabschlüsse",
+      "titleAr": "النقابة vida تطالب باتفاقات أجور معقولة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442502/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-18T06:39:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442500/",
+      "title": "Revolutionsgarde greift Tanker in Straße von Hormus an",
+      "titleAr": "الجيش الثوري يهاجم ناقلات النفط في مضيق هرموس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442500/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T06:28:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442499/",
+      "title": "USA verkaufen Saudi-Arabien F-35-Kampfjets",
+      "titleAr": "الولايات المتحدة تبيع طائرات F-35 للـسعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442499/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T06:19:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442498/",
+      "title": "Weißes Haus kritisierte UNO-Bericht über US-Kriegsverbrechen",
+      "titleAr": "البيت الأبيض ينتقد تقرير الأمم المتحدة عن جرائم الحرب الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442498/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T06:16:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442252/",
+      "title": "Duma-Wahl als Planspiel des Kreml",
+      "titleAr": "انتخابات الدوما تُعد لعبة تخطيط للكرمل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442252/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T06:01:01+02:00",
+      "description": "In Russland findet von Freitag (Ortszeit) bis Sonntag die erste Parlamentswahl seit dem Angriff auf die Ukraine statt. Im äußersten Osten begann die Abstimmung bereits am Donnerstagabend. Der Sieg von Präsident Wladimir Putins Partei Geeintes Russland steht Fachleuten zufolge bereits fest. Die einzige echte Oppositionspartei wurde von der Wahl ausgeschlossen, offizielle, internationale Wahlbeobachter wurden nicht eingeladen. Trotzdem hat die Wahl eine Signalwirkung, denn Putin steht mehr und mehr unter Druck. Sein Krieg lässt sich zunehmend schwerer von der Bevölkerung fernhalten, gleichzeitig schwächelt die Wirtschaft."
+    },
+    {
+      "id": "https://orf.at/stories/3442496/",
+      "title": "Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
+      "titleAr": "المدير القضائي يشارك في أعمال بناء مركز كينيدي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442496/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T00:37:04+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442495/",
+      "title": "Iran-Delegation darf zur UNO nach New York reisen",
+      "titleAr": "الوفد الإيراني يُسمح له بالسفر إلى الأمم المتحدة في نيويورك",
+      "translated": true,
+      "link": "https://orf.at/stories/3442495/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T00:21:23+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442494/",
+      "title": "Richterin in Stronach-Prozess: Keine Haftstrafe",
+      "titleAr": "القاضية في قضية ستروناش: لا عقوبة بالسجن",
+      "translated": true,
+      "link": "https://orf.at/stories/3442494/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-18T00:16:42+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442451/",
       "title": "Mordserie an Frauen schockiert Südafrika",
@@ -52,8 +151,8 @@
     },
     {
       "id": "https://orf.at/stories/3442488/",
-      "title": "Putin stellt Nestle-Russland unter Staatsverwaltung",
-      "titleAr": "بوتين يضع نستل روسيا تحت الإدارة الحكومية",
+      "title": "Putin stellt Nestle Russland unter Staatsverwaltung",
+      "titleAr": "بوتين يضع نستلر روسيا تحت الإدارة الحكومية",
       "translated": true,
       "link": "https://orf.at/stories/3442488/",
       "category": "Ausland",
@@ -224,72 +323,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-17T13:57:09+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442452/",
-      "title": "Thurnher: „Deutungshoheit über ORF zurückgewinnen“",
-      "titleAr": "ثورنر: استعادة سيطرة التفسير على ORF",
-      "translated": true,
-      "link": "https://orf.at/stories/3442452/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-09-17T13:47:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442425/",
-      "title": "Chaos um Ed Sheerans Tournee mündet in Spendenreigen",
-      "titleAr": "فوضى حول جولة إيد شيرن تنتهي بحملة تبرعات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442425/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-17T13:41:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442449/",
-      "title": "Lesepaten in Schulen: Programm wird ausgebaut",
-      "titleAr": "أولياء القراءة في المدارس: توسيع البرنامج",
-      "translated": true,
-      "link": "https://orf.at/stories/3442449/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-17T13:27:06+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442421/",
-      "title": "Carney beschwört Allianz mit Europa",
-      "titleAr": "كارني يطالب بتحالف مع أوروبا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442421/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T13:17:40+02:00",
-      "description": "Der kanadische Premierminister Mark Carney hat sich am Donnerstag offen für die Idee einer Art EU-Sondermitgliedschaft gezeigt. „Wir begrüßen diesen Vorschlag“, sagte er bei seiner Rede im EU-Parlament in Straßburg. Zudem beschwor Carney die Einheit zwischen Kanada und Europa. EU-Kommissionspräsidentin Ursula von der Leyen hatte am Mittwoch eine „assoziierte Mitgliedschaft“ Kanadas in der EU skizziert. US-Präsident Donald Trump drohte der EU daraufhin mit neuen Handelsstreitigkeiten."
-    },
-    {
-      "id": "https://orf.at/stories/3442445/",
-      "title": "Mordserie an Frauen erschüttert Südafrika",
-      "titleAr": "سلسلة جرائم قتل للنساء تهز جنوب أفريقيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442445/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-17T13:14:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442444/",
-      "title": "Stocker in Polen: Tusk lobt Solidarität Österreichs",
-      "titleAr": "ستوكير في بولندا: توسك يثني على تضامن النمسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442444/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-17T13:07:16+02:00",
       "description": ""
     }
   ]

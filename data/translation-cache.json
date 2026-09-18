@@ -696,8 +696,8 @@
     "titleAr": "العمل مع الجناة كوقاية لحماية الضحايا"
   },
   "https://orf.at/stories/3442488/": {
-    "sourceTitle": "Putin stellt Nestle-Russland unter Staatsverwaltung",
-    "titleAr": "بوتين يضع نستل روسيا تحت الإدارة الحكومية"
+    "sourceTitle": "Putin stellt Nestle Russland unter Staatsverwaltung",
+    "titleAr": "بوتين يضع نستلر روسيا تحت الإدارة الحكومية"
   },
   "https://orf.at/stories/3442487/": {
     "sourceTitle": "Missbrauch: Kinderpsychiaterin Sevecke im Studio",
@@ -706,5 +706,41 @@
   "https://orf.at/stories/3442428/": {
     "sourceTitle": "Wasserreserven der Welt geraten an Grenzen",
     "titleAr": "احتياطات المياه العالمية تواجه حدودًا"
+  },
+  "https://orf.at/stories/3442503/": {
+    "sourceTitle": "Japans Notenbank erhöht Leitzinssatz",
+    "titleAr": "البنك المركزي الياباني يرفع سعر الفائدة الأساسي"
+  },
+  "https://orf.at/stories/3442502/": {
+    "sourceTitle": "Gewerkschaft vida will „anständige“ Lohnabschlüsse",
+    "titleAr": "النقابة vida تطالب باتفاقات أجور معقولة"
+  },
+  "https://orf.at/stories/3442500/": {
+    "sourceTitle": "Revolutionsgarde greift Tanker in Straße von Hormus an",
+    "titleAr": "الجيش الثوري يهاجم ناقلات النفط في مضيق هرموس"
+  },
+  "https://orf.at/stories/3442499/": {
+    "sourceTitle": "USA verkaufen Saudi-Arabien F-35-Kampfjets",
+    "titleAr": "الولايات المتحدة تبيع طائرات F-35 للـسعودية"
+  },
+  "https://orf.at/stories/3442498/": {
+    "sourceTitle": "Weißes Haus kritisierte UNO-Bericht über US-Kriegsverbrechen",
+    "titleAr": "البيت الأبيض ينتقد تقرير الأمم المتحدة عن جرائم الحرب الأمريكية"
+  },
+  "https://orf.at/stories/3442252/": {
+    "sourceTitle": "Duma-Wahl als Planspiel des Kreml",
+    "titleAr": "انتخابات الدوما تُعد لعبة تخطيط للكرمل"
+  },
+  "https://orf.at/stories/3442496/": {
+    "sourceTitle": "Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
+    "titleAr": "المدير القضائي يشارك في أعمال بناء مركز كينيدي"
+  },
+  "https://orf.at/stories/3442495/": {
+    "sourceTitle": "Iran-Delegation darf zur UNO nach New York reisen",
+    "titleAr": "الوفد الإيراني يُسمح له بالسفر إلى الأمم المتحدة في نيويورك"
+  },
+  "https://orf.at/stories/3442494/": {
+    "sourceTitle": "Richterin in Stronach-Prozess: Keine Haftstrafe",
+    "titleAr": "القاضية في قضية ستروناش: لا عقوبة بالسجن"
   }
 }
