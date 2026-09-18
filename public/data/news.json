@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-18T20:59:06.425Z",
+  "updatedAt": "2026-09-18T23:22:02.450Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442617/",
+      "title": "USA und Dänemark einigen sich zu Grönland",
+      "titleAr": "الولايات المتحدة والدنمارك تتفقان على جرينلاند",
+      "translated": true,
+      "link": "https://orf.at/stories/3442617/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-19T00:45:07+02:00",
+      "description": "Die USA und Dänemark haben überraschend eine Einigung über die Zukunft der autonomen dänischen Insel Grönland bekanntgegeben. US-Präsident Donald Trump verkündete am Freitag die Vereinbarung, die die „dauerhafte Kontrolle“ über die Sicherheit der Insel an Washington übertrage. Kurz darauf bestätigte die dänische Premierministerin Mette Frederiksen das Abkommen, das die „Sicherheit in der Arktis und im Nordatlantik stärken“ soll."
+    },
+    {
+      "id": "https://orf.at/stories/3442531/",
+      "title": "Gold aus Venezuela könnte übersiedeln",
+      "titleAr": "الذهب من فنزويلا قد ينتقل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442531/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-19T00:45:06+02:00",
+      "description": "Mehr als 30 Tonnen Gold aus Venezuela liegen laut Schätzungen in den Tresoren der Bank of England (BoE) in London. Allerdings konnte das südamerikanische Land bisher nicht darauf zugreifen. Nun könnte das Gold im Wert von geschätzten 3,5 Milliarden Euro übersiedeln: in die Federal Reserve (Fed) nach New York. Hintergrund ist ein jahrelanger Rechtsstreit."
+    },
+    {
+      "id": "https://orf.at/stories/3442618/",
+      "title": "Trump verkündet Einigung mit Dänemark über Grönland",
+      "titleAr": "ترامب يعلن اتفاقاً مع الدنمارك بشأن جرينلاند",
+      "translated": true,
+      "link": "https://orf.at/stories/3442618/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T23:56:55+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442613/",
+      "title": "Trump erteilt Medien Hausverbot",
+      "titleAr": "ترامب يمنع وسائل الإعلام من الدخول",
+      "translated": true,
+      "link": "https://orf.at/stories/3442613/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T23:10:59+02:00",
+      "description": "US-Präsident Donald Trump verbietet dem renommierten TV-Sender CNN ab sofort den Zugang zum Weißen Haus. Betroffen von dem Verbot seien auch der Sender MS NOW und das Newsportal Politico, schrieb er am Freitag auf seiner Plattform Truth Social. Trump warf ihnen vor, Falschnachrichten zu verbreiten. Weitere Medien sollen laut Trump folgen."
+    },
     {
       "id": "https://orf.at/stories/3442612/",
       "title": "Erwin Wurm mit Sobotkas Präsidentenporträt beauftragt",
@@ -258,39 +302,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-09-18T14:30:36+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442556/",
-      "title": "ÖGB für mehr Fokus auf Frauengesundheit in Arbeitswelt",
-      "titleAr": "ÖGB يطالب بتركيز أكبر على صحة المرأة في مكان العمل",
-      "translated": true,
-      "link": "https://orf.at/stories/3442556/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-18T13:58:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442554/",
-      "title": "Waffenlieferungen: Moskau bestellt britische Diplomatin ein",
-      "titleAr": "موسكو تطلب دبلوماسيّة بريطانية لتسليم الأسلحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442554/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-18T13:48:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442525/",
-      "title": "Impfquoten bei Kindern in Europa rückläufig",
-      "titleAr": "معدلات التطعيم للأطفال في أوروبا تنخفض",
-      "translated": true,
-      "link": "https://orf.at/stories/3442525/",
-      "category": "Gesundheit",
-      "categoryAr": "Gesundheit",
-      "publishedAt": "2026-09-18T13:29:36+02:00",
-      "description": "Nach jahrzehntelangen Verbesserungen haben die Impfquoten bei Kinderimpfungen in vielen EU-Ländern zuletzt überwiegend einen stagnierenden oder gar rückläufigen Trend aufgewiesen, vor allem seit der Coronavirus-Pandemie. Das zeigt eine am Donnerstag in der Fachzeitschrift „The Lancet“ veröffentlichte Studie. Dadurch bestehe das Risiko, dass Infektionskrankheiten wieder stark aufleben, warnten die an der Studie beteiligten Forscherinnen und Forscher."
     }
   ]
 }
