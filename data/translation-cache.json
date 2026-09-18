@@ -828,8 +828,8 @@
     "titleAr": "مجلس العمال في WKO يرفع دعوى لزيادة الأجور أمام المحكمة العليا"
   },
   "https://orf.at/stories/3442593/": {
-    "sourceTitle": "Proteste in Nigeria nach Tod von 37 Goldgräbern in Haft",
-    "titleAr": "احتجاجات في نيجيريا بعد وفاة 37 من عمال الذهب في السجن"
+    "sourceTitle": "Proteste in Nigeria nach Tod von 37 inhaftierten Goldgräbern",
+    "titleAr": "احتجاجات في نيجيريا بعد وفاة 37 من عمال المناجم المحكمين"
   },
   "https://orf.at/stories/3442579/": {
     "sourceTitle": "EU und Kiew kritisieren Wahlen in Russland scharf",
@@ -882,5 +882,41 @@
   "https://orf.at/stories/3442525/": {
     "sourceTitle": "Impfquoten bei Kindern in Europa rückläufig",
     "titleAr": "معدلات التطعيم للأطفال في أوروبا تنخفض"
+  },
+  "https://orf.at/stories/3442612/": {
+    "sourceTitle": "Erwin Wurm mit Sobotkas Präsidentenporträt beauftragt",
+    "titleAr": "إروين ورم يختار سوبوتكا لرسم بورتريه الرئيس"
+  },
+  "https://orf.at/stories/3442611/": {
+    "sourceTitle": "Trump verhängt Hausverbot für CNN, MS NOW und Politico",
+    "titleAr": "ترامب يمنع CNN وMS NOW وPolitico"
+  },
+  "https://orf.at/stories/3442609/": {
+    "sourceTitle": "Deutschland: Einigung auf Tankrabatt und Spritpreisbremse",
+    "titleAr": "ألمانيا توافق على تخفيض الوقود وتثبيت الأسعار"
+  },
+  "https://orf.at/stories/3442535/": {
+    "sourceTitle": "Scharfe Kritik von Umweltorganisationen",
+    "titleAr": "انتقادات حادة من منظمات البيئة"
+  },
+  "https://orf.at/stories/3442607/": {
+    "sourceTitle": "Israels Außenminister lobt Kickl-Rede in Straßburg",
+    "titleAr": "وزير الخارجية الإسرائيلي يثني على خطاب كيكل في ستراسبورغ"
+  },
+  "https://orf.at/stories/3442606/": {
+    "sourceTitle": "Nächster großflächiger Stromausfall in Kuba",
+    "titleAr": "أكبر انقطاع كهربائي في كوبا"
+  },
+  "https://orf.at/stories/3442605/": {
+    "sourceTitle": "Serienmörder in Brasilien gefasst",
+    "titleAr": "قبض على قاتل متسلسل في البرازيل"
+  },
+  "https://orf.at/stories/3442600/": {
+    "sourceTitle": "Klimaminister Norbert Totschnig zu Gast",
+    "titleAr": "وزير المناخ نوربرت توتشنيغ في ضيافة"
+  },
+  "https://orf.at/stories/3442538/": {
+    "sourceTitle": "Ölreiche Provinz im Visier der Huthi-Miliz",
+    "titleAr": "مقاطعة غنية بالنفط تحت هدف جيش الحوثي"
   }
 }

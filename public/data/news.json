@@ -4,8 +4,107 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-18T16:32:02.958Z",
+  "updatedAt": "2026-09-18T20:59:06.425Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442612/",
+      "title": "Erwin Wurm mit Sobotkas Präsidentenporträt beauftragt",
+      "titleAr": "إروين ورم يختار سوبوتكا لرسم بورتريه الرئيس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442612/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-18T21:59:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442611/",
+      "title": "Trump verhängt Hausverbot für CNN, MS NOW und Politico",
+      "titleAr": "ترامب يمنع CNN وMS NOW وPolitico",
+      "translated": true,
+      "link": "https://orf.at/stories/3442611/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T21:47:25+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442609/",
+      "title": "Deutschland: Einigung auf Tankrabatt und Spritpreisbremse",
+      "titleAr": "ألمانيا توافق على تخفيض الوقود وتثبيت الأسعار",
+      "translated": true,
+      "link": "https://orf.at/stories/3442609/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T21:38:47+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442535/",
+      "title": "Scharfe Kritik von Umweltorganisationen",
+      "titleAr": "انتقادات حادة من منظمات البيئة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442535/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-18T21:30:49+02:00",
+      "description": "Die Regierung hat am Freitag das lang ersehnte Klimagesetz in die Begutachtung geschickt. Bis 2040 soll die Klimaneutralität mit der Reduzierung von Emissionen, durch Anpassungen und Kreislaufwirtschaft erreicht werden, hieß es in einer Pressekonferenz. Scharfe Kritik kam dazu von Umweltorganisationen: Dem Klimagesetz fehle der „Biss“ und es brauche konkretere Zielpfade. Vertreterinnen und Vertreter der Wirtschaft wiederum sehen vor allem eine Belastung für Betriebe."
+    },
+    {
+      "id": "https://orf.at/stories/3442607/",
+      "title": "Israels Außenminister lobt Kickl-Rede in Straßburg",
+      "titleAr": "وزير الخارجية الإسرائيلي يثني على خطاب كيكل في ستراسبورغ",
+      "translated": true,
+      "link": "https://orf.at/stories/3442607/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T21:19:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442606/",
+      "title": "Nächster großflächiger Stromausfall in Kuba",
+      "titleAr": "أكبر انقطاع كهربائي في كوبا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442606/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-18T21:03:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442605/",
+      "title": "Serienmörder in Brasilien gefasst",
+      "titleAr": "قبض على قاتل متسلسل في البرازيل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442605/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-18T20:17:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442600/",
+      "title": "Klimaminister Norbert Totschnig zu Gast",
+      "titleAr": "وزير المناخ نوربرت توتشنيغ في ضيافة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442600/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-18T19:05:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442538/",
+      "title": "Ölreiche Provinz im Visier der Huthi-Miliz",
+      "titleAr": "مقاطعة غنية بالنفط تحت هدف جيش الحوثي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442538/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-18T18:48:31+02:00",
+      "description": "Im Zuge einer blitzartigen Offensive hat die Huthi-Miliz zuletzt große Teile der Rotmeer-Küste des Jemen unter ihre Kontrolle gebracht und sich damit Zugriff auf die Meerenge Bab al-Mandab verschafft. Doch geht die Offensive der mit dem Iran verbündeten Miliz gegen die Truppen der international anerkannten Regierung auch am Freitag weiter. Umkämpft sind strategisch wichtige Landstriche. Zudem wollen die Huthis in Richtung einer ölreichen Provinz vorstoßen."
+    },
     {
       "id": "https://orf.at/stories/3442598/",
       "title": "Böhmermann hört mit „ZDF Magazin Royale“ auf",
@@ -41,8 +140,8 @@
     },
     {
       "id": "https://orf.at/stories/3442593/",
-      "title": "Proteste in Nigeria nach Tod von 37 Goldgräbern in Haft",
-      "titleAr": "احتجاجات في نيجيريا بعد وفاة 37 من عمال الذهب في السجن",
+      "title": "Proteste in Nigeria nach Tod von 37 inhaftierten Goldgräbern",
+      "titleAr": "احتجاجات في نيجيريا بعد وفاة 37 من عمال المناجم المحكمين",
       "translated": true,
       "link": "https://orf.at/stories/3442593/",
       "category": "Ausland",
@@ -192,105 +291,6 @@
       "categoryAr": "Gesundheit",
       "publishedAt": "2026-09-18T13:29:36+02:00",
       "description": "Nach jahrzehntelangen Verbesserungen haben die Impfquoten bei Kinderimpfungen in vielen EU-Ländern zuletzt überwiegend einen stagnierenden oder gar rückläufigen Trend aufgewiesen, vor allem seit der Coronavirus-Pandemie. Das zeigt eine am Donnerstag in der Fachzeitschrift „The Lancet“ veröffentlichte Studie. Dadurch bestehe das Risiko, dass Infektionskrankheiten wieder stark aufleben, warnten die an der Studie beteiligten Forscherinnen und Forscher."
-    },
-    {
-      "id": "https://orf.at/stories/3442549/",
-      "title": "Berkshire: Buffett geht auch als Verwaltungsratschef",
-      "titleAr": "بركهشاير: بافيت يواصل كمدير للمجلس الإداري",
-      "translated": true,
-      "link": "https://orf.at/stories/3442549/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-18T13:15:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442547/",
-      "title": "FPÖ lud weitere Personen in Pilnacek-U-Ausschuss",
-      "titleAr": "الحزب الديمقراطي الأوسترياني يدعو أشخاصًا آخرين إلى لجنة بولناتسكي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442547/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-18T12:57:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442544/",
-      "title": "Viele Tote bei Anschlag mit Autobombe in Pakistan",
-      "titleAr": "العديد من القتلى في هجوم بمضخة سيارة في باكستان",
-      "translated": true,
-      "link": "https://orf.at/stories/3442544/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-18T12:26:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442543/",
-      "title": "A1-Vizechef Arnoldner wird neuer ÖBAG-Chef",
-      "titleAr": "نائب رئيس A1 أرنولدن يصبح رئيسًا جديدًا لـ ÖBAG",
-      "translated": true,
-      "link": "https://orf.at/stories/3442543/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-18T12:16:19+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442542/",
-      "title": "Ukraine: 3,3 Mrd. Euro an EU-Mitteln für Rüstung",
-      "titleAr": "أوكرانيا: 3.3 مليار يورو من أموال الاتحاد الأوروبي لتمويل الأسلحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442542/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-18T12:09:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442537/",
-      "title": "Zehn Jahre Ausbildungspflicht: 36.000 Jugendliche begleitet",
-      "titleAr": "عشر سنوات من الالتزام بالتدريب: 36,000 شاب مشارك",
-      "translated": true,
-      "link": "https://orf.at/stories/3442537/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-18T11:45:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442521/",
-      "title": "Ziel bleibt Klimaneutralität bis 2040",
-      "titleAr": "الهدف يبقى تحقيق حياد كربوني بحلول 2040",
-      "translated": true,
-      "link": "https://orf.at/stories/3442521/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-18T11:30:31+02:00",
-      "description": "Die Bundesregierung hat am Freitag das langerwartete Klimagesetz in Begutachtung geschickt. Am Ziel der Klimaneutralität bis 2040 will man festhalten. Erreicht werden solle es über die Reduzierung von Emissionen, Klimawandelanpassung und Kreislaufwirtschaft, so Umweltminister Norbert Totschnig (ÖVP) bei einer Pressekonferenz. Ein erster „Klimafahrplan“ soll bis Ende 2027 erarbeitet werden."
-    },
-    {
-      "id": "https://orf.at/stories/3442533/",
-      "title": "Dieselpreis legt weiter zu",
-      "titleAr": "سعر الديزل يرتفع أكثر",
-      "translated": true,
-      "link": "https://orf.at/stories/3442533/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-18T11:29:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442532/",
-      "title": "Philippinen: Tote nach Schüssen in Schule",
-      "titleAr": "الفلبين: قتلى بعد إطلاق النار في المدرسة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442532/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-18T11:20:21+02:00",
-      "description": ""
     }
   ]
 }
