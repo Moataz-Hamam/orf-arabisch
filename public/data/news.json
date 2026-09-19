@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-19T20:49:11.150Z",
+  "updatedAt": "2026-09-19T23:13:56.225Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442694/",
+      "title": "Drei Tote bei Angriff im Kiewer Umland",
+      "titleAr": "ثلاثة قتلى في هجوم في محيط كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3442694/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-19T23:29:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442693/",
+      "title": "Frankreichs Le Pen geht auf Abstand zu Russland",
+      "titleAr": "لي بن الفرنسي يبتعد عن روسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442693/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-19T23:06:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442692/",
+      "title": "Bilder bei Mona Lisa im Louvre aufgehängt: Festnahmen",
+      "titleAr": "صور معلقة على لوحة موناليزا في اللوفر: اعتقالات",
+      "translated": true,
+      "link": "https://orf.at/stories/3442692/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-19T22:56:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442691/",
+      "title": "Schweiz: Volksabstimmung gegen neue AKWs fix",
+      "titleAr": "سويسرا: استفتاء شعبي نهائي ضد المفاعلات النووية الجديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442691/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-19T22:51:00+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442684/",
       "title": "Weißes Haus weist drei Reporterinnen ab",
@@ -125,7 +169,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-19T17:12:11+02:00",
-      "description": "Saudi-Arabien gerät offenbar wieder unter Beschuss aus dem südlichen Nachbarland Jemen. Die Huthis haben nach eigenen Angaben am Samstag „sensible“ Ziele in der saudi-arabischen Hauptstadt Riad sowie Ölanlagen am Roten Meer angegriffen. Augenzeugen berichteten von Explosionen in Riad sowie von schwarzem Rauch und Flammen in der Nähe des internationalen Flughafens."
+      "description": "Saudi-Arabien gerät offenbar wieder unter Beschuss aus dem südlichen Nachbarland Jemen. Die Huthis haben nach eigenen Angaben am Samstag „sensible“ Ziele in der saudi-arabischen Hauptstadt Riad sowie Ölanlagen am Roten Meer angegriffen. Augenzeugen berichteten von Explosionen in Riad. In der Nähe des internationalen Flughafens war eine schwarze Rauchsäule zu sehen."
     },
     {
       "id": "https://orf.at/stories/3442670/",
@@ -224,17 +268,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-19T11:28:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442642/",
-      "title": "Komponist Duncan Sheik 56-jährig verstorben",
-      "titleAr": "الموسيقي دانكن شيك يوفى عن عمر 56 عامًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442642/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-19T10:31:41+02:00",
       "description": ""
     }
   ]
