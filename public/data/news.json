@@ -4,8 +4,30 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-20T20:54:54.899Z",
+  "updatedAt": "2026-09-20T23:18:10.982Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442752/",
+      "title": "AfD und Linke siegen, CDU stürzt ab",
+      "titleAr": "حزب الديمقراطية الحرة واليساريين يفوزان، الحزب المسيحي الديمقراطي ينهار",
+      "translated": true,
+      "link": "https://orf.at/stories/3442752/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T00:18:48+02:00",
+      "description": "Bei den Landtagswahlen in den deutschen Bundesländern Mecklenburg-Vorpommern und Berlin hat es am Sonntag Siege für die Alternative für Deutschland (AfD) und die Linke gegeben. In Mecklenburg-Vorpommern überholte die AfD mit starken Zuwächsen die regierende SPD, die CDU scheiterte an der Fünfprozenthürde – erstmals bei einer Landtagswahl. In Berlin wurde die regierende CDU von der Linken überholt."
+    },
+    {
+      "id": "https://orf.at/stories/3442761/",
+      "title": "Iranische Wirtschaft seit Kriegsbeginn deutlich geschrumpft",
+      "titleAr": "الاقتصاد الإيراني يتقلص منذ بداية الحرب",
+      "translated": true,
+      "link": "https://orf.at/stories/3442761/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T23:54:00+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442758/",
       "title": "Doppeljackpot bei Lotto „6 aus 45“",
