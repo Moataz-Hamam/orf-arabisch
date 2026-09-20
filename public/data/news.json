@@ -4,11 +4,176 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-20T05:00:39.801Z",
+  "updatedAt": "2026-09-20T11:34:53.222Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3442724/",
+      "title": "ÖGB-Chef Katzian gegen Personaldebatte in SPÖ",
+      "titleAr": "رئيس ÖGB يرفض نقاش التوظيف في الحزب الاشتراكي الديمقراطي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442724/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-20T13:24:58+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442723/",
+      "title": "Tote und Verletzte bei neuer Gewalt im Westjordanland",
+      "titleAr": "أموات وإصابات في أعمال عنف جديدة بالضفة الغربية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442723/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T13:17:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442719/",
+      "title": "Tötung per Kopfschuss: Ex-Soldat in Israel begnadigt",
+      "titleAr": "قتل برصاصة رأس: جندي سابق في إسرائيل يُعفى",
+      "translated": true,
+      "link": "https://orf.at/stories/3442719/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T12:15:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442718/",
+      "title": "„Handelsblatt“: Porsche könnte weitere 4.000 Stellen abbauen",
+      "titleAr": "بورشه قد تُسقط 4,000 وظيفة حسب Handelsblatt",
+      "translated": true,
+      "link": "https://orf.at/stories/3442718/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-20T11:52:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442712/",
+      "title": "Tansania: Zehn tote Löwen in Naturschutzgebiet gefunden",
+      "titleAr": "تنزانيا: عثر على عشرة أسود ميتة في محمية طبيعية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442712/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-20T10:20:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442705/",
+      "title": "Ed Sheeran äußerte sich nach Macklemore-Rauswurf",
+      "titleAr": "إد شيران يعلق بعد طرد ماكليمور",
+      "translated": true,
+      "link": "https://orf.at/stories/3442705/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-20T09:27:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442703/",
+      "title": "Letzter Wahltag beginnt mit Drohnenalarm",
+      "titleAr": "اليوم الأخير للانتخابات يبدأ بإطلاق طائرات بدون طيار",
+      "translated": true,
+      "link": "https://orf.at/stories/3442703/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T09:17:34+02:00",
+      "description": "Russische Behördenvertreter haben am Sonntag in der Früh einen großangelegten Drohnenangriff aus der Ukraine gemeldet. Moskaus Bürgermeister Sergej Sobjanin sprach von einem „beispiellosen Angriff“ mit 1.600 Drohnen, wobei allein 450 auf Moskau zusteuernde Drohnen abgefangen worden seien. In Russland geht am Sonntagabend die dreitägige, im Zeichen des Ukraine-Krieges stehende Parlamentswahl zu Ende."
+    },
+    {
+      "id": "https://orf.at/stories/3442704/",
+      "title": "DR Kongo: Testprogramm für Ebola-Impfung angelaufen",
+      "titleAr": "DR الكونغو يبدأ برنامج تجريبي لقاح الإيبولا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442704/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-09-20T09:17:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442701/",
+      "title": "Guterres-Nachfolge: Bachelet zieht Kandidatur zurück",
+      "titleAr": "باخليت سحب ترشيحها للانتخابات",
+      "translated": true,
+      "link": "https://orf.at/stories/3442701/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T07:45:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442700/",
+      "title": "Social-Media-Verbot: Über 170 Stellungnahmen eingegangen",
+      "titleAr": "حظر وسائل التواصل الاجتماعي: أكثر من 170 ملاحظة مستلمة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442700/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-20T07:41:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442699/",
+      "title": "Wehrpflicht: Opposition wartet weiter auf konkrete Gespräche",
+      "titleAr": "الجباية العسكرية: المعارضة تنتظر حوارًا ملموسًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442699/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-20T07:38:38+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442698/",
+      "title": "Syrien: Ex-General aus Zeit von Assad festgenommen",
+      "titleAr": "سوريا: سجن عميد سابق من عهد أسد",
+      "translated": true,
+      "link": "https://orf.at/stories/3442698/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T07:35:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442435/",
+      "title": "Landtagswahlen sorgen für Nervosität",
+      "titleAr": "الانتخابات البرلمانية تثير القلق",
+      "translated": true,
+      "link": "https://orf.at/stories/3442435/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T07:29:17+02:00",
+      "description": "Zwei Wochen nach dem Erdrutschsieg der AfD bei der Landtagswahl in Sachsen-Anhalt wird am Sonntag in zwei weiteren deutschen Bundesländern gewählt: Berlin und Mecklenburg-Vorpommern. Auch wenn es regionale Besonderheiten gibt, ist angesichts des Aufwinds der AfD und der folgenden Personaldebatten die Nervosität bei CDU und SPD auch auf Bundesebene groß."
+    },
+    {
+      "id": "https://orf.at/stories/3442696/",
+      "title": "Moskau meldet „beispiellosen“ ukrainischen Drohnenangriff",
+      "titleAr": "موسكو تُبلغ عن هجوم طائرات بدون طيار أوكراني غير مسبوق",
+      "translated": true,
+      "link": "https://orf.at/stories/3442696/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T07:28:40+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442695/",
+      "title": "Kammer: Herbsternte vielfach schlechter als erwartet",
+      "titleAr": "القطاع: محاصيل الخريف أسوأ بكثير من المتوقع",
+      "translated": true,
+      "link": "https://orf.at/stories/3442695/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-20T07:19:57+02:00",
+      "description": ""
+    },
+    {
       "id": "https://orf.at/stories/3442694/",
-      "title": "Drei Tote bei Angriff im Kiewer Umland",
+      "title": "Drei Tote bei Angriff in Kiewer Umland",
       "titleAr": "ثلاثة قتلى في هجوم في محيط كييف",
       "translated": true,
       "link": "https://orf.at/stories/3442694/",
@@ -137,138 +302,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-09-19T18:57:58+02:00",
       "description": "Ein mit Hilfe von künstlicher Intelligenz (KI) erstellter, fehlerhafter US-Geheimdienstbericht hätte laut CNN fast dazu geführt, dass das US-Militär inmitten des Iran-Krieges ein chinesisches Schiff gestürmt hätte. Wie der US-Sender mit Verweis auf mehrere mit der Sache vertraute Quellen nahelegt, wurde der Fehler offenbar erst kurz vor einem möglichen Einsatzbefehl erkannt."
-    },
-    {
-      "id": "https://orf.at/stories/3442673/",
-      "title": "Deutscher General wird Chef des NATO-Militärausschusses",
-      "titleAr": "جنرال ألماني يصبح رئيس لجنة الناتو العسكرية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442673/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T17:59:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442671/",
-      "title": "Schlagersänger Peter Petrel gestorben",
-      "titleAr": "المغني الشعبي بيتر بيتريل متوفى",
-      "translated": true,
-      "link": "https://orf.at/stories/3442671/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-19T17:13:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442666/",
-      "title": "Huthis melden Angriffe auf Riad und Ölanlagen",
-      "titleAr": "الهاوث يشن هجمات على الرياض ومرافق النفط",
-      "translated": true,
-      "link": "https://orf.at/stories/3442666/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T17:12:11+02:00",
-      "description": "Saudi-Arabien gerät offenbar wieder unter Beschuss aus dem südlichen Nachbarland Jemen. Die Huthis haben nach eigenen Angaben am Samstag „sensible“ Ziele in der saudi-arabischen Hauptstadt Riad sowie Ölanlagen am Roten Meer angegriffen. Augenzeugen berichteten von Explosionen in Riad. In der Nähe des internationalen Flughafens war eine schwarze Rauchsäule zu sehen."
-    },
-    {
-      "id": "https://orf.at/stories/3442670/",
-      "title": "Den Haag: Zusammenstöße zwischen Polizei und Rechtsradikalen",
-      "titleAr": "هاغ: صدامات بين الشرطة والراديكاليين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442670/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T17:01:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442669/",
-      "title": "Belarussische Militärübung an Grenze zur EU",
-      "titleAr": "الجيش البيلاروسي يدرب على الحدود مع الاتحاد الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442669/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T16:16:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442668/",
-      "title": "Vermisste Teile von F-35-Tarnkappenjet in China vermutet",
-      "titleAr": "جزء طائرة F-35 مفقود في الصين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442668/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T16:14:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442659/",
-      "title": "Drohne: Flughafen Luxemburg stoppte vorübergehend Betrieb",
-      "titleAr": "مطار لوكسمبورغ يوقف تشغيله مؤقتاً",
-      "translated": true,
-      "link": "https://orf.at/stories/3442659/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T15:25:53+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442653/",
-      "title": "CNN: KI-Fehler führte beinahe zu US-Militäreinsatz",
-      "titleAr": "CNN: خطأ ذكاء اصطناعي كاد أن يدفع إلى تدخل عسكري أمريكي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442653/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T12:49:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442650/",
-      "title": "191. Münchner Oktoberfest ist eröffnet",
-      "titleAr": "مهرجان أكتوبر ميونخ 191 يفتتح",
-      "translated": true,
-      "link": "https://orf.at/stories/3442650/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-19T12:13:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442645/",
-      "title": "Dänemark hofft auf „Ende der Unsicherheit“",
-      "titleAr": "الدانمارك تتطلع إلى نهاية عدم اليقين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442645/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T12:12:29+02:00",
-      "description": "Nach dem überraschenden Durchbruch im Streit um die Arktisinsel Grönland sind noch einige Fragen offen. Während US-Präsident Donald Trump mit dem Abkommen die „dauerhafte Kontrolle“ über die Sicherheit der Insel an die USA übertragen sieht, hofft Dänemark auf ein Ende der Unsicherheit, wie der dänische Außenminister Lars Lökke Rasmussen am Samstag mitteilte. Regierungschefin Mette Frederiksen sprach von der „Aussicht auf ein gutes Abkommen“."
-    },
-    {
-      "id": "https://orf.at/stories/3442648/",
-      "title": "Washington: Menschenkette um Kennedy Center",
-      "titleAr": "واشنطن: حشد بشري حول مركز كينيدي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442648/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T11:32:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442647/",
-      "title": "Russland-Wahl: Bericht über Hackerangriff in Moskau",
-      "titleAr": "الانتخابات الروسية: هجوم هكر في موسكو",
-      "translated": true,
-      "link": "https://orf.at/stories/3442647/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T11:28:34+02:00",
-      "description": ""
     }
   ]
 }
