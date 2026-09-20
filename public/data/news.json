@@ -4,8 +4,74 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-20T11:34:53.222Z",
+  "updatedAt": "2026-09-20T16:14:56.968Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442737/",
+      "title": "Prognose: AfD bei Wahl in Mecklenburg-Vorpommern vor SPD",
+      "titleAr": "توقع: حزب الشعب الألماني يتصدر انتخابات ميكلاين-فورومبرن على الحزب الديمقراطي الاشتراكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442737/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-20T18:10:33+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442738/",
+      "title": "Prognose: Linkspartei gewinnt Wahl in Berlin vor CDU",
+      "titleAr": "توقع: الحزب اليساري يفوز في برلين على الحزب الديمقراطي المسيحي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442738/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-20T18:10:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442732/",
+      "title": "Menschen hingen kopfüber in Wiesn-Drehkarussell fest",
+      "titleAr": "أشخاص عالقون رأساً على عقب في دوامة مهرجان فيسبن",
+      "translated": true,
+      "link": "https://orf.at/stories/3442732/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-09-20T15:34:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442135/",
+      "title": "Mit Benedict Cumberbatch die Erde retten",
+      "titleAr": "انقاذ الأرض مع بنديكت كومبرباتش",
+      "translated": true,
+      "link": "https://orf.at/stories/3442135/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-20T15:27:41+02:00",
+      "description": "Der britische Schauspielstar Benedict Cumberbatch stellt gemeinsam mit dem Team um Tierfilmlegende David Attenborough ein Klimaevent auf die Beine. Die Dokumentation „How to Live on Earth“ zeigt positive Klimaschutzinitiativen und -projekte rund um die Erde. Nach dem Kinostart in Großbritannien ist „How to Live on Earth“ ab heute auf der Streamingplattform YouTube zu sehen. Das Ziel der Filmemacher: möglichst viele Menschen zu erreichen."
+    },
+    {
+      "id": "https://orf.at/stories/3442726/",
+      "title": "Meloni kündigt Verbot von Burka und Nikab an",
+      "titleAr": "ميلوني تعلن حظر البُرّك والنيكاب",
+      "translated": true,
+      "link": "https://orf.at/stories/3442726/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T13:58:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442725/",
+      "title": "Nordkorea feuert zwei Geschoße ins Meer",
+      "titleAr": "كوريا الشمالية تطلق قذائفتين في البحر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442725/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-20T13:34:21+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442724/",
       "title": "ÖGB-Chef Katzian gegen Personaldebatte in SPÖ",
@@ -74,8 +140,8 @@
     },
     {
       "id": "https://orf.at/stories/3442703/",
-      "title": "Letzter Wahltag beginnt mit Drohnenalarm",
-      "titleAr": "اليوم الأخير للانتخابات يبدأ بإطلاق طائرات بدون طيار",
+      "title": "Letzter Wahltag begann mit Drohnenalarm",
+      "titleAr": "يوم الانتخابات الأخير يبدأ بتنبيه طائرات بدون طيار",
       "translated": true,
       "link": "https://orf.at/stories/3442703/",
       "category": "Ausland",
@@ -258,50 +324,6 @@
       "categoryAr": "أحداث",
       "publishedAt": "2026-09-19T21:17:54+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442133/",
-      "title": "Welterfolg mit Rissen",
-      "titleAr": "نجاح عالمي مع شقوق",
-      "translated": true,
-      "link": "https://orf.at/stories/3442133/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-19T20:41:17+02:00",
-      "description": "Sie sind sechs junge Frauen aus vier Ländern, die innerhalb von zwei Jahren auf die Grammy-Bühne aufgestiegen sind: Katseye gilt als derzeit größte Girlgroup der Gegenwart – und als Labor für die Zukunft der Popmusik. Ihre „Wildworld Tour“ durch Europa ist gerade zu Ende gegangen, nun touren sie in den USA weiter. Doch hinter dem Erfolg zeigen sich auch Schattenseiten: Zwei Mitglieder befinden sich in einer temporären Auszeit, die Band spricht offen über Hassnachrichten."
-    },
-    {
-      "id": "https://orf.at/stories/3442685/",
-      "title": "Trump kündigt „AI Force“ zur KI-Regulierung an",
-      "titleAr": "ترامب يعلن عن قوة الذكاء الاصطناعي لتنظيمه",
-      "translated": true,
-      "link": "https://orf.at/stories/3442685/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T20:27:39+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442683/",
-      "title": "Parlamentswahl in Russland geht zu Ende",
-      "titleAr": "انتخابات البرلمان في روسيا تكمل",
-      "translated": true,
-      "link": "https://orf.at/stories/3442683/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T19:19:42+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442657/",
-      "title": "KI-Fehler führte beinahe zu US-Militäreinsatz",
-      "titleAr": "خطأ في الذكاء الاصطناعي يقترب من تدخل عسكري أمريكي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442657/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-19T18:57:58+02:00",
-      "description": "Ein mit Hilfe von künstlicher Intelligenz (KI) erstellter, fehlerhafter US-Geheimdienstbericht hätte laut CNN fast dazu geführt, dass das US-Militär inmitten des Iran-Krieges ein chinesisches Schiff gestürmt hätte. Wie der US-Sender mit Verweis auf mehrere mit der Sache vertraute Quellen nahelegt, wurde der Fehler offenbar erst kurz vor einem möglichen Einsatzbefehl erkannt."
     }
   ]
 }

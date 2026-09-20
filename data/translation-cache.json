@@ -1060,8 +1060,8 @@
     "titleAr": "إد شيران يعلق بعد طرد ماكليمور"
   },
   "https://orf.at/stories/3442703/": {
-    "sourceTitle": "Letzter Wahltag beginnt mit Drohnenalarm",
-    "titleAr": "اليوم الأخير للانتخابات يبدأ بإطلاق طائرات بدون طيار"
+    "sourceTitle": "Letzter Wahltag begann mit Drohnenalarm",
+    "titleAr": "يوم الانتخابات الأخير يبدأ بتنبيه طائرات بدون طيار"
   },
   "https://orf.at/stories/3442704/": {
     "sourceTitle": "DR Kongo: Testprogramm für Ebola-Impfung angelaufen",
@@ -1094,5 +1094,29 @@
   "https://orf.at/stories/3442695/": {
     "sourceTitle": "Kammer: Herbsternte vielfach schlechter als erwartet",
     "titleAr": "القطاع: محاصيل الخريف أسوأ بكثير من المتوقع"
+  },
+  "https://orf.at/stories/3442737/": {
+    "sourceTitle": "Prognose: AfD bei Wahl in Mecklenburg-Vorpommern vor SPD",
+    "titleAr": "توقع: حزب الشعب الألماني يتصدر انتخابات ميكلاين-فورومبرن على الحزب الديمقراطي الاشتراكي"
+  },
+  "https://orf.at/stories/3442738/": {
+    "sourceTitle": "Prognose: Linkspartei gewinnt Wahl in Berlin vor CDU",
+    "titleAr": "توقع: الحزب اليساري يفوز في برلين على الحزب الديمقراطي المسيحي"
+  },
+  "https://orf.at/stories/3442732/": {
+    "sourceTitle": "Menschen hingen kopfüber in Wiesn-Drehkarussell fest",
+    "titleAr": "أشخاص عالقون رأساً على عقب في دوامة مهرجان فيسبن"
+  },
+  "https://orf.at/stories/3442135/": {
+    "sourceTitle": "Mit Benedict Cumberbatch die Erde retten",
+    "titleAr": "انقاذ الأرض مع بنديكت كومبرباتش"
+  },
+  "https://orf.at/stories/3442726/": {
+    "sourceTitle": "Meloni kündigt Verbot von Burka und Nikab an",
+    "titleAr": "ميلوني تعلن حظر البُرّك والنيكاب"
+  },
+  "https://orf.at/stories/3442725/": {
+    "sourceTitle": "Nordkorea feuert zwei Geschoße ins Meer",
+    "titleAr": "كوريا الشمالية تطلق قذائفتين في البحر"
   }
 }
