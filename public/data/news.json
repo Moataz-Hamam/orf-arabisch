@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-20T23:18:10.982Z",
+  "updatedAt": "2026-09-21T05:06:35.366Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442764/",
+      "title": "Iran schließt französisches Sprachzentrum in Teheran",
+      "titleAr": "إيران تغلق المركز الفرنسي للغات في طهران",
+      "translated": true,
+      "link": "https://orf.at/stories/3442764/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T06:34:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442763/",
+      "title": "ICE-Beamter schoss Mann in Texas nieder: Schwer verletzt",
+      "titleAr": "موظف ICE يطلق النار على رجل في تكساس، إصابته إصابات شديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442763/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T06:32:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442762/",
+      "title": "Präsidentenmord: Haiti lieferte 18 Angeklagte an USA aus",
+      "titleAr": "هاتي تسلم 18 متهمًا للولايات المتحدة في قضية اغتيال الرئيس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442762/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T06:30:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442760/",
+      "title": "Auf Durchhalteparolen folgen Krisentreffen",
+      "titleAr": "بعد نداءات الصمود، تُعقد اجتماعات أزمة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442760/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T06:11:00+02:00",
+      "description": "In Deutschland beraten am Montag die Spitzen der Bundesparteien über die Konsequenzen der Landtagswahlen in Berlin und Mecklenburg-Vorpommern. Der Fokus richtet sich auf die CDU, die in Mecklenburg-Vorpommern erstmals aus einem deutschen Landtag geflogen ist und in Berlin von der linkspopulistischen Linken als neue Nummer eins deutlich überholt wurde. Parteichef und Kanzler Friedrich Merz reagierte am Sonntag unmittelbar nach Wahlschluss mit Durchhalteparolen und schloss einen Rücktritt aus. Ob es dabei bleibt, könnte sich bei den nun anstehenden Krisentreffen weisen."
+    },
     {
       "id": "https://orf.at/stories/3442752/",
       "title": "AfD und Linke siegen, CDU stürzt ab",
@@ -63,8 +107,8 @@
     },
     {
       "id": "https://orf.at/stories/3442749/",
-      "title": "Putins Partei gewinnt Parlamentswahl in Russland",
-      "titleAr": "حزب بوتين يفوز بالانتخابات البرلمانية في روسيا",
+      "title": "Putin-Partei vor Zweidrittelmehrheit im Parlament",
+      "titleAr": "حزب بوتين يقترب من أغلبية ثلثي البرلمان",
       "translated": true,
       "link": "https://orf.at/stories/3442749/",
       "category": "Ausland",
@@ -136,7 +180,7 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-20T18:20:17+02:00",
-      "description": "Für das von der Regierung geplante Social-Media-Verbot für unter 14-Jährige läuft am Montag die Begutachtungsfrist für den eingebrachten Gesetzesentwurf aus. Bis Sonntag gab es über 170 Stellungnahmen. Begrüßt wurde etwa der Ansatz, wonach die betroffenen Plattformen in die Verantwortung genommen werden und bei süchtig machenden Funktionen der Netzwerke angesetzt werden soll. Es mangelt allerdings nicht an Bedenken."
+      "description": "Für das von der Regierung geplante Social-Media-Verbot für unter 14-Jährige läuft am Montag die Begutachtungsfrist für den eingebrachten Gesetzesentwurf aus. Bis Sonntagabend gab es über 180 Stellungnahmen. Begrüßt wurde etwa der Ansatz, wonach die betroffenen Plattformen in die Verantwortung genommen werden und bei süchtig machenden Funktionen der Netzwerke angesetzt werden soll. Es mangelt allerdings nicht an Bedenken."
     },
     {
       "id": "https://orf.at/stories/3442737/",

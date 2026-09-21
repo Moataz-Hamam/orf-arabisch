@@ -1132,8 +1132,8 @@
     "titleAr": "فرنسا وكندا توسّع التعاون"
   },
   "https://orf.at/stories/3442749/": {
-    "sourceTitle": "Putins Partei gewinnt Parlamentswahl in Russland",
-    "titleAr": "حزب بوتين يفوز بالانتخابات البرلمانية في روسيا"
+    "sourceTitle": "Putin-Partei vor Zweidrittelmehrheit im Parlament",
+    "titleAr": "حزب بوتين يقترب من أغلبية ثلثي البرلمان"
   },
   "https://orf.at/stories/3442746/": {
     "sourceTitle": "Bewaffnete Gruppen in Äthiopien bilden Allianz zum Umsturz",
@@ -1166,5 +1166,21 @@
   "https://orf.at/stories/3442761/": {
     "sourceTitle": "Iranische Wirtschaft seit Kriegsbeginn deutlich geschrumpft",
     "titleAr": "الاقتصاد الإيراني يتقلص منذ بداية الحرب"
+  },
+  "https://orf.at/stories/3442764/": {
+    "sourceTitle": "Iran schließt französisches Sprachzentrum in Teheran",
+    "titleAr": "إيران تغلق المركز الفرنسي للغات في طهران"
+  },
+  "https://orf.at/stories/3442763/": {
+    "sourceTitle": "ICE-Beamter schoss Mann in Texas nieder: Schwer verletzt",
+    "titleAr": "موظف ICE يطلق النار على رجل في تكساس، إصابته إصابات شديدة"
+  },
+  "https://orf.at/stories/3442762/": {
+    "sourceTitle": "Präsidentenmord: Haiti lieferte 18 Angeklagte an USA aus",
+    "titleAr": "هاتي تسلم 18 متهمًا للولايات المتحدة في قضية اغتيال الرئيس"
+  },
+  "https://orf.at/stories/3442760/": {
+    "sourceTitle": "Auf Durchhalteparolen folgen Krisentreffen",
+    "titleAr": "بعد نداءات الصمود، تُعقد اجتماعات أزمة"
   }
 }
