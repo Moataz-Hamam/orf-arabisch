@@ -4,8 +4,140 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-22T11:49:35.626Z",
+  "updatedAt": "2026-09-22T17:03:02.123Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442938/",
+      "title": "Vielfältiges ORF-Programm trotz Spardrucks",
+      "titleAr": "برنامج ORF متنوع رغم ضغوط التوفير",
+      "translated": true,
+      "link": "https://orf.at/stories/3442938/",
+      "category": "Medien",
+      "categoryAr": "Medien",
+      "publishedAt": "2026-09-22T19:00:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442934/",
+      "title": "Abkommen zu Grönland unterzeichnet",
+      "titleAr": "توقيع اتفاق مع جرينلاند",
+      "translated": true,
+      "link": "https://orf.at/stories/3442934/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T18:24:45+02:00",
+      "description": "US-Präsident Donald Trump, die dänische Ministerpräsidentin Mette Frederiksen und der grönländische Regierungschef Jens-Frederik Nielsen haben am Dienstag am Rande der UNO-Vollversammlung in New York ein Sicherheitsabkommen für die Insel Grönland unterzeichnet. Zuvor hatte Trump zudem den Bau von zwei großen neuen US-Militärbasen angekündigt. Bereits in der Vorwoche hatte man sich auf das Abkommen geeinigt, dessen konkreter Inhalt zunächst nicht veröffentlicht wurde."
+    },
+    {
+      "id": "https://orf.at/stories/3442942/",
+      "title": "Sanktionen gegen zwei russische Oligarchen aufgehoben",
+      "titleAr": "إلغاء عقوبات على عمالقة روسيين",
+      "translated": true,
+      "link": "https://orf.at/stories/3442942/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T17:33:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442940/",
+      "title": "Rede vor UNO: Trump verteidigt seinen Iran-Krieg",
+      "titleAr": "ترامب يدافع عن حربه الإيرانية أمام الأمم المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442940/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T17:14:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442939/",
+      "title": "US-Kampfjet F-16 über Deutschland abgestürzt",
+      "titleAr": "تحطم طائرة F-16 فوق ألمانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442939/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T16:55:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442933/",
+      "title": "Guterres: USA und China sollen bei KI zusammenarbeiten",
+      "titleAr": "غوتيرس يدعو تعاون أمريكا والصين في الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442933/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T16:28:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442897/",
+      "title": "Neuer Schuldspruch für Benko",
+      "titleAr": "حكم جديد ضد بنكو",
+      "translated": true,
+      "link": "https://orf.at/stories/3442897/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-22T16:21:23+02:00",
+      "description": "Der gefallene Signa-Gründer Rene Benko ist am Landesgericht Innsbruck erneut schuldig gesprochen worden. Er wurde wegen betrügerischer Krida zu 30 Monaten Haft verurteilt. Am Dienstag hat er vor Gericht erstmals in einem Strafverfahren im Zuge der Signa-Pleite ausgesagt. Die Schuld wies er von sich. Er sagte zudem, Ende 2023 sei er noch überzeugt gewesen, die Sanierung der Signa-Gruppe werde gelingen."
+    },
+    {
+      "id": "https://orf.at/stories/3442929/",
+      "title": "Kreml lehnt Selenskyjs Waffenruhevorschlag ab",
+      "titleAr": "الكرمل يرفض اقتراح سيلينسكي بوقف الأسلحة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442929/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T15:36:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442923/",
+      "title": "Litauen: Neue US-Truppen auf dem Weg",
+      "titleAr": "ليتوانيا تستعد لتواجد قوات أمريكية جديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442923/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T15:15:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442921/",
+      "title": "UNO-Generaldebatte: Iranische Delegation in New York",
+      "titleAr": "وفد إيراني في نيويورك خلال مناظرة الأمم المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442921/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T15:00:26+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442919/",
+      "title": "Einigung auf neues Modell für Zivildienst",
+      "titleAr": "اتفاق على نموذج جديد للخدمة المدنية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442919/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T14:46:07+02:00",
+      "description": "Nachdem die Koalition bereits eine Einigung auf die Wehrdienstreform erzielt hat, gibt es nun auch Fortschritt beim Zivildienst. Künftige Zivildiener sollen aus mehreren Möglichkeiten wählen können. Zudem soll es eine verpflichtende Ausbildung geben. Doch es bedarf noch der Stimmen von FPÖ oder Grünen, bevor die Reform zur Abstimmung kommen kann."
+    },
+    {
+      "id": "https://orf.at/stories/3442306/",
+      "title": "UFO für Frida Kahlo und die Jedi-Ritter",
+      "titleAr": "غريب طائر غير معروف لفريدا كاهلو وجيداي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442306/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-22T13:51:07+02:00",
+      "description": "Am Dienstag wird das Lucas Museum of Narrative Art in Los Angeles eröffnet. Über eine Milliarde US-Dollar haben „Star Wars“-Schöpfer George Lucas und seine Frau Mellody Hobson in das Projekt investiert. Das Museum, das architektonisch an ein UFO erinnert, vereint „hohe“ und populäre Kunst: Frida Kahlo trifft auf die Jedi-Ritter."
+    },
     {
       "id": "https://orf.at/stories/3442916/",
       "title": "Donatella Versace lanciert neue Marke mit Revolve",
@@ -19,8 +151,8 @@
     },
     {
       "id": "https://orf.at/stories/3442912/",
-      "title": "Regierung: CO2-Speicherung mit „enormem Potenzial“",
-      "titleAr": "الحكومة: تخزين ثاني أكسيد الكربون يحمل إمكانات هائلة",
+      "title": "Regierung: Tiefengeothermie mit „enormem Potenzial“",
+      "titleAr": "الحكومة: الطاقة الحرارية الجوفية العميقة ذات إمكانات هائلة",
       "translated": true,
       "link": "https://orf.at/stories/3442912/",
       "category": "Inland",
@@ -70,7 +202,7 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-22T12:07:32+02:00",
-      "description": "Der chronische Überbelag österreichischer Haftanstalten sowie der Mangel an Personal erfordern Maßnahmen. Im Ministerrat am Dienstag beschloss die Bundesregierung nun, dass Straftäterinnen und Straftäter künftig leichter in ihre Herkunftsländer abgeschoben werden können. Die Möglichkeit, dagegen Einspruch zu erheben, fällt weg."
+      "description": "Der chronische Überbelag österreichischer Haftanstalten sowie der Mangel an Personal erfordern Maßnahmen. Im Ministerrat am Dienstag beschloss die Bundesregierung nun, dass ausländische Straftäterinnen und Straftäter künftig leichter in ihre Herkunftsländer abgeschoben werden können. Die Möglichkeit, dagegen Einspruch zu erheben, fällt weg."
     },
     {
       "id": "https://orf.at/stories/3442902/",
@@ -137,171 +269,6 @@
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-22T09:38:30+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442869/",
-      "title": "Neue Regeln im British Museum",
-      "titleAr": "قواعد جديدة في المتحف البريطاني",
-      "translated": true,
-      "link": "https://orf.at/stories/3442869/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-22T08:47:00+02:00",
-      "description": "Seit fast zwei Wochen strömen die Menschen in Scharen ins British Museum in London, um die Ausstellung des mittelalterlichen Wandteppichs von Bayeux zu besuchen. Wer Tickets der ausverkauften Schau ergattern konnte, muss vor dem Eintritt lange Wartezeiten in Kauf nehmen. Um die Besucherinnen und Besucher schneller durch die Ausstellung zu schleusen, führte das Museum neue Regeln ein: Zeichnen und Fotografieren verboten."
-    },
-    {
-      "id": "https://orf.at/stories/3442874/",
-      "title": "Ukraine meldet Tote nach russischem Angriff auf Dnipro",
-      "titleAr": "أوكرانيا تُبلغ عن قتلى بعد هجوم روسي على دنيبرو",
-      "translated": true,
-      "link": "https://orf.at/stories/3442874/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T08:06:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442872/",
-      "title": "Südkoreas Präsident will Lockerung von Nordkorea-Sanktionen",
-      "titleAr": "رئيس كوريا الجنوبية يطالب بتخفيف عقوبات كوريا الشمالية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442872/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T07:41:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442871/",
-      "title": "Chaos auf US-Flughäfen: Treffen Carney – Stocker abgesagt",
-      "titleAr": "فوضى في مطارات أمريكية: اجتماع كارني-ستوكير ملغي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442871/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T07:29:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442870/",
-      "title": "Grüne sehen sich in Herbstkampagne als „einzige Alternative“",
-      "titleAr": "الأخضر يراهنون في الحملة الخريفية على كونهوا البديل الوحيد",
-      "translated": true,
-      "link": "https://orf.at/stories/3442870/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T07:26:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442868/",
-      "title": "Deutschland senkt Steuer auf Benzin und Diesel",
-      "titleAr": "ألمانيا تخفض ضريبة البنزين والديزل",
-      "translated": true,
-      "link": "https://orf.at/stories/3442868/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-22T06:45:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442867/",
-      "title": "Huthis: Mindestens sechs Tote bei Angriff auf Küstenstadt",
-      "titleAr": "الهاوثيون: ستة قتلى على الأقل في هجوم على مدينة ساحلية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442867/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T06:24:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442866/",
-      "title": "Kreml: Versorgungsengpässe in russisch kontrollierter Stadt",
-      "titleAr": "الكرمل: نقص إمدادات في مدينة تحت سيطرة روسية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442866/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T06:22:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442865/",
-      "title": "UNO: Aufruf zu stärkerer Regulierung von KI",
-      "titleAr": "الأمم المتحدة: دعوة لتشديد تنظيم الذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442865/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T06:10:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442864/",
-      "title": "Mindestens vier Tote in Japan durch Taifun",
-      "titleAr": "أربع قتلى على الأقل في اليابان بسبب تايفون",
-      "translated": true,
-      "link": "https://orf.at/stories/3442864/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-22T06:06:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442863/",
-      "title": "Hausverbot für Medien: Weißes Haus startet „Trump TV“",
-      "titleAr": "حظر على وسائل الإعلام: البيت الأبيض يطلق «ترويم تي في»",
-      "translated": true,
-      "link": "https://orf.at/stories/3442863/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T06:00:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442792/",
-      "title": "Guterres-Nachfolge nimmt Konturen an",
-      "titleAr": "تحديد شكل خلفية غوتيرس",
-      "translated": true,
-      "link": "https://orf.at/stories/3442792/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T06:00:39+02:00",
-      "description": "Ab Dienstag kommen Staats- und Regierungsspitzen aus den 193 UNO-Mitgliedsländern zur einwöchigen Generaldebatte der Vereinten Nationen zusammen, um über die drängendsten aktuellen weltpolitischen Themen zu beraten. Nicht ausdrücklich auf der Agenda, aber deshalb nicht weniger präsent wird der nahende Abgang von UNO-Generalsekretär Antonio Guterres sein. Zuletzt nahm das Rennen um seine Nachfolge Fahrt auf."
-    },
-    {
-      "id": "https://orf.at/stories/3442862/",
-      "title": "Tödlicher Unfall bei Fahrgeschäft auf Oktoberfest",
-      "titleAr": "حادث مميت في لعبة ترفيهية بمهرجان أكتوبر",
-      "translated": true,
-      "link": "https://orf.at/stories/3442862/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-22T02:46:09+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442861/",
-      "title": "Fast eine Million Euro für Bardots Erinnerungsstücke",
-      "titleAr": "تقريبًا مليون يورو لذكريات برجيت باردوت",
-      "translated": true,
-      "link": "https://orf.at/stories/3442861/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-22T00:19:17+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442799/",
-      "title": "Schwarzes Meer als „anderes Hormus“",
-      "titleAr": "البحر الأسود يُصوَّر كـ 'هورمس آخر'",
-      "translated": true,
-      "link": "https://orf.at/stories/3442799/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T23:58:58+02:00",
-      "description": "Der Krieg gegen den Iran ist in den letzten Monaten gegenüber dem Ukraine-Krieg deutlich in den Vordergrund der Aufmerksamkeit gerückt. Grund dafür sind vor allem die steigenden Erdöl- und Treibstoffpreise durch die Blockade der Straße von Hormus. Dabei wiederholt sich im Schwarzen Meer aktuell ein Szenario, das dem im Nahen Osten ziemlich ähnlich und kritisch ist, nur dass es dort um Getreide geht. Bloomberg zog am Montag einen Vergleich und nannte das Schwarze Meer „das andere Hormus“."
     }
   ]
 }
