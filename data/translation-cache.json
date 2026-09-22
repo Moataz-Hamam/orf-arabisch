@@ -1284,16 +1284,16 @@
     "titleAr": "الولايات الأمريكية تقوي دفاعها ضد التدخل"
   },
   "https://orf.at/stories/3442852/": {
-    "sourceTitle": "Grönland-Abkommen wird morgen unterzeichnet",
-    "titleAr": "تم توقيع اتفاق جرينلاند غدًا"
+    "sourceTitle": "Grönland-Abkommen wird heute unterzeichnet",
+    "titleAr": "تم توقيع اتفاقية غرينلاند اليوم"
   },
   "https://orf.at/stories/3442851/": {
-    "sourceTitle": "Trump will Kaliabkommen mit Belarus",
-    "titleAr": "ترامب يطالب باتفاق كالي مع بيلاروس"
+    "sourceTitle": "Abkommen geplant: Trump will Belarus Kali abkaufen",
+    "titleAr": "الاتفاق مُخطط: ترامب يرغب في شراء كالي من بيلاروسيا"
   },
   "https://orf.at/stories/3442849/": {
-    "sourceTitle": "Flugstopp auf Airports der US-Ostküste angeordnet",
-    "titleAr": "أُمر بوقف طيران في مطارات الساحل الشرقي للولايات المتحدة"
+    "sourceTitle": "Durchtrenntes Kabel legt Flugverkehr an US-Ostküste lahm",
+    "titleAr": "كابل مكسور يوقف حركة الطيران على الساحل الشرقي للولايات المتحدة"
   },
   "https://orf.at/stories/3442815/": {
     "sourceTitle": "Verbot von CO2-Speicherung vor Aufhebung",
@@ -1350,5 +1350,21 @@
   "https://orf.at/stories/3442829/": {
     "sourceTitle": "VW kündigt verschärften Sparkurs an",
     "titleAr": "فولكسفاجن تعلن مسار توفير أكثر صرامة"
+  },
+  "https://orf.at/stories/3442861/": {
+    "sourceTitle": "Fast eine Million Euro für Bardots Erinnerungsstücke",
+    "titleAr": "تقريبًا مليون يورو لذكريات برجيت باردوت"
+  },
+  "https://orf.at/stories/3442799/": {
+    "sourceTitle": "Schwarzes Meer als „anderes Hormus“",
+    "titleAr": "البحر الأسود يُصوَّر كـ 'هورمس آخر'"
+  },
+  "https://orf.at/stories/3442858/": {
+    "sourceTitle": "GB: Anklage im Zusammenhang mit Ruanda-Völkermord",
+    "titleAr": "المملكة المتحدة: اتهام بمسيرة الإبادة الجماعية في رواندا"
+  },
+  "https://orf.at/stories/3442853/": {
+    "sourceTitle": "Paramount legt Streit über Warner-Fusion bei",
+    "titleAr": "باراماونت تسجل نزاعًا حول اندماج وارنر"
   }
 }

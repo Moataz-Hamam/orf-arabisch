@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-21T20:01:15.038Z",
+  "updatedAt": "2026-09-22T00:10:51.318Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442861/",
+      "title": "Fast eine Million Euro für Bardots Erinnerungsstücke",
+      "titleAr": "تقريبًا مليون يورو لذكريات برجيت باردوت",
+      "translated": true,
+      "link": "https://orf.at/stories/3442861/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-22T00:19:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442799/",
+      "title": "Schwarzes Meer als „anderes Hormus“",
+      "titleAr": "البحر الأسود يُصوَّر كـ 'هورمس آخر'",
+      "translated": true,
+      "link": "https://orf.at/stories/3442799/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T23:58:58+02:00",
+      "description": "Der Krieg gegen den Iran ist in den letzten Monaten gegenüber dem Ukraine-Krieg deutlich in den Vordergrund der Aufmerksamkeit gerückt. Grund dafür sind vor allem die steigenden Erdöl- und Treibstoffpreise durch die Blockade der Straße von Hormus. Dabei wiederholt sich im Schwarzen Meer aktuell ein Szenario, das dem im Nahen Osten ziemlich ähnlich und kritisch ist, nur dass es dort um Getreide geht. Bloomberg zog am Montag einen Vergleich und nannte das Schwarze Meer „das andere Hormus“."
+    },
+    {
+      "id": "https://orf.at/stories/3442858/",
+      "title": "GB: Anklage im Zusammenhang mit Ruanda-Völkermord",
+      "titleAr": "المملكة المتحدة: اتهام بمسيرة الإبادة الجماعية في رواندا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442858/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-21T23:41:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442853/",
+      "title": "Paramount legt Streit über Warner-Fusion bei",
+      "titleAr": "باراماونت تسجل نزاعًا حول اندماج وارنر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442853/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-21T22:32:43+02:00",
+      "description": "Der Unterhaltungskonzern Paramount hat die letzten großen Hürden für die Übernahme des Hollywood-Rivalen Warner Brothers ausgeräumt. Paramount einigte sich mit zwölf US-Bundesstaaten, die den mehr als 110 Mrd. Dollar schweren Deal mit einer Wettbewerbsklage blockierten. Auch die Klage der Drehbuchautorengewerkschaft wurde beigelegt. Damit kommt auch der Nachrichtensender CNN unter die Kontrolle der Familie des als Unterstützer von US-Präsident Donald Trump geltenden Tech-Milliardärs Larry Ellison."
+    },
     {
       "id": "https://orf.at/stories/3442856/",
       "title": "Bericht: USA erwägen Milliardenzahlung für Wiederaufbau",
@@ -30,8 +74,8 @@
     },
     {
       "id": "https://orf.at/stories/3442852/",
-      "title": "Grönland-Abkommen wird morgen unterzeichnet",
-      "titleAr": "تم توقيع اتفاق جرينلاند غدًا",
+      "title": "Grönland-Abkommen wird heute unterzeichnet",
+      "titleAr": "تم توقيع اتفاقية غرينلاند اليوم",
       "translated": true,
       "link": "https://orf.at/stories/3442852/",
       "category": "Ausland",
@@ -41,8 +85,8 @@
     },
     {
       "id": "https://orf.at/stories/3442851/",
-      "title": "Trump will Kaliabkommen mit Belarus",
-      "titleAr": "ترامب يطالب باتفاق كالي مع بيلاروس",
+      "title": "Abkommen geplant: Trump will Belarus Kali abkaufen",
+      "titleAr": "الاتفاق مُخطط: ترامب يرغب في شراء كالي من بيلاروسيا",
       "translated": true,
       "link": "https://orf.at/stories/3442851/",
       "category": "Ausland",
@@ -52,8 +96,8 @@
     },
     {
       "id": "https://orf.at/stories/3442849/",
-      "title": "Flugstopp auf Airports der US-Ostküste angeordnet",
-      "titleAr": "أُمر بوقف طيران في مطارات الساحل الشرقي للولايات المتحدة",
+      "title": "Durchtrenntes Kabel legt Flugverkehr an US-Ostküste lahm",
+      "titleAr": "كابل مكسور يوقف حركة الطيران على الساحل الشرقي للولايات المتحدة",
       "translated": true,
       "link": "https://orf.at/stories/3442849/",
       "category": "Wirtschaft",
@@ -290,39 +334,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-21T13:29:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442805/",
-      "title": "CNN und andere Medien klagen US-Regierung",
-      "titleAr": "CNN وغيرها تقاضي الحكومة الأمريكية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442805/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T12:55:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442804/",
-      "title": "Trump bereit zu Treffen mit Peseschkian",
-      "titleAr": "ترامب مستعد للقاء مع بيشيشكيان",
-      "translated": true,
-      "link": "https://orf.at/stories/3442804/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T12:45:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442803/",
-      "title": "Taifun bewegt sich auf Japan zu: Hunderte Flüge gestrichen",
-      "titleAr": "تأيفون يقترب من اليابان: مئات الرحلات ملغاة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442803/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-21T12:36:55+02:00",
       "description": ""
     }
   ]
