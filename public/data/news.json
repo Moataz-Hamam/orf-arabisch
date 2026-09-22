@@ -4,8 +4,96 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-22T00:10:51.318Z",
+  "updatedAt": "2026-09-22T05:08:16.858Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442868/",
+      "title": "Deutschland senkt Steuer auf Benzin und Diesel",
+      "titleAr": "ألمانيا تخفض ضريبة البنزين والديزل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442868/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-22T06:45:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442867/",
+      "title": "Huthi: Mindestens sechs Tote bei Angriff auf Küstenstadt",
+      "titleAr": "الهيثي: ستة قتلى على الأقل في هجوم على مدينة ساحلية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442867/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T06:24:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442866/",
+      "title": "Kreml: Versorgungsengpässe in russisch-kontrollierter Stadt",
+      "titleAr": "الكرمل: نقص إمدادات في مدينة تحت سيطرة روسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442866/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T06:22:03+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442865/",
+      "title": "UNO: Aufruf zu stärkerer Regulierung von KI",
+      "titleAr": "الأمم المتحدة: دعوة لتشديد تنظيم الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442865/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T06:10:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442864/",
+      "title": "Mindestens vier Tote in Japan durch Taifun",
+      "titleAr": "أربع قتلى على الأقل في اليابان بسبب تايفون",
+      "translated": true,
+      "link": "https://orf.at/stories/3442864/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-22T06:06:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442863/",
+      "title": "Hausverbot für Medien: Weißes Haus startet „Trump TV“",
+      "titleAr": "حظر على وسائل الإعلام: البيت الأبيض يطلق «ترويم تي في»",
+      "translated": true,
+      "link": "https://orf.at/stories/3442863/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T06:00:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442792/",
+      "title": "Guterres-Nachfolge nimmt Konturen an",
+      "titleAr": "تحديد شكل خلفية غوتيرس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442792/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T06:00:39+02:00",
+      "description": "Ab Dienstag kommen Staats- und Regierungsspitzen aus den 193 UNO-Mitgliedsländern zur einwöchigen Generaldebatte der Vereinten Nationen zusammen, um über die drängendsten aktuellen weltpolitischen Themen zu beraten. Nicht ausdrücklich auf der Agenda, aber deshalb nicht weniger präsent wird der nahende Abgang von UNO-Generalsekretär Antonio Guterres sein. Zuletzt nam das Rennen um seine Nachfolge Fahrt auf."
+    },
+    {
+      "id": "https://orf.at/stories/3442862/",
+      "title": "Tödlicher Unfall bei Fahrgeschäft auf Oktoberfest",
+      "titleAr": "حادث مميت في لعبة ترفيهية بمهرجان أكتوبر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442862/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-22T02:46:09+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442861/",
       "title": "Fast eine Million Euro für Bardots Erinnerungsstücke",
@@ -96,8 +184,8 @@
     },
     {
       "id": "https://orf.at/stories/3442849/",
-      "title": "Durchtrenntes Kabel legt Flugverkehr an US-Ostküste lahm",
-      "titleAr": "كابل مكسور يوقف حركة الطيران على الساحل الشرقي للولايات المتحدة",
+      "title": "Störung an mehreren US-Flughäfen wieder behoben",
+      "titleAr": "تم إصلاح اضطراب في عدة مطارات أمريكية",
       "translated": true,
       "link": "https://orf.at/stories/3442849/",
       "category": "Wirtschaft",
@@ -268,72 +356,6 @@
       "category": "Medien",
       "categoryAr": "Medien",
       "publishedAt": "2026-09-21T14:46:27+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442821/",
-      "title": "UVP-Novelle: Verfahren sollen beschleunigt werden",
-      "titleAr": "مراجعة سعر البيع الأولي: تسريع الإجراءات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442821/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-21T14:40:45+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442819/",
-      "title": "USA wollen mit China Kommunikationskanal zu KI-Gefahren",
-      "titleAr": "الولايات المتحدة تطلب قناة مع الصين لمخاطر الذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442819/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-21T14:25:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442816/",
-      "title": "China schließt zwei Spitzengeneräle aus Partei und Armee aus",
-      "titleAr": "الصين تستبعد اثنين من كبار الجنرالات من الحزب والجيش",
-      "translated": true,
-      "link": "https://orf.at/stories/3442816/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T14:13:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442797/",
-      "title": "Berliner Linke hält an Enteignungen fest",
-      "titleAr": "اليسار البريلماني يصر على الاستيلاءات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442797/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T13:59:25+02:00",
-      "description": "Nach dem Sieg bei der Berlin-Wahl will Linke-Spitzenkandidatin Elif Eralp bei den anstehenden Koalitionsverhandlungen keine Kompromisse beim Thema Enteignung großer Immobilienkonzerne machen. Ob die Linke mit Eralp als Bürgermeisterin zusammen mit der SPD und den Grünen in Berlin regieren wird, bleibt auch mit Blick auf die Debatte über antisemitische Vorfälle in der Partei abzuwarten."
-    },
-    {
-      "id": "https://orf.at/stories/3442813/",
-      "title": "Kunstpreis für acht Kulturschaffende und ein Kollektiv",
-      "titleAr": "جائزة فنية لثماني فنانين ومجموعة واحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442813/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-21T13:34:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442812/",
-      "title": "Kämpfe in ölreicher Provinz Marib im Jemen",
-      "titleAr": "نزاعات في مأرب النفطية باليمن",
-      "translated": true,
-      "link": "https://orf.at/stories/3442812/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T13:29:35+02:00",
       "description": ""
     }
   ]

@@ -1292,8 +1292,8 @@
     "titleAr": "الاتفاق مُخطط: ترامب يرغب في شراء كالي من بيلاروسيا"
   },
   "https://orf.at/stories/3442849/": {
-    "sourceTitle": "Durchtrenntes Kabel legt Flugverkehr an US-Ostküste lahm",
-    "titleAr": "كابل مكسور يوقف حركة الطيران على الساحل الشرقي للولايات المتحدة"
+    "sourceTitle": "Störung an mehreren US-Flughäfen wieder behoben",
+    "titleAr": "تم إصلاح اضطراب في عدة مطارات أمريكية"
   },
   "https://orf.at/stories/3442815/": {
     "sourceTitle": "Verbot von CO2-Speicherung vor Aufhebung",
@@ -1366,5 +1366,37 @@
   "https://orf.at/stories/3442853/": {
     "sourceTitle": "Paramount legt Streit über Warner-Fusion bei",
     "titleAr": "باراماونت تسجل نزاعًا حول اندماج وارنر"
+  },
+  "https://orf.at/stories/3442868/": {
+    "sourceTitle": "Deutschland senkt Steuer auf Benzin und Diesel",
+    "titleAr": "ألمانيا تخفض ضريبة البنزين والديزل"
+  },
+  "https://orf.at/stories/3442867/": {
+    "sourceTitle": "Huthi: Mindestens sechs Tote bei Angriff auf Küstenstadt",
+    "titleAr": "الهيثي: ستة قتلى على الأقل في هجوم على مدينة ساحلية"
+  },
+  "https://orf.at/stories/3442866/": {
+    "sourceTitle": "Kreml: Versorgungsengpässe in russisch-kontrollierter Stadt",
+    "titleAr": "الكرمل: نقص إمدادات في مدينة تحت سيطرة روسية"
+  },
+  "https://orf.at/stories/3442865/": {
+    "sourceTitle": "UNO: Aufruf zu stärkerer Regulierung von KI",
+    "titleAr": "الأمم المتحدة: دعوة لتشديد تنظيم الذكاء الاصطناعي"
+  },
+  "https://orf.at/stories/3442864/": {
+    "sourceTitle": "Mindestens vier Tote in Japan durch Taifun",
+    "titleAr": "أربع قتلى على الأقل في اليابان بسبب تايفون"
+  },
+  "https://orf.at/stories/3442863/": {
+    "sourceTitle": "Hausverbot für Medien: Weißes Haus startet „Trump TV“",
+    "titleAr": "حظر على وسائل الإعلام: البيت الأبيض يطلق «ترويم تي في»"
+  },
+  "https://orf.at/stories/3442792/": {
+    "sourceTitle": "Guterres-Nachfolge nimmt Konturen an",
+    "titleAr": "تحديد شكل خلفية غوتيرس"
+  },
+  "https://orf.at/stories/3442862/": {
+    "sourceTitle": "Tödlicher Unfall bei Fahrgeschäft auf Oktoberfest",
+    "titleAr": "حادث مميت في لعبة ترفيهية بمهرجان أكتوبر"
   }
 }
