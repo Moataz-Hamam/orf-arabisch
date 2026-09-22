@@ -1480,8 +1480,8 @@
     "titleAr": "إلغاء عقوبات على عمالقة روسيين"
   },
   "https://orf.at/stories/3442940/": {
-    "sourceTitle": "Rede vor UNO: Trump verteidigt seinen Iran-Krieg",
-    "titleAr": "ترامب يدافع عن حربه الإيرانية أمام الأمم المتحدة"
+    "sourceTitle": "Rede vor UNO: Trump wiederholt Drohungen gegen Iran",
+    "titleAr": "ترامب يكرر تهديداته ضد إيران أمام الأمم المتحدة"
   },
   "https://orf.at/stories/3442939/": {
     "sourceTitle": "US-Kampfjet F-16 über Deutschland abgestürzt",
@@ -1492,8 +1492,8 @@
     "titleAr": "غوتيرس يدعو تعاون أمريكا والصين في الذكاء الاصطناعي"
   },
   "https://orf.at/stories/3442897/": {
-    "sourceTitle": "Neuer Schuldspruch für Benko",
-    "titleAr": "حكم جديد ضد بنكو"
+    "sourceTitle": "Erneuter Schuldspruch für Benko",
+    "titleAr": "حكم جديد على بنكو بالإدانة"
   },
   "https://orf.at/stories/3442929/": {
     "sourceTitle": "Kreml lehnt Selenskyjs Waffenruhevorschlag ab",
@@ -1514,5 +1514,53 @@
   "https://orf.at/stories/3442306/": {
     "sourceTitle": "UFO für Frida Kahlo und die Jedi-Ritter",
     "titleAr": "غريب طائر غير معروف لفريدا كاهلو وجيداي"
+  },
+  "https://orf.at/stories/3442793/": {
+    "sourceTitle": "Suche nach Wegen aus „Vertrauenskrise“",
+    "titleAr": "البحث عن مخرج من أزمة الثقة"
+  },
+  "https://orf.at/stories/3442948/": {
+    "sourceTitle": "Leichtes Aufatmen nach langem Streit",
+    "titleAr": "التهدئة بعد نزاع طويل"
+  },
+  "https://orf.at/stories/3442956/": {
+    "sourceTitle": "Meinl-Reisinger mahnt „Rückkehr zur Diplomatie“ ein",
+    "titleAr": "مينيل-رِيسنجر يدعو للعودة إلى الدبلوماسية"
+  },
+  "https://orf.at/stories/3442955/": {
+    "sourceTitle": "Macron kritisiert bei UNO Situation in Gaza",
+    "titleAr": "ماكرون ينتقد وضع غزة في الأمم المتحدة"
+  },
+  "https://orf.at/stories/3442954/": {
+    "sourceTitle": "Selenskyj: Ukraine bereit zu begrenzter Waffenruhe",
+    "titleAr": "سليينكيو: أوكرانيا مستعدة لوقف إطلاق نار محدود"
+  },
+  "https://orf.at/stories/3442937/": {
+    "sourceTitle": "Van der Bellen übt scharfe Kritik an Israel",
+    "titleAr": "فان دير بيلن ينتقد إسرائيل بشدة"
+  },
+  "https://orf.at/stories/3442952/": {
+    "sourceTitle": "Taylor Swift kündigt neuen Song „Patient Zero“ an",
+    "titleAr": "تايلور سويفت تعلن عن أغنية جديدة «Patient Zero»"
+  },
+  "https://orf.at/stories/3442951/": {
+    "sourceTitle": "AfD-Politiker aus Sachsen-Anhalt bei FPÖ: Scharfe Kritik",
+    "titleAr": "سياسي من الحزب الديمقراطي الألمان من ساكسونيا-أنتال ينتقد FPÖ بشدة"
+  },
+  "https://orf.at/stories/3442950/": {
+    "sourceTitle": "Trump: Treffen zwischen USA und Iran bei UNO in New York",
+    "titleAr": "ترامب: اجتماع بين الولايات المتحدة وإيران في الأمم المتحدة"
+  },
+  "https://orf.at/stories/3442947/": {
+    "sourceTitle": "Gericht spricht RBI Schadenersatz im Streit mit Rasperia zu",
+    "titleAr": "المحكمة تصدر حكمًا بتعويض RBI في نزاع مع Rasperia"
+  },
+  "https://orf.at/stories/3442946/": {
+    "sourceTitle": "Erdogan: Welt muss rasch mit Gaza-Wiederaufbau beginnen",
+    "titleAr": "إردوغان: العالم يضطر لتسريع إعادة بناء غزة"
+  },
+  "https://orf.at/stories/3442945/": {
+    "sourceTitle": "Expertin Brandic zu Kritik an Rechenzentren",
+    "titleAr": "براندِك: انتقادات لمراكز البيانات"
   }
 }

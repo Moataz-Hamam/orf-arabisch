@@ -4,8 +4,140 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-22T17:03:02.123Z",
+  "updatedAt": "2026-09-22T21:26:32.670Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442793/",
+      "title": "Suche nach Wegen aus „Vertrauenskrise“",
+      "titleAr": "البحث عن مخرج من أزمة الثقة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442793/",
+      "category": "Medien",
+      "categoryAr": "Medien",
+      "publishedAt": "2026-09-22T23:00:32+02:00",
+      "description": "Der Einsatz von künstlicher Intelligenz (KI) hat die Erstellung und Verbreitung von Desinformation, extremistischer Propaganda und Deepfakes im digitalen Raum stark beschleunigt. Fachleute warnen gegenüber ORF.at von einer „zusätzlichen Vertrauenskrise“ und dem Verlust der „gemeinsamen Wirklichkeit“. Wie der öffentliche Diskurs angesichts der zunehmenden Herausforderungen geschützt werden kann, ist Thema bei den 33. Österreichischen Medientagen, die am Mittwoch in Wien beginnen."
+    },
+    {
+      "id": "https://orf.at/stories/3442948/",
+      "title": "Leichtes Aufatmen nach langem Streit",
+      "titleAr": "التهدئة بعد نزاع طويل",
+      "translated": true,
+      "link": "https://orf.at/stories/3442948/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T23:00:31+02:00",
+      "description": "Die USA, Dänemark und Grönland haben am Dienstag bei der UNO-Generalversammlung in New York ein Sicherheitsabkommen für die autonome Arktisinsel unterzeichnet. Dieses erlaubt den USA die Ausweitung ihrer Militärpräsenz, unter anderem sollen zwei neue Basen errichtet werden. Der Einfluss Chinas und Russlands soll damit zurückgedrängt werden. Der Einigung vorangegangen waren ein monatelanger Streit und harte Drohungen von US-Präsident Donald Trump."
+    },
+    {
+      "id": "https://orf.at/stories/3442956/",
+      "title": "Meinl-Reisinger mahnt „Rückkehr zur Diplomatie“ ein",
+      "titleAr": "مينيل-رِيسنجر يدعو للعودة إلى الدبلوماسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442956/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T22:51:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442955/",
+      "title": "Macron kritisiert bei UNO Situation in Gaza",
+      "titleAr": "ماكرون ينتقد وضع غزة في الأمم المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442955/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T22:35:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442954/",
+      "title": "Selenskyj: Ukraine bereit zu begrenzter Waffenruhe",
+      "titleAr": "سليينكيو: أوكرانيا مستعدة لوقف إطلاق نار محدود",
+      "translated": true,
+      "link": "https://orf.at/stories/3442954/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T22:25:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442937/",
+      "title": "Van der Bellen übt scharfe Kritik an Israel",
+      "titleAr": "فان دير بيلن ينتقد إسرائيل بشدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442937/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T21:48:18+02:00",
+      "description": "Bundespräsident Alexander Van der Bellen hat am Dienstag in New York Kritik am Vorgehen Israels im Gazastreifen und im Westjordanland geübt. Bei einer gemeinsamen Pressekonferenz mit Bundeskanzler Christian Stocker (ÖVP) und Außenministerin Beate Meinl-Reisinger (NEOS) am Rande der UNO-Generaldebatte sprach Van der Bellen von „Verletzungen des Völkerrechts“ und „Kriegsverbrechen“, beispielsweise wegen erzwungener Absiedlungen von im Westjordanland ansässigen Palästinenserinnen und Palästinensern."
+    },
+    {
+      "id": "https://orf.at/stories/3442952/",
+      "title": "Taylor Swift kündigt neuen Song „Patient Zero“ an",
+      "titleAr": "تايلور سويفت تعلن عن أغنية جديدة «Patient Zero»",
+      "translated": true,
+      "link": "https://orf.at/stories/3442952/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-22T21:32:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442951/",
+      "title": "AfD-Politiker aus Sachsen-Anhalt bei FPÖ: Scharfe Kritik",
+      "titleAr": "سياسي من الحزب الديمقراطي الألمان من ساكسونيا-أنتال ينتقد FPÖ بشدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442951/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T21:10:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442950/",
+      "title": "Trump: Treffen zwischen USA und Iran bei UNO in New York",
+      "titleAr": "ترامب: اجتماع بين الولايات المتحدة وإيران في الأمم المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442950/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T20:59:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442947/",
+      "title": "Gericht spricht RBI Schadenersatz im Streit mit Rasperia zu",
+      "titleAr": "المحكمة تصدر حكمًا بتعويض RBI في نزاع مع Rasperia",
+      "translated": true,
+      "link": "https://orf.at/stories/3442947/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-22T19:39:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442946/",
+      "title": "Erdogan: Welt muss rasch mit Gaza-Wiederaufbau beginnen",
+      "titleAr": "إردوغان: العالم يضطر لتسريع إعادة بناء غزة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442946/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T19:29:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442945/",
+      "title": "Expertin Brandic zu Kritik an Rechenzentren",
+      "titleAr": "براندِك: انتقادات لمراكز البيانات",
+      "translated": true,
+      "link": "https://orf.at/stories/3442945/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T19:23:39+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442938/",
       "title": "Vielfältiges ORF-Programm trotz Spardrucks",
@@ -26,7 +158,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-22T18:24:45+02:00",
-      "description": "US-Präsident Donald Trump, die dänische Ministerpräsidentin Mette Frederiksen und der grönländische Regierungschef Jens-Frederik Nielsen haben am Dienstag am Rande der UNO-Vollversammlung in New York ein Sicherheitsabkommen für die Insel Grönland unterzeichnet. Zuvor hatte Trump zudem den Bau von zwei großen neuen US-Militärbasen angekündigt. Bereits in der Vorwoche hatte man sich auf das Abkommen geeinigt, dessen konkreter Inhalt zunächst nicht veröffentlicht wurde."
+      "description": "US-Präsident Donald Trump, die dänische Ministerpräsidentin Mette Frederiksen und der grönländische Regierungschef Jens-Frederik Nielsen haben am Dienstag am Rande der UNO-Vollversammlung in New York ein Sicherheitsabkommen für die Insel Grönland unterzeichnet. Die USA dürfen laut Vereinbarung neue Militärbasen auf der Insel errichten sowie auch ihr Raketenabwehrsystem „Golden Dome“ stationieren. Im Falle einer Unabhängigkeit von Dänemark müsse Grönland Mitglied in der NATO bleiben, hieß es."
     },
     {
       "id": "https://orf.at/stories/3442942/",
@@ -41,8 +173,8 @@
     },
     {
       "id": "https://orf.at/stories/3442940/",
-      "title": "Rede vor UNO: Trump verteidigt seinen Iran-Krieg",
-      "titleAr": "ترامب يدافع عن حربه الإيرانية أمام الأمم المتحدة",
+      "title": "Rede vor UNO: Trump wiederholt Drohungen gegen Iran",
+      "titleAr": "ترامب يكرر تهديداته ضد إيران أمام الأمم المتحدة",
       "translated": true,
       "link": "https://orf.at/stories/3442940/",
       "category": "Ausland",
@@ -74,8 +206,8 @@
     },
     {
       "id": "https://orf.at/stories/3442897/",
-      "title": "Neuer Schuldspruch für Benko",
-      "titleAr": "حكم جديد ضد بنكو",
+      "title": "Erneuter Schuldspruch für Benko",
+      "titleAr": "حكم جديد على بنكو بالإدانة",
       "translated": true,
       "link": "https://orf.at/stories/3442897/",
       "category": "Wirtschaft",
@@ -203,72 +335,6 @@
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-22T12:07:32+02:00",
       "description": "Der chronische Überbelag österreichischer Haftanstalten sowie der Mangel an Personal erfordern Maßnahmen. Im Ministerrat am Dienstag beschloss die Bundesregierung nun, dass ausländische Straftäterinnen und Straftäter künftig leichter in ihre Herkunftsländer abgeschoben werden können. Die Möglichkeit, dagegen Einspruch zu erheben, fällt weg."
-    },
-    {
-      "id": "https://orf.at/stories/3442902/",
-      "title": "3.000 Flaschen Barolo in Norditalien gestohlen",
-      "titleAr": "سرقة ٣٠٠٠ زجاجة بارولو في شمال إيطاليا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442902/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-22T12:02:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442900/",
-      "title": "Urlaubsreisen heuer in erstem Halbjahr rückläufig",
-      "titleAr": "الرحلات السياحية في النصف الأول من العام تناقصت",
-      "translated": true,
-      "link": "https://orf.at/stories/3442900/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-22T11:39:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442898/",
-      "title": "Iran: Vermögen Hunderter Regierungsgegner beschlagnahmt",
-      "titleAr": "إيران: ضبط أصول مئات من خصوم الحكومة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442898/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T11:27:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442891/",
-      "title": "Abschiebung von Straftätern wird erleichtert",
-      "titleAr": "تسهيل ترحيل المجرمين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442891/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T10:31:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442890/",
-      "title": "Schüsse vor Schule in Türkei: Zahlreiche Verletzte",
-      "titleAr": "طلقات أمام مدرسة تركية: إصابات عديدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442890/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-22T10:07:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442886/",
-      "title": "Neuzulassungen in EU: Neuer Rekord bei E-Auto-Anteil",
-      "titleAr": "تسجيلات جديدة في الاتحاد الأوروبي: حصة السيارات الكهربائية رقم قياسي",
-      "translated": true,
-      "link": "https://orf.at/stories/3442886/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-22T09:38:30+02:00",
-      "description": ""
     }
   ]
 }
