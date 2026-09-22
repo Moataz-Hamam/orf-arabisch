@@ -4,8 +4,195 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-22T05:08:16.858Z",
+  "updatedAt": "2026-09-22T11:49:35.626Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442916/",
+      "title": "Donatella Versace lanciert neue Marke mit Revolve",
+      "titleAr": "دوناتيلا فيرسكي تُطلق علامة جديدة مع ريفولف",
+      "translated": true,
+      "link": "https://orf.at/stories/3442916/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-22T13:40:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442912/",
+      "title": "Regierung: CO2-Speicherung mit „enormem Potenzial“",
+      "titleAr": "الحكومة: تخزين ثاني أكسيد الكربون يحمل إمكانات هائلة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442912/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T13:18:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442908/",
+      "title": "Italiens Außenminister empört mit Frauenbild",
+      "titleAr": "وزير الخارجية الإيطالي يثور على تصوير المرأة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442908/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T12:59:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442906/",
+      "title": "FPÖ will „Aktivpension“ nicht zustimmen",
+      "titleAr": "الحزب الفدرالي الأوستريي يرفض \"التقاعد النشط\"",
+      "translated": true,
+      "link": "https://orf.at/stories/3442906/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T12:43:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442904/",
+      "title": "Wehrpflicht: Modell zur Reform steht",
+      "titleAr": "الالتزام بالجنود: نموذج الإصلاح جاهز",
+      "translated": true,
+      "link": "https://orf.at/stories/3442904/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T12:10:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442896/",
+      "title": "Abschiebung von Straftätern wird erleichtert",
+      "titleAr": "تسهيل ترحيل المجرمين",
+      "translated": true,
+      "link": "https://orf.at/stories/3442896/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T12:07:32+02:00",
+      "description": "Der chronische Überbelag österreichischer Haftanstalten sowie der Mangel an Personal erfordern Maßnahmen. Im Ministerrat am Dienstag beschloss die Bundesregierung nun, dass Straftäterinnen und Straftäter künftig leichter in ihre Herkunftsländer abgeschoben werden können. Die Möglichkeit, dagegen Einspruch zu erheben, fällt weg."
+    },
+    {
+      "id": "https://orf.at/stories/3442902/",
+      "title": "3.000 Flaschen Barolo in Norditalien gestohlen",
+      "titleAr": "سرقة ٣٠٠٠ زجاجة بارولو في شمال إيطاليا",
+      "translated": true,
+      "link": "https://orf.at/stories/3442902/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-22T12:02:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442900/",
+      "title": "Urlaubsreisen heuer in erstem Halbjahr rückläufig",
+      "titleAr": "الرحلات السياحية في النصف الأول من العام تناقصت",
+      "translated": true,
+      "link": "https://orf.at/stories/3442900/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-22T11:39:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442898/",
+      "title": "Iran: Vermögen Hunderter Regierungsgegner beschlagnahmt",
+      "titleAr": "إيران: ضبط أصول مئات من خصوم الحكومة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442898/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T11:27:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442891/",
+      "title": "Abschiebung von Straftätern wird erleichtert",
+      "titleAr": "تسهيل ترحيل المجرمين",
+      "translated": true,
+      "link": "https://orf.at/stories/3442891/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T10:31:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442890/",
+      "title": "Schüsse vor Schule in Türkei: Zahlreiche Verletzte",
+      "titleAr": "طلقات أمام مدرسة تركية: إصابات عديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442890/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-22T10:07:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442886/",
+      "title": "Neuzulassungen in EU: Neuer Rekord bei E-Auto-Anteil",
+      "titleAr": "تسجيلات جديدة في الاتحاد الأوروبي: حصة السيارات الكهربائية رقم قياسي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442886/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-22T09:38:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442869/",
+      "title": "Neue Regeln im British Museum",
+      "titleAr": "قواعد جديدة في المتحف البريطاني",
+      "translated": true,
+      "link": "https://orf.at/stories/3442869/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-22T08:47:00+02:00",
+      "description": "Seit fast zwei Wochen strömen die Menschen in Scharen ins British Museum in London, um die Ausstellung des mittelalterlichen Wandteppichs von Bayeux zu besuchen. Wer Tickets der ausverkauften Schau ergattern konnte, muss vor dem Eintritt lange Wartezeiten in Kauf nehmen. Um die Besucherinnen und Besucher schneller durch die Ausstellung zu schleusen, führte das Museum neue Regeln ein: Zeichnen und Fotografieren verboten."
+    },
+    {
+      "id": "https://orf.at/stories/3442874/",
+      "title": "Ukraine meldet Tote nach russischem Angriff auf Dnipro",
+      "titleAr": "أوكرانيا تُبلغ عن قتلى بعد هجوم روسي على دنيبرو",
+      "translated": true,
+      "link": "https://orf.at/stories/3442874/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T08:06:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442872/",
+      "title": "Südkoreas Präsident will Lockerung von Nordkorea-Sanktionen",
+      "titleAr": "رئيس كوريا الجنوبية يطالب بتخفيف عقوبات كوريا الشمالية",
+      "translated": true,
+      "link": "https://orf.at/stories/3442872/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T07:41:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442871/",
+      "title": "Chaos auf US-Flughäfen: Treffen Carney – Stocker abgesagt",
+      "titleAr": "فوضى في مطارات أمريكية: اجتماع كارني-ستوكير ملغي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442871/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-22T07:29:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442870/",
+      "title": "Grüne sehen sich in Herbstkampagne als „einzige Alternative“",
+      "titleAr": "الأخضر يراهنون في الحملة الخريفية على كونهوا البديل الوحيد",
+      "translated": true,
+      "link": "https://orf.at/stories/3442870/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-22T07:26:54+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442868/",
       "title": "Deutschland senkt Steuer auf Benzin und Diesel",
@@ -19,8 +206,8 @@
     },
     {
       "id": "https://orf.at/stories/3442867/",
-      "title": "Huthi: Mindestens sechs Tote bei Angriff auf Küstenstadt",
-      "titleAr": "الهيثي: ستة قتلى على الأقل في هجوم على مدينة ساحلية",
+      "title": "Huthis: Mindestens sechs Tote bei Angriff auf Küstenstadt",
+      "titleAr": "الهاوثيون: ستة قتلى على الأقل في هجوم على مدينة ساحلية",
       "translated": true,
       "link": "https://orf.at/stories/3442867/",
       "category": "Ausland",
@@ -30,7 +217,7 @@
     },
     {
       "id": "https://orf.at/stories/3442866/",
-      "title": "Kreml: Versorgungsengpässe in russisch-kontrollierter Stadt",
+      "title": "Kreml: Versorgungsengpässe in russisch kontrollierter Stadt",
       "titleAr": "الكرمل: نقص إمدادات في مدينة تحت سيطرة روسية",
       "translated": true,
       "link": "https://orf.at/stories/3442866/",
@@ -81,7 +268,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-22T06:00:39+02:00",
-      "description": "Ab Dienstag kommen Staats- und Regierungsspitzen aus den 193 UNO-Mitgliedsländern zur einwöchigen Generaldebatte der Vereinten Nationen zusammen, um über die drängendsten aktuellen weltpolitischen Themen zu beraten. Nicht ausdrücklich auf der Agenda, aber deshalb nicht weniger präsent wird der nahende Abgang von UNO-Generalsekretär Antonio Guterres sein. Zuletzt nam das Rennen um seine Nachfolge Fahrt auf."
+      "description": "Ab Dienstag kommen Staats- und Regierungsspitzen aus den 193 UNO-Mitgliedsländern zur einwöchigen Generaldebatte der Vereinten Nationen zusammen, um über die drängendsten aktuellen weltpolitischen Themen zu beraten. Nicht ausdrücklich auf der Agenda, aber deshalb nicht weniger präsent wird der nahende Abgang von UNO-Generalsekretär Antonio Guterres sein. Zuletzt nahm das Rennen um seine Nachfolge Fahrt auf."
     },
     {
       "id": "https://orf.at/stories/3442862/",
@@ -115,248 +302,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-09-21T23:58:58+02:00",
       "description": "Der Krieg gegen den Iran ist in den letzten Monaten gegenüber dem Ukraine-Krieg deutlich in den Vordergrund der Aufmerksamkeit gerückt. Grund dafür sind vor allem die steigenden Erdöl- und Treibstoffpreise durch die Blockade der Straße von Hormus. Dabei wiederholt sich im Schwarzen Meer aktuell ein Szenario, das dem im Nahen Osten ziemlich ähnlich und kritisch ist, nur dass es dort um Getreide geht. Bloomberg zog am Montag einen Vergleich und nannte das Schwarze Meer „das andere Hormus“."
-    },
-    {
-      "id": "https://orf.at/stories/3442858/",
-      "title": "GB: Anklage im Zusammenhang mit Ruanda-Völkermord",
-      "titleAr": "المملكة المتحدة: اتهام بمسيرة الإبادة الجماعية في رواندا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442858/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T23:41:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442853/",
-      "title": "Paramount legt Streit über Warner-Fusion bei",
-      "titleAr": "باراماونت تسجل نزاعًا حول اندماج وارنر",
-      "translated": true,
-      "link": "https://orf.at/stories/3442853/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-21T22:32:43+02:00",
-      "description": "Der Unterhaltungskonzern Paramount hat die letzten großen Hürden für die Übernahme des Hollywood-Rivalen Warner Brothers ausgeräumt. Paramount einigte sich mit zwölf US-Bundesstaaten, die den mehr als 110 Mrd. Dollar schweren Deal mit einer Wettbewerbsklage blockierten. Auch die Klage der Drehbuchautorengewerkschaft wurde beigelegt. Damit kommt auch der Nachrichtensender CNN unter die Kontrolle der Familie des als Unterstützer von US-Präsident Donald Trump geltenden Tech-Milliardärs Larry Ellison."
-    },
-    {
-      "id": "https://orf.at/stories/3442856/",
-      "title": "Bericht: USA erwägen Milliardenzahlung für Wiederaufbau",
-      "titleAr": "تقرير: الولايات المتحدة تفكر في دفع مليارات لتمويل إعادة الإعمار",
-      "translated": true,
-      "link": "https://orf.at/stories/3442856/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T21:56:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442243/",
-      "title": "Bundesstaaten rüsten gegen Einflussnahme",
-      "titleAr": "الولايات الأمريكية تقوي دفاعها ضد التدخل",
-      "translated": true,
-      "link": "https://orf.at/stories/3442243/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T21:48:24+02:00",
-      "description": "Knapp eineinhalb Monate vor den Midterms in den USA Anfang November herrscht in vielen Bundesstaaten Anspannung und Angst vor einer möglichen Einflussnahme der US-Regierung von Präsident Donald Trump. Einzelne Staaten üben verschiedenste Szenarien, um für den Ernstfall vorbereitet zu sein: Diese reichen von Wählereinschüchterung und Beschlagnahmung von Stimmzetteln bis zu Ermittlungen wegen möglichen Wahlbetrugs. Nachdem vergangene Woche die letzten Vorwahlen stattfanden, startet der Wahlkampf nun in die heiße Phase."
-    },
-    {
-      "id": "https://orf.at/stories/3442852/",
-      "title": "Grönland-Abkommen wird heute unterzeichnet",
-      "titleAr": "تم توقيع اتفاقية غرينلاند اليوم",
-      "translated": true,
-      "link": "https://orf.at/stories/3442852/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T20:56:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442851/",
-      "title": "Abkommen geplant: Trump will Belarus Kali abkaufen",
-      "titleAr": "الاتفاق مُخطط: ترامب يرغب في شراء كالي من بيلاروسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3442851/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T20:42:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442849/",
-      "title": "Störung an mehreren US-Flughäfen wieder behoben",
-      "titleAr": "تم إصلاح اضطراب في عدة مطارات أمريكية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442849/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-21T20:35:29+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442815/",
-      "title": "Verbot von CO2-Speicherung vor Aufhebung",
-      "titleAr": "حظر تخزين ثاني أكسيد الكربون قبل الإلغاء",
-      "translated": true,
-      "link": "https://orf.at/stories/3442815/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-21T20:13:32+02:00",
-      "description": "Die Bundesregierung will das seit 2011 geltende Verbot der CO2-Speicherung in Österreich aufheben. Der entsprechende Gesetzesentwurf soll voraussichtlich am Dienstag in Begutachtung geschickt werden. Die Methode zur Bekämpfung der Erderhitzung bleibt allerdings umstritten. Industrie und Wirtschaft sind erfreut, Umweltschutzorganisationen üben scharfe Kritik."
-    },
-    {
-      "id": "https://orf.at/stories/3442847/",
-      "title": "Politbeben in Deutschland: Politologin Münch zu Gast",
-      "titleAr": "زلزال سياسي في ألمانيا: أخصائية علم السياسة مونش ضيفة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442847/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-21T19:39:45+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442846/",
-      "title": "Schellhorn mit Anti-Bürokratie-Initiative in Brüssel",
-      "titleAr": "شيلهورن مع مبادرة مكافحة البيروقراطية في بروكسل",
-      "translated": true,
-      "link": "https://orf.at/stories/3442846/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T19:27:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442845/",
-      "title": "Stocker gedachte der Opfer von 9/11 in New York",
-      "titleAr": "ستوكير يتذكر ضحايا 9/11 في نيويورك",
-      "translated": true,
-      "link": "https://orf.at/stories/3442845/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T18:44:33+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442838/",
-      "title": "US-Sender schränken Trump-Begleitung ein",
-      "titleAr": "قنوات أمريكية تقلل من مرافقة ترامب",
-      "translated": true,
-      "link": "https://orf.at/stories/3442838/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T18:25:02+02:00",
-      "description": "Nach den von US-Präsident Donald Trump verfügten Hausverboten für den US-Sender CNN, MS Now und das Newsportal Politico im Weißen Haus schränken andere große US-Sender die engmaschige tägliche Begleitung des Präsidenten auf seinen Terminen ein. Die Sender ABC, CBS, Fox News und NBC erklärten am Montag gemeinsam mit CNN, sie würden vorerst nicht mehr über Trump-Auftritte berichten. Die drei vom Hausverbot betroffenen Medien haben zudem eine Klage gegen die US-Regierung eingereicht."
-    },
-    {
-      "id": "https://orf.at/stories/3442841/",
-      "title": "Paramount legt Streit über Warner-Fusion bei",
-      "titleAr": "Paramount تُرفع دعوى حول دمج Warner",
-      "translated": true,
-      "link": "https://orf.at/stories/3442841/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-21T17:28:42+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442840/",
-      "title": "Verlegerin Kunstmann gestorben",
-      "titleAr": "الناشرة Kunstmann تُوفيت",
-      "translated": true,
-      "link": "https://orf.at/stories/3442840/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-21T17:15:51+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442839/",
-      "title": "EU-Rechnungshof: Kooperation bei Cyberabwehr unzureichend",
-      "titleAr": "المحكمة الأوروبية للرقابة: التعاون السيبراني غير كافٍ",
-      "translated": true,
-      "link": "https://orf.at/stories/3442839/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T17:07:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442791/",
-      "title": "Bericht deckt geheime US-Abkommen auf",
-      "titleAr": "تقرير يكشف اتفاقات أمريكية سرية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442791/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T16:37:00+02:00",
-      "description": "Über 25.000 Menschen sollen von der US-Einwanderungsbehörde ICE nicht in ihre Heimatländer, sondern in fremde Drittstaaten abgeschoben worden sein. Das zeigt eine am Montag veröffentlichte Recherche mehrerer internationaler Medien. Die USA hätten Abschiebeabkommen mit zahlreichen Ländern in der Höhe von insgesamt rund 410 Millionen US-Dollar (rund 360 Mio. Euro) unterzeichnet, um Menschen in Staaten auf der ganzen Welt zu deportieren."
-    },
-    {
-      "id": "https://orf.at/stories/3442835/",
-      "title": "Unibudget: ÖH wappnet sich für weitere Demos",
-      "titleAr": "الميزانية الجامعية: ÖH تُجهز لمزيد من الاحتجاجات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442835/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-21T16:13:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442810/",
-      "title": "Merz will CDU wieder zu „Volkspartei“ führen",
-      "titleAr": "ميرز يهدف لإعادة CDU إلى حزب الشعب",
-      "translated": true,
-      "link": "https://orf.at/stories/3442810/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T15:52:01+02:00",
-      "description": "Deutschlands Kanzler Friedrich Merz (CDU) will auch nach den teils verheerenden Ergebnissen seiner Partei bei den Landtagswahlen am Sonntag im Amt bleiben, wie er am Montag nach Sitzungen der Spitzengremien bestätigte. Er begrüßte, dass auch die SPD die schwarz-rote Koalition fortsetzen wolle. Eine Aufarbeitung und Kurskorrektur sei freilich notwendig: Es gehe darum, „wie wir das wieder erreichen, was wir mal waren und was wir leider nur noch in einigen Teilen des Landes sind, nämlich Volkspartei“."
-    },
-    {
-      "id": "https://orf.at/stories/3442833/",
-      "title": "Guterres fordert Regeln für „autonome Waffensysteme“",
-      "titleAr": "غوتيرس يطالب بحدود للأنظمة الأسلحة الذاتية",
-      "translated": true,
-      "link": "https://orf.at/stories/3442833/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-21T15:51:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442832/",
-      "title": "Berlin, Wien und Luxemburg wollen grünes Kerosin fördern",
-      "titleAr": "برلين، فيينا، لوكسمبورغ يطالبون بتعزيز الكيروسين الأخضر",
-      "translated": true,
-      "link": "https://orf.at/stories/3442832/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-21T15:45:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442829/",
-      "title": "VW kündigt verschärften Sparkurs an",
-      "titleAr": "فولكسفاجن تعلن مسار توفير أكثر صرامة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442829/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-21T15:09:19+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442822/",
-      "title": "Medwenitsch folgt in ORF-Stiftungsrat auf Schütze",
-      "titleAr": "ميدوينيتش يُسلم شوتز في مجلس أورف",
-      "translated": true,
-      "link": "https://orf.at/stories/3442822/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-09-21T14:46:27+02:00",
-      "description": ""
     }
   ]
 }
