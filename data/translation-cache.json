@@ -1568,8 +1568,8 @@
     "titleAr": "حلم كأس العالم يهيمن على انتخابات المغرب"
   },
   "https://orf.at/stories/3442961/": {
-    "sourceTitle": "Burnham will bei KI-Regeln international eine Führungsrolle",
-    "titleAr": "برنهم يسعى لتولي قيادة دولية في قواعد الذكاء الاصطناعي"
+    "sourceTitle": "Burnham will bei KI-Regeln international Führungsrolle",
+    "titleAr": "برنغهام يطمح إلى دور قيادي دولي في قواعد الذكاء الاصطناعي"
   },
   "https://orf.at/stories/3442960/": {
     "sourceTitle": "Protest nach neuer ICE-Gewalt in Texas",
@@ -1582,5 +1582,77 @@
   "https://orf.at/stories/3442958/": {
     "sourceTitle": "Zahl der Toten nach Taifun in Japan auf neun gestiegen",
     "titleAr": "عدد القتلى بعد الأعاصير في اليابان يصل إلى تسعة"
+  },
+  "https://orf.at/stories/3443004/": {
+    "sourceTitle": "Hohe Geldstrafen: Singapur verbietet Musik in „Öffis“",
+    "titleAr": "غرامات باهظة: سنغافورة تحظر الموسيقى في النقل العام"
+  },
+  "https://orf.at/stories/3443007/": {
+    "sourceTitle": "München: Diebstahl am Tag des offenen Denkmals",
+    "titleAr": "سرقة في ميونخ خلال يوم الافتتاح المفتوح للآثار"
+  },
+  "https://orf.at/stories/3443006/": {
+    "sourceTitle": "IStGH spricht Ex-Rebellenchef aus ZAR schuldig",
+    "titleAr": "محكمة العدل الدولية تُدين رئيسًا متمردًا سابقًا من جنوب أفريقيا"
+  },
+  "https://orf.at/stories/3443003/": {
+    "sourceTitle": "EZB: Neue Euro-Banknoten ab Anfang der 2030er",
+    "titleAr": "البنك المركزي الأوروبي يعلن أوراق نقدية جديدة في اليورو من أوائل الثلاثينيات"
+  },
+  "https://orf.at/stories/3442984/": {
+    "sourceTitle": "Israel reagiert auf lautstarke Kritik empört",
+    "titleAr": "إسرائيل تتفاجأ بالانتقادات الصاخبة وترد بغضب"
+  },
+  "https://orf.at/stories/3442997/": {
+    "sourceTitle": "Justizministerium: Trump darf Weißes-Haus-Zugang verweigern",
+    "titleAr": "وزارة العدل تسمح لترامب برفض دخول البيت الأبيض"
+  },
+  "https://orf.at/stories/3442996/": {
+    "sourceTitle": "Iran muss internationale Flüge in der Region streichen",
+    "titleAr": "إيران يضطر لإلغاء الرحلات الدولية في المنطقة"
+  },
+  "https://orf.at/stories/3442995/": {
+    "sourceTitle": "Novo Nordisk treibt Dänemarks Wachstumsprognose",
+    "titleAr": "نوفو نورديسك تدفع توقعات نمو الدنمارك"
+  },
+  "https://orf.at/stories/3442992/": {
+    "sourceTitle": "Rose-Tattoo-Sänger „Angry“ Anderson gestorben",
+    "titleAr": "مغني \"أنجري\" أندرسون، مطرب التاتو، متوفى"
+  },
+  "https://orf.at/stories/3442990/": {
+    "sourceTitle": "OECD hebt Prognose für Weltwirtschaft leicht an",
+    "titleAr": "منظمة التعاون الاقتصادي والتنمية ترفع توقعات الاقتصاد العالمي قليلاً"
+  },
+  "https://orf.at/stories/3442986/": {
+    "sourceTitle": "Ukraine: Tote und Verletzte bei russischen Angriffen",
+    "titleAr": "أوكرانيا: قتلى وإصابات في هجمات روسية"
+  },
+  "https://orf.at/stories/3442983/": {
+    "sourceTitle": "Greenpeace: Ölverschmutzung vor Oman breitet sich aus",
+    "titleAr": "غرينبيس: تلوث النفط في عمان يتسع"
+  },
+  "https://orf.at/stories/3442982/": {
+    "sourceTitle": "Nach Tod von Arbeiter: Kolosseum geschlossen",
+    "titleAr": "بعد وفاة عامل: يُغلق الكولوسيوم"
+  },
+  "https://orf.at/stories/3442979/": {
+    "sourceTitle": "Alibaba baut Rechenzentren in Europa und Nahost aus",
+    "titleAr": "أليباي توسع مراكز البيانات في أوروبا والشرق الأوسط"
+  },
+  "https://orf.at/stories/3442976/": {
+    "sourceTitle": "Ukraine: Russischer Angriff auf Odessa und Frachtschiff",
+    "titleAr": "أوكرانيا: هجوم روسي على أوديسا وشاحنة شحن"
+  },
+  "https://orf.at/stories/3442975/": {
+    "sourceTitle": "Ultralangstrecke: Qantas plant Direktflug Sydney – New York",
+    "titleAr": "قنطاس يخطط لطيران مباشر سيدني–نيويورك لمسافة طويلة"
+  },
+  "https://orf.at/stories/3442969/": {
+    "sourceTitle": "Elf Tote nach Schusswaffenangriff auf Feier in Südafrika",
+    "titleAr": "إحدى عشرة قتلى بعد هجوم مسلح على حفل في جنوب أفريقيا"
+  },
+  "https://orf.at/stories/3442966/": {
+    "sourceTitle": "Israel über Macron-Äußerungen zu Westjordanland empört",
+    "titleAr": "إسرائيل تغضب من تصريحات ماكرون حول الضفة الغربية"
   }
 }
