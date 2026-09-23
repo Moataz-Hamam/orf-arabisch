@@ -4,8 +4,63 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-22T21:26:32.670Z",
+  "updatedAt": "2026-09-23T04:52:54.090Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3441755/",
+      "title": "WM-Traum dominiert Wahl in Marokko",
+      "titleAr": "حلم كأس العالم يهيمن على انتخابات المغرب",
+      "translated": true,
+      "link": "https://orf.at/stories/3441755/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T06:15:10+02:00",
+      "description": "In Marokko wird am Mittwoch ein neues Parlament gewählt. Große Überraschungen erwarten Fachleute nicht, die Regierungsparteien dürften danach in ähnlicher Konstellation weitermachen. Das Land investiert Milliarden in die Infrastruktur – auch mit Blick auf die Fußball-WM 2030, die zum Höhepunkt der nationalen Geschichte werden soll. Doch der Aufschwung kommt nicht bei allen an: Vor allem junge Menschen leiden unter hoher Arbeitslosigkeit und steigenden Lebenshaltungskosten, ihr Unmut könnte Marokkos WM-Traum trüben."
+    },
+    {
+      "id": "https://orf.at/stories/3442961/",
+      "title": "Burnham will bei KI-Regeln international eine Führungsrolle",
+      "titleAr": "برنهم يسعى لتولي قيادة دولية في قواعد الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3442961/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T06:12:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442960/",
+      "title": "Protest nach neuer ICE-Gewalt in Texas",
+      "titleAr": "احتجاجات بعد حادثة قطار سريع جديدة في تكساس",
+      "translated": true,
+      "link": "https://orf.at/stories/3442960/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T06:09:06+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442959/",
+      "title": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+      "titleAr": "الولايات المتحدة تفحص حظر تصدير الديزل بسبب ارتفاع أسعار الوقود",
+      "translated": true,
+      "link": "https://orf.at/stories/3442959/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-23T06:01:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442958/",
+      "title": "Zahl der Toten nach Taifun in Japan auf neun gestiegen",
+      "titleAr": "عدد القتلى بعد الأعاصير في اليابان يصل إلى تسعة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442958/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-23T05:58:21+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442793/",
       "title": "Suche nach Wegen aus „Vertrauenskrise“",
@@ -280,61 +335,6 @@
       "categoryAr": "أحداث",
       "publishedAt": "2026-09-22T13:40:30+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442912/",
-      "title": "Regierung: Tiefengeothermie mit „enormem Potenzial“",
-      "titleAr": "الحكومة: الطاقة الحرارية الجوفية العميقة ذات إمكانات هائلة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442912/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T13:18:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442908/",
-      "title": "Italiens Außenminister empört mit Frauenbild",
-      "titleAr": "وزير الخارجية الإيطالي يثور على تصوير المرأة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442908/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-22T12:59:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442906/",
-      "title": "FPÖ will „Aktivpension“ nicht zustimmen",
-      "titleAr": "الحزب الفدرالي الأوستريي يرفض \"التقاعد النشط\"",
-      "translated": true,
-      "link": "https://orf.at/stories/3442906/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T12:43:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442904/",
-      "title": "Wehrpflicht: Modell zur Reform steht",
-      "titleAr": "الالتزام بالجنود: نموذج الإصلاح جاهز",
-      "translated": true,
-      "link": "https://orf.at/stories/3442904/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T12:10:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442896/",
-      "title": "Abschiebung von Straftätern wird erleichtert",
-      "titleAr": "تسهيل ترحيل المجرمين",
-      "translated": true,
-      "link": "https://orf.at/stories/3442896/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-22T12:07:32+02:00",
-      "description": "Der chronische Überbelag österreichischer Haftanstalten sowie der Mangel an Personal erfordern Maßnahmen. Im Ministerrat am Dienstag beschloss die Bundesregierung nun, dass ausländische Straftäterinnen und Straftäter künftig leichter in ihre Herkunftsländer abgeschoben werden können. Die Möglichkeit, dagegen Einspruch zu erheben, fällt weg."
     }
   ]
 }
