@@ -4,12 +4,89 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-23T17:12:52.493Z",
+  "updatedAt": "2026-09-23T21:35:04.605Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3443061/",
+      "title": "Selenskyj ruft vor UNO zur Eindämmung Russlands auf",
+      "titleAr": "سيلينسكي يطالب الأمم المتحدة بالحد من روسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443061/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T23:00:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443059/",
+      "title": "Milei attackiert UNO und pocht auf Falkland-Anspruch",
+      "titleAr": "ميلاي يهاجم الأمم المتحدة ويصرّ على مطالبة فاكلاند",
+      "translated": true,
+      "link": "https://orf.at/stories/3443059/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T21:55:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443015/",
+      "title": "Neue Eskalation in Tigray-Region",
+      "titleAr": "تصعيد جديد في منطقة تغراي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443015/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T21:33:53+02:00",
+      "description": "Im Konflikt zwischen Äthiopiens Zentralregierung und der TPLF in der Region Tigray haben Rebellen den Flughafen der Regionalhauptstadt Mekelle erobert. Die TPLF überwältigte dabei die Regierungstruppen. Der Angriff markiert eine neue Eskalationsstufe in dem seit Monaten wieder schwelenden Konflikt. Internationale Beobachter warnen vor einem Wiederaufflammen des Bürgerkriegs, der zwischen 2020 und 2022 rund 600.000 Menschen das Leben kostete."
+    },
+    {
+      "id": "https://orf.at/stories/3443058/",
+      "title": "Kritik aus Israel: Meinl-Reisinger verteidigt Van der Bellen",
+      "titleAr": "انتقادات من إسرائيل: مينه-رئيسنجر يدافع عن فان دير بيلن",
+      "translated": true,
+      "link": "https://orf.at/stories/3443058/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T21:32:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443049/",
+      "title": "FPÖ lässt Zustimmung weiter offen",
+      "titleAr": "FPÖ تفتح الباب للموافقة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443049/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-23T20:19:44+02:00",
+      "description": "Die FPÖ legt sich vorerst nicht fest, ob sie der Koalition bei der Reform von Wehr- und Zivildienst zur teils notwendigen Zweidrittelmehrheit verhelfen wird. Nach einem ersten Gespräch mit ÖVP, SPÖ und NEOS sagte Wehrsprecher Volker Reifenberger am Mittwoch in einem Pressestatement, die Zustimmung der Freiheitlichen sei „vollkommen offen“."
+    },
+    {
+      "id": "https://orf.at/stories/3443051/",
+      "title": "Staatssekretärin Eibinger-Miedl zu Gast",
+      "titleAr": "الوزيرة المساعدة إيبينجر-ميدل في ضيافة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443051/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-23T19:46:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443050/",
+      "title": "Die Gewinnzahlen von Lotto „6 aus 45“",
+      "titleAr": "أرقام الفوز في لوتو 6 من 45",
+      "translated": true,
+      "link": "https://orf.at/stories/3443050/",
+      "category": "cLotto",
+      "categoryAr": "cLotto",
+      "publishedAt": "2026-09-23T19:30:44+02:00",
+      "description": ""
+    },
+    {
       "id": "https://orf.at/stories/3443048/",
-      "title": "„Servus Radio“: Servus Media steigt ins Radiogeschäft ein",
-      "titleAr": "سيرفوس راديو: شركة سيرفوس ميديا تغلغل سوق الإذاعة",
+      "title": "Servus Radio: Servus Media steigt ins Radiogeschäft ein",
+      "titleAr": "سيرفوس راديو: سيرفوس ميديا تدخل مجال الإذاعة",
       "translated": true,
       "link": "https://orf.at/stories/3443048/",
       "category": "Medien",
@@ -279,83 +356,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-23T13:56:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443004/",
-      "title": "Hohe Geldstrafen: Singapur verbietet Musik in „Öffis“",
-      "titleAr": "غرامات باهظة: سنغافورة تحظر الموسيقى في النقل العام",
-      "translated": true,
-      "link": "https://orf.at/stories/3443004/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-23T12:50:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443007/",
-      "title": "München: Diebstahl am Tag des offenen Denkmals",
-      "titleAr": "سرقة في ميونخ خلال يوم الافتتاح المفتوح للآثار",
-      "translated": true,
-      "link": "https://orf.at/stories/3443007/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-23T12:48:27+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443006/",
-      "title": "IStGH spricht Ex-Rebellenchef aus ZAR schuldig",
-      "titleAr": "محكمة العدل الدولية تُدين رئيسًا متمردًا سابقًا من جنوب أفريقيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443006/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T12:35:56+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443003/",
-      "title": "EZB: Neue Euro-Banknoten ab Anfang der 2030er",
-      "titleAr": "البنك المركزي الأوروبي يعلن أوراق نقدية جديدة في اليورو من أوائل الثلاثينيات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443003/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T12:11:38+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442984/",
-      "title": "Israel reagiert auf lautstarke Kritik empört",
-      "titleAr": "إسرائيل تتفاجأ بالانتقادات الصاخبة وترد بغضب",
-      "translated": true,
-      "link": "https://orf.at/stories/3442984/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T12:04:11+02:00",
-      "description": "Bei der aktuellen UNO-Generalversammlung in New York steht Israel unter schwerer Kritik etlicher Staatsspitzen. Nicht nur Bundespräsident Alexander Van der Bellen warf der Regierung von Benjamin Netanjahu Kriegsverbrechen vor. Auch die Rede von Frankreichs Präsident Emmanuel Macron ließ in Israel die Wogen hochgehen und führte zu empörten Reaktionen."
-    },
-    {
-      "id": "https://orf.at/stories/3442997/",
-      "title": "Justizministerium: Trump darf Weißes-Haus-Zugang verweigern",
-      "titleAr": "وزارة العدل تسمح لترامب برفض دخول البيت الأبيض",
-      "translated": true,
-      "link": "https://orf.at/stories/3442997/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T11:37:04+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442996/",
-      "title": "Iran muss internationale Flüge in der Region streichen",
-      "titleAr": "إيران يضطر لإلغاء الرحلات الدولية في المنطقة",
-      "translated": true,
-      "link": "https://orf.at/stories/3442996/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T11:22:43+02:00",
       "description": ""
     }
   ]

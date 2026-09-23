@@ -1656,8 +1656,8 @@
     "titleAr": "إسرائيل تغضب من تصريحات ماكرون حول الضفة الغربية"
   },
   "https://orf.at/stories/3443048/": {
-    "sourceTitle": "„Servus Radio“: Servus Media steigt ins Radiogeschäft ein",
-    "titleAr": "سيرفوس راديو: شركة سيرفوس ميديا تغلغل سوق الإذاعة"
+    "sourceTitle": "Servus Radio: Servus Media steigt ins Radiogeschäft ein",
+    "titleAr": "سيرفوس راديو: سيرفوس ميديا تدخل مجال الإذاعة"
   },
   "https://orf.at/stories/3443047/": {
     "sourceTitle": "London will Rückgabe von Chagos-Inseln neu bewerten",
@@ -1754,5 +1754,33 @@
   "https://orf.at/stories/3443011/": {
     "sourceTitle": "Trump traf Venezuelas Übergangspräsidentin in New York",
     "titleAr": "ترامب يلتقي برئيسة الانتقال في فنزويلا في نيويورك"
+  },
+  "https://orf.at/stories/3443061/": {
+    "sourceTitle": "Selenskyj ruft vor UNO zur Eindämmung Russlands auf",
+    "titleAr": "سيلينسكي يطالب الأمم المتحدة بالحد من روسيا"
+  },
+  "https://orf.at/stories/3443059/": {
+    "sourceTitle": "Milei attackiert UNO und pocht auf Falkland-Anspruch",
+    "titleAr": "ميلاي يهاجم الأمم المتحدة ويصرّ على مطالبة فاكلاند"
+  },
+  "https://orf.at/stories/3443015/": {
+    "sourceTitle": "Neue Eskalation in Tigray-Region",
+    "titleAr": "تصعيد جديد في منطقة تغراي"
+  },
+  "https://orf.at/stories/3443058/": {
+    "sourceTitle": "Kritik aus Israel: Meinl-Reisinger verteidigt Van der Bellen",
+    "titleAr": "انتقادات من إسرائيل: مينه-رئيسنجر يدافع عن فان دير بيلن"
+  },
+  "https://orf.at/stories/3443049/": {
+    "sourceTitle": "FPÖ lässt Zustimmung weiter offen",
+    "titleAr": "FPÖ تفتح الباب للموافقة"
+  },
+  "https://orf.at/stories/3443051/": {
+    "sourceTitle": "Staatssekretärin Eibinger-Miedl zu Gast",
+    "titleAr": "الوزيرة المساعدة إيبينجر-ميدل في ضيافة"
+  },
+  "https://orf.at/stories/3443050/": {
+    "sourceTitle": "Die Gewinnzahlen von Lotto „6 aus 45“",
+    "titleAr": "أرقام الفوز في لوتو 6 من 45"
   }
 }
