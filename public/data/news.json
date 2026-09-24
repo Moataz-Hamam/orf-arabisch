@@ -4,8 +4,151 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-23T21:35:04.605Z",
+  "updatedAt": "2026-09-24T05:02:00.805Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443076/",
+      "title": "Tödliche Bärenangriffe in Russland: Ermittler schreiten ein",
+      "titleAr": "هجمات الدب القاتلة في روسيا: يبدأ التحقيق",
+      "translated": true,
+      "link": "https://orf.at/stories/3443076/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-24T06:50:08+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443075/",
+      "title": "Ex-Google-Manager warnt for KI-Gefahren für Kinder",
+      "titleAr": "مدير سابق في جوجل يحذر من مخاطر الذكاء الاصطناعي على الأطفال",
+      "translated": true,
+      "link": "https://orf.at/stories/3443075/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-24T06:38:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443074/",
+      "title": "Wirtschaftskammer zufrieden mit Sommertourismus",
+      "titleAr": "غرفة التجارة راضية عن السياحة الصيفية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443074/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-24T06:35:25+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443073/",
+      "title": "Extrem niedrige Wahlbeteiligung in Marokko",
+      "titleAr": "مشاركة انتخابية منخفضة للغاية في المغرب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443073/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-24T06:32:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443071/",
+      "title": "Nordkorea: Status als Atommacht unumkehrbar",
+      "titleAr": "كوريا الشمالية: وضعها كقوة نووية لا يمكن عكسه",
+      "translated": true,
+      "link": "https://orf.at/stories/3443071/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-24T06:27:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443070/",
+      "title": "Taylor und Taylor Lautner: Baby Lennon Taylor ist da",
+      "titleAr": "تيلور وتيلور لوتنر: ولادة لينو تيلور",
+      "translated": true,
+      "link": "https://orf.at/stories/3443070/",
+      "category": "Leute",
+      "categoryAr": "Leute",
+      "publishedAt": "2026-09-24T06:23:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443069/",
+      "title": "Venezuelas Präsidentin Rodriguez stellt Wahlen in Aussicht",
+      "titleAr": "رئيسة فنزويلا رودريغز تفتح باب الانتخابات",
+      "translated": true,
+      "link": "https://orf.at/stories/3443069/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-24T06:09:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443068/",
+      "title": "Trump empfängt Xi: Zölle gegen China aufgeschoben",
+      "titleAr": "ترامب يستقبل شي: تأجيل الرسوم الجمركية على الصين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443068/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-24T06:05:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443017/",
+      "title": "Spätsommer gibt noch ein Gastspiel",
+      "titleAr": "الشتاء المتأخر يقدّم مباراة ضيف",
+      "translated": true,
+      "link": "https://orf.at/stories/3443017/",
+      "category": "Wetter",
+      "categoryAr": "طقس",
+      "publishedAt": "2026-09-24T06:00:31+02:00",
+      "description": "Am Mittwoch hat der astronomische Herbst begonnen. Auch bei den Temperaturen macht er sich diese Woche bemerkbar, allerdings nur vorübergehend. Schon am Wochenende wird es wieder spürbar wärmer mit Nachmittagstemperaturen teils um 25 Grad. Dazu bringt hoher Luftdruck viel Sonne. Größere Regenmengen sind bis Monatsende nicht mehr in Sicht."
+    },
+    {
+      "id": "https://orf.at/stories/3443065/",
+      "title": "Zwei Tote bei neuen Angriffen auf Kiew",
+      "titleAr": "إصابة شخصين في هجمات جديدة على كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3443065/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-24T02:45:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443064/",
+      "title": "Streit über Erbe von Dolly Parton entbrannt",
+      "titleAr": "نزاع حول إرث دودي باتون يشتعل",
+      "translated": true,
+      "link": "https://orf.at/stories/3443064/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-23T23:45:56+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443063/",
+      "title": "Dreifachjackpot bei Lotto „6 aus 45“",
+      "titleAr": "ثلاثي الجوائز الكبرى في لوتو 6 من 45",
+      "translated": true,
+      "link": "https://orf.at/stories/3443063/",
+      "category": "cLotto",
+      "categoryAr": "cLotto",
+      "publishedAt": "2026-09-23T23:38:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443052/",
+      "title": "Tech-Chefs warnen vor Gefahr durch KI",
+      "titleAr": "رؤساء التقنية يحذرون من مخاطر الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443052/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-23T23:34:35+02:00",
+      "description": "Führende Vertreter der Technologiebranche haben den UNO-Sicherheitsrat vor den wachsenden Gefahren durch künstliche Intelligenz (KI) gewarnt. „Wenn sie schlecht verwaltet wird, glaube ich sogar, dass KI ein Risiko für die gesamte Menschheit darstellen könnte“, sagte der Chef des Entwicklers Anthropic, Dario Amodei, am Mittwoch. Australiens Premier machte unterdessen einen Hackangriff eines OpenAI-KI-Agenten auf ein Regierungsportal öffentlich."
+    },
     {
       "id": "https://orf.at/stories/3443061/",
       "title": "Selenskyj ruft vor UNO zur Eindämmung Russlands auf",
@@ -214,149 +357,6 @@
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-23T16:51:26+02:00",
       "description": "Die Regierung bringt die Spritpreisbremse zurück. Nach Angaben des Bundeskanzleramts vom Mittwoch soll die Entlastung mehr als zwölf Cent pro Liter betragen. Gelten wird die Regelung für die Monate Oktober und November. Die Treibstoffpreise waren zuletzt wieder stark gestiegen."
-    },
-    {
-      "id": "https://orf.at/stories/3443036/",
-      "title": "Ausstieg aus fossiler Energie: Deutscher Plan bei UNO vorgelegt",
-      "titleAr": "ألمانيا تُقدّم خطة خروج من الطاقة الأحفورية للاتحاد الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443036/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-09-23T16:38:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443034/",
-      "title": "Scharaa fordert Rückzug Israels vom Golan",
-      "titleAr": "شرايا يطالب بانسحاب إسرائيل من الجولان",
-      "translated": true,
-      "link": "https://orf.at/stories/3443034/",
-      "category": "News",
-      "categoryAr": "أخبار",
-      "publishedAt": "2026-09-23T16:18:19+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443032/",
-      "title": "Zwölf Cent pro Liter: Einigung bei Spritpreisbremse",
-      "titleAr": "12 سنتاً للتر: اتفاق على حظر أسعار الوقود",
-      "translated": true,
-      "link": "https://orf.at/stories/3443032/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T16:12:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443031/",
-      "title": "Eurovision Song Contest: Niederlande 2027 wieder dabei",
-      "titleAr": "هولندا تعود في مسابقة الأغاني الأوروبية 2027",
-      "translated": true,
-      "link": "https://orf.at/stories/3443031/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-23T16:05:45+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443028/",
-      "title": "Influencer Clavicular wegen Vergewaltigung angeklagt",
-      "titleAr": "المؤثر كلافيكولير يُتهم بالاغتصاب",
-      "translated": true,
-      "link": "https://orf.at/stories/3443028/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-23T15:56:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442989/",
-      "title": "Steuergutschrift für Arbeit in Pension kommt",
-      "titleAr": "قرض ضريبي للعمل في التقاعد يُقدّم",
-      "translated": true,
-      "link": "https://orf.at/stories/3442989/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-23T15:43:57+02:00",
-      "description": "Der Nationalrat hat am Mittwoch in seiner ersten regulären Sitzung nach der Sommerpause mit den Stimmen der Koalitionsparteien die „Aktivpension“ beschlossen. Vorgesehen ist die Einführung eines Steuerfreibetrags für jene, die im Pensionsalter weiter tätig sind. Kritik kam von den Oppositionsparteien FPÖ und Grüne. Beschlossen wurde außerdem mehr Geld für Menschen mit Behinderung am Arbeitsplatz."
-    },
-    {
-      "id": "https://orf.at/stories/3443020/",
-      "title": "Polen: Russischer Hubschrauber dringt in Luftraum ein",
-      "titleAr": "بولندا: طائرة روسية تدخل المجال الجوي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443020/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T14:55:04+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443019/",
-      "title": "London schützt Satelliten mit neuer Weltraumeinheit",
-      "titleAr": "لندن تحمي الأقمار الصناعية بوحدة فضائية جديدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443019/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T14:47:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443018/",
-      "title": "Spritpreise: ÖVP-Landeshauptleute fordern Steuersenkung",
-      "titleAr": "قادة الحزب الأوستريي يطالبون بخفض ضرائب الوقود",
-      "translated": true,
-      "link": "https://orf.at/stories/3443018/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-23T14:45:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443016/",
-      "title": "Huthis warnen USA vor Einmischung im Jemen",
-      "titleAr": "الهاوثيون يحذرون الولايات المتحدة من التدخل في اليمن",
-      "translated": true,
-      "link": "https://orf.at/stories/3443016/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T14:31:27+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442985/",
-      "title": "Großer Empfang trotz vieler Streitpunkte",
-      "titleAr": "استقبال كبير على الرغم من العديد من الخلافات",
-      "translated": true,
-      "link": "https://orf.at/stories/3442985/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T14:28:46+02:00",
-      "description": "Chinas Staats- und Parteichef Xi Jinping trifft am Mittwoch auf Einladung von US-Präsident Donald Trump zu einem dreitägigen Staatsbesuch in Washington ein. Themen des Besuchs dürfte unter anderem der Zoll- und Handelsstreit beider Länder sein, außerdem Sicherheit im Umgang mit künstlicher Intelligenz sowie globale Konflikte wie der Iran-Krieg der USA und Israels und der russische Angriffskrieg gegen die Ukraine."
-    },
-    {
-      "id": "https://orf.at/stories/3443012/",
-      "title": "Aserbaidschan begnadigt verurteilten Franzosen",
-      "titleAr": "أذربيجان يعتق الفرنسي المتهم",
-      "translated": true,
-      "link": "https://orf.at/stories/3443012/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T13:56:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443011/",
-      "title": "Trump traf Venezuelas Übergangspräsidentin in New York",
-      "titleAr": "ترامب يلتقي برئيسة الانتقال في فنزويلا في نيويورك",
-      "translated": true,
-      "link": "https://orf.at/stories/3443011/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-23T13:56:26+02:00",
-      "description": ""
     }
   ]
 }
