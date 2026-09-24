@@ -1812,8 +1812,8 @@
     "titleAr": "رئيسة فنزويلا رودريغز تفتح باب الانتخابات"
   },
   "https://orf.at/stories/3443068/": {
-    "sourceTitle": "Trump empfängt Xi: Zölle gegen China aufgeschoben",
-    "titleAr": "ترامب يستقبل شي: تأجيل الرسوم الجمركية على الصين"
+    "sourceTitle": "Xi bei Trump: Zölle gegen China aufgeschoben",
+    "titleAr": "شي على ترامب: تأجيل الرسوم الجمركية على الصين"
   },
   "https://orf.at/stories/3443017/": {
     "sourceTitle": "Spätsommer gibt noch ein Gastspiel",
@@ -1834,5 +1834,57 @@
   "https://orf.at/stories/3443052/": {
     "sourceTitle": "Tech-Chefs warnen vor Gefahr durch KI",
     "titleAr": "رؤساء التقنية يحذرون من مخاطر الذكاء الاصطناعي"
+  },
+  "https://orf.at/stories/3443125/": {
+    "sourceTitle": "Verbund hebt Stromtarif für Neukunden an",
+    "titleAr": "التحالف يرفع سعر الكهرباء للزبائن الجدد"
+  },
+  "https://orf.at/stories/3443122/": {
+    "sourceTitle": "Nordirak: Türkei will Stützpunkt schrittweise übergeben",
+    "titleAr": "التركي يخطط لتسليم قاعدة عسكرية تدريجياً في شمال العراق"
+  },
+  "https://orf.at/stories/3443116/": {
+    "sourceTitle": "Neun Tote bei Marineübung am Kaspischen Meer",
+    "titleAr": "توفي تسعة أشخاص في تدريب بحري ببحر قزوين"
+  },
+  "https://orf.at/stories/3442988/": {
+    "sourceTitle": "Zwischen Freude am Job und Notwendigkeit",
+    "titleAr": "بين متعة العمل والضرورة"
+  },
+  "https://orf.at/stories/3443113/": {
+    "sourceTitle": "Teheran warnt vor Ausweitung von Krieg auf Indischen Ozean",
+    "titleAr": "تهران تحذر من انتشار الحرب في المحيط الهندي"
+  },
+  "https://orf.at/stories/3443108/": {
+    "sourceTitle": "Burnham stellt Alkoholverbot in Stadien infrage",
+    "titleAr": "برنهم يشكك في حظر الكحول في الملاعب"
+  },
+  "https://orf.at/stories/3443102/": {
+    "sourceTitle": "Sohn von Israels US-Botschafter nach Anschlag in Lebensgefahr",
+    "titleAr": "ابن السفير الإسرائيلي لدى الولايات المتحدة في خطر بعد هجوم"
+  },
+  "https://orf.at/stories/3443101/": {
+    "sourceTitle": "Medwenitsch neuer Vizevorsitzender im ORF-Stiftungsrat",
+    "titleAr": "ميدفينيتش يصبح نائب رئيس مجلس إدارة ORF"
+  },
+  "https://orf.at/stories/3443100/": {
+    "sourceTitle": "Bericht über CIA-Warnung vor russischen Drohnen in Europa",
+    "titleAr": "تقرير عن تحذير الـCIA بدوريات روسية في أوروبا"
+  },
+  "https://orf.at/stories/3443097/": {
+    "sourceTitle": "Minister: Feuer in Starlink-Station in Polen war „Sabotage“",
+    "titleAr": "الوزير: حريق في محطة ستارلينك بالبولندا كان تخريباً"
+  },
+  "https://orf.at/stories/3443078/": {
+    "sourceTitle": "Richter hebt Hausverbot für US-Medien auf",
+    "titleAr": "القاضي يرفع حظر الدخول لوسائل الإعلام الأمريكية"
+  },
+  "https://orf.at/stories/3443079/": {
+    "sourceTitle": "Richter hebt Trumps Ausschluss von US-Medien vorerst auf",
+    "titleAr": "القاضي يرفع استبعاد ترامب من وسائل الإعلام الأمريكية"
+  },
+  "https://orf.at/stories/3443077/": {
+    "sourceTitle": "OpenAI-KI hackte Regierungsportal",
+    "titleAr": "الذكاء الاصطناعي من OpenAI اختراق بوابة حكومية"
   }
 }
