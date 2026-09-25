@@ -1980,8 +1980,8 @@
     "titleAr": "تم اكتشاف أول ذبابة حاملة للشموع في الاتحاد الأوروبي"
   },
   "https://orf.at/stories/3443182/": {
-    "sourceTitle": "Macron will Truppen zum Schutz von Ölhafen in Saudi-Arabien",
-    "titleAr": "ماكرون يرسل قوات لحماية ميناء النفط في السعودية"
+    "sourceTitle": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+    "titleAr": "ماكرون يخطط لحماية ميناء النفط السعودي عسكرياً"
   },
   "https://orf.at/stories/3443180/": {
     "sourceTitle": "Niger: Mindestens 57 Sicherheitskräfte bei IS-Angriffen getötet",
@@ -2014,5 +2014,37 @@
   "https://orf.at/stories/3443172/": {
     "sourceTitle": "Außenministerin Meinl-Reisinger zu Gast",
     "titleAr": "وزيرة الخارجية مينيل-رايسنجر ضيفة"
+  },
+  "https://orf.at/stories/3443192/": {
+    "sourceTitle": "Greenwashing: Greenpeace mit EU-Beschwerde gegen Österreich",
+    "titleAr": "غرينبيس تُقدّم شكوى للاتحاد الأوروبي ضد النمسا"
+  },
+  "https://orf.at/stories/3443191/": {
+    "sourceTitle": "Ausbildung der Sekundarstufenlehrer wird kürzer",
+    "titleAr": "تقصير مدة تدريب معلمي المرحلة الثانوية"
+  },
+  "https://orf.at/stories/3443190/": {
+    "sourceTitle": "Jugendarbeitslosigkeit: Deutliche Unterschiede nach Herkunft",
+    "titleAr": "بطالة الشباب: فروق واضحة حسب الأصل"
+  },
+  "https://orf.at/stories/3443189/": {
+    "sourceTitle": "Hunderte junge Wale in Argentinien verendet",
+    "titleAr": "مئات حيتان شابة تُقتل في الأرجنتين"
+  },
+  "https://orf.at/stories/3443188/": {
+    "sourceTitle": "Teheran will angeblich auch über Uran sprechen",
+    "titleAr": "تهران تدّعي رغبتها في التحدث عن اليورانيوم"
+  },
+  "https://orf.at/stories/3443187/": {
+    "sourceTitle": "Trumps Abschiebepläne beschäftigen US-Höchstgericht",
+    "titleAr": "خطط ترامب للترحيل تُشغل المحكمة العليا الأمريكية"
+  },
+  "https://orf.at/stories/3443186/": {
+    "sourceTitle": "Jemen: Regierung fordert internationale Hilfe gegen Huthis",
+    "titleAr": "اليمن: الحكومة تطلب مساعدة دولية ضد الحوثيين"
+  },
+  "https://orf.at/stories/3443099/": {
+    "sourceTitle": "Warnung vor humanitärer Katastrophe",
+    "titleAr": "تحذير من كارثة إنسانية"
   }
 }

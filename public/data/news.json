@@ -4,12 +4,100 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-24T21:36:03.676Z",
+  "updatedAt": "2026-09-25T05:05:39.222Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3443192/",
+      "title": "Greenwashing: Greenpeace mit EU-Beschwerde gegen Österreich",
+      "titleAr": "غرينبيس تُقدّم شكوى للاتحاد الأوروبي ضد النمسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443192/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-25T07:03:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443191/",
+      "title": "Ausbildung der Sekundarstufenlehrer wird kürzer",
+      "titleAr": "تقصير مدة تدريب معلمي المرحلة الثانوية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443191/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-25T06:59:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443190/",
+      "title": "Jugendarbeitslosigkeit: Deutliche Unterschiede nach Herkunft",
+      "titleAr": "بطالة الشباب: فروق واضحة حسب الأصل",
+      "translated": true,
+      "link": "https://orf.at/stories/3443190/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-25T06:48:54+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443189/",
+      "title": "Hunderte junge Wale in Argentinien verendet",
+      "titleAr": "مئات حيتان شابة تُقتل في الأرجنتين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443189/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-25T06:40:40+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443188/",
+      "title": "Teheran will angeblich auch über Uran sprechen",
+      "titleAr": "تهران تدّعي رغبتها في التحدث عن اليورانيوم",
+      "translated": true,
+      "link": "https://orf.at/stories/3443188/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T06:29:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443187/",
+      "title": "Trumps Abschiebepläne beschäftigen US-Höchstgericht",
+      "titleAr": "خطط ترامب للترحيل تُشغل المحكمة العليا الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443187/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T06:20:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443186/",
+      "title": "Jemen: Regierung fordert internationale Hilfe gegen Huthis",
+      "titleAr": "اليمن: الحكومة تطلب مساعدة دولية ضد الحوثيين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443186/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T06:17:06+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443099/",
+      "title": "Warnung vor humanitärer Katastrophe",
+      "titleAr": "تحذير من كارثة إنسانية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443099/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T00:00:30+02:00",
+      "description": "In der von Russland kontrollierten ukrainischen Stadt Oleschky verschärft sich die Situation für die Menschen extrem: Laut Berichten ist die Stadt an der Front seit Monaten von der Lebensmittelversorgung abgeschnitten, selbst der Kreml räumte diese Woche Engpässe ein. Die Ukraine warnte vor einer Hungersnot und humanitären Katastrophe, immer wieder sterben Menschen auf der Suche nach Essen. Zuletzt verweigerte Russland Gespräche."
+    },
+    {
       "id": "https://orf.at/stories/3443182/",
-      "title": "Macron will Truppen zum Schutz von Ölhafen in Saudi-Arabien",
-      "titleAr": "ماكرون يرسل قوات لحماية ميناء النفط في السعودية",
+      "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+      "titleAr": "ماكرون يخطط لحماية ميناء النفط السعودي عسكرياً",
       "translated": true,
       "link": "https://orf.at/stories/3443182/",
       "category": "Ausland",
@@ -268,72 +356,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-24T15:45:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443143/",
-      "title": "Ungarn: Neustart für unter Orban eingestellte Qualitätszeitung",
-      "titleAr": "المجر تعيد تشغيل صحيفة جودة التي أوقفتها أوربان",
-      "translated": true,
-      "link": "https://orf.at/stories/3443143/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-09-24T15:38:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443131/",
-      "title": "Medien doch wieder zugelassen",
-      "titleAr": "الوسائل الإعلامية مسموحة مجدداً",
-      "translated": true,
-      "link": "https://orf.at/stories/3443131/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-24T15:02:36+02:00",
-      "description": "Obwohl ein Richter das vom Weißen Haus verhängte Hausverbot für die Medienhäuser CNN, MS Now und Politico aufgehoben hatte, wurde Donnerstagfrüh (Ortszeit) Vertretern der drei Medien weiterhin der Zugang verwehrt – laut Bezirksrichter Tim Kelly zu Unrecht und verfassungswidrig. Am Donnerstagabend ruderte das Weiße Haus dann zurück und genehmigte allen Medienvertretern und -vertreterinnen den Zutritt."
-    },
-    {
-      "id": "https://orf.at/stories/3443135/",
-      "title": "Trump: USA und China gegen staatliche KI-Regulierung",
-      "titleAr": "ترامب: أمريكا والصين ضد تنظيم الدولة للذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443135/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-24T14:57:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443134/",
-      "title": "Sugababes melden sich mit „Sugababes“ zurück",
-      "titleAr": "سوجابابس تعود باسم «سوجابابس»",
-      "translated": true,
-      "link": "https://orf.at/stories/3443134/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-24T14:48:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443133/",
-      "title": "Polen: Toter bei Messerangriff in Kloster",
-      "titleAr": "بولندا: قتيل في هجوم سكاكين داخل دير",
-      "translated": true,
-      "link": "https://orf.at/stories/3443133/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-24T14:42:01+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443130/",
-      "title": "Starbucks schließt 250 Filialen in Nordamerika",
-      "titleAr": "ستاربكس تغلق 250 فرعاً في أمريكا الشمالية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443130/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-24T14:27:38+02:00",
       "description": ""
     }
   ]
