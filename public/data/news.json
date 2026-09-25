@@ -4,8 +4,107 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-25T17:19:00.626Z",
+  "updatedAt": "2026-09-25T21:40:25.125Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443217/",
+      "title": "„Der Berg hat sich verändert“",
+      "titleAr": "تغيرت الجبال",
+      "translated": true,
+      "link": "https://orf.at/stories/3443217/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-25T23:08:52+02:00",
+      "description": "„Gletscherschwund, bröckelnde Wege und Hütten ohne Wasser“: Mit diesen Schlagworten haben der Verband Vereine Österreichs (VAVÖ), der Alpenverein (ÖAV) und die Naturfreunde am Freitag auf die Folgen der Klimakrise und die damit steigenden Gefahren für den Bergsport hingewiesen. Untermauert wurde das mit der Unfallbilanz der abgelaufenen Sommersaison samt der Anmerkung: „Der Berg hat sich verändert, und die Vorbereitung vieler Bergsteigerinnen und Bergsteiger hält damit nicht Schritt“."
+    },
+    {
+      "id": "https://orf.at/stories/3443268/",
+      "title": "Zeiler-Vorstoß mit weitreichenden Folgen",
+      "titleAr": "تقدم زايليير له عواقب بعيدة المدى",
+      "translated": true,
+      "link": "https://orf.at/stories/3443268/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-25T21:55:09+02:00",
+      "description": "Überraschend hat der Medienmanager Gerhard Zeiler am Freitag bekanntgegeben, Parteichef der SPÖ werden zu wollen. Ein Schritt, der für Politologen durchaus ernstzunehmen sei, wie sie im Gespräch mit ORF.at betonen. Viele Fragen seien zwar noch offen, klar sei aber schon jetzt: Dass Zeiler das politische Parkett betritt, bringe weitreichende Folgen mit sich – nicht nur für die Partei selbst."
+    },
+    {
+      "id": "https://orf.at/stories/3443285/",
+      "title": "Cambridge-Analytica-Skandal: Meta verlor Prozess",
+      "titleAr": "فضيحة كامبريدج أناليتيكا: ميتا خسر القضية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443285/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-25T21:29:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443284/",
+      "title": "Gates über KI: „Gab noch nie eine so mächtige Waffe“",
+      "titleAr": "جيتس: 'لم يسبق أن كان هناك سلاح بهذه القوة'",
+      "translated": true,
+      "link": "https://orf.at/stories/3443284/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-25T21:14:55+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443283/",
+      "title": "US-Supreme-Court erlaubt Datenbank zur Wählerprüfung",
+      "titleAr": "المحكمة العليا تسمح بقاعدة بيانات للتحقق من الناخبين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443283/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T21:05:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443281/",
+      "title": "Jemen will Bevölkerung gegen Huthis mobilisieren",
+      "titleAr": "اليمن يهدف إلى تعبئة الشعب ضد الحوثيين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443281/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T20:29:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443280/",
+      "title": "Politikwissenschaftler Filzmaier im Studio",
+      "titleAr": "العالم السياسي فِلزمير في الاستوديو",
+      "translated": true,
+      "link": "https://orf.at/stories/3443280/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-25T20:14:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443279/",
+      "title": "Putin: Keine Vorbereitung auf „Kampf mit Europa“",
+      "titleAr": "بوتين: لا استعداد لمواجهة أوروبا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443279/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T19:57:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443274/",
+      "title": "Berliner Linke will mit Grünen und SPD sondieren",
+      "titleAr": "اليسار البريلي يسعى للتعاون مع الخضر وال SPD",
+      "translated": true,
+      "link": "https://orf.at/stories/3443274/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T19:46:56+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443273/",
       "title": "Bericht: Fed plant Lockerung der Aufsichtsregeln für Banken",
@@ -169,83 +268,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-25T13:40:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443238/",
-      "title": "Vier neue Vertragsverletzungsverfahren gegen Österreich",
-      "titleAr": "أربع إجراءات لخرق الاتفاقية ضد النمسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443238/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T13:18:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443233/",
-      "title": "Zeiler will SPÖ-Chef werden",
-      "titleAr": "زيلير يطمح لرئاسة الحزب الاشتراكي الديمقراطي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443233/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T12:42:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443232/",
-      "title": "Delfine und Wale verenden nach Verlegung aus Freizeitpark",
-      "titleAr": "الفقاريات البحرية تتوفى بعد نقلها من حديقة ترفيهية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443232/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-25T12:39:17+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443221/",
-      "title": "Junge ohne Job: Studie beleuchtet Rolle der Herkunft",
-      "titleAr": "شاب بلا عمل: دراسة تسلط الضوء على الأصل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443221/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T12:19:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443223/",
-      "title": "Finnland und Schweden fangen russische Jets über Ostsee ab",
-      "titleAr": "فنلندا والسويد يقطفون طائرات روسية فوق بحر البلطيق",
-      "translated": true,
-      "link": "https://orf.at/stories/3443223/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T12:03:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443219/",
-      "title": "Selenskyj: USA schlagen Dreiertreffen mit Russland vor",
-      "titleAr": "سلينسكي: الولايات المتحدة تقترح اجتماع ثلاثي مع روسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443219/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T11:46:42+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443216/",
-      "title": "VW ruft weltweit zwei Millionen Autos zurück",
-      "titleAr": "فولكس فاجن تسترجع مليوني سيارة عالميًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443216/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-25T11:40:16+02:00",
       "description": ""
     }
   ]
