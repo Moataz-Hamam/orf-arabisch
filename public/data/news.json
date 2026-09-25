@@ -4,8 +4,140 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-25T11:59:14.763Z",
+  "updatedAt": "2026-09-25T17:19:00.626Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443273/",
+      "title": "Bericht: Fed plant Lockerung der Aufsichtsregeln für Banken",
+      "titleAr": "تقرير: الفيدراليّة تخطط لتخفيف قواعد الرقابة على البنوك",
+      "translated": true,
+      "link": "https://orf.at/stories/3443273/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-25T19:02:54+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443218/",
+      "title": "Viel Show, wenig Inhalt auf Gipfel Trump – Xi",
+      "titleAr": "عرض كبير، محتوى قليل في قمة ترامب–شي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443218/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T18:40:36+02:00",
+      "description": "Mit viel Pomp ist Chinas Staatschef Xi Jinping bei seinem USA-Besuch von US-Präsident Donald Trump empfangen worden, doch abseits schöner Worte habe es wenig Annäherung gegeben, etwa in Sachen Zölle, analysieren Medien. Gerade einmal 90 Minuten soll das inhaltliche Gespräch über Handelsfragen, KI, Taiwan, die Kriege im Nahen Osten und der Ukraine gedauert haben. Trotzdem – oder vielleicht gerade deswegen – zeigten sich beide Seiten zufrieden."
+    },
+    {
+      "id": "https://orf.at/stories/3443266/",
+      "title": "Israelischer Siedlungsbau: UNO listet 214 Firmen auf",
+      "titleAr": "بناء مستوطنات إسرائيلية: الأمم المتحدة تسرد 214 شركة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443266/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T16:55:38+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443265/",
+      "title": "Falschmeldung über Millionenfund bei Razzia zieht Kreise",
+      "titleAr": "إشاعة عن اكتشاف ملايين في تفتيش تنتشر",
+      "translated": true,
+      "link": "https://orf.at/stories/3443265/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T16:42:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443264/",
+      "title": "EU-Länder einigen sich bei Waffenfondsmitteln",
+      "titleAr": "دول الاتحاد الأوروبي تتفق على تمويل الأسلحة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443264/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T16:22:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443263/",
+      "title": "Österreicher nach Fahrradsturz in Bergen Udines verletzt",
+      "titleAr": "أوسترواي مصاب بعد سقوط دراجة في بيرغن أودينيس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443263/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-25T16:20:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442883/",
+      "title": "Gruselige Gegenwart mit „Vampirin“ Holzinger",
+      "titleAr": "حضور مخيف مع \"فامبرين\" هولزينجر",
+      "translated": true,
+      "link": "https://orf.at/stories/3442883/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-25T15:50:14+02:00",
+      "description": "Im vorletzten Jahrgang unter Intendantin Ekaterina Degot heißt es beim steirischen herbst: dorthin gehen, wo es ungemütlich wird. Am Donnerstagabend wurde das Festival in Graz eröffnet – mit Wrestling, düsteren Engeln und einer programmatischen Kampfansage gegen Wohlfühlkultur. In der Hauptausstellung rückt einem die Gegenwart fast unangenehm zu Leibe – inklusive einer Florentina Holzinger als Vampirmatriarchin."
+    },
+    {
+      "id": "https://orf.at/stories/3443257/",
+      "title": "Vier Tote bei russischem Drohnenangriff auf Kiew",
+      "titleAr": "أربعة قتلى في هجوم طائرات بدون طيار روسي على كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3443257/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T15:16:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443251/",
+      "title": "US-Sanktionen gegen Flugsektor: Iran droht Nachbarn",
+      "titleAr": "العقوبات الأمريكية على قطاع الطيران: إيران تهدد الجيران",
+      "translated": true,
+      "link": "https://orf.at/stories/3443251/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T14:44:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443250/",
+      "title": "Frankreich: Roman wegen KI-Verdachts von Shortlist gestrichen",
+      "titleAr": "فرنسا: إلغاء رواية بسبب اتهام بالذكاء الاصطناعي من شورتليست",
+      "translated": true,
+      "link": "https://orf.at/stories/3443250/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-25T14:33:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443247/",
+      "title": "UNICEF: Akute Mangelernährung bei Kindern im Jemen",
+      "titleAr": "اليونيسيف: نقص غذائي حاد لدى أطفال اليمن",
+      "translated": true,
+      "link": "https://orf.at/stories/3443247/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-25T14:28:18+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443245/",
+      "title": "Mailänder Flughafen offiziell nach Berlusconi benannt",
+      "titleAr": "مطار ميلانو يُسمى رسميًا باسم برلسوني",
+      "translated": true,
+      "link": "https://orf.at/stories/3443245/",
+      "category": "Lifestyle",
+      "categoryAr": "Lifestyle",
+      "publishedAt": "2026-09-25T14:02:57+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443237/",
       "title": "Gerhard Zeiler will SPÖ-Chef werden",
@@ -114,138 +246,6 @@
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-25T11:40:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443203/",
-      "title": "Berichte über neues Angebot aus Teheran",
-      "titleAr": "تقارير عن عرض جديد من طهران",
-      "translated": true,
-      "link": "https://orf.at/stories/3443203/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T11:33:36+02:00",
-      "description": "Seit Monaten stocken die Verhandlungen über ein Ende des Iran-Krieges. Medienberichten zufolge soll der Iran den USA am Donnerstag einen neuen Vorschlag zur Wiederaufnahme von Gesprächen unterbreitet haben. Gleichzeitig sagte der iranische Präsident Massud Peseschkian im US-Fernsehen, man sei unter Bedingungen zur Herausgabe von hochangereichertem Uran bereit. Details der Vorschläge ließ die iranische Führung aber offen."
-    },
-    {
-      "id": "https://orf.at/stories/3443214/",
-      "title": "Weiter schwere Kämpfe in Äthiopiens Tigray-Region",
-      "titleAr": "استمرار الاشتباكات الشديدة في منطقة تيغراي الإثيوبية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443214/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T11:31:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443213/",
-      "title": "Bericht: Mehr Zivildiensterklärungen",
-      "titleAr": "تقرير: مزيد من إعلانات الخدمة المدنية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443213/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T11:13:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443208/",
-      "title": "Papst Leo XIV. zu Besuch in Frankreich eingetroffen",
-      "titleAr": "وصل البابا ليو الرابع عشر لزيارة فرنسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443208/",
-      "category": "Religion",
-      "categoryAr": "دين",
-      "publishedAt": "2026-09-25T10:22:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443205/",
-      "title": "Sydney: Ai Weiweis „Mushrooms“ gegen den Krieg",
-      "titleAr": "سيدني: فطر آي ويوي ضد الحرب",
-      "translated": true,
-      "link": "https://orf.at/stories/3443205/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-25T09:45:28+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443200/",
-      "title": "D: Kritik an Stolpersteinverbot in Heidenau",
-      "titleAr": "انتقادات حظر حجر الصدم في هايدناو",
-      "translated": true,
-      "link": "https://orf.at/stories/3443200/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T08:35:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443193/",
-      "title": "Bericht über neues Verhandlungsangebot des Iran an USA",
-      "titleAr": "تقرير عن عرض مفاوضات جديد من إيران للولايات المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443193/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T07:40:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443185/",
-      "title": "Plädoyer für das Völkerrecht",
-      "titleAr": "دعوة للقانون الدولي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443185/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T07:10:50+02:00",
-      "description": "Außenministerin Beate Meinl-Reisinger (NEOS) hat in ihrer Rede vor der UNO-Vollversammlung in New York Donnerstagstagabend (Ortszeit) die Einhaltung des Völkerrechts eingemahnt, für Dialog und dafür plädiert, „das Vertrauen in unsere gemeinsame Weltordnung wiederherzustellen“. Meinl-Reisinger forderte außerdem internationale Regeln für autonome Waffensysteme. Österreich werde in den nächsten zwei Jahren in der UNO eine aktive Rolle spielen, kündigte die Außenministerin an."
-    },
-    {
-      "id": "https://orf.at/stories/3443192/",
-      "title": "Greenwashing: Greenpeace mit EU-Beschwerde gegen Österreich",
-      "titleAr": "غرينبيس تُقدّم شكوى للاتحاد الأوروبي ضد النمسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443192/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-09-25T07:03:36+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443191/",
-      "title": "Ausbildung der Sekundarstufenlehrer wird kürzer",
-      "titleAr": "تقصير مدة تدريب معلمي المرحلة الثانوية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443191/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T06:59:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443190/",
-      "title": "Jugendarbeitslosigkeit: Deutliche Unterschiede nach Herkunft",
-      "titleAr": "بطالة الشباب: فروق واضحة حسب الأصل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443190/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T06:48:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443189/",
-      "title": "Hunderte junge Wale in Argentinien verendet",
-      "titleAr": "مئات حيتان شابة تُقتل في الأرجنتين",
-      "translated": true,
-      "link": "https://orf.at/stories/3443189/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-25T06:40:40+02:00",
       "description": ""
     }
   ]
