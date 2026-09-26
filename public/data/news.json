@@ -4,8 +4,118 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-26T11:33:36.145Z",
+  "updatedAt": "2026-09-26T16:30:33.005Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443333/",
+      "title": "Hunderttausende bei Papst-Messe in Paris",
+      "titleAr": "مئات الآلاف في قاعة القداس البابوي في باريس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443333/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-09-26T17:56:59+02:00",
+      "description": "Unter großem Andrang hat Papst Leo XIV. am Samstag in Paris auf dem zentralen Place de la Concorde eine Messe abgehalten. Rund 700.000 Menschen, mehr als vom Vatikan selbst erwartet, kamen dazu ins Zentrum der französischen Hauptstadt. Unter großem Jubel war der Papst zuvor im Papamobil die Champs-Elysees hinuntergefahren. In seiner Predigt rief er dazu auf, über den Sinn des Lebens nachzudenken."
+    },
+    {
+      "id": "https://orf.at/stories/3443345/",
+      "title": "Bericht: Warnungen vor 7. Oktober auch aus Ägypten",
+      "titleAr": "تحذيرات قبل 7 أكتوبر حتى من مصر",
+      "translated": true,
+      "link": "https://orf.at/stories/3443345/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T17:43:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443344/",
+      "title": "Trump: Habe iranisches Hormus-Angebot abgelehnt",
+      "titleAr": "ترامب: رفض عرض هورمس الإيراني",
+      "translated": true,
+      "link": "https://orf.at/stories/3443344/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T17:40:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443342/",
+      "title": "Wadephul traf Lawrow in New York",
+      "titleAr": "وادي فول يلتقي لورور في نيويورك",
+      "translated": true,
+      "link": "https://orf.at/stories/3443342/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T17:10:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443338/",
+      "title": "Papst feiert in Paris Messe mit 700.000 Menschen",
+      "titleAr": "البابا يحيي قاعة القداس في باريس مع 700 ألف شخص",
+      "translated": true,
+      "link": "https://orf.at/stories/3443338/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-09-26T16:26:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443320/",
+      "title": "Bauer für stärkere staatliche Aufsicht",
+      "titleAr": "بوار يدعو إلى رقابة حكومية أقوى",
+      "translated": true,
+      "link": "https://orf.at/stories/3443320/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-26T16:00:39+02:00",
+      "description": "Integrationsministerin Claudia Bauer (ÖVP) spricht sich für eine stärkere staatliche Aufsicht über den konfessionellen Religionsunterricht aus. „Uns geht es darum, dass wir mehr Mitspracherecht haben und mehr Kontrolle darüber, was im Unterricht vermittelt wird und von wem das vermittelt wird“, sagte Bauer am Samstag in der Ö1-Reihe „Im Journal zu Gast“."
+    },
+    {
+      "id": "https://orf.at/stories/3443331/",
+      "title": "Madrid: Großdemo gegen Migrationspolitik der Regierung",
+      "titleAr": "مدريد: مظاهرة جماعية ضد سياسة الحكومة المهاجرين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443331/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T15:02:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443330/",
+      "title": "Keuchhusten: Impfplan mit neuer Auffrischungsempfehlung",
+      "titleAr": "الحمى السعال: خطة التطعيم مع توصية بجرعة تجديد",
+      "translated": true,
+      "link": "https://orf.at/stories/3443330/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-09-26T14:55:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443327/",
+      "title": "Tote nach Anschlag in Pakistan",
+      "titleAr": "وفاة بعد هجوم في باكستان",
+      "translated": true,
+      "link": "https://orf.at/stories/3443327/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T14:37:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443324/",
+      "title": "Sechs Tote nach Gebäudeexplosion in Athen",
+      "titleAr": "ستة قتلى بعد انفجار مبنى في أثينا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443324/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-26T13:54:29+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443321/",
       "title": "Tote und Verletzte bei Angriffen in Ukraine und Russland",
@@ -158,127 +268,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-26T05:55:19+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443292/",
-      "title": "Trump lehnt iranischen Waffenruhevorschlag ab",
-      "titleAr": "ترامب يرفض اقتراح وقف إطلاق النار الإيراني",
-      "translated": true,
-      "link": "https://orf.at/stories/3443292/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-26T04:07:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443291/",
-      "title": "TikTok schließt Millionenvergleich in USA",
-      "titleAr": "تيك توك يختتم مقارنة بالملايين في الولايات المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443291/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-26T03:02:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443290/",
-      "title": "USA: Konstruktive Gespräche mit Iran über Vermittler",
-      "titleAr": "الولايات المتحدة: محادثات بناءة مع إيران حول وسيط",
-      "translated": true,
-      "link": "https://orf.at/stories/3443290/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T23:44:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443217/",
-      "title": "„Der Berg hat sich verändert“",
-      "titleAr": "تغيرت الجبال",
-      "translated": true,
-      "link": "https://orf.at/stories/3443217/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-09-25T23:08:52+02:00",
-      "description": "„Gletscherschwund, bröckelnde Wege und Hütten ohne Wasser“: Mit diesen Schlagworten haben der Verband alpiner Vereine Österreichs (VAVÖ), der Alpenverein (ÖAV) und die Naturfreunde am Freitag auf die Folgen der Klimakrise und die damit steigenden Gefahren für den Bergsport hingewiesen. Untermauert wurde das mit der Unfallbilanz der abgelaufenen Sommersaison samt der Anmerkung: „Der Berg hat sich verändert, und die Vorbereitung vieler Bergsteigerinnen und Bergsteiger hält damit nicht Schritt.“"
-    },
-    {
-      "id": "https://orf.at/stories/3443268/",
-      "title": "Zeiler-Vorstoß mit weitreichenden Folgen",
-      "titleAr": "تقدم زايليير له عواقب بعيدة المدى",
-      "translated": true,
-      "link": "https://orf.at/stories/3443268/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T21:55:09+02:00",
-      "description": "Überraschend hat der Medienmanager Gerhard Zeiler am Freitag bekanntgegeben, Parteichef der SPÖ werden zu wollen. Ein Schritt, der für Politologen durchaus ernstzunehmen sei, wie sie im Gespräch mit ORF.at betonen. Viele Fragen seien zwar noch offen, klar sei aber schon jetzt: Dass Zeiler das politische Parkett betritt, bringe weitreichende Folgen mit sich – nicht nur für die Partei selbst."
-    },
-    {
-      "id": "https://orf.at/stories/3443285/",
-      "title": "Cambridge-Analytica-Skandal: Meta verlor Prozess",
-      "titleAr": "فضيحة كامبريدج أناليتيكا: ميتا خسر القضية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443285/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-25T21:29:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443284/",
-      "title": "Gates über KI: „Gab noch nie eine so mächtige Waffe“",
-      "titleAr": "جيتس: 'لم يسبق أن كان هناك سلاح بهذه القوة'",
-      "translated": true,
-      "link": "https://orf.at/stories/3443284/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-25T21:14:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443283/",
-      "title": "US-Supreme-Court erlaubt Datenbank zur Wählerprüfung",
-      "titleAr": "المحكمة العليا تسمح بقاعدة بيانات للتحقق من الناخبين",
-      "translated": true,
-      "link": "https://orf.at/stories/3443283/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T21:05:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443281/",
-      "title": "Jemen will Bevölkerung gegen Huthis mobilisieren",
-      "titleAr": "اليمن يهدف إلى تعبئة الشعب ضد الحوثيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3443281/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T20:29:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443280/",
-      "title": "Politikwissenschaftler Filzmaier im Studio",
-      "titleAr": "العالم السياسي فِلزمير في الاستوديو",
-      "translated": true,
-      "link": "https://orf.at/stories/3443280/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-25T20:14:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443279/",
-      "title": "Putin: Keine Vorbereitung auf „Kampf mit Europa“",
-      "titleAr": "بوتين: لا استعداد لمواجهة أوروبا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443279/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T19:57:00+02:00",
       "description": ""
     }
   ]
