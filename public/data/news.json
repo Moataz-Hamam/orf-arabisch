@@ -4,8 +4,140 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-26T05:08:33.752Z",
+  "updatedAt": "2026-09-26T11:33:36.145Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443321/",
+      "title": "Tote und Verletzte bei Angriffen in Ukraine und Russland",
+      "titleAr": "وفاة وإصابات في هجمات على أوكرانيا وروسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443321/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T12:55:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443317/",
+      "title": "Babler will SPÖ-Chef bleiben",
+      "titleAr": "بابلر يصر على البقاء رئيسًا للـ SPÖ",
+      "translated": true,
+      "link": "https://orf.at/stories/3443317/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-26T12:19:10+02:00",
+      "description": "SPÖ-Chef Andreas Babler denkt nicht daran, den Parteivorsitz zurückzulegen. Er habe vor sechs Monaten mit der Wiederwahl am Parteitag der SPÖ einen „klaren Auftrag“ bekommen, so der Vizekanzler am Samstag am Rande einer Veranstaltung. Sollte Medienmanager Gerhard Zeiler für den Posten als SPÖ-Chef kandidieren wollen, gebe es jedenfalls klare Regeln."
+    },
+    {
+      "id": "https://orf.at/stories/3443319/",
+      "title": "Waldbrände auf Borneo bedrohen Orang-Utans",
+      "titleAr": "حريق الغابات في بورنيو يهدد الأورانغوتان",
+      "translated": true,
+      "link": "https://orf.at/stories/3443319/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-09-26T11:54:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443318/",
+      "title": "Saudi-Arabien: Neuer Huthi-Luftangriff auf Riad",
+      "titleAr": "السعودية: هجوم هوذي جوّي جديد على الرياض",
+      "translated": true,
+      "link": "https://orf.at/stories/3443318/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T11:51:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443307/",
+      "title": "OpenAI meldet weitere KI-Vorfälle",
+      "titleAr": "أوبن إيه آي يبلغ عن حوادث ذكاء اصطناعي إضافية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443307/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-26T11:12:56+02:00",
+      "description": "Der ChatGPT-Entwickler OpenAI hat weitere Vorfälle mit seinen KI-Agenten öffentlich gemacht. KI-Agenten hätten irrtümlich von Nutzerinnen und Nutzern hochgeladene Bilder im Netz veröffentlicht, teilte der US-Konzern am Freitag (Ortszeit) mit. Zudem bestätigte das Unternehmen, dass KI-Werkzeuge auf US-Regierungsseiten zugegriffen haben."
+    },
+    {
+      "id": "https://orf.at/stories/3443311/",
+      "title": "Umjubelte Wien-Premiere für „Die Schöne und das Biest“",
+      "titleAr": "مسرح فيينا يحيي عرض 'الجميلة والوحش'",
+      "translated": true,
+      "link": "https://orf.at/stories/3443311/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-26T10:29:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443308/",
+      "title": "Überflutungen: Bangkok ruft Katastrophenfall aus",
+      "titleAr": "الفيضانات: بانكوك يعلن حالة كارثة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443308/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-26T09:39:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443305/",
+      "title": "Energieinfrastruktur: Neue Maßnahmen zur Finanzierung",
+      "titleAr": "البنية التحتية للطاقة: تدابير جديدة للتمويل",
+      "translated": true,
+      "link": "https://orf.at/stories/3443305/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-26T09:08:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443302/",
+      "title": "KI wird in elektronischen Akt integriert",
+      "titleAr": "الذكاء الاصطناعي يُدمج في السجلات الإلكترونية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443302/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-26T08:27:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443301/",
+      "title": "Transporteure fordern staatliche Entlastung",
+      "titleAr": "المشتركون يطالبون بتخفيف العبء الحكومي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443301/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-26T08:21:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443297/",
+      "title": "OpenAI-KI veröffentlichte Nutzerbilder auf Plattformen",
+      "titleAr": "ذكاء OpenAI يفضي صور مستخدمين على المنصات",
+      "translated": true,
+      "link": "https://orf.at/stories/3443297/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-26T08:03:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3441904/",
+      "title": "Familien und ihre „Geheimsprache“",
+      "titleAr": "العائلات ولغتها السرية",
+      "translated": true,
+      "link": "https://orf.at/stories/3441904/",
+      "category": "Science",
+      "categoryAr": "Science",
+      "publishedAt": "2026-09-26T07:29:15+02:00",
+      "description": "Tomate-Mozzarella wird mit frischem „Lilibum“ serviert, als Nachspeise gibt es süßes „Tschinskitschanski“. Der Kloventilator heißt „Wuuuh“, Parfum „Ft-ft“. Und wer dem anderen auf die Nase stupst, will sagen, dass er ihn lieb hat. Wenn Menschen viel Zeit miteinander verbringen, entwickeln sie ihre eigene „Geheimsprache“, wie die Soziolinguistin Barbara Soukup im Gespräch mit ORF.at sagt. Passiert das innerhalb der Familie, spricht man von einem Familekt. Doch so groß die Bedeutung des Familekts im Alltag ist, so klein ist sie in der Sprachwissenschaft."
+    },
     {
       "id": "https://orf.at/stories/3443294/",
       "title": "USA und China richten Kanal für KI-Zwischenfälle ein",
@@ -19,8 +151,8 @@
     },
     {
       "id": "https://orf.at/stories/3443293/",
-      "title": "Überlastung: Justiz-Proteste Mitte Oktober",
-      "titleAr": "الازدحام: احتجاجات قضائية في منتصف أكتوبر",
+      "title": "Überlastung: Richter warnen vor Gefahr für Rechtsstaat",
+      "titleAr": "الضغط الزائد: القضاة يحذرون من خطر على دولة القانون",
       "translated": true,
       "link": "https://orf.at/stories/3443293/",
       "category": "Inland",
@@ -30,7 +162,7 @@
     },
     {
       "id": "https://orf.at/stories/3443292/",
-      "title": "Trump lehnt iranischen Waffenruhe-Vorschlag ab",
+      "title": "Trump lehnt iranischen Waffenruhevorschlag ab",
       "titleAr": "ترامب يرفض اقتراح وقف إطلاق النار الإيراني",
       "translated": true,
       "link": "https://orf.at/stories/3443292/",
@@ -41,8 +173,8 @@
     },
     {
       "id": "https://orf.at/stories/3443291/",
-      "title": "Tiktok schließt Millionenvergleich in den USA",
-      "titleAr": "تيك توك يوقف مقارنة المليارات في الولايات المتحدة",
+      "title": "TikTok schließt Millionenvergleich in USA",
+      "titleAr": "تيك توك يختتم مقارنة بالملايين في الولايات المتحدة",
       "translated": true,
       "link": "https://orf.at/stories/3443291/",
       "category": "IT",
@@ -70,7 +202,7 @@
       "category": "Umwelt",
       "categoryAr": "Umwelt",
       "publishedAt": "2026-09-25T23:08:52+02:00",
-      "description": "„Gletscherschwund, bröckelnde Wege und Hütten ohne Wasser“: Mit diesen Schlagworten haben der Verband Vereine Österreichs (VAVÖ), der Alpenverein (ÖAV) und die Naturfreunde am Freitag auf die Folgen der Klimakrise und die damit steigenden Gefahren für den Bergsport hingewiesen. Untermauert wurde das mit der Unfallbilanz der abgelaufenen Sommersaison samt der Anmerkung: „Der Berg hat sich verändert, und die Vorbereitung vieler Bergsteigerinnen und Bergsteiger hält damit nicht Schritt“."
+      "description": "„Gletscherschwund, bröckelnde Wege und Hütten ohne Wasser“: Mit diesen Schlagworten haben der Verband alpiner Vereine Österreichs (VAVÖ), der Alpenverein (ÖAV) und die Naturfreunde am Freitag auf die Folgen der Klimakrise und die damit steigenden Gefahren für den Bergsport hingewiesen. Untermauert wurde das mit der Unfallbilanz der abgelaufenen Sommersaison samt der Anmerkung: „Der Berg hat sich verändert, und die Vorbereitung vieler Bergsteigerinnen und Bergsteiger hält damit nicht Schritt.“"
     },
     {
       "id": "https://orf.at/stories/3443268/",
@@ -147,149 +279,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-25T19:57:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443274/",
-      "title": "Berliner Linke will mit Grünen und SPD sondieren",
-      "titleAr": "اليسار البريلي يسعى للتعاون مع الخضر وال SPD",
-      "translated": true,
-      "link": "https://orf.at/stories/3443274/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T19:46:56+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443273/",
-      "title": "Bericht: Fed plant Lockerung der Aufsichtsregeln für Banken",
-      "titleAr": "تقرير: الفيدراليّة تخطط لتخفيف قواعد الرقابة على البنوك",
-      "translated": true,
-      "link": "https://orf.at/stories/3443273/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-25T19:02:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443218/",
-      "title": "Viel Show, wenig Inhalt auf Gipfel Trump – Xi",
-      "titleAr": "عرض كبير، محتوى قليل في قمة ترامب–شي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443218/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T18:40:36+02:00",
-      "description": "Mit viel Pomp ist Chinas Staatschef Xi Jinping bei seinem USA-Besuch von US-Präsident Donald Trump empfangen worden, doch abseits schöner Worte habe es wenig Annäherung gegeben, etwa in Sachen Zölle, analysieren Medien. Gerade einmal 90 Minuten soll das inhaltliche Gespräch über Handelsfragen, KI, Taiwan, die Kriege im Nahen Osten und der Ukraine gedauert haben. Trotzdem – oder vielleicht gerade deswegen – zeigten sich beide Seiten zufrieden."
-    },
-    {
-      "id": "https://orf.at/stories/3443266/",
-      "title": "Israelischer Siedlungsbau: UNO listet 214 Firmen auf",
-      "titleAr": "بناء مستوطنات إسرائيلية: الأمم المتحدة تسرد 214 شركة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443266/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T16:55:38+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443265/",
-      "title": "Falschmeldung über Millionenfund bei Razzia zieht Kreise",
-      "titleAr": "إشاعة عن اكتشاف ملايين في تفتيش تنتشر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443265/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T16:42:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443264/",
-      "title": "EU-Länder einigen sich bei Waffenfondsmitteln",
-      "titleAr": "دول الاتحاد الأوروبي تتفق على تمويل الأسلحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443264/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T16:22:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443263/",
-      "title": "Österreicher nach Fahrradsturz in Bergen Udines verletzt",
-      "titleAr": "أوسترواي مصاب بعد سقوط دراجة في بيرغن أودينيس",
-      "translated": true,
-      "link": "https://orf.at/stories/3443263/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-25T16:20:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442883/",
-      "title": "Gruselige Gegenwart mit „Vampirin“ Holzinger",
-      "titleAr": "حضور مخيف مع \"فامبرين\" هولزينجر",
-      "translated": true,
-      "link": "https://orf.at/stories/3442883/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-25T15:50:14+02:00",
-      "description": "Im vorletzten Jahrgang unter Intendantin Ekaterina Degot heißt es beim steirischen herbst: dorthin gehen, wo es ungemütlich wird. Am Donnerstagabend wurde das Festival in Graz eröffnet – mit Wrestling, düsteren Engeln und einer programmatischen Kampfansage gegen Wohlfühlkultur. In der Hauptausstellung rückt einem die Gegenwart fast unangenehm zu Leibe – inklusive einer Florentina Holzinger als Vampirmatriarchin."
-    },
-    {
-      "id": "https://orf.at/stories/3443257/",
-      "title": "Vier Tote bei russischem Drohnenangriff auf Kiew",
-      "titleAr": "أربعة قتلى في هجوم طائرات بدون طيار روسي على كييف",
-      "translated": true,
-      "link": "https://orf.at/stories/3443257/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T15:16:45+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443251/",
-      "title": "US-Sanktionen gegen Flugsektor: Iran droht Nachbarn",
-      "titleAr": "العقوبات الأمريكية على قطاع الطيران: إيران تهدد الجيران",
-      "translated": true,
-      "link": "https://orf.at/stories/3443251/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T14:44:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443250/",
-      "title": "Frankreich: Roman wegen KI-Verdachts von Shortlist gestrichen",
-      "titleAr": "فرنسا: إلغاء رواية بسبب اتهام بالذكاء الاصطناعي من شورتليست",
-      "translated": true,
-      "link": "https://orf.at/stories/3443250/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-25T14:33:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443247/",
-      "title": "UNICEF: Akute Mangelernährung bei Kindern im Jemen",
-      "titleAr": "اليونيسيف: نقص غذائي حاد لدى أطفال اليمن",
-      "translated": true,
-      "link": "https://orf.at/stories/3443247/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-25T14:28:18+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443245/",
-      "title": "Mailänder Flughafen offiziell nach Berlusconi benannt",
-      "titleAr": "مطار ميلانو يُسمى رسميًا باسم برلسوني",
-      "translated": true,
-      "link": "https://orf.at/stories/3443245/",
-      "category": "Lifestyle",
-      "categoryAr": "Lifestyle",
-      "publishedAt": "2026-09-25T14:02:57+02:00",
       "description": ""
     }
   ]
