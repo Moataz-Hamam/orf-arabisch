@@ -4,8 +4,118 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-26T16:30:33.005Z",
+  "updatedAt": "2026-09-26T21:16:56.947Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443361/",
+      "title": "Schwerer Herbststurm über Nordosten der USA",
+      "titleAr": "عاصفة شتوية شديدة تهب شمال شرق الولايات المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443361/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-26T23:15:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443360/",
+      "title": "Über 700 Mio. Euro für weltweite Krisenhilfe",
+      "titleAr": "أكثر من 700 مليون يورو للمساعدة العالمية في الأزمات",
+      "translated": true,
+      "link": "https://orf.at/stories/3443360/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T23:05:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443359/",
+      "title": "Mike-Leigh-Film gewinnt bei Filmfestival San Sebastian",
+      "titleAr": "فيلم مايك-لي يفوز في مهرجان سان سيباستيان",
+      "translated": true,
+      "link": "https://orf.at/stories/3443359/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-26T22:54:18+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443357/",
+      "title": "Boeing meldet Softwarefehler bei 737 Max",
+      "titleAr": "بوينج تبلغ عن خلل برمجي في 737 ماكس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443357/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-26T22:28:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443356/",
+      "title": "Kuba kritisiert US-Druck und drohenden Militäreinsatz",
+      "titleAr": "كوبا تنتقد ضغط الولايات المتحدة وتهدد بالتصعيد العسكري",
+      "translated": true,
+      "link": "https://orf.at/stories/3443356/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T21:58:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443354/",
+      "title": "Saudi-Arabien: Straße von Hormus muss gebührenfrei bleiben",
+      "titleAr": "السعودية: ممر حورموس يجب أن يبقى خالياً من الرسوم",
+      "translated": true,
+      "link": "https://orf.at/stories/3443354/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T21:45:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443348/",
+      "title": "Auch Ägypten warnte Israel vor 7. Oktober",
+      "titleAr": "مصر تحذر إسرائيل من 7 أكتوبر",
+      "translated": true,
+      "link": "https://orf.at/stories/3443348/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T21:27:37+02:00",
+      "description": "Bereits Anfang September haben israelische Medien berichtet, dass Israels Premier Benjamin Netanjahu kurz vor dem Überfall der Terrororganisation Hamas am 7. Oktober 2023 von den Vereinigten Arabischen Emiraten gewarnt worden war. Laut einem am Freitag (Ortszeit) veröffentlichten Bericht des US-Magazins „The Atlantic“ soll Netanjahu auch von Ägypten vor einem „großangelegten Angriff“ gewarnt worden sein. Netanjahu wies das am Samstag zurück."
+    },
+    {
+      "id": "https://orf.at/stories/3443353/",
+      "title": "Ätna-Aschewolke legt Flughafen auf Sizilien lahm",
+      "titleAr": "سحابة رماد إتنا تعطل مطار صقلية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443353/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-26T21:09:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443352/",
+      "title": "Berlin: SPD für Sondierungen mit der Linken",
+      "titleAr": "برلين: SPD تستكشف مع اليسار",
+      "translated": true,
+      "link": "https://orf.at/stories/3443352/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T20:53:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443343/",
+      "title": "VW hat ein Schraubenproblem",
+      "titleAr": "فولكسفاجن تعاني من مشكلة في البراغي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443343/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-26T19:49:10+02:00",
+      "description": "Eine Schraube bei der Lenkung, die nicht rostgeschützt ist, führt zu einer der größten Rückrufaktionen bei VW seit dem Dieselskandal vor mehr als zehn Jahren. Das wurde am Freitag bekannt. Der Rückruf könnte holprig werden, denn laut einem internen Werkstattbericht, aus dem am Samstag mehrere Medien zitierten, dürfte es an ausreichend Ersatzschrauben für den notwendigen Wechsel fehlen."
+    },
     {
       "id": "https://orf.at/stories/3443333/",
       "title": "Hunderttausende bei Papst-Messe in Paris",
@@ -180,94 +290,6 @@
       "category": "Kultur",
       "categoryAr": "ثقافة",
       "publishedAt": "2026-09-26T10:29:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443308/",
-      "title": "Überflutungen: Bangkok ruft Katastrophenfall aus",
-      "titleAr": "الفيضانات: بانكوك يعلن حالة كارثة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443308/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-26T09:39:53+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443305/",
-      "title": "Energieinfrastruktur: Neue Maßnahmen zur Finanzierung",
-      "titleAr": "البنية التحتية للطاقة: تدابير جديدة للتمويل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443305/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-26T09:08:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443302/",
-      "title": "KI wird in elektronischen Akt integriert",
-      "titleAr": "الذكاء الاصطناعي يُدمج في السجلات الإلكترونية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443302/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-26T08:27:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443301/",
-      "title": "Transporteure fordern staatliche Entlastung",
-      "titleAr": "المشتركون يطالبون بتخفيف العبء الحكومي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443301/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-26T08:21:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443297/",
-      "title": "OpenAI-KI veröffentlichte Nutzerbilder auf Plattformen",
-      "titleAr": "ذكاء OpenAI يفضي صور مستخدمين على المنصات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443297/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-26T08:03:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3441904/",
-      "title": "Familien und ihre „Geheimsprache“",
-      "titleAr": "العائلات ولغتها السرية",
-      "translated": true,
-      "link": "https://orf.at/stories/3441904/",
-      "category": "Science",
-      "categoryAr": "Science",
-      "publishedAt": "2026-09-26T07:29:15+02:00",
-      "description": "Tomate-Mozzarella wird mit frischem „Lilibum“ serviert, als Nachspeise gibt es süßes „Tschinskitschanski“. Der Kloventilator heißt „Wuuuh“, Parfum „Ft-ft“. Und wer dem anderen auf die Nase stupst, will sagen, dass er ihn lieb hat. Wenn Menschen viel Zeit miteinander verbringen, entwickeln sie ihre eigene „Geheimsprache“, wie die Soziolinguistin Barbara Soukup im Gespräch mit ORF.at sagt. Passiert das innerhalb der Familie, spricht man von einem Familekt. Doch so groß die Bedeutung des Familekts im Alltag ist, so klein ist sie in der Sprachwissenschaft."
-    },
-    {
-      "id": "https://orf.at/stories/3443294/",
-      "title": "USA und China richten Kanal für KI-Zwischenfälle ein",
-      "titleAr": "الولايات المتحدة والصين يفتحان قناة لحالات الذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443294/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-26T06:50:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443293/",
-      "title": "Überlastung: Richter warnen vor Gefahr für Rechtsstaat",
-      "titleAr": "الضغط الزائد: القضاة يحذرون من خطر على دولة القانون",
-      "translated": true,
-      "link": "https://orf.at/stories/3443293/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-26T05:55:19+02:00",
       "description": ""
     }
   ]
