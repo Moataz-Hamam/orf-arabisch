@@ -4,8 +4,41 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-26T21:16:56.947Z",
+  "updatedAt": "2026-09-26T23:40:10.668Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443365/",
+      "title": "USA lockern Spritsparvorgaben für Autos deutlich",
+      "titleAr": "الولايات المتحدة تخفّض معايير توفير الوقود للسيارات",
+      "translated": true,
+      "link": "https://orf.at/stories/3443365/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-26T23:51:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443211/",
+      "title": "„Umweltfreundlich“ muss nun belegt werden",
+      "titleAr": "يجب إثبات \"صديق للبيئة\"",
+      "translated": true,
+      "link": "https://orf.at/stories/3443211/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-26T23:32:14+02:00",
+      "description": "Ab Sonntag gelten in Österreich die neuen EU-Regeln gegen Greenwashing. Konsumentinnen und Konsumenten sollen dadurch vor irreführender Bewerbung von Umweltfreundlichkeit geschützt werden. Umweltgruppen sind erfreut, doch die lange Übergangsfrist sorgt für Ärger. Der Handel fürchtet hingegen Unklarheiten und eine Klagsflut."
+    },
+    {
+      "id": "https://orf.at/stories/3443362/",
+      "title": "Russische Angriffe treffen Odessa",
+      "titleAr": "هجمات روسية تستهدف أوديسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443362/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-26T23:16:58+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443361/",
       "title": "Schwerer Herbststurm über Nordosten der USA",
@@ -280,17 +313,6 @@
       "categoryAr": "IT",
       "publishedAt": "2026-09-26T11:12:56+02:00",
       "description": "Der ChatGPT-Entwickler OpenAI hat weitere Vorfälle mit seinen KI-Agenten öffentlich gemacht. KI-Agenten hätten irrtümlich von Nutzerinnen und Nutzern hochgeladene Bilder im Netz veröffentlicht, teilte der US-Konzern am Freitag (Ortszeit) mit. Zudem bestätigte das Unternehmen, dass KI-Werkzeuge auf US-Regierungsseiten zugegriffen haben."
-    },
-    {
-      "id": "https://orf.at/stories/3443311/",
-      "title": "Umjubelte Wien-Premiere für „Die Schöne und das Biest“",
-      "titleAr": "مسرح فيينا يحيي عرض 'الجميلة والوحش'",
-      "translated": true,
-      "link": "https://orf.at/stories/3443311/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-26T10:29:11+02:00",
-      "description": ""
     }
   ]
 }
