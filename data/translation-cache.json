@@ -2396,8 +2396,8 @@
     "titleAr": "الإجهاض: الخضر يطالبون بمناطق حماية"
   },
   "https://orf.at/stories/3443397/": {
-    "sourceTitle": "Begutachtungen: Neue Rufe nach umfassender Reform",
-    "titleAr": "تقييمات: مطالبات جديدة بإصلاح شامل"
+    "sourceTitle": "Medizinische Begutachtungen: Rufe nach Reform",
+    "titleAr": "التقييمات الطبية: نداءات للإصلاح"
   },
   "https://orf.at/stories/3443395/": {
     "sourceTitle": "Papst feiert Messe mit 150.000 Menschen in Lourdes",
@@ -2462,5 +2462,41 @@
   "https://orf.at/stories/3442907/": {
     "sourceTitle": "Schweiz stimmt über striktere Neutralität ab",
     "titleAr": "سويسرا تصوت على تشديد الحياد"
+  },
+  "https://orf.at/stories/3443422/": {
+    "sourceTitle": "Terrorverdacht in Großbritannien",
+    "titleAr": "شبهة إرهابية في بريطانيا"
+  },
+  "https://orf.at/stories/3443424/": {
+    "sourceTitle": "Medienmanager Gerhard Zeiler zu Gast",
+    "titleAr": "المسؤول الإعلامي جيردار زايلير ضيفًا"
+  },
+  "https://orf.at/stories/3443423/": {
+    "sourceTitle": "Trump rechnet mit neuen Gesprächen mit dem Iran",
+    "titleAr": "ترامب يتوقع محادثات جديدة مع إيران"
+  },
+  "https://orf.at/stories/3442885/": {
+    "sourceTitle": "Bruno Kreisky als adretter Rebell",
+    "titleAr": "برونو كريسكاي، المتمرد المبدع"
+  },
+  "https://orf.at/stories/3443419/": {
+    "sourceTitle": "Lebensmittel aus der Luft für ukrainische Stadt Oleschky",
+    "titleAr": "توصيل مواد غذائية جوًا للمدينة الأوكرانية أوليشكي"
+  },
+  "https://orf.at/stories/3443417/": {
+    "sourceTitle": "Zeiler-Vorstoß: Weiter Zurückhaltung in SPÖ",
+    "titleAr": "انطلاق زايلير: مزيد من التردد في الحزب الاشتراكي الديمقراطي"
+  },
+  "https://orf.at/stories/3443416/": {
+    "sourceTitle": "Vorfall bei Militärbasis in GB: Terrorverdacht",
+    "titleAr": "حادث في قاعدة عسكرية بإنجلترا: شبهة إرهابية"
+  },
+  "https://orf.at/stories/3443415/": {
+    "sourceTitle": "Huthi-Medien: Tote bei saudi-arabischem Angriff im Jemen",
+    "titleAr": "وسائل الإعلام الحوثية: قتلى في هجوم سعودي على اليمن"
+  },
+  "https://orf.at/stories/3443400/": {
+    "sourceTitle": "Aufsicht für Wiederkehr „nicht trivial“",
+    "titleAr": "الإشراف على العودة غير بسيط"
   }
 }

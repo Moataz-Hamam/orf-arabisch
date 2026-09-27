@@ -4,8 +4,107 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-27T12:12:28.378Z",
+  "updatedAt": "2026-09-27T17:03:21.998Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443422/",
+      "title": "Terrorverdacht in Großbritannien",
+      "titleAr": "شبهة إرهابية في بريطانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443422/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T18:59:59+02:00",
+      "description": "Nahe dem von der US-Armee genutzten Militärstützpunkt RAF Fairford in England sind am Sonntag fünf Personen festgenommen worden. Die britische Polizei ermittelt wegen Terrorverdachts. Die Hintergründe des Vorfalls sind bisher nicht bekannt. US-Präsident Donald Trump erklärte, Behörden aus Großbritannien und den USA hätten die Verdächtigen bereits seit Längerem im Visier gehabt."
+    },
+    {
+      "id": "https://orf.at/stories/3443424/",
+      "title": "Medienmanager Gerhard Zeiler zu Gast",
+      "titleAr": "المسؤول الإعلامي جيردار زايلير ضيفًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443424/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T18:50:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443423/",
+      "title": "Trump rechnet mit neuen Gesprächen mit dem Iran",
+      "titleAr": "ترامب يتوقع محادثات جديدة مع إيران",
+      "translated": true,
+      "link": "https://orf.at/stories/3443423/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T17:58:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3442885/",
+      "title": "Bruno Kreisky als adretter Rebell",
+      "titleAr": "برونو كريسكاي، المتمرد المبدع",
+      "translated": true,
+      "link": "https://orf.at/stories/3442885/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-27T17:25:56+02:00",
+      "description": "Ein neuer Kinofilm zeigt die politischen Lehrjahre des späteren SPÖ-Bundeskanzlers Bruno Kreisky. „Bruno – Der junge Kreisky“ erzählt von einem jungen Mann zwischen Widerstand und Selbstfindung in Form eines uneindeutigen Politmelodrams. Während Regisseur Harald Sicheritz („Hinterholz 8“) partout kein Heldenepos drehen wollte, organisiert die SPÖ fleißig Kinoabende."
+    },
+    {
+      "id": "https://orf.at/stories/3443419/",
+      "title": "Lebensmittel aus der Luft für ukrainische Stadt Oleschky",
+      "titleAr": "توصيل مواد غذائية جوًا للمدينة الأوكرانية أوليشكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443419/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T17:16:42+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443417/",
+      "title": "Zeiler-Vorstoß: Weiter Zurückhaltung in SPÖ",
+      "titleAr": "انطلاق زايلير: مزيد من التردد في الحزب الاشتراكي الديمقراطي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443417/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T16:50:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443416/",
+      "title": "Vorfall bei Militärbasis in GB: Terrorverdacht",
+      "titleAr": "حادث في قاعدة عسكرية بإنجلترا: شبهة إرهابية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443416/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T16:02:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443415/",
+      "title": "Huthi-Medien: Tote bei saudi-arabischem Angriff im Jemen",
+      "titleAr": "وسائل الإعلام الحوثية: قتلى في هجوم سعودي على اليمن",
+      "translated": true,
+      "link": "https://orf.at/stories/3443415/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T15:51:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443400/",
+      "title": "Aufsicht für Wiederkehr „nicht trivial“",
+      "titleAr": "الإشراف على العودة غير بسيط",
+      "translated": true,
+      "link": "https://orf.at/stories/3443400/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T14:46:55+02:00",
+      "description": "Nach der Forderung von Integrationsministerin Claudia Bauer (ÖVP) nach mehr staatlicher Kontrolle beim Religionsunterricht hat sich am Sonntag Bildungsminister Christoph Wiederkehr (NEOS) in der ORF-„Pressestunde“ gesprächsbereit gezeigt. Eine staatliche Fachaufsicht sei aber „nicht trivial“, so Wiederkehr. Er äußerte sich auch zur Debatte über die SPÖ-Spitze."
+    },
     {
       "id": "https://orf.at/stories/3443408/",
       "title": "Dutzende Tote bei Unwettern in Nepal und Indien",
@@ -37,7 +136,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-27T13:27:45+02:00",
-      "description": "In der Schweiz ist am Sonntag über eine strengere Auslegung der Neutralität abgestimmt worden. Nach einer ersten Hochrechnung sprach sich die überwiegende Mehrheit der Schweizerinnen und Schweizer gegen eine solche Verschärfung aus, 71 Prozent stimmten dagegen, wie der Koleiter des Umfrageinstituts gfs.bern, Lukas Golder, dem öffentlich-rechtlichen Sender SRF sagte."
+      "description": "In der Schweiz ist am Sonntag über eine strengere Auslegung der Neutralität abgestimmt worden. Nach einer ersten Hochrechnung sprach sich die überwiegende Mehrheit der Schweizerinnen und Schweizer gegen eine solche Verschärfung aus, das zuständige Bundesamt für Statistik meldete 70,2 Prozent Nein-Stimmen."
     },
     {
       "id": "https://orf.at/stories/3443405/",
@@ -85,8 +184,8 @@
     },
     {
       "id": "https://orf.at/stories/3443397/",
-      "title": "Begutachtungen: Neue Rufe nach umfassender Reform",
-      "titleAr": "تقييمات: مطالبات جديدة بإصلاح شامل",
+      "title": "Medizinische Begutachtungen: Rufe nach Reform",
+      "titleAr": "التقييمات الطبية: نداءات للإصلاح",
       "translated": true,
       "link": "https://orf.at/stories/3443397/",
       "category": "Inland",
@@ -235,105 +334,6 @@
       "category": "Chronik",
       "categoryAr": "أحداث",
       "publishedAt": "2026-09-27T08:31:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443372/",
-      "title": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
-      "titleAr": "أوبن إيه آي يوقف تدريب الذكاء الاصطناعي بعد حادث جديد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443372/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-09-27T08:27:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443368/",
-      "title": "Sylvester Stallone berichtet von Bulimie und Panikattacken",
-      "titleAr": "سيلفستر ستالون يروي عن البلمية وهجمات الذعر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443368/",
-      "category": "Leute",
-      "categoryAr": "Leute",
-      "publishedAt": "2026-09-27T07:43:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3442907/",
-      "title": "Schweiz stimmt über striktere Neutralität ab",
-      "titleAr": "سويسرا تصوت على تشديد الحياد",
-      "translated": true,
-      "link": "https://orf.at/stories/3442907/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T07:38:54+02:00",
-      "description": "Die Schweiz ist seit Generationen von der Frage nach ihrer traditionellen Neutralität geprägt. Am Sonntag entscheidet sie in einer Volksabstimmung über eine deutlich strengere Auslegung. Eine Initiative verlangt mit Blick auf den Ukraine-Krieg, die Übernahme wirtschaftlicher Sanktionen der EU und eine Kooperation mit der NATO verfassungsrechtlich zu verbieten. Die Entscheidung ist auch für Österreich relevant."
-    },
-    {
-      "id": "https://orf.at/stories/3443366/",
-      "title": "Oman bietet Vermittlung im Nahost-Krieg an",
-      "titleAr": "عُمان تقترح وساطة في حرب الشرق الأوسط",
-      "translated": true,
-      "link": "https://orf.at/stories/3443366/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T06:36:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443365/",
-      "title": "USA lockern Spritsparvorgaben für Autos deutlich",
-      "titleAr": "الولايات المتحدة تخفّض معايير توفير الوقود للسيارات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443365/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-26T23:51:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443211/",
-      "title": "„Umweltfreundlich“ muss nun belegt werden",
-      "titleAr": "يجب إثبات \"صديق للبيئة\"",
-      "translated": true,
-      "link": "https://orf.at/stories/3443211/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-26T23:32:14+02:00",
-      "description": "Ab Sonntag gelten in Österreich die neuen EU-Regeln gegen Greenwashing. Konsumentinnen und Konsumenten sollen dadurch vor irreführender Bewerbung von Umweltfreundlichkeit geschützt werden. Umweltgruppen sind erfreut, doch die lange Übergangsfrist sorgt für Ärger. Der Handel fürchtet hingegen Unklarheiten und eine Klagsflut."
-    },
-    {
-      "id": "https://orf.at/stories/3443362/",
-      "title": "Russische Angriffe treffen Odessa",
-      "titleAr": "هجمات روسية تستهدف أوديسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443362/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-26T23:16:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443361/",
-      "title": "Schwerer Herbststurm über Nordosten der USA",
-      "titleAr": "عاصفة شتوية شديدة تهب شمال شرق الولايات المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443361/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-26T23:15:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443360/",
-      "title": "Über 700 Mio. Euro für weltweite Krisenhilfe",
-      "titleAr": "أكثر من 700 مليون يورو للمساعدة العالمية في الأزمات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443360/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-26T23:05:34+02:00",
       "description": ""
     }
   ]
