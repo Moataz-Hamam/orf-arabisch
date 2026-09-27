@@ -2366,5 +2366,101 @@
   "https://orf.at/stories/3443366/": {
     "sourceTitle": "Oman bietet Vermittlung im Nahost-Krieg an",
     "titleAr": "عُمان تقترح وساطة في حرب الشرق الأوسط"
+  },
+  "https://orf.at/stories/3443408/": {
+    "sourceTitle": "Dutzende Tote bei Unwettern in Nepal und Indien",
+    "titleAr": "عشرات القتلى في عواصف نيبال والهند"
+  },
+  "https://orf.at/stories/3443406/": {
+    "sourceTitle": "Manipulationsskandal an der Börse erschüttert Türkei",
+    "titleAr": "فضيحة تلاعب بورصة تهز تركيا"
+  },
+  "https://orf.at/stories/3443403/": {
+    "sourceTitle": "Schweizer gegen striktere Neutralität",
+    "titleAr": "سويسريون يطالبون بحياد أكثر صرامة"
+  },
+  "https://orf.at/stories/3443405/": {
+    "sourceTitle": "Israel: Ausschreibung von Siedlungsprojekt verlängert",
+    "titleAr": "إسرائيل تمدد موعد مشروع مستوطنات"
+  },
+  "https://orf.at/stories/3443404/": {
+    "sourceTitle": "Gegendemonstranten blockieren Oranier-Parade in Nordirland",
+    "titleAr": "مظاهرات معارضة تعيق عرض أرانير في أيرلندا الشمالية"
+  },
+  "https://orf.at/stories/3443401/": {
+    "sourceTitle": "Ukraine meldet Tote nach russischen Angriffen",
+    "titleAr": "أوكرانيا تبلغ عن قتلى بعد هجمات روسية"
+  },
+  "https://orf.at/stories/3443399/": {
+    "sourceTitle": "Schwangerschaftsabbruch: Grüne fordern Schutzzonen",
+    "titleAr": "الإجهاض: الخضر يطالبون بمناطق حماية"
+  },
+  "https://orf.at/stories/3443397/": {
+    "sourceTitle": "Begutachtungen: Neue Rufe nach umfassender Reform",
+    "titleAr": "تقييمات: مطالبات جديدة بإصلاح شامل"
+  },
+  "https://orf.at/stories/3443395/": {
+    "sourceTitle": "Papst feiert Messe mit 150.000 Menschen in Lourdes",
+    "titleAr": "البابا يقدّم مصلحة مع 150 ألف شخص في لورد"
+  },
+  "https://orf.at/stories/3443385/": {
+    "sourceTitle": "Protestcamp gegen Wohnungsnot in Madrid",
+    "titleAr": "مظاهرة احتجاجية ضد نقص السكن في مدريد"
+  },
+  "https://orf.at/stories/3443392/": {
+    "sourceTitle": "GB: Festnahmen nahe von USA genutzter Militärbasis",
+    "titleAr": "GB: اعتقالات قرب قاعدة عسكرية مستخدمة من قبل الولايات المتحدة"
+  },
+  "https://orf.at/stories/3443391/": {
+    "sourceTitle": "Mutmaßlicher Geiselnehmer bei israelischem Luftangriff getötet",
+    "titleAr": "مشتبه في اختطاف رهينة يُقتل في هجوم جوٍّ إسرائيلي"
+  },
+  "https://orf.at/stories/3443387/": {
+    "sourceTitle": "Gebäudeexplosion in Athen: Todesopfer identifiziert",
+    "titleAr": "انفجار مبنى في أثينا: تم تحديد الضحايا"
+  },
+  "https://orf.at/stories/3443386/": {
+    "sourceTitle": "Eni-Benzinpreisdeckel sorgt für Wirbel in Italien",
+    "titleAr": "قيد سعر الوقود من إيني يثير اضطرابًا في إيطاليا"
+  },
+  "https://orf.at/stories/3443384/": {
+    "sourceTitle": "Straße von Hormus: Iran-Warnung zu Routen",
+    "titleAr": "طريق هرموس: تحذير إيران بشأن الطرق"
+  },
+  "https://orf.at/stories/3443380/": {
+    "sourceTitle": "Südafrika: 27 Tote bei zwei Schusswaffenangriffen",
+    "titleAr": "جنوب أفريقيا: 27 قتيل في هجومين بالأسلحة النارية"
+  },
+  "https://orf.at/stories/3443379/": {
+    "sourceTitle": "Großdemo in Madrid nach Delogierung von 87-Jähriger",
+    "titleAr": "تظاهرة كبيرة في مدريد بعد إطلاق سراح رجل يبلغ 87 عامًا"
+  },
+  "https://orf.at/stories/3443378/": {
+    "sourceTitle": "Dutzende tote Jungwale an Argentiniens Küste gespült",
+    "titleAr": "عشرات من حيتان الشبل الميتة تُدفع إلى ساحل الأرجنتين"
+  },
+  "https://orf.at/stories/3443377/": {
+    "sourceTitle": "Grüne für höhere Margengrenze und „Öffi“-Preisbremse",
+    "titleAr": "الأخضر يدعم حد هامش أعلى ووقف أسعار \"أوفي\""
+  },
+  "https://orf.at/stories/3443376/": {
+    "sourceTitle": "Gericht in Nordirland lässt umstrittene Parade zu",
+    "titleAr": "محكمة في أيرلندا الشمالية تسمح بالمهرجان المتنازع عليه"
+  },
+  "https://orf.at/stories/3443373/": {
+    "sourceTitle": "Reisebus auf Autobahn umgekippt: Tote und Verletzte",
+    "titleAr": "عربة سفر تقلب على الطريق السريع: قتلى وإصابات"
+  },
+  "https://orf.at/stories/3443372/": {
+    "sourceTitle": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
+    "titleAr": "أوبن إيه آي يوقف تدريب الذكاء الاصطناعي بعد حادث جديد"
+  },
+  "https://orf.at/stories/3443368/": {
+    "sourceTitle": "Sylvester Stallone berichtet von Bulimie und Panikattacken",
+    "titleAr": "سيلفستر ستالون يروي عن البلمية وهجمات الذعر"
+  },
+  "https://orf.at/stories/3442907/": {
+    "sourceTitle": "Schweiz stimmt über striktere Neutralität ab",
+    "titleAr": "سويسرا تصوت على تشديد الحياد"
   }
 }
