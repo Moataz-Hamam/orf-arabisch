@@ -4,8 +4,162 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-27T17:03:21.998Z",
+  "updatedAt": "2026-09-28T05:33:49.010Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443446/",
+      "title": "Südkorea: Ukraine brach Vertraulichkeitsvereinbarung",
+      "titleAr": "جنوب كوريا: أوكرانيا تنتهك اتفاقية السرية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443446/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-28T07:07:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443445/",
+      "title": "MTV Video Music Awards: Swift mit neuem Preis geehrt",
+      "titleAr": "MTV: سويفت تُكرم بجائزة جديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443445/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-09-28T06:43:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443212/",
+      "title": "Georgescu in Rumänien vor Gericht",
+      "titleAr": "جورجيسكو أمام المحكمة في رومانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443212/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-28T06:09:34+02:00",
+      "description": "Vor knapp zwei Jahren hat der rechtspopulistische und kremlfreundliche Politiker Calin Georgescu international für Aufsehen gesorgt: Völlig überraschend gewann er die erste Runde der rumänischen Präsidentschaftswahl. Später annullierte das Verfassungsgericht den Wahlgang. Als die Wahl im Mai 2025 wiederholt wurde, liefen bereits Ermittlungen gegen Georgescu. Am Montag steht er im Zusammenhang mit mutmaßlichen Umsturzplänen vor Gericht."
+    },
+    {
+      "id": "https://orf.at/stories/3443443/",
+      "title": "Mindestens fünf Tote bei russischen Angriffen",
+      "titleAr": "خمسة قتلى على الأقل في الهجمات الروسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443443/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-28T02:19:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443441/",
+      "title": "Klitschko: Tote nach russischem Angriff auf Markt",
+      "titleAr": "كليتشكو: قتلى بعد هجوم روسي على السوق",
+      "translated": true,
+      "link": "https://orf.at/stories/3443441/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T23:30:43+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443440/",
+      "title": "F: Le-Pen-Partei gewinnt Sitze bei Senatsteilwahl",
+      "titleAr": "حزب لِبِن يفوز بمقاعد في انتخابات سنات جزئية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443440/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T23:28:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443439/",
+      "title": "Israel entzieht niederländischen Diplomaten Status",
+      "titleAr": "إسرائيل تنقض وضع الدبلوماسي الهولندي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443439/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T23:25:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443438/",
+      "title": "Irak meldet vollständigen Abzug von US-Truppen",
+      "titleAr": "العراق يبلغ عن انسحاب كامل للقوات الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443438/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T23:25:58+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443431/",
+      "title": "Zeiler bekräftigt Ambitionen auf Vorsitz",
+      "titleAr": "زييلر يؤكد طموحاته للمنصب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443431/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T23:09:26+02:00",
+      "description": "Der Medienmanager Gerhard Zeiler hat am Sonntag in der ZIB2 seine Ambitionen bekräftigt, Andreas Babler als SPÖ-Vorsitzenden ablösen zu wollen. Er glaube, der „Richtige“ für das Amt zu sein, sagte Zeiler. Die SPÖ will er auf einen „wirtschaftsfreundlichen Kurs“ führen. In der Partei zeigt man sich bisher zurückhaltend mit einer Unterstützung Zeilers. Rückendeckung erhielt er am Wochenende von drei ehemaligen SPÖ-Landeshauptleuten."
+    },
+    {
+      "id": "https://orf.at/stories/3443436/",
+      "title": "Solosechser bei Lotto „6 aus 45“",
+      "titleAr": "ستة فوز متتالي في اليانصيب '6 من 45'",
+      "translated": true,
+      "link": "https://orf.at/stories/3443436/",
+      "category": "cLotto",
+      "categoryAr": "cLotto",
+      "publishedAt": "2026-09-27T21:52:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443432/",
+      "title": "Papst kritisiert Gesetze zu Sterbehilfe",
+      "titleAr": "القدس ينتقد قوانين المساعدة على الموت",
+      "translated": true,
+      "link": "https://orf.at/stories/3443432/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-09-27T20:40:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443428/",
+      "title": "ÖVP-Frauen: Tanner als neue Bundesleiterin nominiert",
+      "titleAr": "النساء من الحزب الديمقراطي الأسترالي: تُعين تANNER رئيسة جديدة للوزراء",
+      "translated": true,
+      "link": "https://orf.at/stories/3443428/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T20:33:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443430/",
+      "title": "Serbiens Präsident Vucic offiziell zurückgetreten",
+      "titleAr": "رئيس صربيا فيوتشيس يستقيل رسميًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443430/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-27T20:30:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443427/",
+      "title": "Ministerium regt Disziplinarverfahren gegen Böhmdorfer an",
+      "titleAr": "وزارة تدفع إجراءات تأديبية ضد بوهمدورفر",
+      "translated": true,
+      "link": "https://orf.at/stories/3443427/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-27T20:17:39+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443422/",
       "title": "Terrorverdacht in Großbritannien",
@@ -191,149 +345,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-27T12:04:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443395/",
-      "title": "Papst feiert Messe mit 150.000 Menschen in Lourdes",
-      "titleAr": "البابا يقدّم مصلحة مع 150 ألف شخص في لورد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443395/",
-      "category": "Religion",
-      "categoryAr": "دين",
-      "publishedAt": "2026-09-27T11:54:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443385/",
-      "title": "Protestcamp gegen Wohnungsnot in Madrid",
-      "titleAr": "مظاهرة احتجاجية ضد نقص السكن في مدريد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443385/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T11:39:03+02:00",
-      "description": "Die Wohnungsnot in Spanien verschärft sich – und mit ihr die Proteste. Am Samstag gingen erneut Zehntausende Menschen in der Hauptstadt Madrid für das Recht auf Wohnen und gegen Zwangsräumungen auf die Straße. Hunderte campierten über Nacht in Zelten. Auslöser war die Delogierung der 87-jährigen Maricarmen Abascal, die nach 70 Jahren aus ihrer Wohnung musste. Der Fall setzt die Regierung weiter unter Druck."
-    },
-    {
-      "id": "https://orf.at/stories/3443392/",
-      "title": "GB: Festnahmen nahe von USA genutzter Militärbasis",
-      "titleAr": "GB: اعتقالات قرب قاعدة عسكرية مستخدمة من قبل الولايات المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443392/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T10:56:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443391/",
-      "title": "Mutmaßlicher Geiselnehmer bei israelischem Luftangriff getötet",
-      "titleAr": "مشتبه في اختطاف رهينة يُقتل في هجوم جوٍّ إسرائيلي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443391/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T10:54:33+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443387/",
-      "title": "Gebäudeexplosion in Athen: Todesopfer identifiziert",
-      "titleAr": "انفجار مبنى في أثينا: تم تحديد الضحايا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443387/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-27T10:44:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443386/",
-      "title": "Eni-Benzinpreisdeckel sorgt für Wirbel in Italien",
-      "titleAr": "قيد سعر الوقود من إيني يثير اضطرابًا في إيطاليا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443386/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-27T10:40:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443384/",
-      "title": "Straße von Hormus: Iran-Warnung zu Routen",
-      "titleAr": "طريق هرموس: تحذير إيران بشأن الطرق",
-      "translated": true,
-      "link": "https://orf.at/stories/3443384/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T09:31:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443380/",
-      "title": "Südafrika: 27 Tote bei zwei Schusswaffenangriffen",
-      "titleAr": "جنوب أفريقيا: 27 قتيل في هجومين بالأسلحة النارية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443380/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T09:11:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443379/",
-      "title": "Großdemo in Madrid nach Delogierung von 87-Jähriger",
-      "titleAr": "تظاهرة كبيرة في مدريد بعد إطلاق سراح رجل يبلغ 87 عامًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443379/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T09:07:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443378/",
-      "title": "Dutzende tote Jungwale an Argentiniens Küste gespült",
-      "titleAr": "عشرات من حيتان الشبل الميتة تُدفع إلى ساحل الأرجنتين",
-      "translated": true,
-      "link": "https://orf.at/stories/3443378/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-09-27T08:52:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443377/",
-      "title": "Grüne für höhere Margengrenze und „Öffi“-Preisbremse",
-      "titleAr": "الأخضر يدعم حد هامش أعلى ووقف أسعار \"أوفي\"",
-      "translated": true,
-      "link": "https://orf.at/stories/3443377/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-27T08:46:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443376/",
-      "title": "Gericht in Nordirland lässt umstrittene Parade zu",
-      "titleAr": "محكمة في أيرلندا الشمالية تسمح بالمهرجان المتنازع عليه",
-      "translated": true,
-      "link": "https://orf.at/stories/3443376/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-27T08:42:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443373/",
-      "title": "Reisebus auf Autobahn umgekippt: Tote und Verletzte",
-      "titleAr": "عربة سفر تقلب على الطريق السريع: قتلى وإصابات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443373/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-09-27T08:31:40+02:00",
       "description": ""
     }
   ]
