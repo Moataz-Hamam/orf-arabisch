@@ -4,8 +4,30 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-28T21:16:21.536Z",
+  "updatedAt": "2026-09-29T01:02:54.394Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443545/",
+      "title": "OpenAI stoppt Veröffentlichung neuen KI-Modells",
+      "titleAr": "OpenAI يوقف إصدار نموذج ذكاء اصطناعي جديد",
+      "translated": true,
+      "link": "https://orf.at/stories/3443545/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-29T01:23:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443476/",
+      "title": "Studentenliste bietet Vucic die Stirn",
+      "titleAr": "قائمة الطلاب تُصدى لفيوتشيك",
+      "translated": true,
+      "link": "https://orf.at/stories/3443476/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-28T23:15:46+02:00",
+      "description": "Im serbischen staatlichen Fernsehsender RTS hat der serbische Präsident Aleksandar Vucic Sonntagabend seinen Rücktritt erklärt. Ein von der Opposition geforderter Rückzug aus der Politik ist das nicht. Er ist nun Spitzenkandidat seiner Regierungspartei SNS für die vorgezogenen Neuwahlen am 25. Oktober. Herausgefordert wird Vucic von der 250 Personen umfassenden Liste Students Win, die aus der fast zwei Jahre dauernden Protestbewegung der Studierenden entstanden ist."
+    },
     {
       "id": "https://orf.at/stories/3443543/",
       "title": "Nach Zwangsräumung: Spanierin darf zurück in Wohnung",
@@ -268,17 +290,6 @@
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-09-28T14:24:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443492/",
-      "title": "EU verhängt nach Duma-Wahl in Russland neue Sanktionen",
-      "titleAr": "الاتحاد الأوروبي يفرض عقوبات جديدة بعد انتخابات الدوما في روسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443492/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T13:58:48+02:00",
       "description": ""
     }
   ]
