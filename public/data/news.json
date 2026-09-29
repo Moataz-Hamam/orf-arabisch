@@ -4,8 +4,206 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-29T01:02:54.394Z",
+  "updatedAt": "2026-09-29T09:57:44.122Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443585/",
+      "title": "Geldvermögen wuchs 2025 um fünf Prozent",
+      "titleAr": "أصول الأموال ترتفع بخمس بالمائة في 2025",
+      "translated": true,
+      "link": "https://orf.at/stories/3443585/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-29T11:49:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443583/",
+      "title": "Börseprospekt: Anthropic warnt vor Risiken für Menschheit",
+      "titleAr": "الملف البورصوي: أنثروبيك تحذر من مخاطر على البشرية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443583/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-29T11:34:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443576/",
+      "title": "Gruppenvergewaltigung: Vorwürfe erschüttern US-Eliteuni",
+      "titleAr": "اعتداء جماعي: اتهامات تهز جامعة النخبة الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443576/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-09-29T11:18:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443574/",
+      "title": "Grüne gegen Einschränkung des Zivilersatzdiensts",
+      "titleAr": "الأخضر يرفضون تقييد الخدمة المدنية البديلة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443574/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-09-29T10:34:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443573/",
+      "title": "Österreich droht bei Finanzverhandlungen mit Veto",
+      "titleAr": "النمسا تهدد بالتصويت بفيتو في مفاوضات التمويل",
+      "translated": true,
+      "link": "https://orf.at/stories/3443573/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T10:31:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443572/",
+      "title": "Google legt Beschwerde gegen EU-Anordnung ein",
+      "titleAr": "جوجل تُقدّم شكوى ضد قرار الاتحاد الأوروبي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443572/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-09-29T10:13:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443571/",
+      "title": "Drittes Kind von Brad Pitt legt Namen des Vaters ab",
+      "titleAr": "الطفل الثالث لبرايد بيت يعلن اسم الأب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443571/",
+      "category": "Leute",
+      "categoryAr": "Leute",
+      "publishedAt": "2026-09-29T09:58:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443568/",
+      "title": "Neuer Angriff von mehr als 100 Siedlern im Westjordanland",
+      "titleAr": "هجوم جديد من أكثر من مئة مستوطن في الضفة الغربية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443568/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T09:21:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443565/",
+      "title": "Minenexplosion für Seoul Verstoß gegen Waffenstillstand",
+      "titleAr": "انفجار قنابل في سيول يُعد انتهاكاً للوقف",
+      "translated": true,
+      "link": "https://orf.at/stories/3443565/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T08:52:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443564/",
+      "title": "Softwarefehler: Zulassung neuer Boeing-Variante verzögert",
+      "titleAr": "خطأ برمجي: تأخير اعتماد طراز بوينغ الجديد",
+      "translated": true,
+      "link": "https://orf.at/stories/3443564/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-29T08:37:25+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443560/",
+      "title": "Trump dementiert Bericht über Sanktionslockerung für Iran",
+      "titleAr": "ترامب ينفي تخفيف عقوبات على إيران",
+      "translated": true,
+      "link": "https://orf.at/stories/3443560/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T08:22:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443558/",
+      "title": "Feier anlässlich Berlusconis 90. Geburtstags auf Sardinien",
+      "titleAr": "احتفال برلسكوني في سنه الـ90 على ساردينيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443558/",
+      "category": "Leute",
+      "categoryAr": "Leute",
+      "publishedAt": "2026-09-29T08:12:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443552/",
+      "title": "Bier und Molke aus Kanada: Neue US-Einfuhrsperre in Kraft",
+      "titleAr": "حظر استيراد أمريكي جديد على بيرة ومولك كندي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443552/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-29T06:42:29+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443551/",
+      "title": "Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
+      "titleAr": "حوالي 50 قتيل في هجوم جوّي على سوق ميانمار",
+      "translated": true,
+      "link": "https://orf.at/stories/3443551/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T06:38:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443550/",
+      "title": "Frauenanteil in Vorständen bei 15 Prozent",
+      "titleAr": "نسبة النساء في المجالس الإدارية 15٪",
+      "translated": true,
+      "link": "https://orf.at/stories/3443550/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-29T06:31:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443088/",
+      "title": "Stresstest für Moldau",
+      "titleAr": "اختبار ضغط على مولدوفا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443088/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T06:08:10+02:00",
+      "description": "Für die Ex-Sowjetrepublik Moldau ist der Prozess gegen Wladimir Plahotniuc ein geschichtsträchtiges Ereignis. In den 2010er Jahren kontrollierte der Oligarch den Machtapparat im Land, vor wenigen Monaten wurde er zu 19 Jahren Haft verurteilt. Die Spannung vor der für Donnerstag angesetzten ersten Berufungsverhandlung ist seit Tagen hoch. Für Moldau ist es hinsichtlich der laufenden EU-Beitrittsverhandlungen ein Stresstest."
+    },
+    {
+      "id": "https://orf.at/stories/3443547/",
+      "title": "Weiter heftige Raketenangriffe auf Kiew",
+      "titleAr": "هجمات صاروخية شديدة على كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3443547/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T04:56:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443546/",
+      "title": "Erdölprojekt: Milei setzt Großbritannien Frist",
+      "titleAr": "ميلي يفرض موعد نهائي لبريطانيا على مشروع النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3443546/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-29T03:15:56+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443545/",
       "title": "OpenAI stoppt Veröffentlichung neuen KI-Modells",
@@ -92,7 +290,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-28T21:01:10+02:00",
-      "description": "Bei einem russischen Drohnenangriff auf die Akademie der Wissenschaften im üblicherweise gut geschützten Zentrum der ukrainischen Hauptstadt Kiew ist nach ukrainischen Angaben am Montag eine Frau getötet worden. Sechs Personen seien verletzt worden, erklärte der ukrainische Präsident Wolodymyr Selenskyj. Ziel einer russischen Angriffsserie auf Kiew sei auch eine Klinik gewesen."
+      "description": "Bei einem russischen Drohnenangriff auf die Akademie der Wissenschaften im üblicherweise gut geschützten Zentrum der ukrainischen Hauptstadt Kiew ist nach ukrainischen Angaben am Montag eine Frau getötet worden. Sechs Personen seien verletzt worden, erklärte der ukrainische Präsident Wolodymyr Selenskyj. Ziel einer russischen Angriffsserie auf Kiew sei auch eine Klinik gewesen. Auch Dienstagfrüh waren in Kiew mehrere laute Explosionen zu hören."
     },
     {
       "id": "https://orf.at/stories/3443535/",
@@ -114,182 +312,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-09-28T20:52:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443532/",
-      "title": "SPÖ-Führung: Stuiber und Herrmann im Studio",
-      "titleAr": "ستويبر وهيرمان في استوديو الحزب الاشتراكي الديمقراطي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443532/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-28T20:39:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443526/",
-      "title": "NATO-General: Russische Sabotage in Europa erfolglos",
-      "titleAr": "جنرال الناتو: التخريب الروسي في أوروبا فاشل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443526/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T19:25:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443524/",
-      "title": "„Neptun Deep“: OMV plant erste Förderung ab 2027",
-      "titleAr": "OMV تخطط لإنتاج أول حفر في Neptun Deep عام 2027",
-      "translated": true,
-      "link": "https://orf.at/stories/3443524/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-28T18:56:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443523/",
-      "title": "Russland-Geschäft von Metro unter Zwangsverwaltung",
-      "titleAr": "القطاع الروسي لشركة Metro تحت الإدارة القسرية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443523/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-28T18:40:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443521/",
-      "title": "147 Abgeordnete von sexualisierten KI-Deepfakes betroffen",
-      "titleAr": "147 نائبًا متأثرًا بديب فاكز ذكاء اصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443521/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T18:29:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443467/",
-      "title": "Türkischer Börsenskandal weitet sich aus",
-      "titleAr": "فضيحة بورصة تركيا تتوسع",
-      "translated": true,
-      "link": "https://orf.at/stories/3443467/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-28T18:27:06+02:00",
-      "description": "In der Türkei ist Mitte September ein Börsenskandal aufgeflogen und zieht seither Kreise. Am Montag berichteten türkische Medien von einer Reihe weiterer Festnahmen. Im Zentrum der Causa stehen Vorwürfe von Betrug, Geldwäsche und Marktmanipulation mit mehr als 450.000 möglichen Geschädigten. Kurse von Investmentfonds sollen künstlich in astronomische Höhen getrieben worden sein – bis die türkische Finanzmarktaufsicht die Reißleine zog."
-    },
-    {
-      "id": "https://orf.at/stories/3443515/",
-      "title": "Russland stellt Metro-Geschäft unter staatliche Verwaltung",
-      "titleAr": "روسيا تضع قطاع Metro تحت الإدارة الحكومية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443515/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T17:02:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443514/",
-      "title": "Polen lockert Regelungen für Abschuss von Drohnen",
-      "titleAr": "بولندا تخفف قوانين تصويب الطائرات بدون طيار",
-      "translated": true,
-      "link": "https://orf.at/stories/3443514/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T16:45:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443513/",
-      "title": "ORF tritt in Dialog mit Sport und Kultur",
-      "titleAr": "ORF يفتح حوارًا مع الرياضة والثقافة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443513/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-09-28T16:43:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443482/",
-      "title": "Regierungsbildung in Schweden gescheitert",
-      "titleAr": "فشل تشكيل حكومة في السويد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443482/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T16:25:24+02:00",
-      "description": "Schwedens Oppositionsführerin Magdalena Andersson sieht sich trotz des knappen Sieges ihres Mitte-links-Bündnisses bei der Parlamentswahl nicht imstande, eine Regierung zu bilden. Grund dafür sei die Entscheidung der Linkspartei, einen Kandidaten des konservativen Lagers für das Amt des Parlamentspräsidenten zu unterstützen, sagte sie am Montag."
-    },
-    {
-      "id": "https://orf.at/stories/3443512/",
-      "title": "Selenskyj: Auch Klinik in Kiew getroffen",
-      "titleAr": "سلينسكي: مستشفى كييف أصيب أيضًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443512/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-28T16:16:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443511/",
-      "title": "Ralph Siegel will wieder bei Song Contest mitmischen",
-      "titleAr": "رالف سيجل يرغب في المشاركة مجددًا في مسابقة الأغاني",
-      "translated": true,
-      "link": "https://orf.at/stories/3443511/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-09-28T16:12:04+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443509/",
-      "title": "SpaceX-Rakete „Starship“ erreicht erstmals Erdumlaufbahn",
-      "titleAr": "ستارشيب من سبيس إكس تصل إلى مدار الأرض للمرة الأولى",
-      "translated": true,
-      "link": "https://orf.at/stories/3443509/",
-      "category": "Science",
-      "categoryAr": "Science",
-      "publishedAt": "2026-09-28T15:53:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443485/",
-      "title": "Neue Spritpreisbremse beschlossen",
-      "titleAr": "تم اعتماد حظر جديد على أسعار الوقود",
-      "translated": true,
-      "link": "https://orf.at/stories/3443485/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-28T15:07:42+02:00",
-      "description": "Der Nationalrat hat Montagnachmittag die neue Spritpreisbremse beschlossen. Sie soll für Oktober und November gelten und laut Koalition eine Ersparnis von zwölf Cent pro Liter bringen. Dem Beschluss war eine heftige Debatte im Plenum vorangegangen."
-    },
-    {
-      "id": "https://orf.at/stories/3443499/",
-      "title": "Falschaussage-Ermittlungen gegen Schmid eingestellt",
-      "titleAr": "أُوقفت التحقيقات في ادعاءات كاذبة ضد شميت",
-      "translated": true,
-      "link": "https://orf.at/stories/3443499/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-09-28T14:51:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443496/",
-      "title": "Biontech schließt mehrere Standorte",
-      "titleAr": "بيونتيك يغلق عدة مواقع",
-      "translated": true,
-      "link": "https://orf.at/stories/3443496/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-28T14:24:34+02:00",
       "description": ""
     }
   ]
