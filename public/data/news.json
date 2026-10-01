@@ -4,8 +4,63 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-09-30T20:06:52.453Z",
+  "updatedAt": "2026-10-01T00:36:35.018Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443747/",
+      "title": "US-Höchstgericht erlaubt Hinrichtung von Frau in Tennessee",
+      "titleAr": "المحكمة العليا الأمريكية تسمح بإعدام امرأة في تينيسي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443747/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-01T01:55:04+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443740/",
+      "title": "Schock und Entsetzen nach Angriff",
+      "titleAr": "صدمة واشمئزاز بعد الهجوم",
+      "translated": true,
+      "link": "https://orf.at/stories/3443740/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-30T23:51:00+02:00",
+      "description": "Nach dem gewaltsamen Vorfall im Cockpit einer Passagiermaschine, die auf dem Weg von Dubai nach Tel Aviv in Saudi-Arabien zwischenlanden musste, herrscht Schock, Entsetzen, aber auch Erleichterung: In Tel Aviv wurden die israelischen Passagiere des Flydubai-Fliegers am Mittwochabend von einer jubelnden Menschenmenge empfangen. Die Hintergründe des Vorfalls sind indes unklar. Die israelische Regierung geht von einem versuchten Terroranschlag aus."
+    },
+    {
+      "id": "https://orf.at/stories/3443745/",
+      "title": "Prüfer: Kein strafbares Verhalten bei Umbau der US-Notenbank",
+      "titleAr": "محقق: لا سلوك إجرامي في إعادة تشكيل البنك المركزي الأمريكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443745/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-09-30T22:53:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443744/",
+      "title": "Hegseth: Musk soll „Zukunft der Kriegsführung“ erforschen",
+      "titleAr": "هيغسيت: ماسك يجب أن يدرس مستقبل الحرب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443744/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-30T22:41:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443680/",
+      "title": "US-Botschafterin sorgt für Wirbel",
+      "titleAr": "السفيرة الأمريكية تثير ضجة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443680/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-09-30T22:21:20+02:00",
+      "description": "Jüngste Enthüllungen des „Wall Street Journal“ zu einem Abendtermin Mitte März in der US-Botschaft in Athen schlagen in Griechenland und Rumänien anhaltend hohe Wellen. In hochkarätiger Runde soll die US-Botschafterin in Griechenland, Kimberly Guilfoyle, mit Blick auf den bevorstehenden Bruch der Regierung in Rumänien dem griechischen Energieminister gesagt haben: „Wir können das in jedem Land machen, in dem wir wollen. Wir können das auch hier.“"
+    },
     {
       "id": "https://orf.at/stories/3442882/",
       "title": "Warum Gelb die Farbe der Außenseiter war",
@@ -92,7 +147,7 @@
       "category": "Chronik",
       "categoryAr": "أحداث",
       "publishedAt": "2026-09-30T18:45:40+02:00",
-      "description": "Ein US-Bundesgericht hat am Mittwoch die Hinrichtung der ersten Frau im Bundesstaat Tennessee seit mehr als 200 Jahren kurz vor der Vollstreckung ausgesetzt. Die zum Tode verurteilte Mörderin Christa Pike habe Zweifel an der Rechtmäßigkeit des vorigen Verfahrens dargelegt, die nun geprüft werden müssten, entschied das Berufungsgericht. Pike hatte 1995 ihre 19-jährige Klassenkameradin Colleen Slemmer ermordet."
+      "description": "Ein US-Bundesgericht hat am Mittwoch die Hinrichtung der ersten Frau im Bundesstaat Tennessee seit mehr als 200 Jahren kurz vor der Vollstreckung ausgesetzt. Die zum Tode verurteilte Mörderin Christa Pike habe Zweifel an der Rechtmäßigkeit des vorigen Verfahrens dargelegt, die nun geprüft werden müssten, entschied das Berufungsgericht. Die für die Gefängnisse verantwortliche Behörde des Bundesstaates will nun mit einem Eilantrag beim Supreme Court die Aufhebung des Hinrichtungsstopps erwirken."
     },
     {
       "id": "https://orf.at/stories/3443726/",
@@ -224,39 +279,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-09-30T14:36:45+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443695/",
-      "title": "Berichte: USA kürzen Fünftel der Topoffiziere",
-      "titleAr": "تقارير: الولايات المتحدة تقلص ربع كبار الضباط",
-      "translated": true,
-      "link": "https://orf.at/stories/3443695/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-30T14:25:14+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443693/",
-      "title": "Behörde: Tankschiffe nahe Iran unter Beschuss",
-      "titleAr": "السلطة: سفن النفط قرب إيران تحت هجوم",
-      "translated": true,
-      "link": "https://orf.at/stories/3443693/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-09-30T14:20:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443691/",
-      "title": "Bericht: Rohölexporte vom Golf auf Vorkriegsniveau",
-      "titleAr": "التقرير: صادرات النفط الخام من الخليج تعود إلى مستوى ما قبل الحرب",
-      "translated": true,
-      "link": "https://orf.at/stories/3443691/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-09-30T14:14:32+02:00",
       "description": ""
     }
   ]
