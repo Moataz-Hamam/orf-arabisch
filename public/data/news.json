@@ -4,8 +4,63 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-01T18:27:54.507Z",
+  "updatedAt": "2026-10-02T00:52:59.463Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443850/",
+      "title": "Viel Anerkennung für Helfer",
+      "titleAr": "تقدير كبير للمساعدين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443850/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-01T23:54:33+02:00",
+      "description": "Die Menschen, die nach dem gewaltsamen Vorfall an Bord einer Flydubai-Maschine halfen, den mutmaßlichen Angreifer zu überwältigen, werden in Israel wie Helden gefeiert. Präsident Izchak Herzog will sie offiziell auszeichnen. Die Hintergründe des Vorfalls sind indes weiter unklar, die Emirate leiteten Ermittlungen ein."
+    },
+    {
+      "id": "https://orf.at/stories/3443853/",
+      "title": "Nike legt neues Sparprogramm auf",
+      "titleAr": "نائكي يطلق برنامج توفير جديد",
+      "translated": true,
+      "link": "https://orf.at/stories/3443853/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-01T23:22:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443851/",
+      "title": "Brasilien: Ruf nach Ermittlungen zu möglicher US-Einmischung",
+      "titleAr": "البرازيل: دعوة للتحقيق في احتمال تدخل أمريكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443851/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-01T22:51:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443818/",
+      "title": "Gewalteskalation bei Schülerprotesten",
+      "titleAr": "تصعيد عنيف في احتجاجات الطلاب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443818/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-01T21:16:42+02:00",
+      "description": "Die Proteste von Frankreichs Schülerinnen und Schülern sind zum Teil in schwere Gewalt umgeschlagen. Es gab mehrere Brandanschläge und Prügeleien, die Polizei setzte Tränengas ein. Die Schüler fordern bessere Bedingungen und mehr Geld für ihre Bildung. Doch die Regierung muss den Gürtel noch einmal enger schnallen und kündigte bereits ein neues Sparpaket an."
+    },
+    {
+      "id": "https://orf.at/stories/3443845/",
+      "title": "Tschechische Regierung übersteht Misstrauensvotum",
+      "titleAr": "الحكومة التشيكية تتغلب على تصويت عدم الثقة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443845/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-01T20:42:30+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443844/",
       "title": "Kiew: Erster Einsatz von eigener ballistischer Rakete",
@@ -214,61 +269,6 @@
       "categoryAr": "Medien",
       "publishedAt": "2026-10-01T13:56:53+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443800/",
-      "title": "Innenminister geben grünes Licht für Rückkehrzentren",
-      "titleAr": "وزراء الداخلية يوافقون على مراكز إعادة التوطين",
-      "translated": true,
-      "link": "https://orf.at/stories/3443800/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T13:28:09+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443797/",
-      "title": "Zuckersteuer: Deutsches Kanzleramt stoppt Entwurf",
-      "titleAr": "وزارة الألمانى توقف مسودة ضريبة السكر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443797/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T13:04:29+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443796/",
-      "title": "Reformpartnerschaft einigte sich auf Gemeindepaket",
-      "titleAr": "الشراكة الإصلاحية تتفق على حزمة البلدية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443796/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-01T12:41:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443795/",
-      "title": "Klitschko: Drohnen treffen wichtige Brücke in Kiew",
-      "titleAr": "كليتشكو: طائرات بدون طيار تصيب جسرًا مهمًا في كييف",
-      "translated": true,
-      "link": "https://orf.at/stories/3443795/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T12:26:17+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443776/",
-      "title": "Jobsuche dauert aktuell lang",
-      "titleAr": "البحث عن عمل يطول الوقت",
-      "translated": true,
-      "link": "https://orf.at/stories/3443776/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-01T12:10:37+02:00",
-      "description": "Die Arbeitslosenzahl ist im September weiter gestiegen. Dieser Anstieg geht ausschließlich auf eine starke Zunahme bei Frauen zurück. Generell dauert die Suche nach einem neuen Job im Moment sehr lange. Mehr als 30 Prozent der Betroffenen waren im letzten Monat seit mehr als einem Jahr ohne Beschäftigung beim Arbeitsmarktservice (AMS) gemeldet."
     }
   ]
 }
