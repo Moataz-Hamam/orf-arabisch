@@ -4,8 +4,206 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-02T00:52:59.463Z",
+  "updatedAt": "2026-10-02T09:54:04.850Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443886/",
+      "title": "Pilot schildert Angriff auf Flydubai-Flug",
+      "titleAr": "الطيار يصف هجومًا على رحلة فليدوباى",
+      "translated": true,
+      "link": "https://orf.at/stories/3443886/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T11:47:32+02:00",
+      "description": "Nach dem mutmaßlichen Anschlag auf eine Flydubai-Maschine hat der angegriffene Pilot die dramatischen Minuten im Cockpit geschildert. „Ich habe versucht, mein eigenes Leben zu retten, aber ich wusste, dass ich all diese Menschen nicht sterben lassen konnte“, sagte der indische Pilot Smit Machchhar am Freitag in einem Telefonat mit Indiens Premierminister Narendra Modi. Die Hintergründe sind weiter unklar, Ermittlungen laufen."
+    },
+    {
+      "id": "https://orf.at/stories/3443892/",
+      "title": "Finanzministerium verbessert Defizitprognose leicht",
+      "titleAr": "وزارة المالية تحسن توقع العجز",
+      "translated": true,
+      "link": "https://orf.at/stories/3443892/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-02T11:25:33+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443865/",
+      "title": "AGES-Schätzung weist Höchstwert aus",
+      "titleAr": "تقدير وكالة الأرصاد الألمانية يستبعد الحد الأقصى",
+      "translated": true,
+      "link": "https://orf.at/stories/3443865/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-02T11:08:13+02:00",
+      "description": "Die Folgen der Hitze im vergangenen Sommer waren drastisch: Laut einer aktuellen Auswertung der Agentur für Gesundheit und Ernährungssicherheit (AGES) verstarben in Österreich in den Monaten Juni, Juli und August laut Schätzung 995 Menschen hitzebedingt. Das ist im Vergleich mit den bisherigen Daten ein Höchstwert für diesen Zeitraum, wie aus den am Freitag veröffentlichten Zahlen hervorgeht."
+    },
+    {
+      "id": "https://orf.at/stories/3443883/",
+      "title": "Neuer Song von Lil Nas X",
+      "titleAr": "أغنية جديدة من ليل ناس إكس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443883/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-02T10:12:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443876/",
+      "title": "Schnellschätzung: Inflation stieg auf 3,6 Prozent",
+      "titleAr": "التضخم ارتفع إلى 3.6٪ حسب التقدير السريع",
+      "translated": true,
+      "link": "https://orf.at/stories/3443876/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-02T09:19:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443869/",
+      "title": "Polen führt Übergewinnsteuer für Ölkonzerne ein",
+      "titleAr": "بولندا تفرض ضريبة أرباح مفرطة على شركات النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3443869/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-02T08:03:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443868/",
+      "title": "Schweizer Bank Julius Bär kauft Aktien in großem Stil zurück",
+      "titleAr": "البنك السويسري جوليوس بير يشتري أسهمًا بكميات كبيرة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443868/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-02T07:25:23+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443867/",
+      "title": "OpenAI entlässt drei Mitarbeiter nach KI-Enthüllungen",
+      "titleAr": "أوبن إيه آي يطرد ثلاثة موظفين بعد كشفات الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443867/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-10-02T07:18:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443866/",
+      "title": "Diplomatische Verstimmung zwischen Ukraine und Südkorea",
+      "titleAr": "توتر دبلوماسي بين أوكرانيا وكوريا الجنوبية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443866/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T07:14:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443864/",
+      "title": "Pentagon vergibt Milliardenauftrag für Lenkwaffen",
+      "titleAr": "المنتدى يمنح عقدًا بمليارات للذخائر الموجهة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443864/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T07:08:42+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443863/",
+      "title": "USA schicken weiteren Flugzeugträger in Nahen Osten",
+      "titleAr": "الولايات المتحدة ترسل حاملة طائرات أخرى إلى الشرق الأوسط",
+      "translated": true,
+      "link": "https://orf.at/stories/3443863/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T06:57:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443862/",
+      "title": "AGES schätzt Zahl der Hitzetoten im Sommer auf fast 1.000",
+      "titleAr": "تقدّر AGES عدد القتلى بالحرارة في الصيف بـ 1000 تقريباً",
+      "translated": true,
+      "link": "https://orf.at/stories/3443862/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-02T06:49:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443861/",
+      "title": "Sonderermittlerin für Vergewaltigungsvorwürfe an US-Eliteuni",
+      "titleAr": "محقق خاص يحقق في اتهامات اغتصاب بجامعة أمريكية نخب",
+      "translated": true,
+      "link": "https://orf.at/stories/3443861/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T06:42:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443860/",
+      "title": "Saudi-Arabien wirft Huthis Angriff auf heilige Stadt Medina vor",
+      "titleAr": "السعودية تُتهم هوثي بارتكاب هجوم على المدينة المنورة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443860/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T06:38:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443859/",
+      "title": "NASA: Astronauten erreichen ISS in US-Rekordzeit",
+      "titleAr": "NASA: رواد الفضاء يصلون إلى محطة الفضاء الدولية في وقت قياسي أمريكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3443859/",
+      "category": "Science",
+      "categoryAr": "Science",
+      "publishedAt": "2026-10-02T06:33:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443858/",
+      "title": "Äthiopien und Eritrea brechen diplomatische Beziehungen ab",
+      "titleAr": "أثيوبيا وإريتريا تقطعا العلاقات الدبلوماسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443858/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T06:28:26+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443857/",
+      "title": "„El Nino“ lässt Blumen in Chiles Atacama-Wüste blühen",
+      "titleAr": "إيل نينو يُزهِر أزهاراً في صحراء أتاكاما",
+      "translated": true,
+      "link": "https://orf.at/stories/3443857/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-02T06:24:36+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443553/",
+      "title": "Lula will es noch einmal wissen",
+      "titleAr": "لولا يود معرفة ذلك مجدداً",
+      "translated": true,
+      "link": "https://orf.at/stories/3443553/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T06:08:30+02:00",
+      "description": "Luiz Inacio Lula da Silva will es noch einmal wissen. Mit 80 Jahren kandidiert der brasilianische Präsident für eine vierte Amtszeit. Am Sonntag findet die erste Runde der Wahl statt. Sein stärkster Herausforderer ist der 45-jährige Flavio Bolsonaro, der älteste Sohn des früheren ultrarechten Präsidenten Jair Bolsonaro. In den jüngsten Umfragen liegen beide eng beieinander."
+    },
     {
       "id": "https://orf.at/stories/3443850/",
       "title": "Viel Anerkennung für Helfer",
@@ -15,12 +213,12 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-01T23:54:33+02:00",
-      "description": "Die Menschen, die nach dem gewaltsamen Vorfall an Bord einer Flydubai-Maschine halfen, den mutmaßlichen Angreifer zu überwältigen, werden in Israel wie Helden gefeiert. Präsident Izchak Herzog will sie offiziell auszeichnen. Die Hintergründe des Vorfalls sind indes weiter unklar, die Emirate leiteten Ermittlungen ein."
+      "description": "Die Menschen, die nach dem Angriff an Bord einer Flydubai-Maschine geholfen haben, den mutmaßlichen Angreifer zu überwältigen, werden in Israel wie Helden gefeiert. Präsident Jizchak Herzog will sie offiziell auszeichnen. Die Hintergründe des Vorfalls sind weiter unklar, die Vereinigten Arabischen Emirate leiteten Ermittlungen ein."
     },
     {
       "id": "https://orf.at/stories/3443853/",
-      "title": "Nike legt neues Sparprogramm auf",
-      "titleAr": "نائكي يطلق برنامج توفير جديد",
+      "title": "Nike legt neues Sparprogramm vor",
+      "titleAr": "نايكي يقدّم برنامجاً جديداً للتوفير",
       "translated": true,
       "link": "https://orf.at/stories/3443853/",
       "category": "Wirtschaft",
@@ -48,7 +246,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-01T21:16:42+02:00",
-      "description": "Die Proteste von Frankreichs Schülerinnen und Schülern sind zum Teil in schwere Gewalt umgeschlagen. Es gab mehrere Brandanschläge und Prügeleien, die Polizei setzte Tränengas ein. Die Schüler fordern bessere Bedingungen und mehr Geld für ihre Bildung. Doch die Regierung muss den Gürtel noch einmal enger schnallen und kündigte bereits ein neues Sparpaket an."
+      "description": "Die Proteste von Frankreichs Schülerinnen und Schülern sind zum Teil in schwere Gewalt umgeschlagen. Es gab mehrere Brandanschläge und Schlägereien, die Polizei setzte Tränengas ein. Die Schüler fordern bessere Bedingungen und mehr Geld für ihre Bildung. Doch die Regierung muss den Gürtel noch einmal enger schnallen und kündigte bereits ein neues Sparpaket an."
     },
     {
       "id": "https://orf.at/stories/3443845/",
@@ -63,211 +261,13 @@
     },
     {
       "id": "https://orf.at/stories/3443844/",
-      "title": "Kiew: Erster Einsatz von eigener ballistischer Rakete",
-      "titleAr": "كييف تطلق أول صاروخ باليستي خاص",
+      "title": "Kiew meldet ersten Einsatz eigener ballistischer Rakete",
+      "titleAr": "كييف تبلغ أول استخدام لرمح باليستي خاص بها",
       "translated": true,
       "link": "https://orf.at/stories/3443844/",
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-01T20:11:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443840/",
-      "title": "Vorfall bei Militärbasis: Festnahme in London",
-      "titleAr": "اعتقال في لندن بعد حادث قاعدة عسكرية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443840/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T19:18:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443839/",
-      "title": "Handelsexpertin Cordula Cerha live zu Gast",
-      "titleAr": "كوردولا سيرها في بث مباشر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443839/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-01T19:06:56+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443837/",
-      "title": "Israel: Mutmaßlicher Entführer der Familie Shoham getötet",
-      "titleAr": "إسرائيل يقتل المشتبه في اختطاف شوهام",
-      "translated": true,
-      "link": "https://orf.at/stories/3443837/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T19:02:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443835/",
-      "title": "Supreme Court prüft Trumps Haftpraxis bei Abschiebungen",
-      "titleAr": "المحكمة العليا تراجع ممارسات ترامب في الإبعاد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443835/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T18:48:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443786/",
-      "title": "Die Ausgaben der Haushalte im Detail",
-      "titleAr": "نفقات الأسر بالتفصيل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443786/",
-      "category": "Science",
-      "categoryAr": "Science",
-      "publishedAt": "2026-10-01T18:42:18+02:00",
-      "description": "Hochgerechnet geben Haushalte pro Person rund 2.760 Euro pro Monat aus. Das geht aus der Konsumerhebung der Statistik Austria hervor. Der Kurzbericht zu den Ausgaben nach Haushaltszusammensetzung von Donnerstag zeigt zudem deutliche Unterschiede im Ausgabenverhalten nach Alter und Geschlecht. Männer ab 65 Jahren geben etwa dreimal so viel für Verkehr aus wie Frauen."
-    },
-    {
-      "id": "https://orf.at/stories/3443834/",
-      "title": "Iran lädt britischen Botschafter vor",
-      "titleAr": "إيران يدعو السفير البريطاني",
-      "translated": true,
-      "link": "https://orf.at/stories/3443834/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T18:17:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443832/",
-      "title": "Tödliche ICE-Razzien in Minnesota: Familie klagt",
-      "titleAr": "مراهم قطار ICE في مينيسوتا: عائلة تقاضي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443832/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T17:27:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443825/",
-      "title": "Ein Toter bei Überflutungen auf Kreta",
-      "titleAr": "وفاة واحدة في فيضان كريت",
-      "translated": true,
-      "link": "https://orf.at/stories/3443825/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-01T16:14:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443822/",
-      "title": "USA drängen Europa zur Freigabe von Dieselreserven",
-      "titleAr": "الولايات المتحدة تدفع أوروبا لتفريغ احتياطيات الديزل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443822/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-01T16:04:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443570/",
-      "title": "Selbst „alter“ Cruise kann nicht alles retten",
-      "titleAr": "حتى السفينة القديمة لا تستطيع إنقاذ كل شيء",
-      "translated": true,
-      "link": "https://orf.at/stories/3443570/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-01T15:59:05+02:00",
-      "description": "In der Politsatire „Digger“ mimt Tom Cruise einen skrupellosen Ölmagnaten mit direktem Draht ins Weiße Haus. Mit Hilfe des oscarprämierten Regisseurs Alejandro Gonzalez Inarritu will sich der stets auf Jugendlichkeit und Fitness getrimmte Action-Darsteller nun – mit Wampe und Haarausfall kaum wiederzuerkennen – mit dem ersehnten Oscar veredeln. Eine eher unmögliche Mission."
-    },
-    {
-      "id": "https://orf.at/stories/3443819/",
-      "title": "Estland verhängt Transitverbot für russisches Getreide",
-      "titleAr": "إستونيا تفرض حظر عبور على الحبوب الروسية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443819/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-01T15:52:29+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443801/",
-      "title": "„Das Schlimmste, was wir je gesehen haben“",
-      "titleAr": "أفظع ما رأيناه على الإطلاق",
-      "translated": true,
-      "link": "https://orf.at/stories/3443801/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-01T15:10:08+02:00",
-      "description": "Die gescheiterte Hinrichtung der verurteilten Mörderin Christa Pike zieht in den USA heftige Kritik nach sich: „Dieses Ereignis ist das Schlimmste, was wir je gesehen haben, und unterscheidet sich von jeder anderen fehlgeschlagenen Hinrichtung in der modernen Ära“, sagte Robin Maher, die geschäftsführende Direktorin der gemeinnützigen Organisation Death Penalty Information Center (DPI), am Donnerstag. „Es gibt keinen Präzedenzfall.“ UNO-Menschenrechtskommissar Volker Türk forderte Gnade für Pike."
-    },
-    {
-      "id": "https://orf.at/stories/3443810/",
-      "title": "Take That kündigten neues Album „Dreamers“ an",
-      "titleAr": "فرقة Take That تطلق ألبومها الجديد 'Dreamers'",
-      "translated": true,
-      "link": "https://orf.at/stories/3443810/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-01T14:57:33+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443809/",
-      "title": "Zwei Ex-Minister aus Orban-Ära in U-Haft",
-      "titleAr": "وزيران سابقان من عهد أوربان في السجن الاحتياطي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443809/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T14:50:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443808/",
-      "title": "VfGH-Präsident: Unabhängigkeit des Höchstgerichts stärken",
-      "titleAr": "رئيس المحكمة العليا: تعزيز استقلال المحكمة العليا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443808/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-01T14:45:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443799/",
-      "title": "Russischer Angriff auf Brücke in Kiew",
-      "titleAr": "هجوم روسي على جسر في كييف",
-      "translated": true,
-      "link": "https://orf.at/stories/3443799/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-01T14:15:21+02:00",
-      "description": "Nach Angaben von Bürgermeister Witali Klitschko haben am Donnerstag zwei russische Drohnen eine wichtige Brücke in der ukrainischen Hauptstadt Kiew getroffen. Der öffentliche Verkehr über die Brücke wurde eingeschränkt, so Klitschko. Der Zustand der Brücke werde untersucht. Zudem gab es laut Präsident Wolodymyr Selenskyj einen Angriff auf eine Schule, verletzt worden sei dabei niemand. Bereits am Mittwoch soll laut ukrainischen Angaben das Gelände einer Atomforschungsanlage in Kiew getroffen und ein Brand ausgelöst worden sein."
-    },
-    {
-      "id": "https://orf.at/stories/3443794/",
-      "title": "Kritik an neuen ÖGK-Einsparungsideen",
-      "titleAr": "انتقادات لخطط التوفير الجديدة في ÖGK",
-      "translated": true,
-      "link": "https://orf.at/stories/3443794/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-01T14:00:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443804/",
-      "title": "Presserat: „Krone“ verletzte mit Tötungsvideo Menschenwürde",
-      "titleAr": "مجلس الصحافة: 'Krone' انتهاك كرامة الإنسان بفيديو قتل",
-      "translated": true,
-      "link": "https://orf.at/stories/3443804/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-10-01T13:56:53+02:00",
       "description": ""
     }
   ]
