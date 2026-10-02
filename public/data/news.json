@@ -4,8 +4,129 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-02T17:54:50.971Z",
+  "updatedAt": "2026-10-02T22:20:22.917Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443956/",
+      "title": "Südbrücke in Kiew erneut von Drohne getroffen",
+      "titleAr": "البرج الجنوبي في كييف يُضرب بطائرة بدون طيار مجددًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443956/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T00:06:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443955/",
+      "title": "UNO: 5,8 Mio. Flüchtlingskinder gehen nicht zur Schule",
+      "titleAr": "الأمم المتحدة: 5.8 مليون طفل لا يذهبون إلى المدرسة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443955/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T23:36:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443906/",
+      "title": "Gouverneurin erhebt schwere Vorwürfe",
+      "titleAr": "الحكّامة تُلقي اتهامات شديدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443906/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-02T23:12:14+02:00",
+      "description": "Seit Tagen gehen in den USA die Wogen hoch, nachdem in der Eliteuniversität Cornell der Verdacht einer Gruppenvergewaltigung aufgekommen ist. Sieben Studenten, inzwischen als „Cornell 7“ bekannt, sollen eine Frau vergewaltigt haben, zunächst wurde der Fall nicht weiter verfolgt. Doch der öffentliche Aufschrei sorgte nun für die Einsetzung der Sonderermittlerin Letitia James durch New Yorks Gouverneurin Kathy Hochul. Beide reagierten am Freitag empört über den Umgang der Uni und der örtlichen Behörden mit dem Fall."
+    },
+    {
+      "id": "https://orf.at/stories/3443953/",
+      "title": "Huthis melden Dutzende Angriffe Saudi-Arabiens",
+      "titleAr": "الهاوثيون يبلغون عن عشرات هجمات على السعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443953/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T23:02:23+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443952/",
+      "title": "Brasilien: Erdöl vor Küste des Amazonas gefunden",
+      "titleAr": "البرازيل: نفط يُكتشف قبالة ساحل الأمازون",
+      "translated": true,
+      "link": "https://orf.at/stories/3443952/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-02T22:52:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443950/",
+      "title": "Causa Pike: Rufe nach Aus für Todesstrafe in USA",
+      "titleAr": "قضية بايك: مطالبات بالتحرر من الإعدام في أمريكا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443950/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T22:39:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443949/",
+      "title": "Bayer investiert 2,2 Mrd. Dollar in neues US-Werk",
+      "titleAr": "باير تستثمر 2.2 مليار دولار في مصنع أمريكي جديد",
+      "translated": true,
+      "link": "https://orf.at/stories/3443949/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-02T21:40:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443935/",
+      "title": "Wohnungsnot stürzt Sanchez in die Krise",
+      "titleAr": "أزمة السكن تدفع سانشيز إلى الأزمة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443935/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T21:00:26+02:00",
+      "description": "Spaniens Minderheitsregierung von Pedro Sanchez ist wegen der Wohnungsnot im Lande in eine schwere Krise geschlittert. Bei einer Abstimmung im Parlament fiel sie mit zwei Dekreten durch, mit denen sie steigende Mieten und Zwangsräumungen bekämpfen wollte. Teilnehmer der seit Tagen stattfinden Proteste gegen die hohen Mieten und den Wohnungsmangel reagierten empört auf die Ablehnung. Die Opposition rief zu einer Neuwahl auf."
+    },
+    {
+      "id": "https://orf.at/stories/3443947/",
+      "title": "Blitz tötete deutsche Urlauberin auf Rhodos",
+      "titleAr": "برق يقتل سائحته ألمانية على رودوس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443947/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-02T20:39:53+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443946/",
+      "title": "Argentinien vergibt Staatsbürgerschaft an Investoren",
+      "titleAr": "الأرجنتين تُمنح الجنسية للمستثمرين",
+      "translated": true,
+      "link": "https://orf.at/stories/3443946/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-02T20:38:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443945/",
+      "title": "Bauer: „Punktation“ zu „politischem Islam“ fertig",
+      "titleAr": "باوَر: 'النقطة' في 'الإسلام السياسي' جاهزة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443945/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-02T20:23:49+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443893/",
       "title": "Klare Mängel bei Zahlungen der Ministerien",
@@ -181,83 +302,6 @@
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-02T14:06:54+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443904/",
-      "title": "Israel: Höchstgericht erlaubt arabischen Parteien Wahlteilnahme",
-      "titleAr": "إسرائيل: المحكمة العليا تسمح للأحزاب العربية بالمشاركة في الانتخابات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443904/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T13:11:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443900/",
-      "title": "Deutsche Kaufhauskette Galeria meldet erneut Insolvenz an",
-      "titleAr": "جاليريا الألمانية تعلن إفلاسًا مرة أخرى",
-      "translated": true,
-      "link": "https://orf.at/stories/3443900/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-02T12:26:28+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443899/",
-      "title": "Frankreichs Schulprotest hält an",
-      "titleAr": "مظاهرة المدارس الفرنسية مستمرة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443899/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T12:02:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443878/",
-      "title": "Register erfasst künftig Wasserverbrauch",
-      "titleAr": "سجل يراقب استهلاك المياه",
-      "translated": true,
-      "link": "https://orf.at/stories/3443878/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-02T12:00:16+02:00",
-      "description": "Eine Datenbank soll künftig den Wasserverbrauch – Kleinmengen ausgenommen – dokumentieren. Landwirtschaftsminister Norbert Totschnig (ÖVP) stellte den Entwurf für das zentrale Wasserentnahmeregister am Freitag bei einer Pressekonferenz vor. Ziel sei es, die wasserwirtschaftliche Planung in Zeiten des Klimawandels zu verbessern. Zuletzt drehte sich die Debatte auch um Großverbraucher, die zu viel Wasser „schlucken“."
-    },
-    {
-      "id": "https://orf.at/stories/3443886/",
-      "title": "Pilot schildert Angriff auf Flydubai-Flug",
-      "titleAr": "الطيار يصف هجومًا على رحلة فليدوباى",
-      "translated": true,
-      "link": "https://orf.at/stories/3443886/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T11:47:32+02:00",
-      "description": "Nach dem mutmaßlichen Anschlag auf eine Flydubai-Maschine hat der angegriffene Pilot die dramatischen Minuten im Cockpit geschildert. „Ich habe versucht, mein eigenes Leben zu retten, aber ich wusste, dass ich all diese Menschen nicht sterben lassen konnte“, sagte der indische Pilot Smit Machchhar am Freitag in einem Telefonat mit Indiens Premierminister Narendra Modi. Die Hintergründe sind weiter unklar, Ermittlungen laufen."
-    },
-    {
-      "id": "https://orf.at/stories/3443892/",
-      "title": "Finanzministerium verbessert Defizitprognose leicht",
-      "titleAr": "وزارة المالية تحسن توقع العجز",
-      "translated": true,
-      "link": "https://orf.at/stories/3443892/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-02T11:25:33+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443865/",
-      "title": "AGES-Schätzung weist Höchstwert aus",
-      "titleAr": "تقدير وكالة الأرصاد الألمانية يستبعد الحد الأقصى",
-      "translated": true,
-      "link": "https://orf.at/stories/3443865/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-02T11:08:13+02:00",
-      "description": "Die Folgen der Hitze im vergangenen Sommer waren drastisch: Laut einer aktuellen Auswertung der Agentur für Gesundheit und Ernährungssicherheit (AGES) verstarben in Österreich in den Monaten Juni, Juli und August laut Schätzung 995 Menschen hitzebedingt. Das ist im Vergleich mit den bisherigen Daten ein Höchstwert für diesen Zeitraum, wie aus den am Freitag veröffentlichten Zahlen hervorgeht."
     }
   ]
 }
