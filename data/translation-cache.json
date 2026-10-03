@@ -3576,8 +3576,8 @@
     "titleAr": "حظر طيران سابق على طيار فليدوباي"
   },
   "https://orf.at/stories/3444015/": {
-    "sourceTitle": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt zurück",
-    "titleAr": "إعدام فاشل في تينيسي: رئيس السجن يستقيل"
+    "sourceTitle": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt ab",
+    "titleAr": "محاولة إعدام فاشلة في تينيسي، رئيس السجن يستقيل"
   },
   "https://orf.at/stories/3444004/": {
     "sourceTitle": "Zehntausende forderten mehr Wohnraum",
@@ -3602,5 +3602,37 @@
   "https://orf.at/stories/3443996/": {
     "sourceTitle": "Trump lobt Freigabe europäischer Ölreserven",
     "titleAr": "ترامب يثني على تحرير احتياطيات النفط الأوروبية"
+  },
+  "https://orf.at/stories/3443896/": {
+    "sourceTitle": "Euro leidet unter Frankreichs Schwäche",
+    "titleAr": "الـيورو يتأثر وضعف فرنسا"
+  },
+  "https://orf.at/stories/3444028/": {
+    "sourceTitle": "Huthi-Rebellen: Haben Aramco-Anlage in Riad angegriffen",
+    "titleAr": "الحوثيون يهاجمون منشأة أرامكو بالرياض"
+  },
+  "https://orf.at/stories/3444027/": {
+    "sourceTitle": "Zurich Film Festival: Publikumspreis für „Mila/Marija“",
+    "titleAr": "مهرجان زوريخ السينمائي يقدّم جائزة الجمهور لـ 'ميلا/ماريا'"
+  },
+  "https://orf.at/stories/3444026/": {
+    "sourceTitle": "Selenskyj: Verstärkte Angriffe auf russische Ölraffinerien",
+    "titleAr": "السلكينيف يعلن هجمات مكثفة على مصافي النفط الروسية"
+  },
+  "https://orf.at/stories/3444024/": {
+    "sourceTitle": "Unwetter auf Kreta: Überschwemmungen und Schäden",
+    "titleAr": "عاصفة على كريت تسبب فيضانات وأضرار"
+  },
+  "https://orf.at/stories/3444023/": {
+    "sourceTitle": "US-Küstenwache sucht nach verschwundenem Flugzeug",
+    "titleAr": "الشرطة البحرية الأمريكية تبحث عن طائرة مفقودة"
+  },
+  "https://orf.at/stories/3444016/": {
+    "sourceTitle": "Gefängnisleiter legt Amt nieder",
+    "titleAr": "رئيس السجن يستقيل"
+  },
+  "https://orf.at/stories/3444017/": {
+    "sourceTitle": "Exit-Polls: Lettlands Regierungspartei vor Wahlsieg",
+    "titleAr": "استفتاءات خروج: حزب الحكومة الليتواني يقترب من الفوز"
   }
 }

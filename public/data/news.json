@@ -4,12 +4,100 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-03T16:30:02.225Z",
+  "updatedAt": "2026-10-03T21:26:07.213Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3443896/",
+      "title": "Euro leidet unter Frankreichs Schwäche",
+      "titleAr": "الـيورو يتأثر وضعف فرنسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3443896/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-03T23:21:39+02:00",
+      "description": "Weltweit steigen derzeit die Renditen für Staatsanleihen, sprich: Regierungen müssen für den Schuldendienst mehr zahlen. Im Zentrum steht dabei Frankreich. Institutionelle Anleger bezweifeln zunehmend, dass Paris sein Budget und den Schuldenberg in den Griff bekommt – auch angesichts der aktuellen Proteste und der Wahlen im nächsten Jahr. Hedgefonds erhöhen ihre Wetten. All das hat Folgen für den Euro."
+    },
+    {
+      "id": "https://orf.at/stories/3444028/",
+      "title": "Huthi-Rebellen: Haben Aramco-Anlage in Riad angegriffen",
+      "titleAr": "الحوثيون يهاجمون منشأة أرامكو بالرياض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444028/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T21:37:03+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444027/",
+      "title": "Zurich Film Festival: Publikumspreis für „Mila/Marija“",
+      "titleAr": "مهرجان زوريخ السينمائي يقدّم جائزة الجمهور لـ 'ميلا/ماريا'",
+      "translated": true,
+      "link": "https://orf.at/stories/3444027/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-03T21:32:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444026/",
+      "title": "Selenskyj: Verstärkte Angriffe auf russische Ölraffinerien",
+      "titleAr": "السلكينيف يعلن هجمات مكثفة على مصافي النفط الروسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444026/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T21:18:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444024/",
+      "title": "Unwetter auf Kreta: Überschwemmungen und Schäden",
+      "titleAr": "عاصفة على كريت تسبب فيضانات وأضرار",
+      "translated": true,
+      "link": "https://orf.at/stories/3444024/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-03T21:12:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444023/",
+      "title": "US-Küstenwache sucht nach verschwundenem Flugzeug",
+      "titleAr": "الشرطة البحرية الأمريكية تبحث عن طائرة مفقودة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444023/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-03T20:58:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444016/",
+      "title": "Gefängnisleiter legt Amt nieder",
+      "titleAr": "رئيس السجن يستقيل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444016/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T20:03:50+02:00",
+      "description": "Nach der gescheiterten Hinrichtung der US-Bürgerin Christa Pike tritt der Leiter der zuständigen Strafvollzugsbehörde zurück. Frank Strada werde das Amt noch in diesem Monat niederlegen, gab der Gouverneur des US-Bundesstaats Tennessee, Bill Lee, am Samstag bekannt. Strada erklärte, sein Rückzug sei „im besten Interesse der Bevölkerung von Tennessee“."
+    },
+    {
+      "id": "https://orf.at/stories/3444017/",
+      "title": "Exit-Polls: Lettlands Regierungspartei vor Wahlsieg",
+      "titleAr": "استفتاءات خروج: حزب الحكومة الليتواني يقترب من الفوز",
+      "translated": true,
+      "link": "https://orf.at/stories/3444017/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T19:40:34+02:00",
+      "description": ""
+    },
+    {
       "id": "https://orf.at/stories/3444015/",
-      "title": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt zurück",
-      "titleAr": "إعدام فاشل في تينيسي: رئيس السجن يستقيل",
+      "title": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt ab",
+      "titleAr": "محاولة إعدام فاشلة في تينيسي، رئيس السجن يستقيل",
       "translated": true,
       "link": "https://orf.at/stories/3444015/",
       "category": "Ausland",
@@ -26,7 +114,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-03T18:07:17+02:00",
-      "description": "Nachdem das spanische Parlament ein Maßnahmenpaket gegen die Wohnungsnot abgelehnt hatte, sind am Samstag erneut Zehntausende Menschen auf die Straßen zahlreicher Städte gegangen. Sie verlangten mehr bezahlbaren Wohnraum und besseren Mieterschutz. Der Mieterverband forderte zudem einen „Generalstreik“. Die Regierung von Ministerpräsident Pedro Sanchez gerät damit weiter unter Druck. Spanischen Medien zufolge schließt Sanchez Neuwahlen nicht mehr ganz aus."
+      "description": "Nachdem das spanische Parlament ein Maßnahmenpaket gegen die Wohnungsnot abgelehnt hatte, sind am Samstag erneut Zehntausende Menschen auf die Straßen zahlreicher Städte gegangen. Sie verlangten mehr bezahlbaren Wohnraum und besseren Mieterschutz. Der Mieterverband forderte zudem einen „Generalstreik“. Die Regierung des sozialistischen Ministerpräsidenten Pedro Sanchez gerät damit weiter unter Druck. Spanischen Medien zufolge schließt Sanchez Neuwahlen nicht mehr ganz aus."
     },
     {
       "id": "https://orf.at/stories/3444008/",
@@ -191,61 +279,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-03T10:50:09+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443973/",
-      "title": "Schülerproteste in Frankreich: Mehr als 5.000 Festnahmen",
-      "titleAr": "احتجاج طلابي في فرنسا: 5,000 اعتقال",
-      "translated": true,
-      "link": "https://orf.at/stories/3443973/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T09:50:56+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443974/",
-      "title": "Drohnenalarm: Flughafen in Vilnius kurzzeitig geschlossen",
-      "titleAr": "مطار فيلنيوس يغلق مؤقتاً بعد إنذار طائرات بدون طيار",
-      "translated": true,
-      "link": "https://orf.at/stories/3443974/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T09:50:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443967/",
-      "title": "Emirate bestätigen Terrorverdacht",
-      "titleAr": "الإمارات تؤكد شبهة إرهابية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443967/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T09:36:33+02:00",
-      "description": "Der Kopilot der in Saudi-Arabien notgelandeten Flydubai-Passagiermaschine hat nach Angaben der Generalstaatsanwaltschaft der Emirate einen Terrorakt geplant. Zuvor hatten mehrere Medien berichtet, der Mann habe aufgrund extremistischer Ansichten in Oman nicht mehr fliegen dürfen."
-    },
-    {
-      "id": "https://orf.at/stories/3441866/",
-      "title": "Gefangen im ethnischen System",
-      "titleAr": "محاصر في النظام العرقي",
-      "translated": true,
-      "link": "https://orf.at/stories/3441866/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T07:34:27+02:00",
-      "description": "Am Sonntag finden in Bosnien-Herzegowina Wahlen statt. 31 Jahre nach dem Ende des Krieges prägen ethnische Konflikte und nationalistische Rhetorik weiterhin die Politik des multiethnischen Landes. Während Parteien vor allem über die Interessen von Bosniaken, Serben und Kroaten mobilisieren, geraten Korruption, Abwanderung, wirtschaftliche Probleme und der stockende EU-Kurs in den Hintergrund. „Das Ethnische steht im Vordergrund und weniger die Sachfragen“, sagt Politologe Vedran Dzihic gegenüber ORF.at."
-    },
-    {
-      "id": "https://orf.at/stories/3443964/",
-      "title": "Bericht über früheres Flugverbot für Flydubai-Kopiloten",
-      "titleAr": "حظر طيران سابق على طيار فليدوباي",
-      "translated": true,
-      "link": "https://orf.at/stories/3443964/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T07:29:07+02:00",
       "description": ""
     }
   ]
