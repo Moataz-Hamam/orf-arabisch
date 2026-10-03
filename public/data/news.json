@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-02T22:20:22.917Z",
+  "updatedAt": "2026-10-03T05:27:32.022Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3443963/",
+      "title": "Bericht: Labortechnikerin in Sibirien an Pest gestorben",
+      "titleAr": "توفيت فنيّة مختبر في سيبيريا بسبب البرطاسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443963/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-03T07:19:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443962/",
+      "title": "UKMTO: Zwei Tanker in Straße von Hormus von Geschossen getroffen",
+      "titleAr": "UKMTO: قاطعتان نفطية تُصابت برصاص في مضيق هرموس",
+      "translated": true,
+      "link": "https://orf.at/stories/3443962/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T07:16:01+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443961/",
+      "title": "Einsatz gegen Parkinson: Hohe Auszeichnung für Michael J. Fox",
+      "titleAr": "مكافحة مرض باركنسون: جائزة عالية لمichael J. Fox",
+      "translated": true,
+      "link": "https://orf.at/stories/3443961/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-03T07:14:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443960/",
+      "title": "Erhalt von Kleinschulen: Wiederkehr setzt auf Cluster",
+      "titleAr": "العودة إلى المدارس الصغيرة: التركيز على التجمعات",
+      "translated": true,
+      "link": "https://orf.at/stories/3443960/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-03T07:11:28+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443956/",
       "title": "Südbrücke in Kiew erneut von Drohne getroffen",
@@ -195,8 +239,8 @@
     },
     {
       "id": "https://orf.at/stories/3443931/",
-      "title": "Nach Drohnenvorfällen: Lettland wählt neues Parlament",
-      "titleAr": "بعد حوادث الطائرات بدون طيار: منتخب ليتوانيا برلمان جديد",
+      "title": "Lettland wählt neues Parlament",
+      "titleAr": "ليتوانيا تختار برلمانًا جديدًا",
       "translated": true,
       "link": "https://orf.at/stories/3443931/",
       "category": "Ausland",
@@ -290,17 +334,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-02T15:05:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443910/",
-      "title": "SPÖ: Zeiler wirbt in offenem Brief um Unterstützung",
-      "titleAr": "SPÖ: زيلر يطلب دعمًا في رسالة مفتوحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443910/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-02T14:06:54+02:00",
       "description": ""
     }
   ]

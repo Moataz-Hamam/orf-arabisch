@@ -3400,8 +3400,8 @@
     "titleAr": "منظمة الصحة العالمية: متوسط العمر المتوقع قريب من ما قبل كورونا"
   },
   "https://orf.at/stories/3443931/": {
-    "sourceTitle": "Nach Drohnenvorfällen: Lettland wählt neues Parlament",
-    "titleAr": "بعد حوادث الطائرات بدون طيار: منتخب ليتوانيا برلمان جديد"
+    "sourceTitle": "Lettland wählt neues Parlament",
+    "titleAr": "ليتوانيا تختار برلمانًا جديدًا"
   },
   "https://orf.at/stories/3443930/": {
     "sourceTitle": "Paramount und Warner firmieren künftig unter Namen Skydance",
@@ -3498,5 +3498,21 @@
   "https://orf.at/stories/3443945/": {
     "sourceTitle": "Bauer: „Punktation“ zu „politischem Islam“ fertig",
     "titleAr": "باوَر: 'النقطة' في 'الإسلام السياسي' جاهزة"
+  },
+  "https://orf.at/stories/3443963/": {
+    "sourceTitle": "Bericht: Labortechnikerin in Sibirien an Pest gestorben",
+    "titleAr": "توفيت فنيّة مختبر في سيبيريا بسبب البرطاسية"
+  },
+  "https://orf.at/stories/3443962/": {
+    "sourceTitle": "UKMTO: Zwei Tanker in Straße von Hormus von Geschossen getroffen",
+    "titleAr": "UKMTO: قاطعتان نفطية تُصابت برصاص في مضيق هرموس"
+  },
+  "https://orf.at/stories/3443961/": {
+    "sourceTitle": "Einsatz gegen Parkinson: Hohe Auszeichnung für Michael J. Fox",
+    "titleAr": "مكافحة مرض باركنسون: جائزة عالية لمichael J. Fox"
+  },
+  "https://orf.at/stories/3443960/": {
+    "sourceTitle": "Erhalt von Kleinschulen: Wiederkehr setzt auf Cluster",
+    "titleAr": "العودة إلى المدارس الصغيرة: التركيز على التجمعات"
   }
 }
