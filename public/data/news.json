@@ -4,8 +4,85 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-03T11:48:35.002Z",
+  "updatedAt": "2026-10-03T16:30:02.225Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444015/",
+      "title": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt zurück",
+      "titleAr": "إعدام فاشل في تينيسي: رئيس السجن يستقيل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444015/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T18:28:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444004/",
+      "title": "Zehntausende forderten mehr Wohnraum",
+      "titleAr": "عشرات الآلاف يطالبون بمزيد من السكن",
+      "translated": true,
+      "link": "https://orf.at/stories/3444004/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T18:07:17+02:00",
+      "description": "Nachdem das spanische Parlament ein Maßnahmenpaket gegen die Wohnungsnot abgelehnt hatte, sind am Samstag erneut Zehntausende Menschen auf die Straßen zahlreicher Städte gegangen. Sie verlangten mehr bezahlbaren Wohnraum und besseren Mieterschutz. Der Mieterverband forderte zudem einen „Generalstreik“. Die Regierung von Ministerpräsident Pedro Sanchez gerät damit weiter unter Druck. Spanischen Medien zufolge schließt Sanchez Neuwahlen nicht mehr ganz aus."
+    },
+    {
+      "id": "https://orf.at/stories/3444008/",
+      "title": "Moskau warnt Ausländer vor Angriffen auf Kiew",
+      "titleAr": "موسكو تحذر الأجانب من هجمات على كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3444008/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T17:12:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444005/",
+      "title": "Nordkorea feuerte KI-gesteuerte Rakete ab",
+      "titleAr": "كوريا الشمالية تطلق صاروخًا بالذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3444005/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T16:31:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443998/",
+      "title": "Fronten in SPÖ bleiben ungeklärt",
+      "titleAr": "خطوط الحزب الاشتراكي الاجتماعي غير واضحة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443998/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-03T15:17:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443994/",
+      "title": "Steinmeier sieht Demokratie in Gefahr",
+      "titleAr": "شتينماير يرى الديمقراطية في خطر",
+      "translated": true,
+      "link": "https://orf.at/stories/3443994/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T14:39:44+02:00",
+      "description": "36 Jahre nach der deutschen Vereinigung sieht Bundespräsident Frank-Walter Steinmeier die freiheitlich-demokratische Grundordnung in Deutschland ernsthaft gefährdet. „Die unerträgliche politische Demagogie extremistischer Kräfte, die eine Lust an der Zerstörung ausleben und andere Menschen verhöhnen und bedrohen, das gefährdet nicht nur Freiheit und Demokratie – das gefährdet unsere innere Einheit“, sagte Steinmeier am Samstag in seiner Ansprache beim zentralen Festakt zum Tag der Deutschen Einheit in Bremen."
+    },
+    {
+      "id": "https://orf.at/stories/3443996/",
+      "title": "Trump lobt Freigabe europäischer Ölreserven",
+      "titleAr": "ترامب يثني على تحرير احتياطيات النفط الأوروبية",
+      "translated": true,
+      "link": "https://orf.at/stories/3443996/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T14:13:22+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443993/",
       "title": "Unibudget: Holzleitner verweist auf laufende Verhandlungen",
@@ -170,138 +247,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-10-03T07:29:07+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443963/",
-      "title": "Labortechnikerin in Sibirien offenbar an Pest gestorben",
-      "titleAr": "فنيّة مختبر في سيبيريا تُوفيت على الطاعون",
-      "translated": true,
-      "link": "https://orf.at/stories/3443963/",
-      "category": "Gesundheit",
-      "categoryAr": "Gesundheit",
-      "publishedAt": "2026-10-03T07:19:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443962/",
-      "title": "Straße von Hormus: Zwei Tanker von Geschoßen getroffen",
-      "titleAr": "شارع هورمس: تانكين متصابتان من صواريخ",
-      "translated": true,
-      "link": "https://orf.at/stories/3443962/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T07:16:01+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443961/",
-      "title": "Einsatz gegen Parkinson: Hohe Auszeichnung für Michael J. Fox",
-      "titleAr": "مكافحة مرض باركنسون: جائزة عالية لمichael J. Fox",
-      "translated": true,
-      "link": "https://orf.at/stories/3443961/",
-      "category": "Gesundheit",
-      "categoryAr": "Gesundheit",
-      "publishedAt": "2026-10-03T07:14:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443960/",
-      "title": "Erhalt von Kleinschulen: Wiederkehr setzt auf Cluster",
-      "titleAr": "العودة إلى المدارس الصغيرة: التركيز على التجمعات",
-      "translated": true,
-      "link": "https://orf.at/stories/3443960/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-03T07:11:28+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443956/",
-      "title": "Südbrücke in Kiew erneut von Drohne getroffen",
-      "titleAr": "البرج الجنوبي في كييف يُضرب بطائرة بدون طيار مجددًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443956/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T00:06:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443955/",
-      "title": "UNO: 5,8 Mio. Flüchtlingskinder gehen nicht zur Schule",
-      "titleAr": "الأمم المتحدة: 5.8 مليون طفل لا يذهبون إلى المدرسة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443955/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T23:36:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443906/",
-      "title": "Gouverneurin erhebt schwere Vorwürfe",
-      "titleAr": "الحكّامة تُلقي اتهامات شديدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443906/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-02T23:12:14+02:00",
-      "description": "Seit Tagen gehen in den USA die Wogen hoch, nachdem in der Eliteuniversität Cornell der Verdacht einer Gruppenvergewaltigung aufgekommen ist. Sieben Studenten, inzwischen als „Cornell 7“ bekannt, sollen eine Frau vergewaltigt haben, zunächst wurde der Fall nicht weiter verfolgt. Doch der öffentliche Aufschrei sorgte nun für die Einsetzung der Sonderermittlerin Letitia James durch New Yorks Gouverneurin Kathy Hochul. Beide reagierten am Freitag empört über den Umgang der Uni und der örtlichen Behörden mit dem Fall."
-    },
-    {
-      "id": "https://orf.at/stories/3443953/",
-      "title": "Huthis melden Dutzende Angriffe Saudi-Arabiens",
-      "titleAr": "الهاوثيون يبلغون عن عشرات هجمات على السعودية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443953/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T23:02:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443952/",
-      "title": "Brasilien: Erdöl vor Küste des Amazonas gefunden",
-      "titleAr": "البرازيل: نفط يُكتشف قبالة ساحل الأمازون",
-      "translated": true,
-      "link": "https://orf.at/stories/3443952/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-02T22:52:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443950/",
-      "title": "Causa Pike: Rufe nach Aus für Todesstrafe in USA",
-      "titleAr": "قضية بايك: مطالبات بالتحرر من الإعدام في أمريكا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443950/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T22:39:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443949/",
-      "title": "Bayer investiert 2,2 Mrd. Dollar in neues US-Werk",
-      "titleAr": "باير تستثمر 2.2 مليار دولار في مصنع أمريكي جديد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443949/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-02T21:40:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443935/",
-      "title": "Wohnungsnot stürzt Sanchez in die Krise",
-      "titleAr": "أزمة السكن تدفع سانشيز إلى الأزمة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443935/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-02T21:00:26+02:00",
-      "description": "Spaniens Minderheitsregierung von Pedro Sanchez ist wegen der Wohnungsnot im Lande in eine schwere Krise geschlittert. Bei einer Abstimmung im Parlament fiel sie mit zwei Dekreten durch, mit denen sie steigende Mieten und Zwangsräumungen bekämpfen wollte. Teilnehmer der seit Tagen stattfindenden Proteste gegen die hohen Mieten und den Wohnungsmangel reagierten empört auf die Ablehnung. Die Opposition rief zu einer Neuwahl auf."
     }
   ]
 }
