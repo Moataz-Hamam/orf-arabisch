@@ -3500,12 +3500,12 @@
     "titleAr": "باوَر: 'النقطة' في 'الإسلام السياسي' جاهزة"
   },
   "https://orf.at/stories/3443963/": {
-    "sourceTitle": "Bericht: Labortechnikerin in Sibirien an Pest gestorben",
-    "titleAr": "توفيت فنيّة مختبر في سيبيريا بسبب البرطاسية"
+    "sourceTitle": "Labortechnikerin in Sibirien offenbar an Pest gestorben",
+    "titleAr": "فنيّة مختبر في سيبيريا تُوفيت على الطاعون"
   },
   "https://orf.at/stories/3443962/": {
-    "sourceTitle": "UKMTO: Zwei Tanker in Straße von Hormus von Geschossen getroffen",
-    "titleAr": "UKMTO: قاطعتان نفطية تُصابت برصاص في مضيق هرموس"
+    "sourceTitle": "Straße von Hormus: Zwei Tanker von Geschoßen getroffen",
+    "titleAr": "شارع هورمس: تانكين متصابتان من صواريخ"
   },
   "https://orf.at/stories/3443961/": {
     "sourceTitle": "Einsatz gegen Parkinson: Hohe Auszeichnung für Michael J. Fox",
@@ -3514,5 +3514,65 @@
   "https://orf.at/stories/3443960/": {
     "sourceTitle": "Erhalt von Kleinschulen: Wiederkehr setzt auf Cluster",
     "titleAr": "العودة إلى المدارس الصغيرة: التركيز على التجمعات"
+  },
+  "https://orf.at/stories/3443993/": {
+    "sourceTitle": "Unibudget: Holzleitner verweist auf laufende Verhandlungen",
+    "titleAr": "الميزانية الجامعية: هولزليتن يذكر بالصفقات الجارية"
+  },
+  "https://orf.at/stories/3443988/": {
+    "sourceTitle": "Grippeimpfung: Bericht über umfangreiche Lieferprobleme",
+    "titleAr": "لقاح الإنفلونزا: تقرير عن مشاكل توريد واسعة"
+  },
+  "https://orf.at/stories/3443987/": {
+    "sourceTitle": "Steinmeier: „Extremismus kein ostdeutsches Phänomen“",
+    "titleAr": "ستينماير: 'الإرهاب ليس ظاهرة شرق ألمانية'"
+  },
+  "https://orf.at/stories/3443985/": {
+    "sourceTitle": "Iranische Währung auf neuem historischen Tiefststand",
+    "titleAr": "العملة الإيرانية على أدنى مستوى تاريخي جديد"
+  },
+  "https://orf.at/stories/3443984/": {
+    "sourceTitle": "Grüne kritisieren Zeilers Vergangenheit",
+    "titleAr": "الأخضر ينتقد ماضي زيلر"
+  },
+  "https://orf.at/stories/3443983/": {
+    "sourceTitle": "Kiew: Auch Nordbrücke von Drohne getroffen",
+    "titleAr": "كييف: سارية الشمال تصيبها طائرة بدون طيار"
+  },
+  "https://orf.at/stories/3443981/": {
+    "sourceTitle": "Ähnelte KZ-Kleidung: Zara zog Halloween-Kostüm zurück",
+    "titleAr": "زّارا سحبت زي هالووين شبيه بملابس حجز"
+  },
+  "https://orf.at/stories/3443782/": {
+    "sourceTitle": "Spurensuche im Südpazifik",
+    "titleAr": "بحث عن أثر في جنوب المحيط الهادئ"
+  },
+  "https://orf.at/stories/3443980/": {
+    "sourceTitle": "Iran: Schauspielerin Elnas Schakerdust zu Haft verurteilt",
+    "titleAr": "إيران: الممثلة إيلناس شاكيردست تُحكم بالسجن"
+  },
+  "https://orf.at/stories/3443979/": {
+    "sourceTitle": "Bericht: Tote bei israelischem Luftangriff auf Gaza",
+    "titleAr": "تقرير: قتلى في هجوم جوٍّ إسرائيلي على غزة"
+  },
+  "https://orf.at/stories/3443973/": {
+    "sourceTitle": "Schülerproteste in Frankreich: Mehr als 5.000 Festnahmen",
+    "titleAr": "احتجاج طلابي في فرنسا: 5,000 اعتقال"
+  },
+  "https://orf.at/stories/3443974/": {
+    "sourceTitle": "Drohnenalarm: Flughafen in Vilnius kurzzeitig geschlossen",
+    "titleAr": "مطار فيلنيوس يغلق مؤقتاً بعد إنذار طائرات بدون طيار"
+  },
+  "https://orf.at/stories/3443967/": {
+    "sourceTitle": "Emirate bestätigen Terrorverdacht",
+    "titleAr": "الإمارات تؤكد شبهة إرهابية"
+  },
+  "https://orf.at/stories/3441866/": {
+    "sourceTitle": "Gefangen im ethnischen System",
+    "titleAr": "محاصر في النظام العرقي"
+  },
+  "https://orf.at/stories/3443964/": {
+    "sourceTitle": "Bericht über früheres Flugverbot für Flydubai-Kopiloten",
+    "titleAr": "حظر طيران سابق على طيار فليدوباي"
   }
 }
