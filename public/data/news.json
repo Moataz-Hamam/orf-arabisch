@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-03T21:26:07.213Z",
+  "updatedAt": "2026-10-04T06:02:11.820Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444010/",
+      "title": "Mehr Feuer für die Hölle der Ehe",
+      "titleAr": "أكثر نار في جحيم الزواج",
+      "translated": true,
+      "link": "https://orf.at/stories/3444010/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-04T07:59:15+02:00",
+      "description": "Dass die Ehe eine besondere Form der Hölle sein kann, ist nicht erläuterungsbedürftig. An der Staatsoper steckt man jetzt zwei Klassiker der Moderne, „Eine florentinische Tragödie“ und „König Blaubarts Burg“ in ein Designerhaus zur Illustration dieser Misere. Zuerst kommt die Paartherapie, dann American Psycho mit ein bisschen Blut. Wie gut, dass da der Nebenbuhler im Bettkasten entsorgt werden kann."
+    },
+    {
+      "id": "https://orf.at/stories/3442913/",
+      "title": "Kopf-an-Kopf-Rennen um Präsidentenamt",
+      "titleAr": "سباق متكافئ للترشح لرئاسة البلاد",
+      "translated": true,
+      "link": "https://orf.at/stories/3442913/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T07:48:58+02:00",
+      "description": "Wenn am Sonntag die fast 160 Millionen Brasilianer und Brasilianerinnen zur Wahlurne schreiten, um einen neuen Präsidenten zu wählen, werden auf dem Stimmzettel zwei altbekannte Namen stehen: Luiz Inacio Lula da Silva, Amtsinhaber und Galionsfigur der Linken, und Bolsonaro, diesmal Flavio, ein Sohn des rechtspopulistischen Ex-Präsidenten Jair Bolsonaro. Einmal mehr scheint es auf eine stark polarisierte Abstimmung zwischen links und rechts hinauszulaufen – mit Symbolkraft weit über die Grenzen des Landes hinweg."
+    },
+    {
+      "id": "https://orf.at/stories/3444032/",
+      "title": "Tigray-Konflikt: Äthiopiens Armee rückt in Mekele ein",
+      "titleAr": "صراع تغراي: الجيش الإثيوبي يدخل مكيلة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444032/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T23:49:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444031/",
+      "title": "Israel: Ziel bei Angriff in Gaza war Hamas-Vertreter",
+      "titleAr": "إسرائيل: هدف الهجوم في غزة كان ممثل حماس",
+      "translated": true,
+      "link": "https://orf.at/stories/3444031/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-03T23:46:37+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3443896/",
       "title": "Euro leidet unter Frankreichs Schwäche",
@@ -213,72 +257,6 @@
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-10-03T12:25:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443984/",
-      "title": "Grüne kritisieren Zeilers Vergangenheit",
-      "titleAr": "الأخضر ينتقد ماضي زيلر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443984/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-03T12:23:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443983/",
-      "title": "Kiew: Auch Nordbrücke von Drohne getroffen",
-      "titleAr": "كييف: سارية الشمال تصيبها طائرة بدون طيار",
-      "translated": true,
-      "link": "https://orf.at/stories/3443983/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T12:05:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443981/",
-      "title": "Ähnelte KZ-Kleidung: Zara zog Halloween-Kostüm zurück",
-      "titleAr": "زّارا سحبت زي هالووين شبيه بملابس حجز",
-      "translated": true,
-      "link": "https://orf.at/stories/3443981/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-03T11:59:29+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443782/",
-      "title": "Spurensuche im Südpazifik",
-      "titleAr": "بحث عن أثر في جنوب المحيط الهادئ",
-      "translated": true,
-      "link": "https://orf.at/stories/3443782/",
-      "category": "Science",
-      "categoryAr": "Science",
-      "publishedAt": "2026-10-03T11:58:44+02:00",
-      "description": "Die US-Pilotin Amelia Earhart wollte mit ihrem Doppelmotorflugzeug Lockheed Electra 10E die Welt umrunden. Am 2. Juli 1937 verschwand sie über dem Pazifik. Seither ranken sich Mythen und Spekulationen darüber, was mit der Flugpionierin Earhart und ihrem Begleiter, dem Navigator Fred Noonan, geschah. Am Samstag startet eine neue Expedition in den Südpazifik. Ihr Fokus liegt auf dem auf Satellitenbildern entdeckten „Taraia-Objekt“, das an Earharts Flugzeug erinnert."
-    },
-    {
-      "id": "https://orf.at/stories/3443980/",
-      "title": "Iran: Schauspielerin Elnas Schakerdust zu Haft verurteilt",
-      "titleAr": "إيران: الممثلة إيلناس شاكيردست تُحكم بالسجن",
-      "translated": true,
-      "link": "https://orf.at/stories/3443980/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T11:26:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443979/",
-      "title": "Bericht: Tote bei israelischem Luftangriff auf Gaza",
-      "titleAr": "تقرير: قتلى في هجوم جوٍّ إسرائيلي على غزة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443979/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T10:50:09+02:00",
       "description": ""
     }
   ]
