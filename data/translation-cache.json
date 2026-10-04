@@ -3664,8 +3664,8 @@
     "titleAr": "ننتنجه يخطط لدعوة طيارين فليدوباي"
   },
   "https://orf.at/stories/3444064/": {
-    "sourceTitle": "SPÖ-Krisentreffen läuft, Ausgang offen",
-    "titleAr": "اجتماع الأزمات في الحزب الديمقراطي الاجتماعي مستمر، النتائج غير مؤكدة"
+    "sourceTitle": "SPÖ-Krisentreffen zieht sich über Stunden",
+    "titleAr": "اجتماع أزمات الحزب الاشتراكي الديمقراطي يستمر لساعات"
   },
   "https://orf.at/stories/3444066/": {
     "sourceTitle": "800. Todestag von Franz von Assisi: Papst ruft zu Frieden auf",
@@ -3708,8 +3708,8 @@
     "titleAr": "اليمن يبلغ عن هجمات واسعة على أهداف الحوثيين"
   },
   "https://orf.at/stories/3444097/": {
-    "sourceTitle": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
-    "titleAr": "الميلاديون يسيطرون على انتخابات البوسنة والهرسك"
+    "sourceTitle": "Bosnien-Herzegowina: Nationalisten weiter bestimmende Kraft",
+    "titleAr": "البوسنة والهرسك: القومية لا تزال قوة حاسمة"
   },
   "https://orf.at/stories/3444096/": {
     "sourceTitle": "SPÖ-Bundesgeschäftsführer Klaus Seltenheim zu Gast",
@@ -3746,5 +3746,29 @@
   "https://orf.at/stories/3444075/": {
     "sourceTitle": "Münchner Oktoberfest: Besucherrekord und schwere Unfälle",
     "titleAr": "أكتوبرفست في ميونخ: رقم قياسي للزوار وحوادث خطيرة"
+  },
+  "https://orf.at/stories/3444107/": {
+    "sourceTitle": "Brasilien-Wahl: Bolsonaro nach ersten Auszählungen voran",
+    "titleAr": "الانتخابات البرازيلية: بوسنارو يتصدر بعد العد الأولي"
+  },
+  "https://orf.at/stories/3444106/": {
+    "sourceTitle": "Ministerium: Langstreckenbomber aus GB zurück in USA",
+    "titleAr": "وزارة: طائرات القنابل طويلة المدى من بريطانيا تعود إلى أمريكا"
+  },
+  "https://orf.at/stories/3443771/": {
+    "sourceTitle": "Ukraine setzt auf Überraschungsmoment",
+    "titleAr": "أوكرانيا تستغل لحظة المفاجأة"
+  },
+  "https://orf.at/stories/3444085/": {
+    "sourceTitle": "Babler zieht sich schrittweise zurück",
+    "titleAr": "بابل ينسحب تدريجياً"
+  },
+  "https://orf.at/stories/3444102/": {
+    "sourceTitle": "Babler: Marterbauer ab Anfang 2027 Vizekanzler",
+    "titleAr": "بابل: مارترباوير يصبح نائب رئيس الوزراء من بداية 2027"
+  },
+  "https://orf.at/stories/3444098/": {
+    "sourceTitle": "Sozialministerium für „Trauerzeit“ nach Fehlgeburt",
+    "titleAr": "وزارة الشؤون الاجتماعية تعلن فترة عزف بعد فقدان الحمل"
   }
 }

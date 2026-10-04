@@ -4,12 +4,78 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-04T18:40:41.504Z",
+  "updatedAt": "2026-10-04T23:59:24.347Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3444107/",
+      "title": "Brasilien-Wahl: Bolsonaro nach ersten Auszählungen voran",
+      "titleAr": "الانتخابات البرازيلية: بوسنارو يتصدر بعد العد الأولي",
+      "translated": true,
+      "link": "https://orf.at/stories/3444107/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T23:48:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444106/",
+      "title": "Ministerium: Langstreckenbomber aus GB zurück in USA",
+      "titleAr": "وزارة: طائرات القنابل طويلة المدى من بريطانيا تعود إلى أمريكا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444106/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T23:41:56+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443771/",
+      "title": "Ukraine setzt auf Überraschungsmoment",
+      "titleAr": "أوكرانيا تستغل لحظة المفاجأة",
+      "translated": true,
+      "link": "https://orf.at/stories/3443771/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T22:45:34+02:00",
+      "description": "Während die Luftschläge im Angriffskrieg Russlands auf die Ukraine auch am Sonntag weitergegangen sind, erreicht Russland im Bodenkampf seine selbst gesteckten Ziele offenbar nicht. Die Rekrutierung neuer Soldaten wird ob der großen Verluste für Russland zunehmend zum Problem. Und auch für die Ukraine, wie diese zur Wochenmitte eingestehen musste. Die Ukraine setzt indes im Bodenkampf auf das Überraschungsmoment, um Gebiete zurückzuerobern. So rückte die Armee, wie das Institute for the Study of War (ISW) am Donnerstag meldete, etwa nördlich der Stadt Sumy vor."
+    },
+    {
+      "id": "https://orf.at/stories/3444085/",
+      "title": "Babler zieht sich schrittweise zurück",
+      "titleAr": "بابل ينسحب تدريجياً",
+      "translated": true,
+      "link": "https://orf.at/stories/3444085/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T21:40:02+02:00",
+      "description": "SPÖ-Chef Andreas Babler zieht sich teilweise zurück. Bis zumindest Jahresende will er Vizekanzler bleiben, ehe er an Finanzminister Markus Marterbauer (SPÖ), der sich derzeit noch der Heilung seiner Krebserkrankung widmet, übergibt. Auf dessen Wunsch würde Babler auch Minister bleiben. Als SPÖ-Chef holt sich Babler Klubobmann Philip Kucher und Frauenvorsitzende Eva-Maria Holzleitner an seine Seite."
+    },
+    {
+      "id": "https://orf.at/stories/3444102/",
+      "title": "Babler: Marterbauer ab Anfang 2027 Vizekanzler",
+      "titleAr": "بابل: مارترباوير يصبح نائب رئيس الوزراء من بداية 2027",
+      "translated": true,
+      "link": "https://orf.at/stories/3444102/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T21:35:33+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444098/",
+      "title": "Sozialministerium für „Trauerzeit“ nach Fehlgeburt",
+      "titleAr": "وزارة الشؤون الاجتماعية تعلن فترة عزف بعد فقدان الحمل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444098/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T20:41:02+02:00",
+      "description": ""
+    },
+    {
       "id": "https://orf.at/stories/3444097/",
-      "title": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
-      "titleAr": "الميلاديون يسيطرون على انتخابات البوسنة والهرسك",
+      "title": "Bosnien-Herzegowina: Nationalisten weiter bestimmende Kraft",
+      "titleAr": "البوسنة والهرسك: القومية لا تزال قوة حاسمة",
       "translated": true,
       "link": "https://orf.at/stories/3444097/",
       "category": "Ausland",
@@ -151,14 +217,14 @@
     },
     {
       "id": "https://orf.at/stories/3444064/",
-      "title": "SPÖ-Krisentreffen läuft, Ausgang offen",
-      "titleAr": "اجتماع الأزمات في الحزب الديمقراطي الاجتماعي مستمر، النتائج غير مؤكدة",
+      "title": "SPÖ-Krisentreffen zieht sich über Stunden",
+      "titleAr": "اجتماع أزمات الحزب الاشتراكي الديمقراطي يستمر لساعات",
       "translated": true,
       "link": "https://orf.at/stories/3444064/",
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-04T13:58:25+02:00",
-      "description": "Vor zehn Tagen hat Medienmanager Gerhard Zeiler öffentlich erklärt, dass er SPÖ-Chef werden will. Seitdem gibt es in der Partei wieder eine Führungsdebatte. Der Ausgang ist offen, am Sonntag könnte es bei einem Treffen von Parteichef Andreas Babler mit den SPÖ-Landesparteivorsitzenden nun zumindest eine Vorentscheidung geben. Ob es dazu kommt und wie lange die am Nachmittag begonnene Krisensitzung dauert, ist bislang nicht absehbar."
+      "description": "Vor zehn Tagen hat Medienmanager Gerhard Zeiler öffentlich erklärt, dass er SPÖ-Chef werden will. Seitdem gibt es in der Partei wieder eine Führungsdebatte. Der Ausgang ist offen, am Sonntag könnte es bei einem Treffen von Parteichef Andreas Babler mit den SPÖ-Landesparteivorsitzenden nun zumindest eine Vorentscheidung geben. Ob es dazu kommt und wie lange die am Nachmittag begonnene Krisensitzung dauert, war über Stunden nicht absehbar. Kurz vor 21.00 Uhr wurde dann ein anstehendes Statement angekündigt."
     },
     {
       "id": "https://orf.at/stories/3444066/",
@@ -213,28 +279,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-04T12:08:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444047/",
-      "title": "Regierungspartei siegt klar bei Parlamentswahl in Lettland",
-      "titleAr": "الحزب الحاكم يفوز بوضوح في ليتوانيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444047/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T09:26:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444046/",
-      "title": "Sozialministerium für „Trauerzeit“ nach Fehlgeburten",
-      "titleAr": "وزارة الشؤون الاجتماعية تعلن فترة عزاء بعد الإجهاض",
-      "translated": true,
-      "link": "https://orf.at/stories/3444046/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-04T09:19:12+02:00",
       "description": ""
     }
   ]
