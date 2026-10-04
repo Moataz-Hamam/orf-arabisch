@@ -4,8 +4,162 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-04T06:02:11.820Z",
+  "updatedAt": "2026-10-04T12:31:24.180Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444073/",
+      "title": "Kriegsreparationen: Athen fordert weiter Milliarden von Berlin",
+      "titleAr": "الأثينا تطالب بربح مليارات من برلين",
+      "translated": true,
+      "link": "https://orf.at/stories/3444073/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T14:26:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444071/",
+      "title": "Produktionsziel der Ölförderstaaten OPEC+ bleibt gleich",
+      "titleAr": "أوبك+ يظل على هدف إنتاج ثابت",
+      "translated": true,
+      "link": "https://orf.at/stories/3444071/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-04T14:09:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444070/",
+      "title": "Netanjahu will Flydubai-Piloten einladen",
+      "titleAr": "ننتنجه يخطط لدعوة طيارين فليدوباي",
+      "translated": true,
+      "link": "https://orf.at/stories/3444070/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T14:07:26+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444064/",
+      "title": "SPÖ stellt sich der Führungsfrage",
+      "titleAr": "السبو تواجه سؤال القيادة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444064/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T13:58:25+02:00",
+      "description": "Vor zehn Tagen hat Medienmanager Gerhard Zeiler öffentlich erklärt, dass er SPÖ-Chef werden will. Seitdem gibt es in der Partei wieder eine Führungsdebatte. Der Ausgang ist offen, Sonntagnachmittag oder -abend könnte es zumindest eine Vorentscheidung geben. In Wien trifft Parteichef Andreas Babler mit den SPÖ-Landesparteivorsitzenden zusammen."
+    },
+    {
+      "id": "https://orf.at/stories/3444066/",
+      "title": "800. Todestag von Franz von Assisi: Papst ruft zu Frieden auf",
+      "titleAr": "800. يوم وفاة فرنسيس الأسي: البابا يدعو للسلام",
+      "translated": true,
+      "link": "https://orf.at/stories/3444066/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-10-04T13:24:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444065/",
+      "title": "Wallner für Strafmündigkeit ab zwölf",
+      "titleAr": "والنر يدعو لتقنين المسؤولية الجنائية عند 12",
+      "translated": true,
+      "link": "https://orf.at/stories/3444065/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T13:13:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444061/",
+      "title": "Patientenvertreter beklagen geschwärzte PVA-Unterlagen",
+      "titleAr": "ممثلو المرضى يشتكون من إخفاء وثائق PVA",
+      "translated": true,
+      "link": "https://orf.at/stories/3444061/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T12:33:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444055/",
+      "title": "Russische Angriffe überschatten Merz-Besuch",
+      "titleAr": "الاعتداءات الروسية تعتيم زيارة ميرز",
+      "translated": true,
+      "link": "https://orf.at/stories/3444055/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T12:31:42+02:00",
+      "description": "Während eines Überraschungsbesuchs des deutschen Kanzlers Friedrich Merz (CDU) in Kiew hat Russland erneut die ukrainische Hauptstadt angegriffen. Kurz nach der Ankunft von Merz Sonntagfrüh ertönten die Sirenen. Laut Bürgermeister Witali Klitschko wurde eine Brücke getroffen, die rund vier Kilometer vom Bahnhof im Zentrum entfernt ist. Erst am Vortag hatte Moskau Ausländerinnen und Ausländer sowie Diplomatinnen und Diplomaten davor gewarnt, die ukrainische Hauptstadt zu besuchen."
+    },
+    {
+      "id": "https://orf.at/stories/3444059/",
+      "title": "Iran knüpft Öffnung von Hormus an sieben Bedingungen",
+      "titleAr": "إيران تربط فتح هرموس بشروط سبعة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444059/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T12:08:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444047/",
+      "title": "Regierungspartei siegt klar bei Parlamentswahl in Lettland",
+      "titleAr": "الحزب الحاكم يفوز بوضوح في ليتوانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444047/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T09:26:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444046/",
+      "title": "Sozialministerium für „Trauerzeit“ nach Fehlgeburten",
+      "titleAr": "وزارة الشؤون الاجتماعية تعلن فترة عزاء بعد الإجهاض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444046/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T09:19:12+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444042/",
+      "title": "Humanic stellt sich neu auf",
+      "titleAr": "Humanic تعيد تشكيل نفسها",
+      "translated": true,
+      "link": "https://orf.at/stories/3444042/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-04T08:37:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444041/",
+      "title": "Drohnenalarm in Kiew bei Merz-Besuch",
+      "titleAr": "إنذار بطائرات بدون طيار في كييف أثناء زيارة ميرز",
+      "translated": true,
+      "link": "https://orf.at/stories/3444041/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T08:30:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444040/",
+      "title": "Jemen meldet landesweite Angriffe auf Ziele der Huthis",
+      "titleAr": "اليمن يبلغ عن هجمات واسعة على أهداف الحوثيين",
+      "translated": true,
+      "link": "https://orf.at/stories/3444040/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T08:23:41+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444010/",
       "title": "Mehr Feuer für die Hölle der Ehe",
@@ -15,7 +169,7 @@
       "category": "Kultur",
       "categoryAr": "ثقافة",
       "publishedAt": "2026-10-04T07:59:15+02:00",
-      "description": "Dass die Ehe eine besondere Form der Hölle sein kann, ist nicht erläuterungsbedürftig. An der Staatsoper steckt man jetzt zwei Klassiker der Moderne, „Eine florentinische Tragödie“ und „König Blaubarts Burg“ in ein Designerhaus zur Illustration dieser Misere. Zuerst kommt die Paartherapie, dann American Psycho mit ein bisschen Blut. Wie gut, dass da der Nebenbuhler im Bettkasten entsorgt werden kann."
+      "description": "Dass die Ehe eine besondere Form der Hölle sein kann, ist nicht erläuterungsbedürftig. An der Staatsoper steckt man jetzt zwei Klassiker der Moderne – „Eine florentinische Tragödie“ und „König Blaubarts Burg“ – in ein Designerhaus zur Illustration dieser Misere. Zuerst kommt die Paartherapie, dann „American Psycho“ mit ein bisschen Blut. Wie gut, dass da der Nebenbuhler im Bettkasten entsorgt werden kann."
     },
     {
       "id": "https://orf.at/stories/3442913/",
@@ -92,171 +246,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-03T21:18:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444024/",
-      "title": "Unwetter auf Kreta: Überschwemmungen und Schäden",
-      "titleAr": "عاصفة على كريت تسبب فيضانات وأضرار",
-      "translated": true,
-      "link": "https://orf.at/stories/3444024/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-03T21:12:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444023/",
-      "title": "US-Küstenwache sucht nach verschwundenem Flugzeug",
-      "titleAr": "الشرطة البحرية الأمريكية تبحث عن طائرة مفقودة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444023/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-03T20:58:05+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444016/",
-      "title": "Gefängnisleiter legt Amt nieder",
-      "titleAr": "رئيس السجن يستقيل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444016/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T20:03:50+02:00",
-      "description": "Nach der gescheiterten Hinrichtung der US-Bürgerin Christa Pike tritt der Leiter der zuständigen Strafvollzugsbehörde zurück. Frank Strada werde das Amt noch in diesem Monat niederlegen, gab der Gouverneur des US-Bundesstaats Tennessee, Bill Lee, am Samstag bekannt. Strada erklärte, sein Rückzug sei „im besten Interesse der Bevölkerung von Tennessee“."
-    },
-    {
-      "id": "https://orf.at/stories/3444017/",
-      "title": "Exit-Polls: Lettlands Regierungspartei vor Wahlsieg",
-      "titleAr": "استفتاءات خروج: حزب الحكومة الليتواني يقترب من الفوز",
-      "translated": true,
-      "link": "https://orf.at/stories/3444017/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T19:40:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444015/",
-      "title": "Gescheiterter Hinrichtung in Tennessee: Gefängnischef tritt ab",
-      "titleAr": "محاولة إعدام فاشلة في تينيسي، رئيس السجن يستقيل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444015/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T18:28:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444004/",
-      "title": "Zehntausende forderten mehr Wohnraum",
-      "titleAr": "عشرات الآلاف يطالبون بمزيد من السكن",
-      "translated": true,
-      "link": "https://orf.at/stories/3444004/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T18:07:17+02:00",
-      "description": "Nachdem das spanische Parlament ein Maßnahmenpaket gegen die Wohnungsnot abgelehnt hatte, sind am Samstag erneut Zehntausende Menschen auf die Straßen zahlreicher Städte gegangen. Sie verlangten mehr bezahlbaren Wohnraum und besseren Mieterschutz. Der Mieterverband forderte zudem einen „Generalstreik“. Die Regierung des sozialistischen Ministerpräsidenten Pedro Sanchez gerät damit weiter unter Druck. Spanischen Medien zufolge schließt Sanchez Neuwahlen nicht mehr ganz aus."
-    },
-    {
-      "id": "https://orf.at/stories/3444008/",
-      "title": "Moskau warnt Ausländer vor Angriffen auf Kiew",
-      "titleAr": "موسكو تحذر الأجانب من هجمات على كييف",
-      "translated": true,
-      "link": "https://orf.at/stories/3444008/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T17:12:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444005/",
-      "title": "Nordkorea feuerte KI-gesteuerte Rakete ab",
-      "titleAr": "كوريا الشمالية تطلق صاروخًا بالذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444005/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T16:31:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443998/",
-      "title": "Fronten in SPÖ bleiben ungeklärt",
-      "titleAr": "خطوط الحزب الاشتراكي الاجتماعي غير واضحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443998/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-03T15:17:27+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443994/",
-      "title": "Steinmeier sieht Demokratie in Gefahr",
-      "titleAr": "شتينماير يرى الديمقراطية في خطر",
-      "translated": true,
-      "link": "https://orf.at/stories/3443994/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T14:39:44+02:00",
-      "description": "36 Jahre nach der deutschen Vereinigung sieht Bundespräsident Frank-Walter Steinmeier die freiheitlich-demokratische Grundordnung in Deutschland ernsthaft gefährdet. „Die unerträgliche politische Demagogie extremistischer Kräfte, die eine Lust an der Zerstörung ausleben und andere Menschen verhöhnen und bedrohen, das gefährdet nicht nur Freiheit und Demokratie – das gefährdet unsere innere Einheit“, sagte Steinmeier am Samstag in seiner Ansprache beim zentralen Festakt zum Tag der Deutschen Einheit in Bremen."
-    },
-    {
-      "id": "https://orf.at/stories/3443996/",
-      "title": "Trump lobt Freigabe europäischer Ölreserven",
-      "titleAr": "ترامب يثني على تحرير احتياطيات النفط الأوروبية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443996/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T14:13:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443993/",
-      "title": "Unibudget: Holzleitner verweist auf laufende Verhandlungen",
-      "titleAr": "الميزانية الجامعية: هولزليتن يذكر بالصفقات الجارية",
-      "translated": true,
-      "link": "https://orf.at/stories/3443993/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-03T13:20:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443988/",
-      "title": "Grippeimpfung: Bericht über umfangreiche Lieferprobleme",
-      "titleAr": "لقاح الإنفلونزا: تقرير عن مشاكل توريد واسعة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443988/",
-      "category": "Gesundheit",
-      "categoryAr": "Gesundheit",
-      "publishedAt": "2026-10-03T12:53:04+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443987/",
-      "title": "Steinmeier: „Extremismus kein ostdeutsches Phänomen“",
-      "titleAr": "ستينماير: 'الإرهاب ليس ظاهرة شرق ألمانية'",
-      "translated": true,
-      "link": "https://orf.at/stories/3443987/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T12:45:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443985/",
-      "title": "Iranische Währung auf neuem historischen Tiefststand",
-      "titleAr": "العملة الإيرانية على أدنى مستوى تاريخي جديد",
-      "translated": true,
-      "link": "https://orf.at/stories/3443985/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-03T12:25:03+02:00",
       "description": ""
     }
   ]
