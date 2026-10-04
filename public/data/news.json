@@ -4,8 +4,118 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-04T12:31:24.180Z",
+  "updatedAt": "2026-10-04T18:40:41.504Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444097/",
+      "title": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
+      "titleAr": "الميلاديون يسيطرون على انتخابات البوسنة والهرسك",
+      "translated": true,
+      "link": "https://orf.at/stories/3444097/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T20:22:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444096/",
+      "title": "SPÖ-Bundesgeschäftsführer Klaus Seltenheim zu Gast",
+      "titleAr": "كلاوس سيلتنهايم يزور",
+      "translated": true,
+      "link": "https://orf.at/stories/3444096/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-04T20:06:31+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444095/",
+      "title": "Dreifachjackpot bei Lotto „6 aus 45“",
+      "titleAr": "ثلاثة جوائز ضخمة في لوتو 6 من 45",
+      "translated": true,
+      "link": "https://orf.at/stories/3444095/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-04T19:37:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444072/",
+      "title": "Sonne verabschiedet sich zur Wochenmitte",
+      "titleAr": "الشمس تتراجع في منتصف الأسبوع",
+      "translated": true,
+      "link": "https://orf.at/stories/3444072/",
+      "category": "Wetter",
+      "categoryAr": "طقس",
+      "publishedAt": "2026-10-04T19:16:49+02:00",
+      "description": "Mit den vergleichsweise hohen Herbsttemperaturen dürfte es bald vorbei sein. Zwar startet die Woche mit mildem Wetter mit bis zu 25 Grad, ab Donnerstag zeichnet sich aber eine Wetterumstellung ab. Dann sorgt laut GeoSphere Austria ein Tiefdruckgebiet für Regen und eine spürbare Abkühlung. Am Freitag sind laut ORF-Wetterredaktion nicht mehr als sieben bis 15 Grad zu erwarten."
+    },
+    {
+      "id": "https://orf.at/stories/3444081/",
+      "title": "Geheimdienstchef wird Trumps „KI-Zar“",
+      "titleAr": "رئيس الاستخبارات يُطلق عليه ترامب 'الزعيم الذكي'",
+      "translated": true,
+      "link": "https://orf.at/stories/3444081/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T17:32:27+02:00",
+      "description": "US-Präsident Donald Trump hat den nationalen Geheimdienstkoordinator Jay Clayton zum Sonderbeauftragten für künstliche Intelligenz (KI) ernannt. Clayton solle in seiner vielfach auch als „KI-Zar“ bezeichneten neuen Rolle die neu geschaffene Super Intelligence Force (SIF) leiten. Das Gremium soll die Anstrengungen der US-Regierung bei KI koordinieren, wie Trump am Sonntag auf seiner Onlineplattform Truth Social schrieb."
+    },
+    {
+      "id": "https://orf.at/stories/3444087/",
+      "title": "Technische Probleme bei Wahl in Bosnien-Herzegowina",
+      "titleAr": "مشاكل تقنية في انتخابات البوسنة والهرسك",
+      "translated": true,
+      "link": "https://orf.at/stories/3444087/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T17:32:06+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444082/",
+      "title": "Saudi-Arabien: Huthis melden neue Angriffe auf Ölanlagen",
+      "titleAr": "السعودية: الحوثيون يعلنون هجومًا جديدًا على منشآت النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3444082/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T16:20:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444080/",
+      "title": "Selenskyj: USA planen neue Gespräche mit Kiew und Moskau",
+      "titleAr": "السلكنيج: الولايات المتحدة تخطط لمحادثات جديدة مع كييف وموسكو",
+      "translated": true,
+      "link": "https://orf.at/stories/3444080/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-04T15:59:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444079/",
+      "title": "Mindestens drei Tote bei schweren Unwettern in Spanien",
+      "titleAr": "ثلاثة قتلى على الأقل في عواصف شديدة في إسبانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444079/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-04T15:42:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444075/",
+      "title": "Münchner Oktoberfest: Besucherrekord und schwere Unfälle",
+      "titleAr": "أكتوبرفست في ميونخ: رقم قياسي للزوار وحوادث خطيرة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444075/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-04T15:01:52+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444073/",
       "title": "Kriegsreparationen: Athen fordert weiter Milliarden von Berlin",
@@ -41,14 +151,14 @@
     },
     {
       "id": "https://orf.at/stories/3444064/",
-      "title": "SPÖ stellt sich der Führungsfrage",
-      "titleAr": "السبو تواجه سؤال القيادة",
+      "title": "SPÖ-Krisentreffen läuft, Ausgang offen",
+      "titleAr": "اجتماع الأزمات في الحزب الديمقراطي الاجتماعي مستمر، النتائج غير مؤكدة",
       "translated": true,
       "link": "https://orf.at/stories/3444064/",
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-04T13:58:25+02:00",
-      "description": "Vor zehn Tagen hat Medienmanager Gerhard Zeiler öffentlich erklärt, dass er SPÖ-Chef werden will. Seitdem gibt es in der Partei wieder eine Führungsdebatte. Der Ausgang ist offen, Sonntagnachmittag oder -abend könnte es zumindest eine Vorentscheidung geben. In Wien trifft Parteichef Andreas Babler mit den SPÖ-Landesparteivorsitzenden zusammen."
+      "description": "Vor zehn Tagen hat Medienmanager Gerhard Zeiler öffentlich erklärt, dass er SPÖ-Chef werden will. Seitdem gibt es in der Partei wieder eine Führungsdebatte. Der Ausgang ist offen, am Sonntag könnte es bei einem Treffen von Parteichef Andreas Babler mit den SPÖ-Landesparteivorsitzenden nun zumindest eine Vorentscheidung geben. Ob es dazu kommt und wie lange die am Nachmittag begonnene Krisensitzung dauert, ist bislang nicht absehbar."
     },
     {
       "id": "https://orf.at/stories/3444066/",
@@ -125,127 +235,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-04T09:19:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444042/",
-      "title": "Humanic stellt sich neu auf",
-      "titleAr": "Humanic تعيد تشكيل نفسها",
-      "translated": true,
-      "link": "https://orf.at/stories/3444042/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-04T08:37:51+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444041/",
-      "title": "Drohnenalarm in Kiew bei Merz-Besuch",
-      "titleAr": "إنذار بطائرات بدون طيار في كييف أثناء زيارة ميرز",
-      "translated": true,
-      "link": "https://orf.at/stories/3444041/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T08:30:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444040/",
-      "title": "Jemen meldet landesweite Angriffe auf Ziele der Huthis",
-      "titleAr": "اليمن يبلغ عن هجمات واسعة على أهداف الحوثيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444040/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T08:23:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444010/",
-      "title": "Mehr Feuer für die Hölle der Ehe",
-      "titleAr": "أكثر نار في جحيم الزواج",
-      "translated": true,
-      "link": "https://orf.at/stories/3444010/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-04T07:59:15+02:00",
-      "description": "Dass die Ehe eine besondere Form der Hölle sein kann, ist nicht erläuterungsbedürftig. An der Staatsoper steckt man jetzt zwei Klassiker der Moderne – „Eine florentinische Tragödie“ und „König Blaubarts Burg“ – in ein Designerhaus zur Illustration dieser Misere. Zuerst kommt die Paartherapie, dann „American Psycho“ mit ein bisschen Blut. Wie gut, dass da der Nebenbuhler im Bettkasten entsorgt werden kann."
-    },
-    {
-      "id": "https://orf.at/stories/3442913/",
-      "title": "Kopf-an-Kopf-Rennen um Präsidentenamt",
-      "titleAr": "سباق متكافئ للترشح لرئاسة البلاد",
-      "translated": true,
-      "link": "https://orf.at/stories/3442913/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T07:48:58+02:00",
-      "description": "Wenn am Sonntag die fast 160 Millionen Brasilianer und Brasilianerinnen zur Wahlurne schreiten, um einen neuen Präsidenten zu wählen, werden auf dem Stimmzettel zwei altbekannte Namen stehen: Luiz Inacio Lula da Silva, Amtsinhaber und Galionsfigur der Linken, und Bolsonaro, diesmal Flavio, ein Sohn des rechtspopulistischen Ex-Präsidenten Jair Bolsonaro. Einmal mehr scheint es auf eine stark polarisierte Abstimmung zwischen links und rechts hinauszulaufen – mit Symbolkraft weit über die Grenzen des Landes hinweg."
-    },
-    {
-      "id": "https://orf.at/stories/3444032/",
-      "title": "Tigray-Konflikt: Äthiopiens Armee rückt in Mekele ein",
-      "titleAr": "صراع تغراي: الجيش الإثيوبي يدخل مكيلة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444032/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T23:49:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444031/",
-      "title": "Israel: Ziel bei Angriff in Gaza war Hamas-Vertreter",
-      "titleAr": "إسرائيل: هدف الهجوم في غزة كان ممثل حماس",
-      "translated": true,
-      "link": "https://orf.at/stories/3444031/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T23:46:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443896/",
-      "title": "Euro leidet unter Frankreichs Schwäche",
-      "titleAr": "الـيورو يتأثر وضعف فرنسا",
-      "translated": true,
-      "link": "https://orf.at/stories/3443896/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-03T23:21:39+02:00",
-      "description": "Weltweit steigen derzeit die Renditen für Staatsanleihen, sprich: Regierungen müssen für den Schuldendienst mehr zahlen. Im Zentrum steht dabei Frankreich. Institutionelle Anleger bezweifeln zunehmend, dass Paris sein Budget und den Schuldenberg in den Griff bekommt – auch angesichts der aktuellen Proteste und der Wahlen im nächsten Jahr. Hedgefonds erhöhen ihre Wetten. All das hat Folgen für den Euro."
-    },
-    {
-      "id": "https://orf.at/stories/3444028/",
-      "title": "Huthi-Rebellen: Haben Aramco-Anlage in Riad angegriffen",
-      "titleAr": "الحوثيون يهاجمون منشأة أرامكو بالرياض",
-      "translated": true,
-      "link": "https://orf.at/stories/3444028/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T21:37:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444027/",
-      "title": "Zurich Film Festival: Publikumspreis für „Mila/Marija“",
-      "titleAr": "مهرجان زوريخ السينمائي يقدّم جائزة الجمهور لـ 'ميلا/ماريا'",
-      "translated": true,
-      "link": "https://orf.at/stories/3444027/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-03T21:32:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444026/",
-      "title": "Selenskyj: Verstärkte Angriffe auf russische Ölraffinerien",
-      "titleAr": "السلكينيف يعلن هجمات مكثفة على مصافي النفط الروسية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444026/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-03T21:18:02+02:00",
       "description": ""
     }
   ]

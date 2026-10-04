@@ -3664,8 +3664,8 @@
     "titleAr": "ننتنجه يخطط لدعوة طيارين فليدوباي"
   },
   "https://orf.at/stories/3444064/": {
-    "sourceTitle": "SPÖ stellt sich der Führungsfrage",
-    "titleAr": "السبو تواجه سؤال القيادة"
+    "sourceTitle": "SPÖ-Krisentreffen läuft, Ausgang offen",
+    "titleAr": "اجتماع الأزمات في الحزب الديمقراطي الاجتماعي مستمر، النتائج غير مؤكدة"
   },
   "https://orf.at/stories/3444066/": {
     "sourceTitle": "800. Todestag von Franz von Assisi: Papst ruft zu Frieden auf",
@@ -3706,5 +3706,45 @@
   "https://orf.at/stories/3444040/": {
     "sourceTitle": "Jemen meldet landesweite Angriffe auf Ziele der Huthis",
     "titleAr": "اليمن يبلغ عن هجمات واسعة على أهداف الحوثيين"
+  },
+  "https://orf.at/stories/3444097/": {
+    "sourceTitle": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
+    "titleAr": "الميلاديون يسيطرون على انتخابات البوسنة والهرسك"
+  },
+  "https://orf.at/stories/3444096/": {
+    "sourceTitle": "SPÖ-Bundesgeschäftsführer Klaus Seltenheim zu Gast",
+    "titleAr": "كلاوس سيلتنهايم يزور"
+  },
+  "https://orf.at/stories/3444095/": {
+    "sourceTitle": "Dreifachjackpot bei Lotto „6 aus 45“",
+    "titleAr": "ثلاثة جوائز ضخمة في لوتو 6 من 45"
+  },
+  "https://orf.at/stories/3444072/": {
+    "sourceTitle": "Sonne verabschiedet sich zur Wochenmitte",
+    "titleAr": "الشمس تتراجع في منتصف الأسبوع"
+  },
+  "https://orf.at/stories/3444081/": {
+    "sourceTitle": "Geheimdienstchef wird Trumps „KI-Zar“",
+    "titleAr": "رئيس الاستخبارات يُطلق عليه ترامب 'الزعيم الذكي'"
+  },
+  "https://orf.at/stories/3444087/": {
+    "sourceTitle": "Technische Probleme bei Wahl in Bosnien-Herzegowina",
+    "titleAr": "مشاكل تقنية في انتخابات البوسنة والهرسك"
+  },
+  "https://orf.at/stories/3444082/": {
+    "sourceTitle": "Saudi-Arabien: Huthis melden neue Angriffe auf Ölanlagen",
+    "titleAr": "السعودية: الحوثيون يعلنون هجومًا جديدًا على منشآت النفط"
+  },
+  "https://orf.at/stories/3444080/": {
+    "sourceTitle": "Selenskyj: USA planen neue Gespräche mit Kiew und Moskau",
+    "titleAr": "السلكنيج: الولايات المتحدة تخطط لمحادثات جديدة مع كييف وموسكو"
+  },
+  "https://orf.at/stories/3444079/": {
+    "sourceTitle": "Mindestens drei Tote bei schweren Unwettern in Spanien",
+    "titleAr": "ثلاثة قتلى على الأقل في عواصف شديدة في إسبانيا"
+  },
+  "https://orf.at/stories/3444075/": {
+    "sourceTitle": "Münchner Oktoberfest: Besucherrekord und schwere Unfälle",
+    "titleAr": "أكتوبرفست في ميونخ: رقم قياسي للزوار وحوادث خطيرة"
   }
 }
