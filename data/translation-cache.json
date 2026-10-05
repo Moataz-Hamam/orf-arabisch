@@ -3792,8 +3792,8 @@
     "titleAr": "روسيا تنفي وفاة مختصة مختبر محتملة"
   },
   "https://orf.at/stories/3444178/": {
-    "sourceTitle": "Ukraine meldet Tote bei russischem Luftangriff auf Charkiw",
-    "titleAr": "أوكرانيا تُبلغ بوفاة ضحايا في هجوم روسي على خاركيف"
+    "sourceTitle": "Behörden: Tote bei russischem Luftangriff auf Charkiw",
+    "titleAr": "السلطات: قتلى في هجوم جو روسي على خاركيف"
   },
   "https://orf.at/stories/3444158/": {
     "sourceTitle": "Gewerkschaft gegen „Krisenabschlüsse“",
@@ -3870,5 +3870,89 @@
   "https://orf.at/stories/3444128/": {
     "sourceTitle": "Melderegister in Dänemark gehackt",
     "titleAr": "اختراق سجلات الإقامة في الدنمارك"
+  },
+  "https://orf.at/stories/3444209/": {
+    "sourceTitle": "Pakistan und Türkei stationieren Soldaten",
+    "titleAr": "باكستان وتركيا يرسلان جنوداً"
+  },
+  "https://orf.at/stories/3444214/": {
+    "sourceTitle": "Abzug von US-Langstreckenbombern: Trump widerspricht Rubio",
+    "titleAr": "انسحاب الطائرات المدمرة الأمريكية: ترامب يرفض ريبو"
+  },
+  "https://orf.at/stories/3444213/": {
+    "sourceTitle": "Peseschkian: Verhandlungen mit USA „sinnlos“",
+    "titleAr": "بيسيسكيان: مفاوضات مع الولايات المتحدة بلا معنى"
+  },
+  "https://orf.at/stories/3444211/": {
+    "sourceTitle": "Schülerproteste in Belgien: Dutzende Festnahmen",
+    "titleAr": "احتجاجات طلابية في بلجيكا: عشرات الاعتقالات"
+  },
+  "https://orf.at/stories/3444177/": {
+    "sourceTitle": "Ölbranche warnt vor zäher Erholung",
+    "titleAr": "صناعة النفط تحذر من التعافي البطيء"
+  },
+  "https://orf.at/stories/3444208/": {
+    "sourceTitle": "Türkei und Pakistan stationieren Soldaten in Saudi-Arabien",
+    "titleAr": "تركيا وباكستان يرسلان جنوداً في السعودية"
+  },
+  "https://orf.at/stories/3444179/": {
+    "sourceTitle": "Neuwahl-„Finte“ könnte Sanchez helfen",
+    "titleAr": "الاحتيال الانتخابي الجديد قد يساعد سانشيز"
+  },
+  "https://orf.at/stories/3444207/": {
+    "sourceTitle": "Regierungssuche in Rumänien: Neuer Anlauf mit Luca Niculescu",
+    "titleAr": "البحث عن حكومة في رومانيا: بداية جديدة مع لوكا نيكولسكو"
+  },
+  "https://orf.at/stories/3444206/": {
+    "sourceTitle": "Norwegen plant Smart-Glasses-Verbot an bestimmten Orten",
+    "titleAr": "النرويج تخطط لحظر النظارات الذكية في أماكن محددة"
+  },
+  "https://orf.at/stories/3444203/": {
+    "sourceTitle": "Ukrainische Bahn: 5.831 Züge im September evakuiert",
+    "titleAr": "السكك الحديدية الأوكرانية: 5,831 قطاراً تم إخلاؤها في سبتمبر"
+  },
+  "https://orf.at/stories/3444202/": {
+    "sourceTitle": "Polen: EU-Kommission gegen geplante Staatshilfe für MAN",
+    "titleAr": "بولندا: المفوضية الأوروبية تعارض المساعدة الحكومية المخطط لها لشركة مان"
+  },
+  "https://orf.at/stories/3444201/": {
+    "sourceTitle": "Über 30 Tote bei Flugzeugabsturz in Nigeria",
+    "titleAr": "أكثر من 30 قتيل في تحطم طائرة في نيجيريا"
+  },
+  "https://orf.at/stories/3444200/": {
+    "sourceTitle": "Politikberater Hofer zu Gast",
+    "titleAr": "المستشار السياسي هوفر في ضيافة"
+  },
+  "https://orf.at/stories/3444196/": {
+    "sourceTitle": "Abgeordnete zunehmend Opfer sexualisierter KI-Gewalt",
+    "titleAr": "المندوبون يتعرضون أكثر للعنف الجنسي المدعم بالذكاء الاصطناعي"
+  },
+  "https://orf.at/stories/3444162/": {
+    "sourceTitle": "Koalitionspartner mit mahnenden Worten",
+    "titleAr": "شريك التحالف يوجه تحذيرات"
+  },
+  "https://orf.at/stories/3444198/": {
+    "sourceTitle": "Deutscher Buchpreis geht an Shida Bazyar und „Die Lücken“",
+    "titleAr": "جائزة الكتاب الألمانية تُمنح لشيدا بازيار و\"الفراغات\""
+  },
+  "https://orf.at/stories/3444192/": {
+    "sourceTitle": "Nanotyrannus-Skelett wird in New York versteigert",
+    "titleAr": "قالب نانوتيرانوس يُباع في مزاد نيويورك"
+  },
+  "https://orf.at/stories/3444191/": {
+    "sourceTitle": "Behörde: Laborantin in Sibirien starb nicht an Pest",
+    "titleAr": "الجهة: عالمة مختبر في سيبيريا لم تموت بمرض الحمى"
+  },
+  "https://orf.at/stories/3444190/": {
+    "sourceTitle": "Netanjahu mit Drohung bei Gedenken an 7. Oktober",
+    "titleAr": "نيتانياوي يهدد خلال تذكير بالـ7 أكتوبر"
+  },
+  "https://orf.at/stories/3444189/": {
+    "sourceTitle": "Rubio: Abzug von US-Bombern keine Reaktion auf Terrordrohung",
+    "titleAr": "روبيو: سحب القاذفات الأمريكية لا يُعَد ردًا على تهديدات إرهابية"
+  },
+  "https://orf.at/stories/3444139/": {
+    "sourceTitle": "BND-Chef warnt drastisch vor Russland",
+    "titleAr": "رئيس BND يحذر من روسيا بشدة"
   }
 }
