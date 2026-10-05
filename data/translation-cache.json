@@ -3748,8 +3748,8 @@
     "titleAr": "أكتوبرفست في ميونخ: رقم قياسي للزوار وحوادث خطيرة"
   },
   "https://orf.at/stories/3444107/": {
-    "sourceTitle": "Brasilien-Wahl: Bolsonaro nach ersten Auszählungen voran",
-    "titleAr": "الانتخابات البرازيلية: بوسنارو يتصدر بعد العد الأولي"
+    "sourceTitle": "Brasilien: Stichwahl am 25. Oktober",
+    "titleAr": "البرازيل: الاختيار الثاني في 25 أكتوبر"
   },
   "https://orf.at/stories/3444106/": {
     "sourceTitle": "Ministerium: Langstreckenbomber aus GB zurück in USA",
@@ -3770,5 +3770,21 @@
   "https://orf.at/stories/3444098/": {
     "sourceTitle": "Sozialministerium für „Trauerzeit“ nach Fehlgeburt",
     "titleAr": "وزارة الشؤون الاجتماعية تعلن فترة عزف بعد فقدان الحمل"
+  },
+  "https://orf.at/stories/3444113/": {
+    "sourceTitle": "Zeitung: GB erwägt Zölle auf chinesische E-Autos",
+    "titleAr": "بريطانيا تفكر في فرض رسوم على السيارات الكهربائية الصينية"
+  },
+  "https://orf.at/stories/3444112/": {
+    "sourceTitle": "US-Militär greift erneut Schnellboot in Karibik an: Vier Tote",
+    "titleAr": "الجيش الأمريكي يهاجم قاربًا سريعًا في الكاريبي: أربع قتلى"
+  },
+  "https://orf.at/stories/3444110/": {
+    "sourceTitle": "Flydubai-Terrorverdacht: Laut Augenzeuge Cockpit zeitweise leer",
+    "titleAr": "شبهة إرهابية في فلي دبي: المقصورة خالية مؤقتًا حسب الشاهد"
+  },
+  "https://orf.at/stories/3443812/": {
+    "sourceTitle": "Bolsonaro vor Lula, Stichwahl entscheidet",
+    "titleAr": "بولسونارو يتصدر أمام لولا، يحدد الاختيار الثاني"
   }
 }

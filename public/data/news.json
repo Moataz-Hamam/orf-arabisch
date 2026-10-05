@@ -4,12 +4,56 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-04T23:59:24.347Z",
+  "updatedAt": "2026-10-05T05:52:25.396Z",
   "items": [
     {
+      "id": "https://orf.at/stories/3444113/",
+      "title": "Zeitung: GB erwägt Zölle auf chinesische E-Autos",
+      "titleAr": "بريطانيا تفكر في فرض رسوم على السيارات الكهربائية الصينية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444113/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-05T07:44:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444112/",
+      "title": "US-Militär greift erneut Schnellboot in Karibik an: Vier Tote",
+      "titleAr": "الجيش الأمريكي يهاجم قاربًا سريعًا في الكاريبي: أربع قتلى",
+      "translated": true,
+      "link": "https://orf.at/stories/3444112/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-05T07:35:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444110/",
+      "title": "Flydubai-Terrorverdacht: Laut Augenzeuge Cockpit zeitweise leer",
+      "titleAr": "شبهة إرهابية في فلي دبي: المقصورة خالية مؤقتًا حسب الشاهد",
+      "translated": true,
+      "link": "https://orf.at/stories/3444110/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-05T07:16:26+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3443812/",
+      "title": "Bolsonaro vor Lula, Stichwahl entscheidet",
+      "titleAr": "بولسونارو يتصدر أمام لولا، يحدد الاختيار الثاني",
+      "translated": true,
+      "link": "https://orf.at/stories/3443812/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-05T06:48:30+02:00",
+      "description": "Bei der Präsidentschaftswahl in Brasilien am Sonntag hat der rechtspopulistische Senator Flavio Bolsonaro nach vorläufiger Auszählung fast aller Stimmen rund 47 Prozent erreicht, der linke Amtsinhaber Luiz Inacio Lula da Silva ist auf etwa 45 Prozent gekommen. Damit treten der Sohn des früheren Präsidenten Jair Bolsonaro und Lula in einer Stichwahl am 25. Oktober gegeneinander an."
+    },
+    {
       "id": "https://orf.at/stories/3444107/",
-      "title": "Brasilien-Wahl: Bolsonaro nach ersten Auszählungen voran",
-      "titleAr": "الانتخابات البرازيلية: بوسنارو يتصدر بعد العد الأولي",
+      "title": "Brasilien: Stichwahl am 25. Oktober",
+      "titleAr": "البرازيل: الاختيار الثاني في 25 أكتوبر",
       "translated": true,
       "link": "https://orf.at/stories/3444107/",
       "category": "Ausland",
@@ -48,7 +92,7 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-04T21:40:02+02:00",
-      "description": "SPÖ-Chef Andreas Babler zieht sich teilweise zurück. Bis zumindest Jahresende will er Vizekanzler bleiben, ehe er an Finanzminister Markus Marterbauer (SPÖ), der sich derzeit noch der Heilung seiner Krebserkrankung widmet, übergibt. Auf dessen Wunsch würde Babler auch Minister bleiben. Als SPÖ-Chef holt sich Babler Klubobmann Philip Kucher und Frauenvorsitzende Eva-Maria Holzleitner an seine Seite."
+      "description": "SPÖ-Chef Andreas Babler zieht sich teilweise zurück. Zumindest bis Jahresende will er Vizekanzler bleiben, ehe er an Finanzminister Markus Marterbauer (SPÖ), der sich derzeit noch der Heilung seiner Krebserkrankung widmet, übergibt. Auf dessen Wunsch würde Babler auch Minister bleiben. Als SPÖ-Chef holt Babler Klubobmann Philip Kucher und Frauenvorsitzende Eva-Maria Holzleitner an seine Seite."
     },
     {
       "id": "https://orf.at/stories/3444102/",
@@ -257,28 +301,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-04T12:33:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444055/",
-      "title": "Russische Angriffe überschatten Merz-Besuch",
-      "titleAr": "الاعتداءات الروسية تعتيم زيارة ميرز",
-      "translated": true,
-      "link": "https://orf.at/stories/3444055/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T12:31:42+02:00",
-      "description": "Während eines Überraschungsbesuchs des deutschen Kanzlers Friedrich Merz (CDU) in Kiew hat Russland erneut die ukrainische Hauptstadt angegriffen. Kurz nach der Ankunft von Merz Sonntagfrüh ertönten die Sirenen. Laut Bürgermeister Witali Klitschko wurde eine Brücke getroffen, die rund vier Kilometer vom Bahnhof im Zentrum entfernt ist. Erst am Vortag hatte Moskau Ausländerinnen und Ausländer sowie Diplomatinnen und Diplomaten davor gewarnt, die ukrainische Hauptstadt zu besuchen."
-    },
-    {
-      "id": "https://orf.at/stories/3444059/",
-      "title": "Iran knüpft Öffnung von Hormus an sieben Bedingungen",
-      "titleAr": "إيران تربط فتح هرموس بشروط سبعة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444059/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-04T12:08:37+02:00",
       "description": ""
     }
   ]
