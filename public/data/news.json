@@ -4,8 +4,96 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-05T22:04:00.925Z",
+  "updatedAt": "2026-10-06T06:31:07.596Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444229/",
+      "title": "Wienerberger kappt Prognose erneut",
+      "titleAr": "تراجع توقعات فينبرغر مجدداً",
+      "translated": true,
+      "link": "https://orf.at/stories/3444229/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-06T08:26:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444228/",
+      "title": "Midterms: Trump will Wahlspots doch selbst bezahlen",
+      "titleAr": "الانتخابات النصفية: ترامب سيغطي مواقع التصويت بنفسه",
+      "translated": true,
+      "link": "https://orf.at/stories/3444228/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-06T08:17:54+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444222/",
+      "title": "Brasilien-Wahl: Ex-Konkurrenten unterstützen Bolsonaro",
+      "titleAr": "الانتخابات البرازيلية: المنافسون السابقون يدعمون بولسونارو",
+      "translated": true,
+      "link": "https://orf.at/stories/3444222/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-06T07:27:19+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444221/",
+      "title": "Vergewaltigungsvorwürfe: Druck auf Cornell University steigt",
+      "titleAr": "اتهامات بالاغتصاب: الضغط على جامعة كورنيل يزداد",
+      "translated": true,
+      "link": "https://orf.at/stories/3444221/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-06T06:56:57+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444220/",
+      "title": "Bericht: Flydubai-Kopilot wollte Flughafen Tel Aviv treffen",
+      "titleAr": "تقرير: مساعد طيار فلي دبي أراد الوصول إلى مطار تل أبيب",
+      "translated": true,
+      "link": "https://orf.at/stories/3444220/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-06T06:41:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444219/",
+      "title": "Russland: Ukraine griff Moskau mit 650 Drohnen an",
+      "titleAr": "روسيا: أوكرانيا تهاجم موسكو بـ650 طائرة بدون طيار",
+      "translated": true,
+      "link": "https://orf.at/stories/3444219/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-06T06:34:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444134/",
+      "title": "Frankreichs Schüler machen erneut mobil",
+      "titleAr": "الطلاب الفرنسيون يطلقون حملة تجدد",
+      "translated": true,
+      "link": "https://orf.at/stories/3444134/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-06T06:06:09+02:00",
+      "description": "Die Schülerproteste in Frankreich dauern auch diese Woche an. Schülervertretungen haben für Dienstag erneut zu landesweiten Demonstrationen aufgerufen. Bei den Protesten vergangene Woche kam es vermehrt zu Gewalt und Ausschreitungen, vielerorts fiel der Unterricht aus. Bisher gab es rund 5.000 Festnahmen. Die Protestierenden fordern bessere Bedingungen und mehr Geld für Bildung. Die Proteste werden zunehmend Wahlkampfthema."
+    },
+    {
+      "id": "https://orf.at/stories/3444217/",
+      "title": "Bestsellerautor Jeffrey Archer gestorben",
+      "titleAr": "كاتب البُسْتُجَرْسِير جيفري أرتشر يوفِّق",
+      "translated": true,
+      "link": "https://orf.at/stories/3444217/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-06T00:51:09+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444209/",
       "title": "Pakistan und Türkei stationieren Soldaten",
@@ -236,61 +324,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-10-05T16:59:01+02:00",
       "description": "Der Präsident des deutschen Bundesnachrichtendiensts (BND), Martin Jäger, sieht die Gefahr einer gewaltsamen Konfrontation Deutschlands mit Russland. Russland führe einen „Schattenkrieg“, warnte Jäger am Montag in einer öffentlichen Anhörung vor dem Parlamentarischen Kontrollgremium des deutschen Bundestags. „Die Konfrontation, in der wir mit Russland stehen, hat eine neue, gefährlichere Qualität: Deutschland ist in Gefahr, in einen gewaltsamen Konflikt mit Russland zu geraten“, so Jäger. Russland dränge Deutschland den Konflikt auf."
-    },
-    {
-      "id": "https://orf.at/stories/3444180/",
-      "title": "Russland dementiert möglichen Pesttod von Laborantin",
-      "titleAr": "روسيا تنفي وفاة مختصة مختبر محتملة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444180/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-05T16:18:06+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444178/",
-      "title": "Behörden: Tote bei russischem Luftangriff auf Charkiw",
-      "titleAr": "السلطات: قتلى في هجوم جو روسي على خاركيف",
-      "translated": true,
-      "link": "https://orf.at/stories/3444178/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-05T16:07:51+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444158/",
-      "title": "Gewerkschaft gegen „Krisenabschlüsse“",
-      "titleAr": "النقابة تعارض الصفقات الأزمة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444158/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-05T15:42:16+02:00",
-      "description": "Für die nächste Woche startenden KV-Verhandlungen in den Branchen Eisenbahn, Handel-Lagerwesen, Bus, Lkw und Bewachung fordert die Gewerkschaft vida die Abgeltung der rollierenden Inflation plus Reallohnzuwächse. „Wer etwas leistet, muss anständig bezahlt werden“, so vida-Chef Roman Hebenstreit am Montag. Einem weiteren Jahr mit „Krisenabschlüssen“ erteilte der Spitzengewerkschafter eine Absage."
-    },
-    {
-      "id": "https://orf.at/stories/3444166/",
-      "title": "Aramco-Chef: Wiederauffüllen der Ölvorräte dauert zwei Jahre",
-      "titleAr": "رئيس أرامكو: إعادة شحن مخزونات النفط تستغرق سنتين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444166/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-05T14:35:08+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444146/",
-      "title": "SPÖ-Personalia „noch Monate“ Thema",
-      "titleAr": "شخصيات الحزب الاشتراكي الديمقراطي ما زالت موضوعًا لعدة أشهر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444146/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-05T14:13:54+02:00",
-      "description": "Mit der am Sonntag erzielten Vereinbarung über die neue Parteiführung will die SPÖ Ruhe in die Partei bringen. Fachleute sehen das Führungsproblem der SPÖ aber nicht gelöst. Die Personaldiskussionen „werden uns noch über Wochen und Monate begleiten“, sagte die Politologin Katrin Praprotnik von der Universität Graz gegenüber ORF.at. Es bleibe die grundsätzliche Frage nach einem Hoffnungsträger für die Parteispitze."
     }
   ]
 }
