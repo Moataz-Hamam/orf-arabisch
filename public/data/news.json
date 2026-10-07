@@ -4,8 +4,118 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-06T22:41:35.341Z",
+  "updatedAt": "2026-10-07T06:10:11.240Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444321/",
+      "title": "US-Amerikanerin Pike ansprechbar",
+      "titleAr": "بيك الأمريكية متاحة للتواصل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444321/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-07T07:17:23+02:00",
+      "description": "Die zum Tode verurteilte US-Amerikanerin Christa Pike, die einen Hinrichtungsversuch im US-Bundesstaat Tennessee überlebt hat, ist wieder bei Bewusstsein und ansprechbar. Das teilten die Anwälte der 50-Jährigen am Dienstag (Ortszeit) mit. Ihre Prognose sei unklar, es werde jedoch mit einer langen Genesung gerechnet. Eine Gerichtsanhörung zu ihrem Fall sei für Mittwoch angesetzt, hieß es."
+    },
+    {
+      "id": "https://orf.at/stories/3444329/",
+      "title": "Behörden: Zwei Tote bei russischen Luftangriffen auf Kiew",
+      "titleAr": "قُتل شخصان في هجمات روسية على كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3444329/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T07:03:56+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444328/",
+      "title": "„Geldkoffer“: FPÖ muss Meinl-Reisinger Entschädigung zahlen",
+      "titleAr": "الحزب الأوستري يُلزم ميينل-رائزنر بدفع تعويض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444328/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T06:41:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444327/",
+      "title": "Pestverdacht: WHO und USA fordern Infos von Moskau",
+      "titleAr": "شبهة الطاعون: منظمة الصحة العالمية والولايات المتحدة تطلبان معلومات من موسكو",
+      "translated": true,
+      "link": "https://orf.at/stories/3444327/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-07T06:35:47+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444326/",
+      "title": "Hamas-Überfall: Israel gedenkt Opfern mit Schweigeminute",
+      "titleAr": "هجوم حماس: إسرائيل تكرم الضحايا بالثانية الصامتة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444326/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T06:31:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444325/",
+      "title": "US-Paar soll Leihmutterkinder misshandelt haben: Festnahme",
+      "titleAr": "زوج أمريكي يُشتبه في إهانة أطفال من الأمهات البديلة: اعتقال",
+      "translated": true,
+      "link": "https://orf.at/stories/3444325/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-07T06:27:55+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444324/",
+      "title": "Malis Regierungstruppen übernehmen Kontrolle in Kidal",
+      "titleAr": "قوات الحكومة المالينية تسيطر على كيدال",
+      "translated": true,
+      "link": "https://orf.at/stories/3444324/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T06:22:13+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444323/",
+      "title": "Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
+      "titleAr": "إيفا ماري سانت توفيت عن عمر 102",
+      "translated": true,
+      "link": "https://orf.at/stories/3444323/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-07T06:19:12+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444138/",
+      "title": "Der 7. Oktober und die Schuldumkehr",
+      "titleAr": "السبتمبر: 7 أكتوبر والانتقال للذنب",
+      "translated": true,
+      "link": "https://orf.at/stories/3444138/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T06:00:14+02:00",
+      "description": "Vor genau drei Jahren hat die Terrororganisation Hamas einen beispiellosen Angriff auf Israel gestartet. In Israel und weltweit wird am Donnerstag der Opfer gedacht. Bei dem Überfall wurden ganze Orte in Israel verwüstet, mehr als 1.000 Menschen getötet, Hunderte entführt und in Geiselhaft gehalten. Das Grauen erschütterte Israel und die Welt. Der durch den Angriff ausgelöste Gaza-Krieg mit seinen Zehntausenden Toten verdrängte aber vielfach rasch nicht nur das Trauma der Israelis, sondern führte zu einem – bis heute anhaltenden – starken Anstieg des sekundären Antisemitismus und einer Schuldumkehr im Westen, Österreich inklusive."
+    },
+    {
+      "id": "https://orf.at/stories/3444320/",
+      "title": "Shiroka-Pula im Kosovo zur Staatspräsidentin gewählt",
+      "titleAr": "شيروكا-بولا تُنتخب رئيسة دولة كوسوفو",
+      "translated": true,
+      "link": "https://orf.at/stories/3444320/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T01:49:37+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444319/",
       "title": "USA: Christa Pike nach gescheiterter Hinrichtung ansprechbar",
@@ -202,94 +312,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-06T16:15:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444285/",
-      "title": "Mädchen stach in Istanbul Schülerinnen nieder: Eine Tote",
-      "titleAr": "فتاة تصيب طالبة في اسطنبول، تُقتل واحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444285/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-06T15:24:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444284/",
-      "title": "WKO gibt sich neue Regeln für Gehälter und Compliance",
-      "titleAr": "منظمة التجارة الأوستريا تضع قواعد جديدة للرواتب والامتثال",
-      "translated": true,
-      "link": "https://orf.at/stories/3444284/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-06T15:20:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444283/",
-      "title": "Paramount schließt Warner-Übernahme ab",
-      "titleAr": "باراماونت تكمل استحواذها على وارنر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444283/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-10-06T15:11:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444275/",
-      "title": "Deutsch-Österreichischer Lyrikpreis an Kinsky und Cotten",
-      "titleAr": "جائزة ليريك ألمانية-أوسترية تُمنح لكينسي وكوتن",
-      "translated": true,
-      "link": "https://orf.at/stories/3444275/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-06T14:40:06+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443884/",
-      "title": "Jenseits der Kleinfamilie",
-      "titleAr": "ما وراء الأسرة الصغيرة",
-      "translated": true,
-      "link": "https://orf.at/stories/3443884/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-06T14:26:46+02:00",
-      "description": "Die Bücher der österreichischen Autorin Mareike Fallwickl handeln von Ungerechtigkeit und Gewalt – aber auch davon, wie es anders gehen kann. Seit ihrem Romanerfolg „Die Wut, die bleibt“ im Jahr 2022 ist sie eine der meistgelesenen feministischen Stimmen im deutschsprachigen Raum. In ihrem fünften Roman „Haltet euch fest“ erzählt sie von einer utopischen Wohngemeinschaft und ihren Bewohnerinnen."
-    },
-    {
-      "id": "https://orf.at/stories/3444273/",
-      "title": "FPÖ sieht Verhandlungen zu Wehrpflicht vorerst gescheitert",
-      "titleAr": "الـFPÖ ترى فشل مفاوضات الخدمة العسكرية مؤقتاً",
-      "translated": true,
-      "link": "https://orf.at/stories/3444273/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-06T14:26:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444268/",
-      "title": "Babler wendet sich an SPÖ-Mitglieder",
-      "titleAr": "بابل يتوجه إلى أعضاء الـSPÖ",
-      "translated": true,
-      "link": "https://orf.at/stories/3444268/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-06T14:12:26+02:00",
-      "description": "Der scheidende SPÖ-Chef Andreas Babler hat sich am Dienstag erstmals nach Ankündigung seines Rückzugs an die Parteimitglieder gewendet. In einem Video auf Instagram fasste er die Ereignisse der vergangenen Tage zusammen und lobte den beschlossenen „geordneten Übergang“ in der Partei als „Riesenerfolg“. Auch Eva-Maria Holzleitner und Philip Kucher, die Babler künftig zur Seite stehen werden, meldeten sich zu Wort."
-    },
-    {
-      "id": "https://orf.at/stories/3444269/",
-      "title": "BWB fordert gesetzliche Änderungen bei Fernwärme",
-      "titleAr": "الـBWB يطالب بتعديل قانوني للحرارة عن بعد",
-      "translated": true,
-      "link": "https://orf.at/stories/3444269/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-06T13:56:07+02:00",
       "description": ""
     }
   ]
