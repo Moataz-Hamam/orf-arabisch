@@ -4,8 +4,162 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-07T13:35:54.139Z",
+  "updatedAt": "2026-10-07T20:39:52.135Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444417/",
+      "title": "Zwangsgeräumte Spanierin gestorben",
+      "titleAr": "الإسبانية التي أُجبر على الإخلاء تُوفيت",
+      "translated": true,
+      "link": "https://orf.at/stories/3444417/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T21:18:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444416/",
+      "title": "FBI vereitelt geplanten Terroranschlag bei Minneapolis",
+      "titleAr": "الـFBI يوقف هجوم إرهابي مخطط في مينيابوليس",
+      "translated": true,
+      "link": "https://orf.at/stories/3444416/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T21:17:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444414/",
+      "title": "Nach Signa-Pleite: Chrysler-Gebäude in NY fand Käufer",
+      "titleAr": "بعد إفلاس Signa: مبنى كرايسلر في نيويورك يلقى مشترٍ",
+      "translated": true,
+      "link": "https://orf.at/stories/3444414/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-07T21:00:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444412/",
+      "title": "Antikorruptionsexperte Kreutner live zu Gast",
+      "titleAr": "خبير مكافحة الفساد كروتْنر يُستضيف مباشر",
+      "translated": true,
+      "link": "https://orf.at/stories/3444412/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T19:58:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444379/",
+      "title": "Europas Balanceakt mit China",
+      "titleAr": "التوازن الأوروبي مع الصين",
+      "translated": true,
+      "link": "https://orf.at/stories/3444379/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T19:55:08+02:00",
+      "description": "China und Europa verbinden enge Handelsbeziehungen, die Rede ist vielfach aber auch von einer steigenden „systemischen“ Rivalität. China stelle, sei es wirtschaftlich, sei es geopolitisch, zunehmend einen Gegner dar, heißt es etwa in einem aktuellen Bericht des Ausschusses für Auswärtige Angelegenheiten des EU-Parlaments. Damit einher gehen lauter werdende Rufe nach einer Verschärfung des europäischen China-Kurses. Ein mit Spannung erwarteter China-Besuch von Handelskommissar Maros Sefcovic erscheint als Balanceakt."
+    },
+    {
+      "id": "https://orf.at/stories/3444410/",
+      "title": "Vierfachjackpot bei Lotto „6 aus 45“",
+      "titleAr": "رباعية الجوائز في لوتو 6 من 45",
+      "translated": true,
+      "link": "https://orf.at/stories/3444410/",
+      "category": "cLotto",
+      "categoryAr": "cLotto",
+      "publishedAt": "2026-10-07T19:51:03+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444407/",
+      "title": "Pelicot: „Musste mir Leben zurückerobern“",
+      "titleAr": "بيليكوت: 'كان عليّ أن أستعيد حياتي'",
+      "translated": true,
+      "link": "https://orf.at/stories/3444407/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-07T19:09:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444355/",
+      "title": "Symptome von Frauen oft weniger beachtet",
+      "titleAr": "أعراض النساء غالباً ما تُهمل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444355/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-07T18:02:43+02:00",
+      "description": "Frauen fühlen sich im heimischen Gesundheitssystem schlechter aufgehoben als Männer. Das geht aus dem am Mittwoch präsentierten „Austrian Health Report 2026“ hervor. 44 Prozent der Österreicherinnen hätten in einer vom Pharmakonzern Sandoz in Auftrag gegebenen, repräsentativen Umfrage gesagt, ihre Symptome würden „gelegentlich“ oder „häufig“ nicht ernst genommen, unter Männern nur 23 Prozent. Frauen seien zudem wegen der hohen „Mental Load“ belastet, so die Expertin Barbara Haid bei Präsentation."
+    },
+    {
+      "id": "https://orf.at/stories/3444403/",
+      "title": "Zeiler wünscht Marterbauer „viel Erfolg“ für SPÖ-Vorsitz",
+      "titleAr": "زيلير يتمنى لمارترباوور 'بالتوفيق' لرئاسة الـSPÖ",
+      "translated": true,
+      "link": "https://orf.at/stories/3444403/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T17:59:52+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444401/",
+      "title": "F: Plattform mit erpressten Nacktfotos offline gestellt",
+      "titleAr": "المنصة التي تحتوي على صور عارية مُهددة تم إيقافها",
+      "translated": true,
+      "link": "https://orf.at/stories/3444401/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-07T17:30:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444400/",
+      "title": "Insolvenzentgeltfonds: AK pocht auf Beitragssatzerhöhung",
+      "titleAr": "صندوق رسوم الإفلاس: أ.ك يطالب بزيادة الاشتراك",
+      "translated": true,
+      "link": "https://orf.at/stories/3444400/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T17:18:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444395/",
+      "title": "IHS-Studie: Anstieg der Spritpreise großteils importiert",
+      "titleAr": "دراسة IHS: ارتفاع أسعار الوقود مستورد إلى حد كبير",
+      "translated": true,
+      "link": "https://orf.at/stories/3444395/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-07T16:54:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444394/",
+      "title": "U-Ausschuss: Fokus auf Pilnaceks Nähe zu ÖVP-Politikern",
+      "titleAr": "اللجنة العليا تركز على قرب بيلناكسك من سياسيين الحزب الديمقراطي الاشتراكي الأوستري",
+      "translated": true,
+      "link": "https://orf.at/stories/3444394/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-07T16:37:12+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444393/",
+      "title": "Länder Afrikas gründen eigene Ratingagentur",
+      "titleAr": "دول أفريقيا تنشئ وكالة تصنيف خاصة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444393/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-07T16:20:55+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444385/",
       "title": "MRT-Wartezeiten gingen laut Erhebung zurück",
@@ -26,7 +180,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-07T15:01:54+02:00",
-      "description": "Drei Jahre nach dem Massaker der islamistischen Terrororganisation Hamas im Süden Israels gedenkt das Land am Mittwoch der Opfer. Mehr als 1.200 Menschen wurden damals bestialisch getötet und Hunderte verschleppt. Der Überfall war der Auslöser für den verheerenden Krieg im Gazastreifen. Auch in Wien wird an die Attacke vor drei Jahren erinnert."
+      "description": "Drei Jahre nach dem Massaker der islamistischen Terrororganisation Hamas im Süden Israels gedenkt das Land am Mittwoch der Opfer. Mehr als 1.200 Menschen wurden damals bestialisch getötet und Hunderte verschleppt. Der Überfall war der Auslöser für den verheerenden Krieg im Gazastreifen. Auch in Wien wurde an die Attacke vor drei Jahren erinnert."
     },
     {
       "id": "https://orf.at/stories/3444382/",
@@ -136,127 +290,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-07T11:06:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444350/",
-      "title": "Maturaleistung wird höher gewichtet",
-      "titleAr": "أداء الماتور يُعطى وزنًا أكبر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444350/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-07T10:41:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444349/",
-      "title": "SPÖ-Rochaden: Koalition beschwört Handlungsfähigkeit",
-      "titleAr": "الروخادن من الحزب الاشتراكي يطالب بالقدرة على العمل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444349/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-07T10:39:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444348/",
-      "title": "SpaceX will für 40 Mrd. Dollar KI-Chips von Nvidia kaufen",
-      "titleAr": "سبيس إكس ستشتري شريحة ذكاء اصطناعي من نفيديا بـ40 مليار دولار",
-      "translated": true,
-      "link": "https://orf.at/stories/3444348/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-07T10:24:57+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444347/",
-      "title": "Selenskyj: Mindestens 20 Tote bei russischem Angriff",
-      "titleAr": "سليينسكي: ما لا يقل عن 20 قتيل في الهجوم الروسي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444347/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-07T10:22:04+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444346/",
-      "title": "Saudi-Arabien meldet neuen Huthi-Angriff",
-      "titleAr": "السعودية تُعلن هجومًا جديدًا من الحوثيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444346/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-07T10:04:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444345/",
-      "title": "Letzter Photovoltaik-Fördercall startet",
-      "titleAr": "النداء الأخير لتمويل الطاقة الشمسية يبدأ",
-      "translated": true,
-      "link": "https://orf.at/stories/3444345/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-07T09:51:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444336/",
-      "title": "Eva Marie Saint ist tot",
-      "titleAr": "إيفا ماري سانت توفيت",
-      "translated": true,
-      "link": "https://orf.at/stories/3444336/",
-      "category": "Leute",
-      "categoryAr": "Leute",
-      "publishedAt": "2026-10-07T09:20:48+02:00",
-      "description": "Die US-Schauspielerin Eva Marie Saint, die in den 1950er Jahren durch die Filme „Die Faust im Nacken“ und „Der unsichtbare Dritte“ berühmt wurde, ist tot. Sie starb im Alter von 102 Jahren in ihrem Haus in Los Angeles eines natürlichen Todes, wie ihr Sprecher Jeff Sanderson in der Nacht auf Mittwoch mitteilte. Ihre Familie sei an ihrer Seite gewesen."
-    },
-    {
-      "id": "https://orf.at/stories/3444337/",
-      "title": "China kritisiert Pläne für neue EU-Handelsinstrumente",
-      "titleAr": "الصين تنتقد خطط الاتحاد الأوروبي لأدوات تجارية جديدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444337/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-07T08:51:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444298/",
-      "title": "Pilnacek-U-Ausschuss setzt Befragungen fort",
-      "titleAr": "يستمر لجنة بيلناسيك-يو في التحقيقات",
-      "translated": true,
-      "link": "https://orf.at/stories/3444298/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-07T08:16:01+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444321/",
-      "title": "US-Amerikanerin Pike ansprechbar",
-      "titleAr": "بيك الأمريكية متاحة للتواصل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444321/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-07T07:17:23+02:00",
-      "description": "Die zum Tode verurteilte US-Amerikanerin Christa Pike, die einen Hinrichtungsversuch im US-Bundesstaat Tennessee überlebt hat, ist wieder bei Bewusstsein und ansprechbar. Das teilten die Anwälte der 50-Jährigen am Dienstag (Ortszeit) mit. Ihre Prognose sei unklar, es werde jedoch mit einer langen Genesung gerechnet. Eine Gerichtsanhörung zu ihrem Fall sei für Mittwoch angesetzt, hieß es."
-    },
-    {
-      "id": "https://orf.at/stories/3444329/",
-      "title": "Behörden: Zwei Tote bei russischen Luftangriffen auf Kiew",
-      "titleAr": "قُتل شخصان في هجمات روسية على كييف",
-      "translated": true,
-      "link": "https://orf.at/stories/3444329/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-07T07:03:56+02:00",
       "description": ""
     }
   ]
