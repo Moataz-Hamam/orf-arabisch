@@ -4,8 +4,63 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-07T20:39:52.135Z",
+  "updatedAt": "2026-10-08T01:03:46.347Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444367/",
+      "title": "Möglicher Pesttod wird zum Politikum",
+      "titleAr": "موت البقاع المحتمل يصبح قضية سياسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444367/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-08T00:08:02+02:00",
+      "description": "Der Tod einer Mitarbeiterin eines Pestforschungszentrums in Sibirien in Russland wird zum internationalen Politikum. Während Moskau bei zusätzlichen Informationen mauert, drängen die Weltgesundheitsorganisation (WHO), die Europäische Union und die USA auf mehr Informationen aus Russland. Bei dem Fall könnte es sich laut Spekulationen um Lungenpest handeln."
+    },
+    {
+      "id": "https://orf.at/stories/3444397/",
+      "title": "Pilnacek-U-Ausschuss befragt Innenminister Karner",
+      "titleAr": "اللجنة البترولية تستجوب وزير الداخلية كارنر",
+      "translated": true,
+      "link": "https://orf.at/stories/3444397/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-08T00:05:41+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444422/",
+      "title": "Gescheiterte Hinrichtung: Pike „kognitiv verwirrt“",
+      "titleAr": "إعدام فاشل: بيك متضارب معرفيًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444422/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T23:53:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444419/",
+      "title": "Frankreich: Vorerst keine Zusatzgelder für Schulen",
+      "titleAr": "فرنسا: لا توجد حوافز إضافية للمدارس حالياً",
+      "translated": true,
+      "link": "https://orf.at/stories/3444419/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T22:55:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444415/",
+      "title": "Zwangsgeräumte 87-jährige Spanierin ist tot",
+      "titleAr": "الإناث الإسبانية المتعززة 87 سنة تُوفيت",
+      "translated": true,
+      "link": "https://orf.at/stories/3444415/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-07T22:46:46+02:00",
+      "description": "Die 87-jährige Maricarmen Abascal, deren Zwangsräumung in Madrid Anstoß für die Massenproteste gegen Wohnungsnot in Spanien gewesen war, ist tot. „Wir bedauern, mitteilen zu müssen, dass Maricarmen heute gestorben ist“, teilte der Mieterverband am Mittwoch mit. Der Fall der betagten Frau hatte eine heftige politische Kontroverse, landesweite Proteste und schließlich Neuwahlen ausgelöst."
+    },
     {
       "id": "https://orf.at/stories/3444417/",
       "title": "Zwangsgeräumte Spanierin gestorben",
@@ -173,14 +228,14 @@
     },
     {
       "id": "https://orf.at/stories/3444375/",
-      "title": "Israel gedenkt der Opfer des Hamas-Überfalls",
-      "titleAr": "إسرائيل تذكر ضحايا هجوم حماس",
+      "title": "Israel gedachte Opfern des Hamas-Überfalls",
+      "titleAr": "إسرائيل تتفكر ضحايا هجوم حماس",
       "translated": true,
       "link": "https://orf.at/stories/3444375/",
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-07T15:01:54+02:00",
-      "description": "Drei Jahre nach dem Massaker der islamistischen Terrororganisation Hamas im Süden Israels gedenkt das Land am Mittwoch der Opfer. Mehr als 1.200 Menschen wurden damals bestialisch getötet und Hunderte verschleppt. Der Überfall war der Auslöser für den verheerenden Krieg im Gazastreifen. Auch in Wien wurde an die Attacke vor drei Jahren erinnert."
+      "description": "Drei Jahre nach dem Massaker der islamistischen Terrororganisation Hamas im Süden Israels hat das Land am Mittwoch der Opfer gedacht. Mehr als 1.200 Menschen wurden damals bestialisch getötet und Hunderte verschleppt. Der Überfall war der Auslöser für den verheerenden Krieg im Gazastreifen. Auch in Wien wurde an die Attacke vor drei Jahren erinnert."
     },
     {
       "id": "https://orf.at/stories/3444382/",
@@ -258,39 +313,6 @@
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-07T12:27:49+02:00",
       "description": "Nach langwierigen Verhandlungen schickt die Regierung am Mittwoch die Reform des Wehr- und Zivildiensts in die parlamentarische Begutachtung. Doch sind die Verhandlungen mit FPÖ und Grünen festgefahren, Zankapfel bleibt der Zivildienst. Für Änderungen ist eine Zweidrittelmehrheit nötig, doch ist die Zustimmung einer Oppositionspartei nicht in Sicht. Dennoch zeigte man sich in der Regierung optimistisch."
-    },
-    {
-      "id": "https://orf.at/stories/3444362/",
-      "title": "E-Motor, neues Design: Jaguar versucht Neustart",
-      "titleAr": "محرك كهربائي، تصميم جديد: Jaguar تحاول إعادة الانطلاق",
-      "translated": true,
-      "link": "https://orf.at/stories/3444362/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-07T11:53:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444360/",
-      "title": "Müdigkeit: E-Scooter-Fahrer unterschätzen Risiko",
-      "titleAr": "الإرهاق: سائقي الدراجات الكهربائية يستهينون بالمخاطر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444360/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-07T11:26:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444356/",
-      "title": "Laptop wieder Thema in Pilnacek-U-Ausschuss",
-      "titleAr": "اللاب توب يعود إلى جدول أعمال لجنة بيلناتسكي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444356/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-07T11:06:20+02:00",
-      "description": ""
     }
   ]
 }
