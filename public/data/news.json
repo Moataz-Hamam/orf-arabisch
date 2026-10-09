@@ -4,8 +4,85 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-09T18:24:57.042Z",
+  "updatedAt": "2026-10-09T22:45:56.239Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444632/",
+      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün bereit für Gespräche",
+      "titleAr": "التحالف الأحمر-الأحمر-الأخضر مستعد للمفاوضات",
+      "translated": true,
+      "link": "https://orf.at/stories/3444632/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-09T23:20:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444575/",
+      "title": "Dichter Smog hat Südostasien fest im Griff",
+      "titleAr": "الضباب الكثيف يسيطر على جنوب شرق آسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444575/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-09T23:05:08+02:00",
+      "description": "Die seit Wochen andauernden Wald- und Flächenbrände in Indonesien hüllen Südostasien vielerorts in dichten Smog. Während in dem Land selbst bedenkliche Luftverschmutzungswerte gemessen werden, ordneten die Behörden im benachbarten Malaysia aus gesundheitlichen Bedenken großflächige Schulschließungen an. Im Stadtstaat Singapur, in dem am Wochenende ein Formel-1-Rennen stattfindet, wurden ebenfalls hohe Schadstoffwerte verzeichnet."
+    },
+    {
+      "id": "https://orf.at/stories/3444629/",
+      "title": "Flughafen-Wien-Vorstand fordert Aus von Flugabgabe",
+      "titleAr": "مدير مطار فيينا يطالب بإلغاء ضريبة الطيران",
+      "translated": true,
+      "link": "https://orf.at/stories/3444629/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-09T23:02:21+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444625/",
+      "title": "Katie Zacharia wird neue Sprecherin des Weißen Hauses",
+      "titleAr": "كاتي زاكاريا ستصبح المتحدثة الجديدة للبيت الأبيض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444625/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-09T22:12:40+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444624/",
+      "title": "EU besorgt über „demokratische Standards“ in Türkei",
+      "titleAr": "الاتحاد الأوروبي قلق بشأن \"المعايير الديمقراطية\" في تركيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444624/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-09T21:34:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444623/",
+      "title": "Trump kündigt große Diesellieferungen aus Russland an",
+      "titleAr": "ترامب يعلن عن توريدات كبيرة من الديزل من روسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444623/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-09T21:02:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444613/",
+      "title": "USA verhängen Sanktionen gegen IStGH",
+      "titleAr": "الولايات المتحدة تفرض عقوبات على المحكمة الجنائية الدولية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444613/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-09T20:28:10+02:00",
+      "description": "Nur wenige Stunden nachdem am Freitag die ehemalige Richterin des Internationalen Strafgerichtshofs (IStGH), Navi Pillay, mit dem Friedensnobelpreis ausgezeichnet worden ist, verhängt die US-Regierung unter US-Präsident Donald Trump weitreichende Sanktionen gegen das Weltstrafgericht. Die EU-Kommission reagierte besorgt und betonte die weitere Zusammenarbeit mit dem Weltstrafgericht."
+    },
     {
       "id": "https://orf.at/stories/3444622/",
       "title": "Schweres Erdbeben erschüttert Panama",
@@ -225,83 +302,6 @@
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-10-09T13:16:36+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444577/",
-      "title": "Kampf gegen Kinderarmut ist Mehrheit ein Anliegen",
-      "titleAr": "مكافحة فقر الأطفال: قضية يهم الأغلبية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444577/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-09T12:44:14+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444572/",
-      "title": "Sporrer sieht Menschenwürde hinter Gittern in Gefahr",
-      "titleAr": "سبرير يرى تهديدًا لكرامة الإنسان خلف القضبان",
-      "translated": true,
-      "link": "https://orf.at/stories/3444572/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-09T12:16:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444571/",
-      "title": "Merz „zutiefst empört“ über Schröder-Besuch bei Putin",
-      "titleAr": "ميرز مستاء للغاية من زيارة شرودر إلى بوتين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444571/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-09T12:09:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3443885/",
-      "title": "Facebook im Kreuzfeuer",
-      "titleAr": "فيسبوك تحت الهجوم",
-      "translated": true,
-      "link": "https://orf.at/stories/3443885/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-09T11:59:38+02:00",
-      "description": "16 Jahre nach David Finchers „The Social Network“ kehrt Drehbuchautor Aaron Sorkin zurück in die Untiefen des Facebook-Sumpfs: Der Thriller „The Social Reckoning“, diesmal unter Sorkins Regie, schildert die Phase von 2019 bis 2021, in der Meta-CEO Mark Zuckerberg das Netzwerk gezielt auf Polarisierung hin umbaute – und eine Whistleblowerin ihn dafür zur Verantwortung zog."
-    },
-    {
-      "id": "https://orf.at/stories/3444570/",
-      "title": "Noch nie so viele Zivildiensterklärungen wie heuer",
-      "titleAr": "أكبر عدد من إعلانات الخدمة المدنية على الإطلاق",
-      "translated": true,
-      "link": "https://orf.at/stories/3444570/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-09T11:47:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444569/",
-      "title": "Anthropic verbietet Gemeinheiten gegenüber Bot Claude",
-      "titleAr": "أنتوثيك يمنع السلوك البغيض تجاه بوت كلود",
-      "translated": true,
-      "link": "https://orf.at/stories/3444569/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-10-09T11:37:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444560/",
-      "title": "Friedensnobelpreis an Navi Pillay",
-      "titleAr": "جائزة نوبل للسلام لنافي بيلاي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444560/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-09T11:27:12+02:00",
-      "description": "Der Friedensnobelpreis geht heuer an die südafrikanische Juristin Navanethem (Navi) Pillay. Die 85-Jährige werde „für ihre Bemühungen zur Förderung des Friedens und des Völkerrechts“ ausgezeichnet, teilte das norwegische Nobelkomitee in Oslo am Freitag mit. Pillay habe staatliche Stellen und Staatschefs zur Rechenschaft gezogen, Opfern von Gewalt und Konflikten Hoffnung gegeben und in ihrer langen Karriere einen klaren moralischen Kompass bewiesen."
     }
   ]
 }
