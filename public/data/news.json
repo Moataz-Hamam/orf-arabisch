@@ -4,8 +4,74 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-08T18:54:10.534Z",
+  "updatedAt": "2026-10-09T01:16:04.792Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444529/",
+      "title": "Zwei Tote nach Schüssen bei Waffenkontrolle in Deutschland",
+      "titleAr": "إثنان قُتلوا بعد إطلاق نار أثناء فحص أسلحة بألمانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444529/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-08T23:54:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444460/",
+      "title": "Zu warmes Meer heizt „El Nino“ weiter an",
+      "titleAr": "البحر الدافئ يفاقم ظاهرة النينيو",
+      "translated": true,
+      "link": "https://orf.at/stories/3444460/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-08T23:34:11+02:00",
+      "description": "Die für das Wetterphänomen „El Nino“ entscheidende Meeresregion ist aktuell so warm wie noch nie seit Beginn der Aufzeichnungen. Laut Daten der Plattform „Climate Reanalyzer“ der University of Maine in den USA hat die durchschnittliche Meeresoberflächentemperatur in der „Nino 3.4“-Region mit Stand 5. Oktober erstmals die 30-Grad-Marke erreicht, wie am Donnerstag bekanntgegeben wurde. Damit liegt die Wassertemperatur 3,39 Grad über dem Durchschnitt des Referenzzeitraums von 1991 bis 2020. Experten sind besorgt, denn das zu warme Meer heizt „El Nino“ weiter an."
+    },
+    {
+      "id": "https://orf.at/stories/3444526/",
+      "title": "Neue Proteste gegen Wohnkrise in Spanien",
+      "titleAr": "مظاهرات جديدة ضد أزمة الإسكان في إسبانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444526/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-08T22:41:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444525/",
+      "title": "Hegseth: Öffentliche Militärhinrichtung von Attentäter",
+      "titleAr": "هيجست: إعدام عام للمتفجر",
+      "translated": true,
+      "link": "https://orf.at/stories/3444525/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-08T22:37:46+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444524/",
+      "title": "Demos: Frankreich setzt 3.000 Vertretungslehrer ein",
+      "titleAr": "الاحتجاجات: فرنسا توظف 3000 معلم بديل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444524/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-08T22:35:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444455/",
+      "title": "Regionales Gefälle im Betreuungsangebot",
+      "titleAr": "انخفاض إقليمي في عروض الرعاية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444455/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-08T21:06:53+02:00",
+      "description": "Knapp 70 Prozent der Kinder bis zum Alter von fünf Jahren haben in den letzten zwölf Monaten eine Betreuungseinrichtung besucht. Die Zahl stieg in den letzten Jahren deutlich. Allerdings zeigen Daten der Statistik Austria vom Donnerstag nach wie vor große regionale Unterschiede im Betreuungsangebot generell und speziell, was die Vereinbarkeit von Beruf und Kinderbetreuung betrifft. Diese ist weiter überwiegend Sache der Mütter."
+    },
     {
       "id": "https://orf.at/stories/3444520/",
       "title": "Zu Gast: Infektiologe Christoph Steininger",
@@ -235,72 +301,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-08T14:00:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444476/",
-      "title": "VfGH: Entschlüsselte Chats aus Ausland als Beweismittel gültig",
-      "titleAr": "محكمة العدل العليا: محادثات مشفرة من الخارج مقبولة كدليل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444476/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-08T13:32:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444451/",
-      "title": "Literaturnobelpreis geht an Anne Carson",
-      "titleAr": "جائزة نوبل الأدبي تُمنح لآنا كارسن",
-      "translated": true,
-      "link": "https://orf.at/stories/3444451/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-08T13:07:38+02:00",
-      "description": "Der Literaturnobelpreis geht an die kanadische Autorin Anne Carson. Diese Entscheidung gab die Schwedische Akademie am Donnerstag in Stockholm bekannt. Mit Carson wurde eine hochkarätige Lyrikerin ausgezeichnet, die seit Jahren als Nobelpreiskandidatin galt. Sie ist erst die 19. Frau in der 125-jährigen Geschichte des Preises."
-    },
-    {
-      "id": "https://orf.at/stories/3444436/",
-      "title": "Smartwatch sorgt wieder für Debatten",
-      "titleAr": "الساعات الذكية تثير جدلاً مجددًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444436/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-08T13:07:38+02:00",
-      "description": "Im Untersuchungsausschuss zur Causa um den verstorbenen Ex-Justizsektionschef Christian Pilnacek ist am Donnerstag der Direktor des Bundeskriminalamtes (BK), Andreas Holzer, befragt worden. Pilnaceks Smartwatch sorgte dabei neuerlich für Debatten. Im Fokus der Abgeordneten standen zudem der Informationsfluss nach Pilnaceks Ableben sowie die Polizeiarbeit am Fundort des Leichnams. Nach Holzer war Innenminister Gerhard Karner (ÖVP) geladen."
-    },
-    {
-      "id": "https://orf.at/stories/3444472/",
-      "title": "Literaturnobelpreis geht an Anne Carson",
-      "titleAr": "جائزة نوبل الأدبي تُمنح لآنا كارسن",
-      "translated": true,
-      "link": "https://orf.at/stories/3444472/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-08T13:02:14+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444470/",
-      "title": "Prognose für deutsche Wirtschaft deutlich verbessert",
-      "titleAr": "توقعات الاقتصاد الألماني تتحسن بشكل واضح",
-      "translated": true,
-      "link": "https://orf.at/stories/3444470/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-08T12:33:53+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444467/",
-      "title": "Bildungskompass soll Schulbeurteilung erleichtern",
-      "titleAr": "مؤشر التعليم يسهّل تقييم المدارس",
-      "translated": true,
-      "link": "https://orf.at/stories/3444467/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-08T11:40:50+02:00",
       "description": ""
     }
   ]
