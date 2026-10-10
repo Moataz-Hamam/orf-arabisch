@@ -4,8 +4,140 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-10T12:42:47.867Z",
+  "updatedAt": "2026-10-10T19:20:40.398Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444704/",
+      "title": "Nach gescheiterter Hinrichtung: Pike verlässt Spital",
+      "titleAr": "بيك يغادر المستشفى بعد فشل الإعدام",
+      "translated": true,
+      "link": "https://orf.at/stories/3444704/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-10T20:21:59+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444703/",
+      "title": "Mann betrat Gehege in britischem Zoo – von Tiger getötet",
+      "titleAr": "رجل يُقتل من نمر بعد دخوله قفص حديقة حيوان بريطانية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444703/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-10T20:18:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444702/",
+      "title": "Erfolg für Babis bei Kommunalwahlen in Tschechien",
+      "titleAr": "نجاح لبابيس في الانتخابات البلدية في التشيك",
+      "translated": true,
+      "link": "https://orf.at/stories/3444702/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T20:15:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444688/",
+      "title": "Trump-Putin-Deal verbilligt Diesel nicht",
+      "titleAr": "صفقة ترامب-بوتين لا تُخفض سعر الديزل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444688/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T20:02:47+02:00",
+      "description": "Die von der Ukraine scharf kritisierte Dieselvereinbarung von US-Präsident Donald Trump und Kreml-Chef Wladimir Putin wird nach Ansicht der Ökonomin Samina Sultan vom Institut der deutschen Wirtschaft (IW) wohl wirkungslos verpuffen. Der Deal werde weder an Tankstellen in den USA noch in Europa zu niedrigeren Preisen führen – für Putin ist er dagegen ein diplomatischer Erfolg: Trump machte nicht den von ihm selbst begonnenen Iran-Krieg, sondern Kiew für die hohen Spritpreise verantwortlich – und forderte einen Machtwechsel in der Ukraine."
+    },
+    {
+      "id": "https://orf.at/stories/3444700/",
+      "title": "Neun Tote nach Schüssen in Pennsylvania",
+      "titleAr": "توفي تسعة أشخاص بعد إطلاق النار في بنسلفانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444700/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T19:48:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444699/",
+      "title": "WHO: Moskau verneint Pest-Infektion",
+      "titleAr": "منظمة الصحة العالمية: موسكو تنفي إصابة بالحمى الصفراء",
+      "translated": true,
+      "link": "https://orf.at/stories/3444699/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T19:46:11+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444696/",
+      "title": "Verletzte bei Huthi-Angriff auf Flughafen Riad",
+      "titleAr": "جرحى في هجوم الحوثيين على مطار الرياض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444696/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T18:11:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444566/",
+      "title": "Italien als Land der Wahlreformen",
+      "titleAr": "إيطاليا دولة لإصلاحات انتخابية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444566/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T18:00:06+02:00",
+      "description": "Nach dem grünen Licht für die von Premierministerin Giorgia Meloni forcierte Reform des Wahlsystems sorgt das auf „Stabilicum“ getaufte Gesetz in Italien weiter für Gesprächsstoff. Im Fokus stehen die zentralen Eckpunkte der Reform, die Frage der Verfassungsmäßigkeit sowie anhaltende Spekulationen über den noch offenen Wahltermin. Dazu kommen Verweise auf die von „Mattarellum“ bis „Rosatellum“ reichenden Wahlrechtsreformen der vergangenen 30 Jahre samt der Erkenntnis: Die Änderung der Regeln unmittelbar vor einer anstehenden Wahl hat in Italien Tradition."
+    },
+    {
+      "id": "https://orf.at/stories/3444690/",
+      "title": "Eritrea ortet Kriegserklärung Äthiopiens",
+      "titleAr": "إريتريا تكتشف إعلان الحرب من إثيوبيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444690/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T16:30:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444687/",
+      "title": "Abbas verschiebt Parlaments- und Präsidentenwahl",
+      "titleAr": "أباس يؤجل الانتخابات البرلمانية والرئاسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444687/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T16:02:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444681/",
+      "title": "Leo XIV. verurteilt Todesstrafe",
+      "titleAr": "ليو الرابع عشر يجرم عقوبة الإعدام",
+      "translated": true,
+      "link": "https://orf.at/stories/3444681/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-10-10T15:28:18+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444666/",
+      "title": "Irland präsentierte neuen Vorschlag",
+      "titleAr": "أيرلندا قدمت اقتراحاً جديداً",
+      "translated": true,
+      "link": "https://orf.at/stories/3444666/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T15:01:56+02:00",
+      "description": "Die irische Ratspräsidentschaft hat am Samstag einen neuen Vorschlag für das mehrjährige EU-Budget 2028–2034 präsentiert. Im Vergleich zum Vorschlag der EU-Kommission ist ein deutlich geringeres Gesamtvolumen vorgesehen. Europaministerin Claudia Bauer (ÖVP) forderte in einer ersten Reaktion weitere Kürzungen."
+    },
     {
       "id": "https://orf.at/stories/3444680/",
       "title": "Florida erreicht: Hurrikan „Isaias“ schwächt sich ab",
@@ -151,146 +283,14 @@
     },
     {
       "id": "https://orf.at/stories/3444654/",
-      "title": "Ukraine: Tote nach russischen Angriffen in Saporischschja",
-      "titleAr": "أوكرانيا: قتلى بعد هجمات روسية في سابوريششا",
+      "title": "Viele Tote nach russischen Angriffen in Saporischschja",
+      "titleAr": "العديد من القتلى بعد الهجمات الروسية في سابوريشيا",
       "translated": true,
       "link": "https://orf.at/stories/3444654/",
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-10T10:22:21+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444352/",
-      "title": "Haustiere als US-Konjunkturbarometer",
-      "titleAr": "الحيوانات الأليفة كمؤشر على اقتصاد الولايات المتحدة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444352/",
-      "category": "Lifestyle",
-      "categoryAr": "Lifestyle",
-      "publishedAt": "2026-10-10T10:18:11+02:00",
-      "description": "In keinem anderen Land der Erde leben absolut gesehen so viele Hunde wie in den USA. Der beste Freund des Menschen bekommt allerdings auch dort Konkurrenz: Kurz vor dem Welttag des Hundes am Samstag zeigen nun neue Zahlen, dass sich Katzen heranpirschen. Erstmals seit Beginn der Datenerhebungen leben in US-Haushalten mehr Katzenjunge als Welpen. Laut „Washington Post“ ist das nicht einfach nur ein Modetrend, sondern auch Spiegel der wirtschaftlichen Situation."
-    },
-    {
-      "id": "https://orf.at/stories/3444651/",
-      "title": "Saudi-Arabien: Über 100 Huthi-Ziele in Jemen zerstört",
-      "titleAr": "السعودية: أكثر من 100 هدف هوثي في اليمن تم تدميره",
-      "translated": true,
-      "link": "https://orf.at/stories/3444651/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T10:03:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444644/",
-      "title": "Indien: Gründer der „Kakerlaken“-Bewegung festgenommen",
-      "titleAr": "الهند: اعتقال مؤسس حركة \"الصرصور\"",
-      "translated": true,
-      "link": "https://orf.at/stories/3444644/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T09:27:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444642/",
-      "title": "Selenskyj sieht „Geschenk an Putin“",
-      "titleAr": "سلينسكي يرى هدية لبوتين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444642/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T09:21:41+02:00",
-      "description": "Nachdem US-Präsident Donald Trump am Freitag eine Vereinbarung zur Lieferung von Hunderttausenden Tonnen Diesel aus Russland verkündet hatte, ist Kritik aus Kiew laut geworden. Die geplante Lieferung sei ein „Geschenk“ an den russischen Präsidenten Wladimir Putin, das „Investitionen in den Krieg“ gleichkomme, so der ukrainische Präsident Wolodymyr Selenskyj. Fachleute verwiesen unterdessen darauf, dass die Lieferung den hohen Dieselpreis in den USA nur wenig beeinflussen könne."
-    },
-    {
-      "id": "https://orf.at/stories/3444641/",
-      "title": "Taiwan fordert klare Haltung gegen Chinas Drohungen",
-      "titleAr": "تايوان تطالب بموقف واضح ضد تهديدات الصين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444641/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T08:17:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444640/",
-      "title": "Schwere Schäden nach Erdbeben in Panama",
-      "titleAr": "أضرار جسيمة بعد زلزال في بنما",
-      "translated": true,
-      "link": "https://orf.at/stories/3444640/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-10T08:00:28+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444639/",
-      "title": "Hurrikan „Isaias“ in Florida auf Land getroffen",
-      "titleAr": "عاصفة إيساياس تهبط على أرض فلوريدا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444639/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-10T07:55:16+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444635/",
-      "title": "Anthropic-KI reichte falschen Hinweis auf Polizeiseite ein",
-      "titleAr": "ذكاء اصطناعي Anthropic يقدّم إشارة خاطئة للشرطة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444635/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-10-10T07:42:42+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444634/",
-      "title": "Panama: Keine größeren Zerstörungen nach schwerem Erdbeben",
-      "titleAr": "بنما: لا أضرار كبيرة بعد الزلزال القوي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444634/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-10T07:37:02+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444243/",
-      "title": "Die Warnsignale bei Stress in der Arbeit",
-      "titleAr": "إشارات التحذير عند التوتر في العمل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444243/",
-      "category": "Gesundheit",
-      "categoryAr": "Gesundheit",
-      "publishedAt": "2026-10-10T07:24:21+02:00",
-      "description": "Besonders am Arbeitsplatz können Zeitdruck und psychische Belastung zu langfristigen gesundheitlichen Folgen und längeren Ausfällen führen. Doch sowohl Betriebe als auch Arbeitnehmerinnen und Arbeitnehmer können mit einfachen Mitteln rechtzeitig gegensteuern. Am Samstag, dem Welttag für psychische Gesundheit, startet daher die ORF-Initiative „Bewusst Gesund“, die sich dem Thema Stress widmet."
-    },
-    {
-      "id": "https://orf.at/stories/3444632/",
-      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün bereit für Gespräche",
-      "titleAr": "التحالف الأحمر-الأحمر-الأخضر مستعد للمفاوضات",
-      "translated": true,
-      "link": "https://orf.at/stories/3444632/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-09T23:20:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444575/",
-      "title": "Dichter Smog hat Südostasien fest im Griff",
-      "titleAr": "الضباب الكثيف يسيطر على جنوب شرق آسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444575/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-09T23:05:08+02:00",
-      "description": "Die seit Wochen andauernden Wald- und Flächenbrände in Indonesien hüllen Südostasien vielerorts in dichten Smog. Während in dem Land selbst bedenkliche Luftverschmutzungswerte gemessen werden, ordneten die Behörden im benachbarten Malaysia aus gesundheitlichen Bedenken großflächige Schulschließungen an. Im Stadtstaat Singapur, in dem am Wochenende ein Formel-1-Rennen stattfindet, wurden ebenfalls hohe Schadstoffwerte verzeichnet."
     }
   ]
 }
