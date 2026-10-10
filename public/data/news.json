@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-09T22:45:56.239Z",
+  "updatedAt": "2026-10-10T06:01:43.578Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444639/",
+      "title": "Hurrikan „Isaias“ in Florida auf Land getroffen",
+      "titleAr": "عاصفة إيساياس تهبط على أرض فلوريدا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444639/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-10T07:55:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444635/",
+      "title": "Anthropic-KI reichte falschen Hinweis auf Polizeiseite ein",
+      "titleAr": "ذكاء اصطناعي Anthropic يقدّم إشارة خاطئة للشرطة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444635/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-10-10T07:42:42+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444634/",
+      "title": "Panama: Keine größeren Zerstörungen nach schwerem Erdbeben",
+      "titleAr": "بنما: لا أضرار كبيرة بعد الزلزال القوي",
+      "translated": true,
+      "link": "https://orf.at/stories/3444634/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-10T07:37:02+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444243/",
+      "title": "Die Warnsignale bei Stress in der Arbeit",
+      "titleAr": "إشارات التحذير عند التوتر في العمل",
+      "translated": true,
+      "link": "https://orf.at/stories/3444243/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-10T07:24:21+02:00",
+      "description": "Besonders am Arbeitsplatz können Zeitdruck und psychische Belastung zu langfristigen gesundheitlichen Folgen und längeren Ausfällen führen. Doch sowohl Betriebe als auch Arbeitnehmerinnen und Arbeitnehmer können mit einfachen Mitteln rechtzeitig gegensteuern. Am Samstag, dem Welttag für psychische Gesundheit, startet daher die ORF-Initiative „Bewusst Gesund“, die sich dem Thema Stress widmet."
+    },
     {
       "id": "https://orf.at/stories/3444632/",
       "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün bereit für Gespräche",
@@ -257,50 +301,6 @@
       "category": "Kultur",
       "categoryAr": "ثقافة",
       "publishedAt": "2026-10-09T14:19:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444574/",
-      "title": "Scharfe Kritik nach Schröders Putin-Besuch",
-      "titleAr": "نقد حاد بعد زيارة شرويدر لبوتر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444574/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-09T14:08:45+02:00",
-      "description": "Der ehemalige deutsche Kanzler Gerhard Schröder hat diese Woche Russlands Präsidenten Wladimir Putin anlässlich dessen Geburtstages besucht. Die Kritik daran fällt scharf aus: Der deutsche Bundeskanzler Friedrich Merz (CDU) zeigte sich „zutiefst empört“, die Grünen und die FDP bezeichneten den Besuch als „Schande“. Aus den eigenen Reihen gab es neben Kritik auch Rückendeckung für den SPD-Altkanzler."
-    },
-    {
-      "id": "https://orf.at/stories/3444585/",
-      "title": "NGOs zu ein Jahr Gaza-Abkommen: Wien muss aktiv werden",
-      "titleAr": "المنظمات غير الحكومية: بعد عام من اتفاق غزة، يجب على فيينا التصرف",
-      "translated": true,
-      "link": "https://orf.at/stories/3444585/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-09T13:53:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444583/",
-      "title": "Klitschko darf Panettieres Nachlass für Tochter verwalten",
-      "titleAr": "كليتشكو يُسمح له بإدارة وصية بانيتيري لابنته",
-      "translated": true,
-      "link": "https://orf.at/stories/3444583/",
-      "category": "Leute",
-      "categoryAr": "Leute",
-      "publishedAt": "2026-10-09T13:32:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444581/",
-      "title": "EU streicht Panama von Liste der Steueroasen",
-      "titleAr": "الاتحاد الأوروبي يزيل بنما من قائمة الجزر الضريبية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444581/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-09T13:16:36+02:00",
       "description": ""
     }
   ]
