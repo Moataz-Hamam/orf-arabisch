@@ -4,8 +4,41 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-10T19:20:40.398Z",
+  "updatedAt": "2026-10-11T00:16:05.890Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444710/",
+      "title": "Schwerer Angriff auf Riads Flughafen",
+      "titleAr": "هجوم شديد على مطار الرياض",
+      "translated": true,
+      "link": "https://orf.at/stories/3444710/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-10T23:07:34+02:00",
+      "description": "Auf den Hauptflughafen der saudischen Hauptstadt Riad ist am Samstag der dritte schwere Angriff innerhalb weniger Tage ausgeübt worden. Dabei gab es laut Luftfahrtbehörde mindestens ein Dutzend Toter und mehr als 300 Verletzte. Der neuerliche Angriff – mutmaßlich von den jemenitischen Huthi-Rebellen – ist ein schwerer Schlag für die Saudis."
+    },
+    {
+      "id": "https://orf.at/stories/3444709/",
+      "title": "Hurrikan „Isaias“: Vier Tote in USA",
+      "titleAr": "عاصفة إيزاياس: أربع قتلى في الولايات المتحدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444709/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-10T22:17:18+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444708/",
+      "title": "Britney Spears veröffentlicht Song",
+      "titleAr": "بروني سبيرز تنشر أغنية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444708/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-10T21:56:30+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444704/",
       "title": "Nach gescheiterter Hinrichtung: Pike verlässt Spital",
@@ -257,39 +290,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-10T11:56:05+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444657/",
-      "title": "Überschwemmungen und Erdrutsche in Süditalien",
-      "titleAr": "فيضانات وانزلاقات أرضية في جنوب إيطاليا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444657/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-10T11:03:55+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444656/",
-      "title": "NEOS-Mitgliederversammlung in Linz begonnen",
-      "titleAr": "انطلقت الجمعية العامة لـ NEOS في لينز",
-      "translated": true,
-      "link": "https://orf.at/stories/3444656/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-10T10:28:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444654/",
-      "title": "Viele Tote nach russischen Angriffen in Saporischschja",
-      "titleAr": "العديد من القتلى بعد الهجمات الروسية في سابوريشيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444654/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T10:22:21+02:00",
       "description": ""
     }
   ]
