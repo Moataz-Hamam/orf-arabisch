@@ -4,8 +4,173 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-11T05:59:04.290Z",
+  "updatedAt": "2026-10-11T13:04:34.020Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444735/",
+      "title": "Weitere Huthi-Drohung an Saudi-Arabien",
+      "titleAr": "تهديد هوثي جديد للسعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444735/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T15:01:50+02:00",
+      "description": "Einen Tag nach dem Raketenangriff auf den Flughafen der saudi-arabischen Hauptstadt Riad haben die Huthis ihre Drohung gegen die Militärkoalition erneuert. Die proiranischen Kämpfer, die im Jemen gegen die von Saudi-Arabien angeführte Militärkoalition und jemenitische Truppen kämpfen, warnten Reisende am Sonntag davor, saudische Flughäfen zu nutzen. Diese seien „legitime Ziele“, teilten die Huthis mit. Saudi-Arabien kündigte unterdessen eine „entschiedene Reaktion“ auf den Angriff an, bei dem zwölf Menschen getötet und über 300 verletzt wurden."
+    },
+    {
+      "id": "https://orf.at/stories/3444749/",
+      "title": "Neue Förderung für Dämmen und Heizungstausch ab 2027",
+      "titleAr": "تمويل جديد للسدّات وتبديل التدفئة من 2027",
+      "translated": true,
+      "link": "https://orf.at/stories/3444749/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-11T14:47:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444748/",
+      "title": "Russland: Zwei Tote bei ukrainischem Angriff in Region Luhansk",
+      "titleAr": "روسيا: قتلت جوج في هجوم أوكراني بلوهانسك",
+      "translated": true,
+      "link": "https://orf.at/stories/3444748/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T14:19:20+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444747/",
+      "title": "Elf Tote und viele Verletzte bei Busunfall in Türkei",
+      "titleAr": "إحدى عشرة قتلت والعديد جرحى في حافلة تركيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444747/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-11T13:55:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444746/",
+      "title": "Mecklenburg-Vorpommern vor rot-rot-grüner Koalition",
+      "titleAr": "مينيكلن-فورومبرن على وشك تحالف أحمر-أحمر-أخضر",
+      "translated": true,
+      "link": "https://orf.at/stories/3444746/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T13:31:06+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444743/",
+      "title": "D: Friedenspreis für Völkerrechtsanwalt Sands",
+      "titleAr": "جائزة السلام لمحامي حقوق الإنسان ساندس",
+      "translated": true,
+      "link": "https://orf.at/stories/3444743/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-11T13:04:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444739/",
+      "title": "Papst kündigt Operation an",
+      "titleAr": "القديس يعلن عن عملية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444739/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-10-11T12:53:15+02:00",
+      "description": "Papst Leo XIV. hat am Sonntag angekündigt, dass er sich einem operativen Eingriff an der Lunge unterziehen wird. Bei ihm sei ein Knoten in einem frühen Stadium und an einer klar begrenzten Stelle entdeckt worden, sagte das Oberhaupt der katholischen Kirche beim Angelusgebet."
+    },
+    {
+      "id": "https://orf.at/stories/3444738/",
+      "title": "Pumaverdacht in Bayern: Reiterstaffel im Einsatz",
+      "titleAr": "شبهة بوماف في بافاريا: فرقة سواري في الخدمة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444738/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-11T12:33:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444737/",
+      "title": "Knötchen in Lunge: Papst kündigt Operation an",
+      "titleAr": "ورم رئوي: القديس يعلن عن عملية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444737/",
+      "category": "Religion",
+      "categoryAr": "دين",
+      "publishedAt": "2026-10-11T12:30:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444736/",
+      "title": "Dschibuti: Über 100 Migranten bei Bootsunglück gestorben",
+      "titleAr": "جيبوتي: أكثر من 100 مهاجر لقوا حتفهم في حادث قارب",
+      "translated": true,
+      "link": "https://orf.at/stories/3444736/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T12:25:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444733/",
+      "title": "Polen: Hinweise auf Anschlagspläne gegen Regierungsspitze",
+      "titleAr": "بولندا: إشارات إلى خطط هجوم على رأس الحكومة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444733/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T11:54:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444548/",
+      "title": "New York, die „coole Maschine“",
+      "titleAr": "نيويورك، \"الآلة الباردة\"",
+      "translated": true,
+      "link": "https://orf.at/stories/3444548/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-11T11:20:53+02:00",
+      "description": "Aus der schmerzvollen Geschichte des schwarzen Amerika macht er fesselnde, eindringliche Literatur: Colson Whitehead gilt nicht ohne Grund als Superstar der US-Literaturszene. Parallel dazu verfolgte der zweifache Pulitzer-Preisträger über sieben Jahre ein leichtfüßigeres Projekt: eine Krimitrilogie um den New Yorker Möbelhändler Ray Carney. Nun erschien der Abschlussband „Cool Machine“."
+    },
+    {
+      "id": "https://orf.at/stories/3444725/",
+      "title": "Tschechiens Opposition mit Achtungserfolg bei Senatswahl",
+      "titleAr": "التشيك: نجاح بارز للمعارضة في انتخابات مجلس الشيوخ",
+      "translated": true,
+      "link": "https://orf.at/stories/3444725/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T09:59:43+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444718/",
+      "title": "Neue Eskalation in Saudi-Arabien",
+      "titleAr": "تصعيد جديد في السعودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444718/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T09:43:47+02:00",
+      "description": "Am Samstag ist der Konflikt zwischen den proiranischen Huthi-Rebellen im Jemen und der von Saudi-Arabien angeführten Militärkoalition weiter eskaliert: Bei einem Raketenangriff auf den Hauptflughafen der saudi-arabischen Hauptstadt Riad sind den Behörden zufolge mindestens zwölf Personen getötet und über 300 verletzt worden. Saudi-Arabien kündigte daraufhin eine „entschiedene Reaktion“ gegen die Huthis an. US-Präsident Donald Trump schloss einen US-Eingriff in den Konflikt nicht mehr aus."
+    },
+    {
+      "id": "https://orf.at/stories/3444717/",
+      "title": "Indien: Gründer der „Kakerlaken“-Bewegung freigelassen",
+      "titleAr": "الهند: إطلاق سراح مؤسس حركة \"الصرصور\"",
+      "translated": true,
+      "link": "https://orf.at/stories/3444717/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T08:17:03+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3442895/",
       "title": "Talarico als Shootingstar der Demokraten",
@@ -15,7 +180,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-11T07:52:02+02:00",
-      "description": "Seit Jahrzehnten ist der US-Bundesstaat Texas eine Bastion der Republikanischen Partei. Mit James Talarico will ausgerechnet ein linker Demokrat, der mit der Botschaft Jesu wirbt, bei den Zwischenwahlen Anfang November texanischer Senator werden. Eine am Samstag veröffentlichte Umfrage gibt Talarico durchaus realistische Chancen auf einen Sieg. Sollte ihm das gelingen, würde das zumindest für Texas, wenn nicht für das ganze Land eine politische Zäsur bedeuten."
+      "description": "Seit Jahrzehnten ist der US-Bundesstaat Texas eine Bastion der Republikanischen Partei. Mit James Talarico will ausgerechnet ein in der US-Politik als links-progressiv geltender Demokrat, der mit der Botschaft Jesu wirbt, bei den Zwischenwahlen Anfang November texanischer Senator werden. Eine am Samstag veröffentlichte Umfrage gibt Talarico durchaus realistische Chancen auf einen Sieg. Sollte ihm das gelingen, würde das zumindest für Texas, wenn nicht für das ganze Land eine politische Zäsur bedeuten."
     },
     {
       "id": "https://orf.at/stories/3444715/",
@@ -70,7 +235,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-10T23:07:34+02:00",
-      "description": "Auf den Hauptflughafen der saudischen Hauptstadt Riad ist am Samstag der dritte schwere Angriff innerhalb weniger Tage ausgeübt worden. Dabei gab es laut Luftfahrtbehörde mindestens ein Dutzend Toter und mehr als 300 Verletzte. Der neuerliche Angriff – mutmaßlich von den jemenitischen Huthi-Rebellen – ist ein schwerer Schlag für die Saudis."
+      "description": "Auf den Hauptflughafen der saudischen Hauptstadt Riad ist am Samstag der dritte schwere Angriff innerhalb weniger Tage ausgeübt worden. Dabei gab es laut Luftfahrtbehörde mindestens ein Dutzend Tote und mehr als 300 Verletzte. Der neuerliche Angriff – mutmaßlich von den jemenitischen Huthi-Rebellen – ist ein schwerer Schlag für die Saudis."
     },
     {
       "id": "https://orf.at/stories/3444709/",
@@ -125,193 +290,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-10T20:15:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444688/",
-      "title": "Trump-Putin-Deal verbilligt Diesel nicht",
-      "titleAr": "صفقة ترامب-بوتين لا تُخفض سعر الديزل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444688/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T20:02:47+02:00",
-      "description": "Die von der Ukraine scharf kritisierte Dieselvereinbarung von US-Präsident Donald Trump und Kreml-Chef Wladimir Putin wird nach Ansicht der Ökonomin Samina Sultan vom Institut der deutschen Wirtschaft (IW) wohl wirkungslos verpuffen. Der Deal werde weder an Tankstellen in den USA noch in Europa zu niedrigeren Preisen führen – für Putin ist er dagegen ein diplomatischer Erfolg: Trump machte nicht den von ihm selbst begonnenen Iran-Krieg, sondern Kiew für die hohen Spritpreise verantwortlich – und forderte einen Machtwechsel in der Ukraine."
-    },
-    {
-      "id": "https://orf.at/stories/3444700/",
-      "title": "Neun Tote nach Schüssen in Pennsylvania",
-      "titleAr": "توفي تسعة أشخاص بعد إطلاق النار في بنسلفانيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444700/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T19:48:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444699/",
-      "title": "WHO: Moskau verneint Pest-Infektion",
-      "titleAr": "منظمة الصحة العالمية: موسكو تنفي إصابة بالحمى الصفراء",
-      "translated": true,
-      "link": "https://orf.at/stories/3444699/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T19:46:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444696/",
-      "title": "Verletzte bei Huthi-Angriff auf Flughafen Riad",
-      "titleAr": "جرحى في هجوم الحوثيين على مطار الرياض",
-      "translated": true,
-      "link": "https://orf.at/stories/3444696/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T18:11:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444566/",
-      "title": "Italien als Land der Wahlreformen",
-      "titleAr": "إيطاليا دولة لإصلاحات انتخابية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444566/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T18:00:06+02:00",
-      "description": "Nach dem grünen Licht für die von Premierministerin Giorgia Meloni forcierte Reform des Wahlsystems sorgt das auf „Stabilicum“ getaufte Gesetz in Italien weiter für Gesprächsstoff. Im Fokus stehen die zentralen Eckpunkte der Reform, die Frage der Verfassungsmäßigkeit sowie anhaltende Spekulationen über den noch offenen Wahltermin. Dazu kommen Verweise auf die von „Mattarellum“ bis „Rosatellum“ reichenden Wahlrechtsreformen der vergangenen 30 Jahre samt der Erkenntnis: Die Änderung der Regeln unmittelbar vor einer anstehenden Wahl hat in Italien Tradition."
-    },
-    {
-      "id": "https://orf.at/stories/3444690/",
-      "title": "Eritrea ortet Kriegserklärung Äthiopiens",
-      "titleAr": "إريتريا تكتشف إعلان الحرب من إثيوبيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444690/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T16:30:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444687/",
-      "title": "Abbas verschiebt Parlaments- und Präsidentenwahl",
-      "titleAr": "أباس يؤجل الانتخابات البرلمانية والرئاسية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444687/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T16:02:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444681/",
-      "title": "Leo XIV. verurteilt Todesstrafe",
-      "titleAr": "ليو الرابع عشر يجرم عقوبة الإعدام",
-      "translated": true,
-      "link": "https://orf.at/stories/3444681/",
-      "category": "Religion",
-      "categoryAr": "دين",
-      "publishedAt": "2026-10-10T15:28:18+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444666/",
-      "title": "Irland präsentierte neuen Vorschlag",
-      "titleAr": "أيرلندا قدمت اقتراحاً جديداً",
-      "translated": true,
-      "link": "https://orf.at/stories/3444666/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T15:01:56+02:00",
-      "description": "Die irische Ratspräsidentschaft hat am Samstag einen neuen Vorschlag für das mehrjährige EU-Budget 2028–2034 präsentiert. Im Vergleich zum Vorschlag der EU-Kommission ist ein deutlich geringeres Gesamtvolumen vorgesehen. Europaministerin Claudia Bauer (ÖVP) forderte in einer ersten Reaktion weitere Kürzungen."
-    },
-    {
-      "id": "https://orf.at/stories/3444680/",
-      "title": "Florida erreicht: Hurrikan „Isaias“ schwächt sich ab",
-      "titleAr": "إعصار إيساياس يتراجع في فلوريدا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444680/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-10T14:37:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444679/",
-      "title": "Tote bei israelischen Angriffen in Gaza gemeldet",
-      "titleAr": "وفاة متوفين في هجمات إسرائيل على غزة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444679/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T14:29:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444677/",
-      "title": "„Ragebait“ ist deutsches Jugendwort des Jahres 2026",
-      "titleAr": "كلمة Ragebait هي كلمة الشباب الألمانية لعام 2026",
-      "translated": true,
-      "link": "https://orf.at/stories/3444677/",
-      "category": "Lifestyle",
-      "categoryAr": "Lifestyle",
-      "publishedAt": "2026-10-10T14:05:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444676/",
-      "title": "Britischer Nordirland-Minister verbietet Oranier-Parade",
-      "titleAr": "وزير شمال أيرلندا البريطاني يمنع عرض ألوان أُراني",
-      "translated": true,
-      "link": "https://orf.at/stories/3444676/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T13:34:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444675/",
-      "title": "Irland legt neuen Vorschlag für EU-Budget vor",
-      "titleAr": "أيرلندا تُقدّم اقتراحًا جديدًا لميزانية الاتحاد الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444675/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T13:30:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444674/",
-      "title": "Nach Waffeneinsatz: Proteste gegen ICE in New York",
-      "titleAr": "بعد استخدام الأسلحة: احتجاجات ضد ICE في نيويورك",
-      "translated": true,
-      "link": "https://orf.at/stories/3444674/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-10T13:17:56+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444673/",
-      "title": "Crans-Montana: Streit um Übernahme der Erstversorgung",
-      "titleAr": "كران-مونتانا: نزاع حول تولي الرعاية الأولية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444673/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-10T13:14:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444672/",
-      "title": "Papst ernannte neuen Erzpriester für Petersdom",
-      "titleAr": "القديس يعين كاهنًا رئيسيًا جديدًا للكاتدرائية القديس بطرس",
-      "translated": true,
-      "link": "https://orf.at/stories/3444672/",
-      "category": "Religion",
-      "categoryAr": "دين",
-      "publishedAt": "2026-10-10T13:09:29+02:00",
       "description": ""
     }
   ]
