@@ -4,8 +4,30 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-11T19:35:50.534Z",
+  "updatedAt": "2026-10-12T00:37:26.999Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3442796/",
+      "title": "Simbabwes „Krokodil“ schnappt nach Macht",
+      "titleAr": "كروكوديل زيمبابوي يقتحم السلطة",
+      "translated": true,
+      "link": "https://orf.at/stories/3442796/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T23:25:34+02:00",
+      "description": "Hunger und Armut will Simbabwes Präsident Emmerson Mnangagwa nachhaltig bekämpfen. Wohlstand bis 2030 lautet seine Vision, die auch die am Montag startende Konferenz der Regierungspartei ZANU-PF prägen wird. Doch die von ihm angestrebte wirtschaftliche Öffnung, die etwa die Landrückgabe an einige weiße Bauern umfasst, wird innenpolitisch von einer kontroversen Verfassungsreform begleitet. Kritikerinnen und Kritiker werfen dem als „Krokodil“ bekannten Mnangagwa vor, seine Macht zunehmend absichern zu wollen."
+    },
+    {
+      "id": "https://orf.at/stories/3444783/",
+      "title": "Meinl-Reisinger bei Miliband in London",
+      "titleAr": "مينل-ريزينغير يلتقي بميليباند في لندن",
+      "translated": true,
+      "link": "https://orf.at/stories/3444783/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-11T21:43:28+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444778/",
       "title": "Trump erhöht Druck auf Ukraine",
@@ -70,7 +92,7 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-11T18:31:29+02:00",
-      "description": "Der Flughafen der saudischen Hauptstadt Riad ist Sonntagnachmittag erneut angegriffen worden. Am Samstag waren bei einem Angriff der jemenitischen Huthi-Rebellen zwölf Menschen getötet und Hunderte verletzt worden. Nur Stunden danach hatten die Huthis mit weiteren Angriffen gedroht."
+      "description": "Der Flughafen der saudischen Hauptstadt Riad ist Sonntagnachmittag erneut angegriffen worden. Am Samstag waren bei einem Angriff der jemenitischen Huthi-Rebellen zwölf Menschen getötet und Hunderte verletzt worden. Nur Stunden danach hatten die Huthis mit weiteren Angriffen gedroht. Der Iran bot Saudi-Arabien an zu vermitteln."
     },
     {
       "id": "https://orf.at/stories/3444767/",
@@ -257,17 +279,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-11T12:25:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444733/",
-      "title": "Polen: Hinweise auf Anschlagspläne gegen Regierungsspitze",
-      "titleAr": "بولندا: إشارات إلى خطط هجوم على رأس الحكومة",
-      "translated": true,
-      "link": "https://orf.at/stories/3444733/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-11T11:54:05+02:00",
       "description": ""
     }
   ]
