@@ -4,8 +4,30 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-12T21:18:53.730Z",
+  "updatedAt": "2026-10-13T02:36:51.212Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3444897/",
+      "title": "RJ Mitte ist tot",
+      "titleAr": "RJ Mitte متوفى",
+      "translated": true,
+      "link": "https://orf.at/stories/3444897/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-13T00:19:06+02:00",
+      "description": "Der US-Schauspieler RJ Mitte ist im Alter von 34 Jahren gestorben. Mittes Management bestätigte die Nachricht gegenüber mehreren Medien am Montag. Die Todesursache wurde nicht bekanntgegeben. Einer breiten Öffentlichkeit wurde Mitte durch die Rolle in der US-Erfolgsserie „Breaking Bad“ bekannt, in der er den Sohn von Drogenboss Walter White spielte."
+    },
+    {
+      "id": "https://orf.at/stories/3444898/",
+      "title": "Acht Tote nach russischen Angriffen in Ukraine",
+      "titleAr": "ثمانية قتلى بعد هجمات روسية في أوكرانيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3444898/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-13T00:16:00+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3444817/",
       "title": "Saudi-Arabien mit Rücken zur Wand",
@@ -235,39 +257,6 @@
       "category": "Chronik",
       "categoryAr": "أحداث",
       "publishedAt": "2026-10-12T14:08:12+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444843/",
-      "title": "Indien: Wieder Massenproteste gegen Wahlkommission",
-      "titleAr": "الهند: احتجاجات جماهيرية ضد لجنة الانتخابات",
-      "translated": true,
-      "link": "https://orf.at/stories/3444843/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-12T13:48:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444841/",
-      "title": "Karner verteidigt Festnahme ukrainischer Journalisten",
-      "titleAr": "كارنر يدافع عن اعتقال صحفيين أوكرانيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444841/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-12T13:34:38+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444840/",
-      "title": "Paketsteuer sorgt weiter für Diskussionen",
-      "titleAr": "ضريبة الحزم تثير الجدل مجددًا",
-      "translated": true,
-      "link": "https://orf.at/stories/3444840/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-12T13:22:50+02:00",
       "description": ""
     }
   ]
