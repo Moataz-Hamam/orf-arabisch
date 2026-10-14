@@ -4,8 +4,63 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-13T19:21:21.509Z",
+  "updatedAt": "2026-10-14T00:21:42.038Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445007/",
+      "title": "Weitere Verhandlungsblöcke mit Ukraine und Moldau eröffnet",
+      "titleAr": "فتح مزيد من المفاوضات مع أوكرانيا ومولدوفا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445007/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-13T23:32:18+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445005/",
+      "title": "Bank of America muss über 1,2 Milliarden Dollar Strafe zahlen",
+      "titleAr": "بنك أمريكا يدفع غرامة تزيد عن 1.2 مليار دولار",
+      "translated": true,
+      "link": "https://orf.at/stories/3445005/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-13T23:27:45+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445002/",
+      "title": "Papst Leo wegen Lungenkrebses operiert",
+      "titleAr": "القديس ليو يُجرى عملية جراحية لسرطان الرئة",
+      "translated": true,
+      "link": "https://orf.at/stories/3445002/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-13T23:08:33+02:00",
+      "description": "Papst Leo XIV. ist nach Angaben seiner behandelnden Ärzte an Lungenkrebs erkrankt. Das teilte das Ärzteteam der Gemelli-Klinik in Rom nach einer Operation des 71-Jährigen mit. Bei dem etwa eineinhalbstündigen Eingriff sei der untere Lappen der rechten Lunge des Oberhauptes der katholischen Kirche entfernt worden. Die anschließende Untersuchung habe bestätigt, dass es sich bei dem Knoten um ein Lungenadenokarzinom gehandelt habe."
+    },
+    {
+      "id": "https://orf.at/stories/3445001/",
+      "title": "40 Jahre Haft für Mord an Tupac Shakur",
+      "titleAr": "40 سنة سجن لقتل توباك شاكور",
+      "translated": true,
+      "link": "https://orf.at/stories/3445001/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-13T22:29:59+02:00",
+      "description": "Rund 30 Jahre nach dem Mord an US-Rapper Tupac Shakur ist der frühere Ganganführer Duane Davis zu mindestens 40 Jahren Haft verurteilt worden. Richterin Carlin Kierny verkündete das Strafmaß am Dienstag in Las Vegas im US-Bundesstaat Nevada – rund sechs Wochen nachdem Geschworene einen Schuldspruch verhängt hatten. Davis, der in Handschellen vor Gericht erschien, erklärte gemeinsam mit seinem Anwalt, dass er in Berufung gehen werde."
+    },
+    {
+      "id": "https://orf.at/stories/3444952/",
+      "title": "Microsoft-Vize gegen „Laissez-faire“ bei KI",
+      "titleAr": "نائب مايكروسوفت يرفض سياسة laissez-faire في الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3444952/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-10-13T21:26:58+02:00",
+      "description": "Nach neuen Warnungen des KI-Herstellers Anthropic, wonach „KI-Würmer“ selbst in smarte Küchengeräte eindringen könnten, hat am Dienstag Microsoft-Vize Brad Smith „reale und effektive“ Regeln für künstliche Intelligenz (KI) gefordert. Im Vorfeld eines KI-Gipfels in Dublin sagte er, dass „Laissez-faire“ nicht „funktionieren“ würde. Die EU-Regeln seien für ihn gleichzeitig aber kein Vorbild. Es müsse jedenfalls „dringend“ gehandelt werden, da KI schnellere Fortschritte mache als die nötige Sicherheit."
+    },
     {
       "id": "https://orf.at/stories/3445000/",
       "title": "Midterms: Politikwissenschaftler Werz im Studio",
@@ -41,8 +96,8 @@
     },
     {
       "id": "https://orf.at/stories/3444997/",
-      "title": "Vatikan: Papst erfolgreich operiert",
-      "titleAr": "الفاتيكان: البابا يخضع لعملية ناجحة",
+      "title": "Vatikan: Lungenknoten bei Papst Leo XIV. war bösartig",
+      "titleAr": "الفيكان: عقدة رئوية لدى القديس ليو الرابع عشر كانت خبيثة",
       "translated": true,
       "link": "https://orf.at/stories/3444997/",
       "category": "Chronik",
@@ -235,83 +290,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-13T13:24:32+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444953/",
-      "title": "Lange Schlangen für Van-Gogh-Bild in Hongkong",
-      "titleAr": "طوابير طويلة للوحة فان جوخ في هونغ كونغ",
-      "translated": true,
-      "link": "https://orf.at/stories/3444953/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-13T13:15:54+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444951/",
-      "title": "Regierungsbildung in Schweden erneut gescheitert",
-      "titleAr": "تشكيل الحكومة في السويد يفشل مجدداً",
-      "translated": true,
-      "link": "https://orf.at/stories/3444951/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-13T13:09:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444950/",
-      "title": "Presseclub Concordia: Aufklärung zu Journalistenfestnahmen",
-      "titleAr": "نادي الصحافة كونكورديا: توضيح حول احتجاز الصحفيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3444950/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-13T13:02:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444794/",
-      "title": "Die Unbeugsame der Kinderliteratur",
-      "titleAr": "أدب الأطفال غير القابل للانكسار",
-      "translated": true,
-      "link": "https://orf.at/stories/3444794/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-13T12:52:14+02:00",
-      "description": "„Kinder brauchen keine Schonkost\": Mit dieser Überzeugung revolutionierte Christine Nöstlinger die Kinderliteratur. Zum 90. Geburtstag der 2018 verstorbenen Autorin gibt es nun zahlreiche Würdigungen, darunter die liebevoll gemachte Kinodoku „Nöstlinger – Sowieso und überhaupt\"."
-    },
-    {
-      "id": "https://orf.at/stories/3444947/",
-      "title": "Selenskyj: Partner warnten nicht vor russischem Angriff",
-      "titleAr": "سلينسكي: الشركاء لم يحذروا من الهجوم الروسي",
-      "translated": true,
-      "link": "https://orf.at/stories/3444947/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-13T12:48:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444946/",
-      "title": "Flughafen Nürnberg: Entwarnung nach möglichem Notfall",
-      "titleAr": "مطار نونغنغن: إلغاء التحذير بعد احتمال طارئ",
-      "translated": true,
-      "link": "https://orf.at/stories/3444946/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-13T12:40:21+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444944/",
-      "title": "„Zukunftsdepot“: ÖGB ortet Bevorzugung Wohlhabender",
-      "titleAr": "الـ ÖGB يفضي إلى تفضيل الأغنياء في مستودع المستقبل",
-      "translated": true,
-      "link": "https://orf.at/stories/3444944/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-13T12:23:11+02:00",
       "description": ""
     }
   ]

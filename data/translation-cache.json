@@ -5320,8 +5320,8 @@
     "titleAr": "رئيس 'Zeit': إصدار تسجيل صوتي 'تحت الضغط'"
   },
   "https://orf.at/stories/3444997/": {
-    "sourceTitle": "Vatikan: Papst erfolgreich operiert",
-    "titleAr": "الفاتيكان: البابا يخضع لعملية ناجحة"
+    "sourceTitle": "Vatikan: Lungenknoten bei Papst Leo XIV. war bösartig",
+    "titleAr": "الفيكان: عقدة رئوية لدى القديس ليو الرابع عشر كانت خبيثة"
   },
   "https://orf.at/stories/3444996/": {
     "sourceTitle": "Streit über Falkland-Öl: Argentinien zieht vor Seegericht",
@@ -5410,5 +5410,25 @@
   "https://orf.at/stories/3444947/": {
     "sourceTitle": "Selenskyj: Partner warnten nicht vor russischem Angriff",
     "titleAr": "سلينسكي: الشركاء لم يحذروا من الهجوم الروسي"
+  },
+  "https://orf.at/stories/3445007/": {
+    "sourceTitle": "Weitere Verhandlungsblöcke mit Ukraine und Moldau eröffnet",
+    "titleAr": "فتح مزيد من المفاوضات مع أوكرانيا ومولدوفا"
+  },
+  "https://orf.at/stories/3445005/": {
+    "sourceTitle": "Bank of America muss über 1,2 Milliarden Dollar Strafe zahlen",
+    "titleAr": "بنك أمريكا يدفع غرامة تزيد عن 1.2 مليار دولار"
+  },
+  "https://orf.at/stories/3445002/": {
+    "sourceTitle": "Papst Leo wegen Lungenkrebses operiert",
+    "titleAr": "القديس ليو يُجرى عملية جراحية لسرطان الرئة"
+  },
+  "https://orf.at/stories/3445001/": {
+    "sourceTitle": "40 Jahre Haft für Mord an Tupac Shakur",
+    "titleAr": "40 سنة سجن لقتل توباك شاكور"
+  },
+  "https://orf.at/stories/3444952/": {
+    "sourceTitle": "Microsoft-Vize gegen „Laissez-faire“ bei KI",
+    "titleAr": "نائب مايكروسوفت يرفض سياسة laissez-faire في الذكاء الاصطناعي"
   }
 }
