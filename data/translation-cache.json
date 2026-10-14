@@ -5432,12 +5432,12 @@
     "titleAr": "نائب مايكروسوفت يرفض سياسة laissez-faire في الذكاء الاصطناعي"
   },
   "https://orf.at/stories/3445015/": {
-    "sourceTitle": "Wanze bei OpenAI gefunden: Mitarbeiter festgenommen",
-    "titleAr": "عثور عثة في OpenAI: اعتقال موظف"
+    "sourceTitle": "„Wanze“ bei OpenAI gefunden: Mitarbeiter festgenommen",
+    "titleAr": "عثة في أوبن إيه آي: اعتقال موظف"
   },
   "https://orf.at/stories/3445014/": {
-    "sourceTitle": "NASA-Streckenrekord im All mit Mars-Rover „Perseverance“",
-    "titleAr": "NASA يحقق رقمًا قياسيًا برائد Perseverance"
+    "sourceTitle": "NASA-Streckenrekord im All mit Marsrover „Perseverance“",
+    "titleAr": "سجل ناسا في الفضاء مع برسيفيرانس"
   },
   "https://orf.at/stories/3445013/": {
     "sourceTitle": "Lena Dunham kündigt „Girls“-Fortsetzung an",
@@ -5462,5 +5462,85 @@
   "https://orf.at/stories/3444925/": {
     "sourceTitle": "Prozess mit politischer Sprengkraft",
     "titleAr": "محاكمة ذات قوة مدفونة سياسية"
+  },
+  "https://orf.at/stories/3445060/": {
+    "sourceTitle": "Peter Schneeberger übernimmt interimistisch Ö1-Leitung",
+    "titleAr": "بيتر شنيغبرجر يشغل إدارة Ö1 مؤقتاً"
+  },
+  "https://orf.at/stories/3445020/": {
+    "sourceTitle": "SpaceX schränkt Starlink-Nutzung ein",
+    "titleAr": "SpaceX يحد من استخدام Starlink"
+  },
+  "https://orf.at/stories/3445055/": {
+    "sourceTitle": "Kommission will Klimaregeln zu Methan verschieben",
+    "titleAr": "اللجنة تريد تأجيل قواعد المناخ للميثان"
+  },
+  "https://orf.at/stories/3445053/": {
+    "sourceTitle": "Nationalrat beschloss erleichterte Abschiebung aus Haft",
+    "titleAr": "المجلس الوطني يقرر تسهيل إبعاد السجناء"
+  },
+  "https://orf.at/stories/3445049/": {
+    "sourceTitle": "Ältestes Schiffswrack vor türkischer Küste entdeckt",
+    "titleAr": "أقدم حطام سفينة يُكتشف قبالة سواحل تركيا"
+  },
+  "https://orf.at/stories/3445048/": {
+    "sourceTitle": "Zivildienst: NEOS und SPÖ gegen neue Verhandlungen",
+    "titleAr": "NEOS وSPÖ يعارضان مفاوضات جديدة"
+  },
+  "https://orf.at/stories/3445033/": {
+    "sourceTitle": "Leichte Erholung mit Wermutstropfen",
+    "titleAr": "تعافي خفيف مع لمحة مريرة"
+  },
+  "https://orf.at/stories/3445047/": {
+    "sourceTitle": "Schlagabtausch zu Europa in Nationalrat",
+    "titleAr": "تبادل حاد حول أوروبا في المجلس الوطني"
+  },
+  "https://orf.at/stories/3445046/": {
+    "sourceTitle": "Regierung bewirbt erleichterte Abschiebung",
+    "titleAr": "الحكومة تدعم تسهيل الإبعاد"
+  },
+  "https://orf.at/stories/3445044/": {
+    "sourceTitle": "Schweiger nun auch KPÖ-Vorsitzender",
+    "titleAr": "شفوير يصبح رئيساً للKPÖ"
+  },
+  "https://orf.at/stories/3445043/": {
+    "sourceTitle": "Energieagentur warnt vor anhaltender Dieselknappheit",
+    "titleAr": "وكالة الطاقة تحذر من نقص الديزل المستمر"
+  },
+  "https://orf.at/stories/3445041/": {
+    "sourceTitle": "Lungenkrebs diagnostiziert",
+    "titleAr": "تشخيص سرطان الرئة"
+  },
+  "https://orf.at/stories/3445036/": {
+    "sourceTitle": "WIFO und IHS bestätigen BIP-Wachstum für 2026",
+    "titleAr": "تؤكد WIFO و IHS نمو الناتج المحلي الإجمالي 2026"
+  },
+  "https://orf.at/stories/3445035/": {
+    "sourceTitle": "Shortlist für Österreichischen Buchpreis veröffentlicht",
+    "titleAr": "نشر قائمة الاختيار للجوائز الكتابية النمساوية"
+  },
+  "https://orf.at/stories/3445030/": {
+    "sourceTitle": "Chinas Außenhandel im September übertrifft Erwartungen",
+    "titleAr": "تجاوز تجارة الصين الخارجية سبتمبر التوقعات"
+  },
+  "https://orf.at/stories/3445023/": {
+    "sourceTitle": "Türkei: Polizei stürmt oppositionsnahen TV-Sender",
+    "titleAr": "شرطة تركيا تقتحم محطة تلفزيونية معارضة"
+  },
+  "https://orf.at/stories/3445016/": {
+    "sourceTitle": "Marterbauer: Parteivorsitz noch kein Thema",
+    "titleAr": "مارترباودر: قيادة الحزب غير موضوع"
+  },
+  "https://orf.at/stories/3445019/": {
+    "sourceTitle": "Rektoren wollen in vielen Fächern Aus für Lateinpflicht",
+    "titleAr": "أرباب الجامعات يطالبون بإلغاء اللاتينية في كثير من التخصصات"
+  },
+  "https://orf.at/stories/3445018/": {
+    "sourceTitle": "Trump kündigt Erschließung von Rohstoffen in Grönland an",
+    "titleAr": "ترامب يعلن استكشاف الموارد في جرينلاند"
+  },
+  "https://orf.at/stories/3445017/": {
+    "sourceTitle": "Heer: Rund eine Mrd. Mehrkosten durch Wehrdienstreform",
+    "titleAr": "الجيش: تكاليف إضافية مليار بسبب إصلاح الخدمة"
   }
 }
