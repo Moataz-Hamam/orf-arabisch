@@ -4,8 +4,96 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-14T00:21:42.038Z",
+  "updatedAt": "2026-10-14T05:03:30.359Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445015/",
+      "title": "Wanze bei OpenAI gefunden: Mitarbeiter festgenommen",
+      "titleAr": "عثور عثة في OpenAI: اعتقال موظف",
+      "translated": true,
+      "link": "https://orf.at/stories/3445015/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-14T06:57:49+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445014/",
+      "title": "NASA-Streckenrekord im All mit Mars-Rover „Perseverance“",
+      "titleAr": "NASA يحقق رقمًا قياسيًا برائد Perseverance",
+      "translated": true,
+      "link": "https://orf.at/stories/3445014/",
+      "category": "Science",
+      "categoryAr": "Science",
+      "publishedAt": "2026-10-14T06:52:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445013/",
+      "title": "Lena Dunham kündigt „Girls“-Fortsetzung an",
+      "titleAr": "لينا دنهم تعلن عن إكمال مسلسل Girls",
+      "translated": true,
+      "link": "https://orf.at/stories/3445013/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-14T06:47:29+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445012/",
+      "title": "Ukraine: Kraftwerk in Kiew getroffen",
+      "titleAr": "أوكرانيا: محطة كهرباء تُضرب في كييف",
+      "translated": true,
+      "link": "https://orf.at/stories/3445012/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-14T06:43:33+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445011/",
+      "title": "Saudi-Arabien: Feuer in Aramco-Gebäude nach Angriff",
+      "titleAr": "السعودية: حريق في مبنى أرامكو بعد هجوم",
+      "translated": true,
+      "link": "https://orf.at/stories/3445011/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-14T06:36:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445010/",
+      "title": "Bericht: Iran ändert Hormus-Taktik vor US-Wahlen",
+      "titleAr": "إيران تغير استراتيجيته في هرمز قبل الانتخابات الأمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445010/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-14T06:31:48+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445009/",
+      "title": "US-Senatoren fordern Ausstieg aus Dieselabkommen mit Moskau",
+      "titleAr": "الولايات المتحدة: أعضاء مجلس الشيوخ يطالبون بإنهاء اتفاقية الديزل مع موسكو",
+      "translated": true,
+      "link": "https://orf.at/stories/3445009/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-14T06:29:29+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444925/",
+      "title": "Prozess mit politischer Sprengkraft",
+      "titleAr": "محاكمة ذات قوة مدفونة سياسية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444925/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-14T06:02:25+02:00",
+      "description": "In Hamburg in Deutschland beginnt am Mittwoch der Prozess zum Anschlag auf die „Nord Stream“-Gaspipelines. Vor Gericht steht ein ehemaliger Offizier der ukrainischen Armee. Der Prozess birgt politische Sprengkraft: Deutschlands Bundesanwaltschaft geht davon aus, dass der Sabotageakt im Auftrag staatlicher Stellen erfolgte. Der ukrainische Präsident Wolodymyr Selenskyj wies eine Beteiligung Kiews zurück."
+    },
     {
       "id": "https://orf.at/stories/3445007/",
       "title": "Weitere Verhandlungsblöcke mit Ukraine und Moldau eröffnet",
@@ -247,50 +335,6 @@
       "categoryAr": "Science",
       "publishedAt": "2026-10-13T14:59:42+02:00",
       "description": "Bis Ende Oktober muss laut Gesetz feststehen, wie viel Geld die öffentlichen Unis für ihr nächstes Dreijahresbudget ab 2028 erhalten. Am Wochenende will die Regierung die Summe fixieren. Die Universitätenkonferenz (uniko) befürchtet wegen der Einsparungen im aktuellen Doppelbudget Einschnitte von rund einer Mrd. Euro bis 2030 und warnt vor einem großen Stellenabbau. Die Österreichische Hochschülerinnen- und Hochschülerschaft (ÖH) rief erneut zum Protest auf, die Unis unterstützten die Aktion."
-    },
-    {
-      "id": "https://orf.at/stories/3444962/",
-      "title": "BBC kündigt kritische Doku über JK Rowling an",
-      "titleAr": "بي بي سي تعلن عن وثائقي نقدي عن ج.ك. رولينغ",
-      "translated": true,
-      "link": "https://orf.at/stories/3444962/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-13T14:56:13+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444960/",
-      "title": "EU gibt 4,2 Milliarden Euro für Ungarn frei",
-      "titleAr": "الاتحاد الأوروبي يطلق 4.2 مليار يورو على المجر",
-      "translated": true,
-      "link": "https://orf.at/stories/3444960/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-13T14:35:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444955/",
-      "title": "Wehrpflicht: Hameseder fordert von NEOS „Reset-Taste“",
-      "titleAr": "الالتزام العسكري: هامسيدر يطالب NEOS بزر إعادة الضبط",
-      "translated": true,
-      "link": "https://orf.at/stories/3444955/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-13T13:58:44+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444954/",
-      "title": "Leonardo-Jets: FPÖ und Grüne fordern Aufklärung",
-      "titleAr": "أجنحة ليوناردو: FPÖ والبيئة يطالبان بالتحقيق",
-      "translated": true,
-      "link": "https://orf.at/stories/3444954/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-13T13:24:32+02:00",
-      "description": ""
     }
   ]
 }
