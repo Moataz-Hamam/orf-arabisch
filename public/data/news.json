@@ -4,8 +4,129 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-15T17:09:20.722Z",
+  "updatedAt": "2026-10-15T21:30:52.144Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445232/",
+      "title": "Menschen in Region Kiew nach russischem Angriff ohne Strom",
+      "titleAr": "المدنيون في كييف يفتقدون الكهرباء بعد الهجوم الروسي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445232/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T23:24:30+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445144/",
+      "title": "Hühnerabfälle als neues Lachsfutter",
+      "titleAr": "فضلات الدجاج غذاء جديد لسلمون",
+      "translated": true,
+      "link": "https://orf.at/stories/3445144/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-15T23:06:01+02:00",
+      "description": "Lachs gilt wegen seiner Omega-3-Fettsäuren als gesundes Lebensmittel, entsprechend stetig steigt die Nachfrage nach dem Fisch. Ein Großteil stammt aus industrieller Produktion in Aquakulturen. Europas größte Lachsfarmen in Norwegen beginnen nun damit, ihre Fische mit Hühnenabfällen zu füttern, und brechen damit ein Tabu auf der Suche nach billigen Produktionsmitteln. Sie sind aber nicht nur deswegen umstritten."
+    },
+    {
+      "id": "https://orf.at/stories/3445228/",
+      "title": "Eurotunnel: Verletzte bei Unfall mit Bus und Zug",
+      "titleAr": "أصابات في حادث حافلة وقطار عبر القناة الأوروبية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445228/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-15T21:49:47+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445227/",
+      "title": "Ukraine und Migration Themen am zweiten Gipfeltag",
+      "titleAr": "أوكرانيا والهجرة محور اليوم الثاني للقمم",
+      "translated": true,
+      "link": "https://orf.at/stories/3445227/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T21:44:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445226/",
+      "title": "UniCredit: EZB genehmigt weitere Commerzbank-Anteilkäufe",
+      "titleAr": "أونيكريديت: البنوك الأوروبية تسمح بعمليات شراء إضافية لأسهم كوميرزبنك",
+      "translated": true,
+      "link": "https://orf.at/stories/3445226/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-15T21:39:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445225/",
+      "title": "Interpol: 95 Festnahmen bei Einsatz gegen Kindesmissbrauch",
+      "titleAr": "الإنتربول: 95 اعتقالاً في حملة ضد إساءة معاملة الأطفال",
+      "translated": true,
+      "link": "https://orf.at/stories/3445225/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-15T21:37:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445157/",
+      "title": "Junge verletzen sich besonders häufig",
+      "titleAr": "الأطفال يتعرضون لإصابات أكثر شيوعاً",
+      "translated": true,
+      "link": "https://orf.at/stories/3445157/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-15T21:12:13+02:00",
+      "description": "Der Fitnessboom geht mit einem deutlichen Anstieg der Verletzungen beim Kraftsport einher. 2025 mussten rund 3.300 Menschen nach Unfällen beim Krafttraining in Spitälern behandelt werden, teilte das Kuratorium für Verkehrssicherheit (KFV) am Donnerstag mit. Besonders betroffen sind junge Menschen: 52 Prozent der Verletzten waren zwischen 15 und 29 Jahre alt. Rund drei Viertel sind Männer. Am häufigsten kam es zu Muskel- und Sehnenverletzungen."
+    },
+    {
+      "id": "https://orf.at/stories/3445222/",
+      "title": "Eulenfamilie begeistert New York",
+      "titleAr": "عائلة البوم يثير إعجاب نيويورك",
+      "translated": true,
+      "link": "https://orf.at/stories/3445222/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-15T20:23:29+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445220/",
+      "title": "Jemen: Huthis griffen Präsidentenpalast in Aden an",
+      "titleAr": "اليمن: الحوثيون يهاجمون قصر الرئيس في عدن",
+      "translated": true,
+      "link": "https://orf.at/stories/3445220/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T20:14:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445218/",
+      "title": "Verbrenner-Aus: Paris und Berlin für weitere Aufweichung",
+      "titleAr": "إيقاف السيارات: باريس وبرلين يدعمان المزيد من التخفيف",
+      "translated": true,
+      "link": "https://orf.at/stories/3445218/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T20:01:44+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445216/",
+      "title": "Nationalrat: „Auslieferung“ für SPÖ-Mandatar Kocevar",
+      "titleAr": "النظام الوطني يطالب بتسليم مندوب الحزب الاشتراكي الديمقراطي كوتشيفار",
+      "translated": true,
+      "link": "https://orf.at/stories/3445216/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-15T19:45:17+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445214/",
       "title": "Friedensnobelpreisträgerin Matwijtschuk zur Lage in der Ukraine",
@@ -19,8 +140,8 @@
     },
     {
       "id": "https://orf.at/stories/3445212/",
-      "title": "Angriff auf Tanker vor rumänischer Küste: Seeleute vermisst",
-      "titleAr": "هجوم على ناقلة أمام رومانيا: بحار مفقود",
+      "title": "Tanker vor rumänischer Küste getroffen: Seeleute vermisst",
+      "titleAr": "سفينة شحن صدم عند سواحل رومانيا: طاقم مفقود",
       "translated": true,
       "link": "https://orf.at/stories/3445212/",
       "category": "Ausland",
@@ -181,127 +302,6 @@
       "categoryAr": "Medien",
       "publishedAt": "2026-10-15T14:59:19+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445177/",
-      "title": "Autozulieferindustrie baute im Vorjahr 3.000 Jobs ab",
-      "titleAr": "صناعة توريد السيارات ألغت ٣٠٠٠ وظيفة في العام الماضي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445177/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-15T14:22:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445176/",
-      "title": "Russland: „Nowaja Gaseta“ meldet Festnahme von Chefredakteur",
-      "titleAr": "روسيا: صحيفة \\\"نوفا جازيتا\\\" تبلغ اعتقال رئيس تحرير",
-      "translated": true,
-      "link": "https://orf.at/stories/3445176/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T14:19:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445174/",
-      "title": "Proteste gegen Albaniens Regierung weiten sich aus",
-      "titleAr": "المظاهرات ضد حكومة ألبانيا تتوسع",
-      "translated": true,
-      "link": "https://orf.at/stories/3445174/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T14:03:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445142/",
-      "title": "Sporrer setzt auf „Umschichtungen“ und KI",
-      "titleAr": "سبرور يركز على التبديلات والذكاء الاصطناعي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445142/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-15T13:48:36+02:00",
-      "description": "Bereits seit Beginn der Woche machen Richter und Richterinnen sowie Staatsanwältinnen und Staatsanwälte mit Streiks und Protesten auf die enorme Arbeitsbelastung und den akuten Personalmangel in der Justiz aufmerksam. Justizministerin Anna Sporrer (SPÖ) kündigte am Donnerstag im Ö1-Morgenjournal neue Maßnahmen an und verwies auf Entlastungen durch „Umschichtungen“ und ein neues KI-Tool."
-    },
-    {
-      "id": "https://orf.at/stories/3445164/",
-      "title": "VfGH: Rolle des Nationalen Weinkomitees gesetzwidrig",
-      "titleAr": "المحكمة العليا: دور لجنة النبيذ الوطنية مخالف للقانون",
-      "translated": true,
-      "link": "https://orf.at/stories/3445164/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-15T13:10:06+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445165/",
-      "title": "Regierung gab im ersten Halbjahr 5,8 Millionen für Werbung aus",
-      "titleAr": "الحكومة تنفق 5.8 مليون يورو على الإعلانات في النصف الأول",
-      "translated": true,
-      "link": "https://orf.at/stories/3445165/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-15T13:08:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445163/",
-      "title": "Angriffe auf Saudi-Arabien: EU sagt Gipfel mit Golfstaaten ab",
-      "titleAr": "الاتحاد الأوروبي يلغى قمة الخليج بعد هجمات على السعودية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445163/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T12:49:19+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445162/",
-      "title": "Panini steigerte Gewinn 2025 um 80 Prozent",
-      "titleAr": "بانيني يرفع أرباحها 80٪ في 2025",
-      "translated": true,
-      "link": "https://orf.at/stories/3445162/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-15T12:39:11+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445161/",
-      "title": "Harry und Meghan zeigen sich erstmals seit Rückkehr",
-      "titleAr": "هاري وماغن يظهران للمرة الأولى بعد عودتهما",
-      "translated": true,
-      "link": "https://orf.at/stories/3445161/",
-      "category": "Leute",
-      "categoryAr": "Leute",
-      "publishedAt": "2026-10-15T12:26:00+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445159/",
-      "title": "Präventionsgipfel gegen „nihilistische“ Gewalt",
-      "titleAr": "قمة الوقاية من العنف النهوي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445159/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-15T12:10:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445146/",
-      "title": "Verhärtete Fronten zu EU-Budget bis 2034",
-      "titleAr": "حدود متصاعدة على ميزانية الاتحاد الأوروبي حتى 2034",
-      "translated": true,
-      "link": "https://orf.at/stories/3445146/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T12:07:34+02:00",
-      "description": "In Brüssel hat am Donnerstag der zweitägige Gipfel der Staats- und Regierungsspitzen der EU begonnen. Bei dem Treffen verhandeln die 27 Mitgliedsstaaten unter anderem über den nächsten mehrjährigen EU-Haushalt von 2028 bis 2034. Die Fronten sind zwischen jenen Ländern, die ein deutlich größeres Budget fordern, und jenen, die auf Einschnitte und Sparsamkeit setzen, darunter Deutschland, Österreich und die Niederlande, verhärtet."
     }
   ]
 }

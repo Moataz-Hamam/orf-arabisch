@@ -5720,8 +5720,8 @@
     "titleAr": "ماتفيتشوك تتحدث عن وضع أوكرانيا"
   },
   "https://orf.at/stories/3445212/": {
-    "sourceTitle": "Angriff auf Tanker vor rumänischer Küste: Seeleute vermisst",
-    "titleAr": "هجوم على ناقلة أمام رومانيا: بحار مفقود"
+    "sourceTitle": "Tanker vor rumänischer Küste getroffen: Seeleute vermisst",
+    "titleAr": "سفينة شحن صدم عند سواحل رومانيا: طاقم مفقود"
   },
   "https://orf.at/stories/3445213/": {
     "sourceTitle": "Maduro und seine Frau weisen neue US-Foltervorwürfe zurück",
@@ -5814,5 +5814,49 @@
   "https://orf.at/stories/3445146/": {
     "sourceTitle": "Verhärtete Fronten zu EU-Budget bis 2034",
     "titleAr": "حدود متصاعدة على ميزانية الاتحاد الأوروبي حتى 2034"
+  },
+  "https://orf.at/stories/3445232/": {
+    "sourceTitle": "Menschen in Region Kiew nach russischem Angriff ohne Strom",
+    "titleAr": "المدنيون في كييف يفتقدون الكهرباء بعد الهجوم الروسي"
+  },
+  "https://orf.at/stories/3445144/": {
+    "sourceTitle": "Hühnerabfälle als neues Lachsfutter",
+    "titleAr": "فضلات الدجاج غذاء جديد لسلمون"
+  },
+  "https://orf.at/stories/3445228/": {
+    "sourceTitle": "Eurotunnel: Verletzte bei Unfall mit Bus und Zug",
+    "titleAr": "أصابات في حادث حافلة وقطار عبر القناة الأوروبية"
+  },
+  "https://orf.at/stories/3445227/": {
+    "sourceTitle": "Ukraine und Migration Themen am zweiten Gipfeltag",
+    "titleAr": "أوكرانيا والهجرة محور اليوم الثاني للقمم"
+  },
+  "https://orf.at/stories/3445226/": {
+    "sourceTitle": "UniCredit: EZB genehmigt weitere Commerzbank-Anteilkäufe",
+    "titleAr": "أونيكريديت: البنوك الأوروبية تسمح بعمليات شراء إضافية لأسهم كوميرزبنك"
+  },
+  "https://orf.at/stories/3445225/": {
+    "sourceTitle": "Interpol: 95 Festnahmen bei Einsatz gegen Kindesmissbrauch",
+    "titleAr": "الإنتربول: 95 اعتقالاً في حملة ضد إساءة معاملة الأطفال"
+  },
+  "https://orf.at/stories/3445157/": {
+    "sourceTitle": "Junge verletzen sich besonders häufig",
+    "titleAr": "الأطفال يتعرضون لإصابات أكثر شيوعاً"
+  },
+  "https://orf.at/stories/3445222/": {
+    "sourceTitle": "Eulenfamilie begeistert New York",
+    "titleAr": "عائلة البوم يثير إعجاب نيويورك"
+  },
+  "https://orf.at/stories/3445220/": {
+    "sourceTitle": "Jemen: Huthis griffen Präsidentenpalast in Aden an",
+    "titleAr": "اليمن: الحوثيون يهاجمون قصر الرئيس في عدن"
+  },
+  "https://orf.at/stories/3445218/": {
+    "sourceTitle": "Verbrenner-Aus: Paris und Berlin für weitere Aufweichung",
+    "titleAr": "إيقاف السيارات: باريس وبرلين يدعمان المزيد من التخفيف"
+  },
+  "https://orf.at/stories/3445216/": {
+    "sourceTitle": "Nationalrat: „Auslieferung“ für SPÖ-Mandatar Kocevar",
+    "titleAr": "النظام الوطني يطالب بتسليم مندوب الحزب الاشتراكي الديمقراطي كوتشيفار"
   }
 }
