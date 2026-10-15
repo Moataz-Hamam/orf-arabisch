@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-14T21:47:54.151Z",
+  "updatedAt": "2026-10-15T04:51:25.257Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445116/",
+      "title": "Costa Rica eröffnet neues Hochsicherheitsgefängnis",
+      "titleAr": "كوستاريكا تفتح سجنًا عالي الأمان",
+      "translated": true,
+      "link": "https://orf.at/stories/3445116/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T06:35:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445115/",
+      "title": "Rumänien untersucht möglichen Drohnenangriff auf Tanker",
+      "titleAr": "رومانيا تفحص احتمال هجوم بطائرات بدون طيار على ناقلات النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3445115/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T06:27:39+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445059/",
+      "title": "Harte Budgetverhandlungen erwartet",
+      "titleAr": "توقع صراع في مفاوضات الميزانية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445059/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T06:11:18+02:00",
+      "description": "Der EU-Gipfel der Staats- und Regierungschefs am Donnerstag und Freitag in Brüssel steht im Zeichen des nächsten mehrjährigen EU-Haushalts von 2028 bis 2034. Es werden harte Verhandlungen zwischen den Ländern, die ein geringeres, und den Mitgliedsstaaten, die ein größeres Budget fordern, erwartet. Zudem stehen weitere wichtige Themen auf der Agenda, unter anderem die Unterstützung der Ukraine, die Handelsbeziehungen zu China und die hohen Energiepreise."
+    },
+    {
+      "id": "https://orf.at/stories/3445113/",
+      "title": "Nordkorea feuerte zwei Marschflugkörper von U-Booten ab",
+      "titleAr": "كوريا الشمالية تطلق صاروخين هجوميّين من غواصات",
+      "translated": true,
+      "link": "https://orf.at/stories/3445113/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-15T03:12:42+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445112/",
       "title": "Anthropic integriert US-Wahlinformationen in KI-Chatbot",
@@ -279,39 +323,6 @@
       "category": "Ausland",
       "categoryAr": "العالم",
       "publishedAt": "2026-10-14T14:51:50+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445063/",
-      "title": "AUA-Mutter Lufthansa gewann Bieterrennen um Airline TAP",
-      "titleAr": "أم AUA، لوفتهانزا، تفوقت في سباق العطاءات للحصول على الخطوط الجوية TAP",
-      "translated": true,
-      "link": "https://orf.at/stories/3445063/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-14T14:35:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445061/",
-      "title": "Öffentliche Vergaben: Europafokus soll gestärkt werden",
-      "titleAr": "المزايدات العامة: يُقترح تعزيز التركيز الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445061/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-14T14:20:25+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445060/",
-      "title": "Peter Schneeberger übernimmt interimistisch Ö1-Leitung",
-      "titleAr": "بيتر شنيغبرجر يشغل إدارة Ö1 مؤقتاً",
-      "translated": true,
-      "link": "https://orf.at/stories/3445060/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-10-14T13:53:01+02:00",
       "description": ""
     }
   ]
