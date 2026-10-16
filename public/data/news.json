@@ -4,8 +4,129 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-16T16:46:21.985Z",
+  "updatedAt": "2026-10-16T21:21:23.671Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445342/",
+      "title": "Amazonas-Gebiet: Abholzung auf niedrigstem Stand seit 1988",
+      "titleAr": "قطع الأشجار في الأمازون على أدنى مستوى منذ 1988",
+      "translated": true,
+      "link": "https://orf.at/stories/3445342/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-16T23:07:05+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445338/",
+      "title": "US-Neuverschuldung steigt auf Fünfjahreshoch",
+      "titleAr": "الديون الأمريكية ترتفع لأعلى مستوى خلال الخمس سنوات",
+      "translated": true,
+      "link": "https://orf.at/stories/3445338/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T22:17:28+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445336/",
+      "title": "Unis, „Zukunftsdepot“: Regierung trifft sich zu Arbeitsgespräch",
+      "titleAr": "الجامعة 'مستودع المستقبل': اجتماع حكومي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445336/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-16T21:43:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445335/",
+      "title": "Niessl will bei Bundespräsidentenwahl 2028 antreten",
+      "titleAr": "نيسل يخطط للترشح لرئاسة الاتحاد في 2028",
+      "translated": true,
+      "link": "https://orf.at/stories/3445335/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-16T21:13:42+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445333/",
+      "title": "Trump bestreitet Verantwortung für Starlink-Ausfälle",
+      "titleAr": "ترامب ينفي مسؤولية انقطاع ستارلينك",
+      "translated": true,
+      "link": "https://orf.at/stories/3445333/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T20:43:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445329/",
+      "title": "Trump entlässt Sprecherin Zacharia",
+      "titleAr": "ترامب يطرد المتحدثة زاكاريا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445329/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T20:39:31+02:00",
+      "description": "Nach nur wenigen Tagen im Amt hat US-Präsident Donald Trump seine Pressesprecherin Katie Zacharia am Freitag entlassen. Das bestätigte das Weiße Haus gegenüber mehreren Medien. Zuvor hatte Trump vor Journalistinnen und Journalisten in Washington gesagt, er habe ihr geraten, ihren Verbleib auf dem Posten zu „überdenken“, weil es womöglich nicht die richtige Aufgabe für sie sei."
+    },
+    {
+      "id": "https://orf.at/stories/3445269/",
+      "title": "Onlinewerbung als Einfallstor für Spionage",
+      "titleAr": "الإعلانات عبر الإنترنت كنافذة تجسس",
+      "translated": true,
+      "link": "https://orf.at/stories/3445269/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-10-16T19:45:15+02:00",
+      "description": "Forschende des Citizen Lab von der Universität Toronto haben dokumentiert, wie manipulierte Onlinewerbung dazu genutzt werden kann, Endgeräte wie Computer und Handys unbemerkt mit Spionagesoftware zu infizieren, ohne dass die Opfer je einen Klick machen müssen. Laut einer am Donnerstag veröffentlichten Studie steht dabei die israelische Werbefirma Discover-Tech im Fokus. Die Anzeigen wurden auch auf Geräten in Netzwerken von Regierungen und internationaler Organisationen ausgespielt. Experten sehen dringenden Regulierungsbedarf im Onlinewerbemarkt."
+    },
+    {
+      "id": "https://orf.at/stories/3445328/",
+      "title": "Nach Kritik: Trump legt Sprecherin Zacharia Rücktritt nahe",
+      "titleAr": "بعد الانتقادات: ترامب يقترح استقالة زاكاريا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445328/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T19:41:24+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445327/",
+      "title": "Solosechser bei Lotto „6 aus 45“",
+      "titleAr": "سولوسيشير في لوتو 6 من 45",
+      "translated": true,
+      "link": "https://orf.at/stories/3445327/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-16T19:38:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445326/",
+      "title": "Ärztekammer-Präsident Steinhart im Studio",
+      "titleAr": "رئيس نقابة الأطباء ستينهارت في الاستوديو",
+      "translated": true,
+      "link": "https://orf.at/stories/3445326/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-16T19:36:34+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445324/",
+      "title": "Papst telefonierte mit Putin und bat für Stadt Oleschky",
+      "titleAr": "القدس يتصل بفلاديمير بوتين ويطلب مساعدة لمدينة أوليشكي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445324/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T19:10:27+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445321/",
       "title": "Russland meldet Feuer nach Drohnenangriff in Westsibirien",
@@ -148,83 +269,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-10-16T14:16:27+02:00",
       "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445286/",
-      "title": "Äthiopien setzt Übergangsregierung in Tigray ein",
-      "titleAr": "أثيوبيا تعيّن حكومة انتقالية في تيغراي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445286/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T13:44:15+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445284/",
-      "title": "Berichte: Verletzte nach Siedlerangriffen im Westjordanland",
-      "titleAr": "تقارير: إصابات بعد هجمات المستوطنين في الضفة الغربية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445284/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T13:38:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445279/",
-      "title": "Datenstörung halbiert Flugverkehr in Italien",
-      "titleAr": "تعطل بيانات يضعف حركة الطيران في إيطاليا إلى النصف",
-      "translated": true,
-      "link": "https://orf.at/stories/3445279/",
-      "category": "IT",
-      "categoryAr": "IT",
-      "publishedAt": "2026-10-16T12:50:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445276/",
-      "title": "Aus für Verbrenner: Paris und Berlin einig über Aufweichung",
-      "titleAr": "باريس وبرلين توافقان على تخفيف قوانين محركات الاحتراق",
-      "translated": true,
-      "link": "https://orf.at/stories/3445276/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T12:24:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445262/",
-      "title": "Gegensätzliche Positionen auf EU-Gipfel",
-      "titleAr": "مواقف متضاربة في قمة الاتحاد الأوروبي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445262/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T12:15:12+02:00",
-      "description": "Der EU-Gipfel in Brüssel beschäftigt sich am Freitag mit der Unterstützung der Ukraine. Der deutsche Kanzler Friedrich Merz (CDU) und der estnische Ministerpräsident Kristen Michal können sich mehr Geld für das von Russland angegriffene Land vorstellen. Bundeskanzler Christian Stocker (ÖVP) bremste indes in der Debatte, der Ukraine neue weitreichende Finanzzusagen auch für nächstes Jahr zu machen."
-    },
-    {
-      "id": "https://orf.at/stories/3445274/",
-      "title": "Russland stellt weitere Firmen unter Staatsaufsicht",
-      "titleAr": "روسيا تضع شركات أخرى تحت إشراف الدولة",
-      "translated": true,
-      "link": "https://orf.at/stories/3445274/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T12:08:49+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444373/",
-      "title": "Irlands Rockstars mit düsteren Tönen",
-      "titleAr": "روكستارز أيرلنديون بألحان سوداوية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444373/",
-      "category": "Kultur",
-      "categoryAr": "ثقافة",
-      "publishedAt": "2026-10-16T11:52:20+02:00",
-      "description": "Fontaines D.C. gelten vielen als bedeutendster Rockexport Irlands seit U2 – sie sind Stammgäste auf den großen Festivalbühnen der Welt und werden gefeiert von Fans wie Elton John und Harry Styles. Auf ihrem fünften, bisher düstersten Album „Dopamine Chamber“ schlagen die Dubliner erneut neue musikalische Haken und überraschen mit Popstar Rosalia als Stargast."
     }
   ]
 }
