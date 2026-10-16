@@ -4,8 +4,173 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-16T11:35:33.886Z",
+  "updatedAt": "2026-10-16T16:46:21.985Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445321/",
+      "title": "Russland meldet Feuer nach Drohnenangriff in Westsibirien",
+      "titleAr": "روسيا: حريق بعد هجوم بطائرات بدون طيار في غرب سيبيريا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445321/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T18:11:08+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445309/",
+      "title": "Selenskyj bittet EU-Spitzen um weitere Hilfen",
+      "titleAr": "سلينسكي يطلب من قادة الاتحاد الأوروبي مزيداً من المساعدات",
+      "translated": true,
+      "link": "https://orf.at/stories/3445309/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T17:06:53+02:00",
+      "description": "Am zweiten Tag des Treffens der EU-Staats- und -Regierungsspitzen in Brüssel ist die weitere finanzielle der Unterstützung der Ukraine diskutiert worden. Der ukrainische Präsident Wolodymyr Selenskyj bat die EU-Spitzen am Freitag um Hilfen in der Höhe von 70 Milliarden Euro. Kommissionspräsidentin Ursula von der Leyen und Ratspräsident Antonio Costa betonten ihren Willen zur Unterstützung Kiews."
+    },
+    {
+      "id": "https://orf.at/stories/3445277/",
+      "title": "Rückgang bei fossilen CO2-Emissionen",
+      "titleAr": "انخفاض انبعاثات الكربون الأحفوري",
+      "translated": true,
+      "link": "https://orf.at/stories/3445277/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-16T17:06:52+02:00",
+      "description": "Gegenüber 2023 sind die fossilen CO2-Emissionen um rund 4,3 Prozent gesunken. Das berichtete am Freitag die Statistik Austria in ihrer „Luftemissionsrechnung 2024“. Im Vergleich zu 2008 sind die fossilen Emissionen sogar um insgesamt 27 Prozent gesunken. Der Rückgang bei den privaten Haushalten war dabei stärker als jener der Wirtschaft."
+    },
+    {
+      "id": "https://orf.at/stories/3445315/",
+      "title": "Nach Spott über Toiletten: China lädt Trump-Sprecherin ein",
+      "titleAr": "بعد السخرية من المراحيض: تدعو الصين متحدثة ترامب",
+      "translated": true,
+      "link": "https://orf.at/stories/3445315/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T16:59:32+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445312/",
+      "title": "China beschränkt Export gewisser KI-Technologien",
+      "titleAr": "الصين تقيّد تصدير بعض تقنيات الذكاء الاصطناعي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445312/",
+      "category": "IT",
+      "categoryAr": "IT",
+      "publishedAt": "2026-10-16T16:39:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445311/",
+      "title": "AGES warnt vor Salmonellen auf Paradeiser aus Sizilien",
+      "titleAr": "الأغس تحذر من السالمونيلا في الطماطم من صقلية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445311/",
+      "category": "Gesundheit",
+      "categoryAr": "Gesundheit",
+      "publishedAt": "2026-10-16T16:14:16+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445310/",
+      "title": "Italien, Spanien: Bericht über Ende der Grenzkontrollen",
+      "titleAr": "إيطاليا وإسبانيا: تقرير عن نهاية الرقابة الحدودية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445310/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T16:03:50+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445143/",
+      "title": "Sporthandel kommt nicht zur Ruhe",
+      "titleAr": "تجارة الرياضة لا تهدأ",
+      "translated": true,
+      "link": "https://orf.at/stories/3445143/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-16T15:53:30+02:00",
+      "description": "In kaum einer Branche war in den vergangenen Jahren so viel Dynamik sichtbar wie im Sporthandel. Deutlich wird das einmal mehr mit der Ankündigung von Hervis, weitere Filialen zu schließen und sich verstärkt auf den Onlinehandel zu fokussieren. Der Verband der Sportartikelerzeuger und Sportartikelhändler Österreichs (VSSÖ) verweist auf ein herausforderndes Marktumfeld, angesichts dessen der heimische Sport- und Fahrradfachhandel eine bemerkenswerte Stabilität zeige."
+    },
+    {
+      "id": "https://orf.at/stories/3445306/",
+      "title": "Albanien: Rama ruft nach Protesten zu Ruhe auf",
+      "titleAr": "ألبانيا: راما يدعو إلى الهدوء بعد الاحتجاجات",
+      "translated": true,
+      "link": "https://orf.at/stories/3445306/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T15:49:19+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445304/",
+      "title": "Eurowings erwägt Einführung von Kurzarbeit",
+      "titleAr": "إيورووينغز تفكر في إدخال العمل الجزئي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445304/",
+      "category": "Wirtschaft",
+      "categoryAr": "اقتصاد",
+      "publishedAt": "2026-10-16T15:40:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445296/",
+      "title": "Lehrerkritik an neuen AHS-Oberstufenlehrplänen",
+      "titleAr": "معلمون ينتقدون المنهج الجديد للمرحلة الثانوية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445296/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-16T14:55:58+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445294/",
+      "title": "Neue Gemeindeplattform für leichteren Datenaustausch",
+      "titleAr": "منصة بلدية جديدة لتسهيل تبادل البيانات",
+      "translated": true,
+      "link": "https://orf.at/stories/3445294/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-16T14:27:10+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445291/",
+      "title": "UNO: Millionen Ukrainern droht im Winter Vertreibung",
+      "titleAr": "الأمم المتحدة: تهدد الشتاء هجرة قسرية لملايين الأوكرانيين",
+      "translated": true,
+      "link": "https://orf.at/stories/3445291/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T14:16:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445286/",
+      "title": "Äthiopien setzt Übergangsregierung in Tigray ein",
+      "titleAr": "أثيوبيا تعيّن حكومة انتقالية في تيغراي",
+      "translated": true,
+      "link": "https://orf.at/stories/3445286/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T13:44:15+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445284/",
+      "title": "Berichte: Verletzte nach Siedlerangriffen im Westjordanland",
+      "titleAr": "تقارير: إصابات بعد هجمات المستوطنين في الضفة الغربية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445284/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T13:38:23+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445279/",
       "title": "Datenstörung halbiert Flugverkehr in Italien",
@@ -59,172 +224,7 @@
       "category": "Kultur",
       "categoryAr": "ثقافة",
       "publishedAt": "2026-10-16T11:52:20+02:00",
-      "description": "Fontaines D. C. gelten vielen als bedeutendster Rockexport Irlands seit U2 – sie sind Stammgäste auf den großen Festivalbühnen der Welt und werden gefeiert von Fans wie Elton John und Harry Styles. Auf ihrem fünften, bisher düstersten Album „Dopamine Chamber“ schlagen die Dubliner erneut neue musikalische Haken und überraschen mit Popstar Rosalia als Stargast."
-    },
-    {
-      "id": "https://orf.at/stories/3445261/",
-      "title": "UNO-Sicherheitsrat verurteilt Huthi-Angriffe",
-      "titleAr": "مجلس الأمن التابع للأمم المتحدة يدين هجمات الحوثيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3445261/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T09:47:34+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445257/",
-      "title": "Trump-Sprecherin räumt Scheitern bei Anwaltsprüfung ein",
-      "titleAr": "متحدثة ترامب تعترف بالفشل في اختبار المحاماة",
-      "translated": true,
-      "link": "https://orf.at/stories/3445257/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T09:36:31+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445256/",
-      "title": "September-Inflation bei 3,6 Prozent",
-      "titleAr": "معدل التضخم في سبتمبر 3.6٪",
-      "translated": true,
-      "link": "https://orf.at/stories/3445256/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-16T09:28:14+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445249/",
-      "title": "D: Drohungen gegen jüdische Studenten nach Aktion gegen AfD",
-      "titleAr": "تهديدات ضد الطلاب اليهود بعد حملة ضد الحزب الديمقراطي الألمان",
-      "translated": true,
-      "link": "https://orf.at/stories/3445249/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T08:26:40+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445246/",
-      "title": "Hunderttausende nach russischem Angriff ohne Strom",
-      "titleAr": "مئات الآلاف بعد هجوم روسي يتركهم بلا كهرباء",
-      "translated": true,
-      "link": "https://orf.at/stories/3445246/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T08:21:14+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445243/",
-      "title": "Vier Tote bei Bekämpfung von Waldbränden in Indonesien",
-      "titleAr": "أربعة قتلى في مكافحة حرائق الغابات بإندونيسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3445243/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-16T07:55:48+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445242/",
-      "title": "Insider: Weißes Haus ordnete Starlink-Einschränkung an",
-      "titleAr": "مخبر: البيت الأبيض أمر بتقييد ستارلينك",
-      "translated": true,
-      "link": "https://orf.at/stories/3445242/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T07:51:41+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445241/",
-      "title": "Trockenheit: Starke Einbrüche bei Obst und Gemüse",
-      "titleAr": "الجفاف يسبب انخفاضًا حادًا في الفواكه والخضار",
-      "translated": true,
-      "link": "https://orf.at/stories/3445241/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-16T06:56:23+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445240/",
-      "title": "Gegen Trump ermittelt: FBI-Mitarbeiter klagen gegen Entlassung",
-      "titleAr": "تحت التحقيق ضد ترامب: موظفو الـ FBI يرفعون دعوى فصلهم",
-      "translated": true,
-      "link": "https://orf.at/stories/3445240/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T06:46:20+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445239/",
-      "title": "Pirateriegefahr auf Weltmeeren nimmt ab",
-      "titleAr": "تقل خطر القرصنة في المحيطات العالمية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445239/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T06:32:03+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3444831/",
-      "title": "Von Idealismus zu Pragmatik",
-      "titleAr": "من المثالية إلى الواقعية",
-      "translated": true,
-      "link": "https://orf.at/stories/3444831/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-16T06:08:28+02:00",
-      "description": "Am Freitag findet erstmals seit dem Frühjahr wieder ein bundesweiter Großstreik für das Klima statt. Forderte man vor einigen Jahren noch ganz allgemein die Rettung des Klimas, poche man nun auf konkrete Maßnahmen, wie es von „Fridays for Future“ gegenüber ORF.at hieß. Doch die Widerstände seien groß – nicht zuletzt gegenüber der Bewegung selbst. Das bestätigt auch die Soziologin Ruth Simsa in ihrer aktuellen Studie."
-    },
-    {
-      "id": "https://orf.at/stories/3445235/",
-      "title": "16-Jähriger tötet in US-Volksschule drei Kinder und Lehrkraft",
-      "titleAr": "شاب 16 يقتل ثلاثة أطفال ومعلمًا في مدرسة أمريكية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445235/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-16T01:15:01+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445234/",
-      "title": "Costa plant neuen Entwurf",
-      "titleAr": "كوسا يخطط لمشروع جديد",
-      "translated": true,
-      "link": "https://orf.at/stories/3445234/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T00:18:20+02:00",
-      "description": "Am Donnerstag, dem Auftakt des zweitägigen Treffen der EU-Staats- und -Regierungsspitzen in Brüssel, lagen die Positionen zum nächsten Budget noch weiter auseinander als gedacht. EU-Ratspräsident Antonio Costa wolle deshalb in den kommenden Wochen einen neuen Vorschlag, den die Kommission nun ausarbeiten muss, für den EU-Haushalt für die Jahre 2028 bis 2034 einbringen, wie ein EU-Diplomat am Donnerstagabend mitteilte."
-    },
-    {
-      "id": "https://orf.at/stories/3445232/",
-      "title": "Menschen in Region Kiew nach russischem Angriff ohne Strom",
-      "titleAr": "المدنيون في كييف يفتقدون الكهرباء بعد الهجوم الروسي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445232/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T23:24:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445144/",
-      "title": "Hühnerabfälle als neues Lachsfutter",
-      "titleAr": "فضلات الدجاج غذاء جديد لسلمون",
-      "translated": true,
-      "link": "https://orf.at/stories/3445144/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-15T23:06:01+02:00",
-      "description": "Lachs gilt wegen seiner Omega-3-Fettsäuren als gesundes Lebensmittel, entsprechend stetig steigt die Nachfrage nach dem Fisch. Ein Großteil stammt aus industrieller Produktion in Aquakulturen. Europas größte Lachsfarmen in Norwegen beginnen nun damit, ihre Fische mit Hühnenabfällen zu füttern, und brechen damit ein Tabu auf der Suche nach billigen Produktionsmitteln. Sie sind aber nicht nur deswegen umstritten."
+      "description": "Fontaines D.C. gelten vielen als bedeutendster Rockexport Irlands seit U2 – sie sind Stammgäste auf den großen Festivalbühnen der Welt und werden gefeiert von Fans wie Elton John und Harry Styles. Auf ihrem fünften, bisher düstersten Album „Dopamine Chamber“ schlagen die Dubliner erneut neue musikalische Haken und überraschen mit Popstar Rosalia als Stargast."
     }
   ]
 }
