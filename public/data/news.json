@@ -4,8 +4,41 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-16T21:21:23.671Z",
+  "updatedAt": "2026-10-16T23:41:08.094Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445292/",
+      "title": "Republikaner fürchten um Hochburg Texas",
+      "titleAr": "المحافظون يخشون من هجوم على قاعدة تكساس",
+      "translated": true,
+      "link": "https://orf.at/stories/3445292/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T00:01:06+02:00",
+      "description": "Texas gilt traditionell als verlässliche Bastion der Republikaner. Doch ausgerechnet diese gerät zu den Midterms am 3. November ins Wanken. Der demokratische Kandidat James Talarico erzielte im Wahlkampf einen historischen Spendenerfolg und zwang die republikanische Gegenseite, ebenso gewaltige Summen aufzubringen. Das Rennen um den Senatssitz in Texas zählt zu den umkämpftesten des Landes und verschlingt zig Millionen Dollar."
+    },
+    {
+      "id": "https://orf.at/stories/3445344/",
+      "title": "Jemen: Huthis griffen Flughafen in Aden an",
+      "titleAr": "اليمن: الحوثيون يهاجمون مطار عدن",
+      "translated": true,
+      "link": "https://orf.at/stories/3445344/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T23:53:35+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445343/",
+      "title": "Frau bei Angriff auf deutsches Pensionistenheim getötet",
+      "titleAr": "امرأة تُقتل في هجوم على دار رعاية ألمانية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445343/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-16T23:40:26+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445342/",
       "title": "Amazonas-Gebiet: Abholzung auf niedrigstem Stand seit 1988",
@@ -246,28 +279,6 @@
       "category": "Inland",
       "categoryAr": "النمسا",
       "publishedAt": "2026-10-16T14:55:58+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445294/",
-      "title": "Neue Gemeindeplattform für leichteren Datenaustausch",
-      "titleAr": "منصة بلدية جديدة لتسهيل تبادل البيانات",
-      "translated": true,
-      "link": "https://orf.at/stories/3445294/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-16T14:27:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445291/",
-      "title": "UNO: Millionen Ukrainern droht im Winter Vertreibung",
-      "titleAr": "الأمم المتحدة: تهدد الشتاء هجرة قسرية لملايين الأوكرانيين",
-      "translated": true,
-      "link": "https://orf.at/stories/3445291/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T14:16:27+02:00",
       "description": ""
     }
   ]
