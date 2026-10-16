@@ -4,8 +4,52 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-15T21:30:52.144Z",
+  "updatedAt": "2026-10-16T04:41:41.094Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445239/",
+      "title": "Pirateriegefahr auf Weltmeeren nimmt ab",
+      "titleAr": "تقل خطر القرصنة في المحيطات العالمية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445239/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T06:32:03+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444831/",
+      "title": "Von Idealismus zu Pragmatik",
+      "titleAr": "من المثالية إلى الواقعية",
+      "translated": true,
+      "link": "https://orf.at/stories/3444831/",
+      "category": "Umwelt",
+      "categoryAr": "Umwelt",
+      "publishedAt": "2026-10-16T06:08:28+02:00",
+      "description": "Am Freitag findet erstmals seit dem Frühjahr wieder ein bundesweiter Großstreik für das Klima statt. Forderte man vor einigen Jahren noch ganz allgemein die Rettung des Klimas, poche man nun auf konkrete Maßnahmen, wie es seitens von Fridays For Future gegenüber ORF.at hieß. Doch die Widerstände seien groß – nicht zuletzt gegenüber der Bewegung selbst. Das bestätigt auch die Soziologin Ruth Simsa in ihrer aktuellen Studie."
+    },
+    {
+      "id": "https://orf.at/stories/3445235/",
+      "title": "16-Jähriger tötet in US-Volksschule drei Kinder und Lehrer",
+      "titleAr": "16 عام يقتل ثلاثة أطفال ومعلمًا في مدرسة أمريكية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445235/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-16T01:15:01+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445234/",
+      "title": "Costa will neuen Vorschlag einbringen",
+      "titleAr": "كُوستا يقدّم اقتراحًا جديدًا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445234/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-16T00:18:20+02:00",
+      "description": "Am Donnerstag, dem Auftakt des zweitägigen Treffen der EU-Staats- und -Regierungsspitzen in Brüssel, lagen die Positionen zum nächsten Budget noch weiter auseinander als gedacht. EU-Ratspräsident Antonio Costa will deshalb in den kommenden Wochen einen neuen Vorschlag für den EU-Haushalt für die Jahre 2028 bis 2034 einbringen, wie ein EU-Diplomat am Donnerstagabend mitteilte."
+    },
     {
       "id": "https://orf.at/stories/3445232/",
       "title": "Menschen in Region Kiew nach russischem Angriff ohne Strom",
@@ -257,50 +301,6 @@
       "category": "Chronik",
       "categoryAr": "أحداث",
       "publishedAt": "2026-10-15T16:03:37+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445145/",
-      "title": "Selenskyj bietet Trump die Stirn",
-      "titleAr": "سيلينسكي يواجه ترامب",
-      "translated": true,
-      "link": "https://orf.at/stories/3445145/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T15:58:57+02:00",
-      "description": "US-Präsident Donald Trump hat sein wohl größtes Problem im Wahlkampf – die hohe Inflation und insbesondere die hohen Spritpreise – zu einem lebensgefährdenden Problem für die Ukraine gemacht und dem Land vorübergehend offenbar sogar den Zugang zu Teilen des Satellitensystems Starlink gedrosselt. Trotz der Abhängigkeit von den USA gibt die Ukraine dem Druck nicht nach. Präsident Wolodymyr Selenskyj kündigte am Donnerstag vielmehr neue Angriffe auf russische Raffinerien an."
-    },
-    {
-      "id": "https://orf.at/stories/3445187/",
-      "title": "Förderquote für Heizungstausch sinkt",
-      "titleAr": "نسبة الدعم لتبديل التدفئة تنخفض",
-      "translated": true,
-      "link": "https://orf.at/stories/3445187/",
-      "category": "Wirtschaft",
-      "categoryAr": "اقتصاد",
-      "publishedAt": "2026-10-15T15:51:43+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445185/",
-      "title": "Norwegen soll wieder in Rüstungskonzerne investieren",
-      "titleAr": "النرويج ستستثمر مجددًا في شركات الأسلحة",
-      "translated": true,
-      "link": "https://orf.at/stories/3445185/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-15T15:46:59+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445181/",
-      "title": "Riedmann neuer Präsident des Vereins der Chefredakteur:innen",
-      "titleAr": "ريدمان رئيسًا جديدًا لنادي رؤساء التحرير",
-      "translated": true,
-      "link": "https://orf.at/stories/3445181/",
-      "category": "Medien",
-      "categoryAr": "Medien",
-      "publishedAt": "2026-10-15T14:59:19+02:00",
       "description": ""
     }
   ]
