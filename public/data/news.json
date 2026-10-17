@@ -4,8 +4,151 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-17T10:55:09.252Z",
+  "updatedAt": "2026-10-17T15:42:46.410Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445403/",
+      "title": "Israelische Siedler attackieren EU-Diplomaten im Westjordanland",
+      "titleAr": "المستوطنون الإسرائيليون يهاجمون الدبلوماسيين الأوروبيين في الضفة الغربية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445403/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T17:04:00+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445402/",
+      "title": "Selenskyj: Satellitennetz für Ukraine weiter gedrosselt",
+      "titleAr": "سلينسكي: شبكة الأقمار الصناعية في أوكرانيا مقيدة",
+      "translated": true,
+      "link": "https://orf.at/stories/3445402/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T16:49:27+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3444830/",
+      "title": "Neuer Balkan-Pop inmitten alter Konflikte",
+      "titleAr": "بوب بوسني جديد وسط صراعات عتيقة",
+      "translated": true,
+      "link": "https://orf.at/stories/3444830/",
+      "category": "Kultur",
+      "categoryAr": "ثقافة",
+      "publishedAt": "2026-10-17T16:33:24+02:00",
+      "description": "Der Westbalkan hat einen neuen Popstar: Der 21-jährige Kroate Jakov Jozinovic füllt Hallen in der Region und tritt am Samstag erstmals nahe Wien auf. Bekannt wurde er mit Neuinterpretationen beliebter Balkan-Klassiker. Doch ein Video, das ihn beim Singen eines Liedes des rechtsextremen kroatischen Musikers Thompson zeigt, löste Mitte Oktober heftige Proteste aus. Jozinovic erklärte, er habe „niemanden verletzen wollen“, der Vorfall entfacht erneut Debatten über nationale Identität und die Aufarbeitung der Vergangenheit auf dem Balkan."
+    },
+    {
+      "id": "https://orf.at/stories/3445400/",
+      "title": "Mehrere Tote bei Brand in Hotelanlage in Bangladesch",
+      "titleAr": "وفاة عدة أشخاص في حريق فندقي بنغلاديش",
+      "translated": true,
+      "link": "https://orf.at/stories/3445400/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-17T15:49:14+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445399/",
+      "title": "Regierung berät über Unibudget und „Zukunftsdepot“",
+      "titleAr": "الحكومة تناقش الميزانية الجامعية ومستودع المستقبل",
+      "translated": true,
+      "link": "https://orf.at/stories/3445399/",
+      "category": "Inland",
+      "categoryAr": "النمسا",
+      "publishedAt": "2026-10-17T15:46:55+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445398/",
+      "title": "Iran meldet erneut Explosion an Supertanker",
+      "titleAr": "إيران تبلغ عن انفجار في ناقلة سوبرتانك",
+      "translated": true,
+      "link": "https://orf.at/stories/3445398/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T15:33:37+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445396/",
+      "title": "Brunner präsentiert Strategie gegen Menschenhandel",
+      "titleAr": "برونر يقدّم استراتيجية لمكافحة الاتجار بالبشر",
+      "translated": true,
+      "link": "https://orf.at/stories/3445396/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T15:17:51+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445381/",
+      "title": "Ausschreitungen bei Protesten in Frankreich",
+      "titleAr": "اشتباكات خلال احتجاجات في فرنسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445381/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T15:04:55+02:00",
+      "description": "Begleitet von heftigen Zusammenstößen mit Sicherheitskräften sind in Frankreich am Samstag Zehntausende Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße gegangen. In mehreren Städten, darunter in Paris, Marseille und Lyon gab es gewaltsame Auseinandersetzungen. Die Polizei setzte Tränengas ein. Dutzende wurden festgenommen."
+    },
+    {
+      "id": "https://orf.at/stories/3445392/",
+      "title": "Durchbruch bei Sondierung für Berliner Stadtregierung",
+      "titleAr": "اختراق في مسح لمديرية برلين",
+      "translated": true,
+      "link": "https://orf.at/stories/3445392/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T15:02:07+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445383/",
+      "title": "Feuer in Kalifornien zerstört Häuser: Tausende flüchten",
+      "titleAr": "حرائق في كاليفورنيا تدمر المنازل: آلاف يفرّون",
+      "translated": true,
+      "link": "https://orf.at/stories/3445383/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-17T14:01:17+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445367/",
+      "title": "Höchste Alarmstufe in Südostasien",
+      "titleAr": "أعلى مستوى إنذار في جنوب شرق آسيا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445367/",
+      "category": "Chronik",
+      "categoryAr": "أحداث",
+      "publishedAt": "2026-10-17T13:46:57+02:00",
+      "description": "In Indonesien brennen seit Monaten Wälder. Rauch und Smog ziehen bis nach Malaysia, Singapur und Papua-Neuguinea. Seit Samstag gilt wegen der schlechten Luftqualität die höchste Warnstufe für Teile Südostasiens. Am Freitag erreichte der Rauch auch die indonesische Hauptstadt Jakarta. Der Kampf gegen die Brände ist bisher aussichtslos."
+    },
+    {
+      "id": "https://orf.at/stories/3445382/",
+      "title": "Dutzende Festnahmen bei erneuten Protesten in Frankreich",
+      "titleAr": "عشرات الاعتقالات في احتجاجات جديدة بالفرنسا",
+      "translated": true,
+      "link": "https://orf.at/stories/3445382/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T13:46:09+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445378/",
+      "title": "Gespräche zwischen USA und Myanmars Militärregierung",
+      "titleAr": "محادثات بين الولايات المتحدة وحكومة ميانمار العسكرية",
+      "translated": true,
+      "link": "https://orf.at/stories/3445378/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T13:00:38+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445377/",
       "title": "WKO und Ministerium: Betriebsnachfolgen erleichtern",
@@ -30,8 +173,8 @@
     },
     {
       "id": "https://orf.at/stories/3445374/",
-      "title": "Kiew: Schwere russische Angriffe auf Energieanlagen",
-      "titleAr": "كييف: هجمات روسية شديدة على مرافق الطاقة",
+      "title": "Kiew meldet schwere russische Angriffe auf Energieanlagen",
+      "titleAr": "كييف تبلغ عن هجمات روسية شديدة على منشآت الطاقة",
       "translated": true,
       "link": "https://orf.at/stories/3445374/",
       "category": "Ausland",
@@ -52,8 +195,8 @@
     },
     {
       "id": "https://orf.at/stories/3445372/",
-      "title": "Vatikan: Papst kann Krankenhaus verlassen",
-      "titleAr": "الفيكان: البابا يمكنه مغادرة المستشفى",
+      "title": "Papst Leo XIV. aus Krankenhaus in Rom entlassen",
+      "titleAr": "القديس ليو الرابع عشر يُخرج من مستشفى روما",
       "translated": true,
       "link": "https://orf.at/stories/3445372/",
       "category": "Religion",
@@ -108,8 +251,8 @@
     {
       "id": "https://orf.at/stories/3445358/",
       "title": "Medien: Gründer von „Kakerlaken“-Protest festgenommen",
-      "titleAr": "Medien: Gründer von „Kakerlaken“-Protest festgenommen",
-      "translated": false,
+      "titleAr": "الصحافة: مؤسس احتجاج \"الصرصور\" يُعتقل",
+      "translated": true,
       "link": "https://orf.at/stories/3445358/",
       "category": "Ausland",
       "categoryAr": "العالم",
@@ -137,171 +280,6 @@
       "categoryAr": "العالم",
       "publishedAt": "2026-10-17T07:58:18+02:00",
       "description": "Frankreichs Präsident Emmanuel Macron und die Regierung stehen unter großem Druck. Die horrende Staatsverschuldung trieb die Zinskosten in die Höhe. Gleichzeitig demonstrieren Schülerinnen und Schüler seit Wochen für bessere Lern- und Studienbedingungen. Am Samstag sollen die Proteste einen neuen Höhepunkt erreichen, denn eine Protestbewegung, die Macron schon vor acht Jahren das Leben schwergemacht hatte, kündigte ihr Comeback an: die „Gelbwesten“."
-    },
-    {
-      "id": "https://orf.at/stories/3445352/",
-      "title": "Diplomat: Bewerber für UNO-Generalsekretär bisher abgelehnt",
-      "titleAr": "سفير: مرشحون للوزير العام للأمم المتحدة لم يُقبلوا",
-      "translated": true,
-      "link": "https://orf.at/stories/3445352/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T07:29:07+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445351/",
-      "title": "Bericht: Meta räumt Benachteiligung von Lula ein",
-      "titleAr": "تقرير: ميتا تعترف بتعسّر لولو",
-      "translated": true,
-      "link": "https://orf.at/stories/3445351/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T07:25:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445350/",
-      "title": "Waldbrände in Kalifornien breiten sich aus",
-      "titleAr": "حرائق الغابات في كاليفورنيا تتسع",
-      "translated": true,
-      "link": "https://orf.at/stories/3445350/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-17T07:20:30+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445349/",
-      "title": "Iran: Supertanker fuhr in Straße von Hormus auf Seemine",
-      "titleAr": "إيران: سوبرتانكر يقترب من حقل أسماك في مضيق هرموس",
-      "translated": true,
-      "link": "https://orf.at/stories/3445349/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T07:18:38+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445348/",
-      "title": "Trump setzt Sanktionen gegen Russland aus",
-      "titleAr": "ترامب يفرض عقوبات على روسيا",
-      "translated": true,
-      "link": "https://orf.at/stories/3445348/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T04:09:22+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445347/",
-      "title": "Viele Tote bei Drohnenangriff im Sudan",
-      "titleAr": "موتى كثيرون في هجوم بطائرات مسيرة بالسودان",
-      "translated": true,
-      "link": "https://orf.at/stories/3445347/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T03:28:46+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445292/",
-      "title": "Republikaner fürchten um Hochburg Texas",
-      "titleAr": "المحافظون يخشون من هجوم على قاعدة تكساس",
-      "translated": true,
-      "link": "https://orf.at/stories/3445292/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-17T00:01:06+02:00",
-      "description": "Texas gilt traditionell als verlässliche Bastion der Republikaner. Doch ausgerechnet diese gerät zu den Midterms am 3. November ins Wanken. Der demokratische Kandidat James Talarico erzielte im Wahlkampf einen historischen Spendenerfolg und zwang die republikanische Gegenseite, ebenso gewaltige Summen aufzubringen. Das Rennen um den Senatssitz in Texas zählt zu den umkämpftesten des Landes und verschlingt zig Millionen Dollar."
-    },
-    {
-      "id": "https://orf.at/stories/3445344/",
-      "title": "Jemen: Huthis griffen Flughafen in Aden an",
-      "titleAr": "اليمن: الحوثيون يهاجمون مطار عدن",
-      "translated": true,
-      "link": "https://orf.at/stories/3445344/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T23:53:35+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445343/",
-      "title": "Frau bei Angriff auf deutsches Pensionistenheim getötet",
-      "titleAr": "امرأة تُقتل في هجوم على دار رعاية ألمانية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445343/",
-      "category": "Chronik",
-      "categoryAr": "أحداث",
-      "publishedAt": "2026-10-16T23:40:26+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445342/",
-      "title": "Amazonas-Gebiet: Abholzung auf niedrigstem Stand seit 1988",
-      "titleAr": "قطع الأشجار في الأمازون على أدنى مستوى منذ 1988",
-      "translated": true,
-      "link": "https://orf.at/stories/3445342/",
-      "category": "Umwelt",
-      "categoryAr": "Umwelt",
-      "publishedAt": "2026-10-16T23:07:05+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445338/",
-      "title": "US-Neuverschuldung steigt auf Fünfjahreshoch",
-      "titleAr": "الديون الأمريكية ترتفع لأعلى مستوى خلال الخمس سنوات",
-      "translated": true,
-      "link": "https://orf.at/stories/3445338/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T22:17:28+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445336/",
-      "title": "Unis, „Zukunftsdepot“: Regierung trifft sich zu Arbeitsgespräch",
-      "titleAr": "الجامعة 'مستودع المستقبل': اجتماع حكومي",
-      "translated": true,
-      "link": "https://orf.at/stories/3445336/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-16T21:43:10+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445335/",
-      "title": "Niessl will bei Bundespräsidentenwahl 2028 antreten",
-      "titleAr": "نيسل يخطط للترشح لرئاسة الاتحاد في 2028",
-      "translated": true,
-      "link": "https://orf.at/stories/3445335/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-16T21:13:42+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445333/",
-      "title": "Trump bestreitet Verantwortung für Starlink-Ausfälle",
-      "titleAr": "ترامب ينفي مسؤولية انقطاع ستارلينك",
-      "translated": true,
-      "link": "https://orf.at/stories/3445333/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T20:43:24+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445329/",
-      "title": "Trump entlässt Sprecherin Zacharia",
-      "titleAr": "ترامب يطرد المتحدثة زاكاريا",
-      "translated": true,
-      "link": "https://orf.at/stories/3445329/",
-      "category": "Ausland",
-      "categoryAr": "العالم",
-      "publishedAt": "2026-10-16T20:39:31+02:00",
-      "description": "Nach nur wenigen Tagen im Amt hat US-Präsident Donald Trump seine Pressesprecherin Katie Zacharia am Freitag entlassen. Das bestätigte das Weiße Haus gegenüber mehreren Medien. Zuvor hatte Trump vor Journalistinnen und Journalisten in Washington gesagt, er habe ihr geraten, ihren Verbleib auf dem Posten zu „überdenken“, weil es womöglich nicht die richtige Aufgabe für sie sei."
     }
   ]
 }

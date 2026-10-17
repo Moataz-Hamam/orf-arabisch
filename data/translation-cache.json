@@ -6064,16 +6064,16 @@
     "titleAr": "تخفيف العبء القضائي: المحامون يرون السياسة ككرة"
   },
   "https://orf.at/stories/3445374/": {
-    "sourceTitle": "Kiew: Schwere russische Angriffe auf Energieanlagen",
-    "titleAr": "كييف: هجمات روسية شديدة على مرافق الطاقة"
+    "sourceTitle": "Kiew meldet schwere russische Angriffe auf Energieanlagen",
+    "titleAr": "كييف تبلغ عن هجمات روسية شديدة على منشآت الطاقة"
   },
   "https://orf.at/stories/3445373/": {
     "sourceTitle": "Teppich von Bayeux künftig geneigt zu sehen",
     "titleAr": "الفرشاة من بايوك ستُعرض مائلة"
   },
   "https://orf.at/stories/3445372/": {
-    "sourceTitle": "Vatikan: Papst kann Krankenhaus verlassen",
-    "titleAr": "الفيكان: البابا يمكنه مغادرة المستشفى"
+    "sourceTitle": "Papst Leo XIV. aus Krankenhaus in Rom entlassen",
+    "titleAr": "القديس ليو الرابع عشر يُخرج من مستشفى روما"
   },
   "https://orf.at/stories/3445369/": {
     "sourceTitle": "Athen: Weiter Aufregung nach Abberufung von US-Botschafterin",
@@ -6114,5 +6114,61 @@
   "https://orf.at/stories/3445349/": {
     "sourceTitle": "Iran: Supertanker fuhr in Straße von Hormus auf Seemine",
     "titleAr": "إيران: سوبرتانكر يقترب من حقل أسماك في مضيق هرموس"
+  },
+  "https://orf.at/stories/3445403/": {
+    "sourceTitle": "Israelische Siedler attackieren EU-Diplomaten im Westjordanland",
+    "titleAr": "المستوطنون الإسرائيليون يهاجمون الدبلوماسيين الأوروبيين في الضفة الغربية"
+  },
+  "https://orf.at/stories/3445402/": {
+    "sourceTitle": "Selenskyj: Satellitennetz für Ukraine weiter gedrosselt",
+    "titleAr": "سلينسكي: شبكة الأقمار الصناعية في أوكرانيا مقيدة"
+  },
+  "https://orf.at/stories/3444830/": {
+    "sourceTitle": "Neuer Balkan-Pop inmitten alter Konflikte",
+    "titleAr": "بوب بوسني جديد وسط صراعات عتيقة"
+  },
+  "https://orf.at/stories/3445400/": {
+    "sourceTitle": "Mehrere Tote bei Brand in Hotelanlage in Bangladesch",
+    "titleAr": "وفاة عدة أشخاص في حريق فندقي بنغلاديش"
+  },
+  "https://orf.at/stories/3445399/": {
+    "sourceTitle": "Regierung berät über Unibudget und „Zukunftsdepot“",
+    "titleAr": "الحكومة تناقش الميزانية الجامعية ومستودع المستقبل"
+  },
+  "https://orf.at/stories/3445398/": {
+    "sourceTitle": "Iran meldet erneut Explosion an Supertanker",
+    "titleAr": "إيران تبلغ عن انفجار في ناقلة سوبرتانك"
+  },
+  "https://orf.at/stories/3445396/": {
+    "sourceTitle": "Brunner präsentiert Strategie gegen Menschenhandel",
+    "titleAr": "برونر يقدّم استراتيجية لمكافحة الاتجار بالبشر"
+  },
+  "https://orf.at/stories/3445381/": {
+    "sourceTitle": "Ausschreitungen bei Protesten in Frankreich",
+    "titleAr": "اشتباكات خلال احتجاجات في فرنسا"
+  },
+  "https://orf.at/stories/3445392/": {
+    "sourceTitle": "Durchbruch bei Sondierung für Berliner Stadtregierung",
+    "titleAr": "اختراق في مسح لمديرية برلين"
+  },
+  "https://orf.at/stories/3445383/": {
+    "sourceTitle": "Feuer in Kalifornien zerstört Häuser: Tausende flüchten",
+    "titleAr": "حرائق في كاليفورنيا تدمر المنازل: آلاف يفرّون"
+  },
+  "https://orf.at/stories/3445367/": {
+    "sourceTitle": "Höchste Alarmstufe in Südostasien",
+    "titleAr": "أعلى مستوى إنذار في جنوب شرق آسيا"
+  },
+  "https://orf.at/stories/3445382/": {
+    "sourceTitle": "Dutzende Festnahmen bei erneuten Protesten in Frankreich",
+    "titleAr": "عشرات الاعتقالات في احتجاجات جديدة بالفرنسا"
+  },
+  "https://orf.at/stories/3445378/": {
+    "sourceTitle": "Gespräche zwischen USA und Myanmars Militärregierung",
+    "titleAr": "محادثات بين الولايات المتحدة وحكومة ميانمار العسكرية"
+  },
+  "https://orf.at/stories/3445358/": {
+    "sourceTitle": "Medien: Gründer von „Kakerlaken“-Protest festgenommen",
+    "titleAr": "الصحافة: مؤسس احتجاج \"الصرصور\" يُعتقل"
   }
 }
