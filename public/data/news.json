@@ -4,8 +4,30 @@
     "feed": "https://rss.orf.at/news.xml",
     "homepage": "https://orf.at/"
   },
-  "updatedAt": "2026-10-16T23:41:08.094Z",
+  "updatedAt": "2026-10-17T04:39:02.790Z",
   "items": [
+    {
+      "id": "https://orf.at/stories/3445348/",
+      "title": "Trump setzt Öl-Sanktionen aus",
+      "titleAr": "ترامب يوقف عقوبات النفط",
+      "translated": true,
+      "link": "https://orf.at/stories/3445348/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T04:09:22+02:00",
+      "description": ""
+    },
+    {
+      "id": "https://orf.at/stories/3445347/",
+      "title": "Viele Tote bei Drohnenangriff im Sudan",
+      "titleAr": "موتى كثيرون في هجوم بطائرات مسيرة بالسودان",
+      "translated": true,
+      "link": "https://orf.at/stories/3445347/",
+      "category": "Ausland",
+      "categoryAr": "العالم",
+      "publishedAt": "2026-10-17T03:28:46+02:00",
+      "description": ""
+    },
     {
       "id": "https://orf.at/stories/3445292/",
       "title": "Republikaner fürchten um Hochburg Texas",
@@ -268,17 +290,6 @@
       "category": "Wirtschaft",
       "categoryAr": "اقتصاد",
       "publishedAt": "2026-10-16T15:40:17+02:00",
-      "description": ""
-    },
-    {
-      "id": "https://orf.at/stories/3445296/",
-      "title": "Lehrerkritik an neuen AHS-Oberstufenlehrplänen",
-      "titleAr": "معلمون ينتقدون المنهج الجديد للمرحلة الثانوية",
-      "translated": true,
-      "link": "https://orf.at/stories/3445296/",
-      "category": "Inland",
-      "categoryAr": "النمسا",
-      "publishedAt": "2026-10-16T14:55:58+02:00",
       "description": ""
     }
   ]
